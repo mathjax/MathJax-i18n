@@ -27,17 +27,40 @@ help:
 	@echo "make toMathJax"
 	@echo "  Create MathJax localization data from WikiMedia JSON format."
 	@echo ""
-	@echo "make pack"
+	@echo "make pack [LANGUAGES=languagelist]"
 	@echo "  Pack MathJax localization data using the YUI compressor."
-	@echo ""
+	@echo "  This will apply the packer to all the languages. You can"
+	@echo "  select one or more languages using e.g. LANGUAGES=fr"
+	@echo "  or LANGUAGES='de fr'."
 
 toJSON:
+	@echo "Generating WikiMedia JSON data..."
 	$(NODEJS) toJSON.js $(MATHJAXDIR)
 
 toMathJax:
-	@echo "Not Implemented!"
-	exit 1
+	@echo "Generating MathJax localization data..."
+	$(NODEJS) toMathJax.js $(MATHJAXDIR)
 
 pack:
-	@echo "Not Implemented!"
-	exit 1
+	@echo "Packing MathJax localization data..."
+	@cp -r $(MATHJAXDIR)/unpacked/localization .
+
+	@cd localization; \
+	languages="$(LANGUAGES)"; \
+	if [ -z "$$languages" ]; then languages=`ls`; fi; \
+	for lang in $$languages; do \
+		echo ""; \
+		echo "Packing language '$$lang'..."; \
+		cd $$lang; \
+		for file in `ls`; do \
+			echo $$file; \
+			$(SED) "s/%%%NAME%%%/\/MathJax\/localization\/$$lang\/$$file/" <../../template.js  > tmp1.js; \
+			$(JAVA) -jar $(YUICOMPRESSOR) $$file -o tmp2.js; \
+			cat tmp1.js tmp2.js > $$file; \
+			rm tmp*.js; \
+			done; \
+		cd ..; \
+		done; \
+	cd ..
+
+	@rm -rf $(MATHJAXDIR)/localization; mv localization $(MATHJAXDIR)
