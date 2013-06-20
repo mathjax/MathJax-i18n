@@ -1,0 +1,7 @@
+{
+  "LoadWebFont": "Caricamento web-font $1",
+  "CantLoadWebFont": "Impossibile caricare il web font $1",
+  "FirefoxCantLoadWebFont": "Firefox non può scaricare i web font dal server remoto",
+  "CantFindFontUsing": "Impossibile trovare un font valido tra $1",
+  "WebFontsNotAvailable": "Web font non disponibili -- font immagini in uso"
+}

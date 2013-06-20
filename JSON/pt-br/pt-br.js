@@ -1,0 +1,13 @@
+{
+  "CookieConfig": "O MathJax encontrou um cookie com configurações de usuário que inclui código a ser executado. Deseja executá-lo?\\n\\n(Você deve pressionar Cancelar a não ser que você mesmo tenha criado o cookie.)",
+  "MathProcessingError": "Erro no Processamento das Fórmulas",
+  "MathError": "Erro nas Fórmulas",
+  "LoadFile": "Carregando $1",
+  "Loading": "Carregando",
+  "LoadFailed": "O arquivo não pode ser carregado: $1",
+  "ProcessMath": "Processando Fórmula: $1%",
+  "Processing": "Processando",
+  "TypesetMath": "Realizando a Diagramação das Fórmulas: $1%",
+  "Typesetting": "Realizando a Diagramação",
+  "MathJaxNotSupported": "Seu navegador não suporta MathJax"
+}

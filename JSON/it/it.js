@@ -1,0 +1,13 @@
+{
+  "CookieConfig": "MathJax ha trovato un cookie di configurazione utente che include del codice eseguibile. Vuoi eseguirlo?\\n\\n(Premi Annulla a meno che non l'abbia effettivamente impostato tu.)",
+  "MathProcessingError": "Errore elaborazione della formula",
+  "MathError": "Errore nella formula",
+  "LoadFile": "Caricamento $1",
+  "Loading": "Caricamento",
+  "LoadFailed": "Caricamento del file fallito: $1",
+  "ProcessMath": "Elaborazione formula: $1%",
+  "Processing": "Elaborazione in corso",
+  "TypesetMath": "Composizione della formula: $1%",
+  "Typesetting": "Composizione",
+  "MathJaxNotSupported": "Il tuo browser non supporta MathJax"
+}
