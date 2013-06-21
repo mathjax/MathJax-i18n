@@ -1,5 +1,5 @@
 {
-  "CookieConfig": "MathJax ha trovato un cookie di configurazione utente che include del codice eseguibile. Vuoi eseguirlo?\\n\\n(Premi Annulla a meno che non l'abbia effettivamente impostato tu.)",
+  "CookieConfig": "MathJax ha trovato un cookie di configurazione utente che include del codice eseguibile. Vuoi eseguirlo?\n\n(Premi Annulla a meno che non l'abbia effettivamente impostato tu.)",
   "MathProcessingError": "Errore elaborazione della formula",
   "MathError": "Errore nella formula",
   "LoadFile": "Caricamento $1",

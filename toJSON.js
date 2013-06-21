@@ -52,10 +52,8 @@ for (var language in MathJax.Localization.strings) {
     // Convert the string to WikiMedia format
     var strings = domains[d].strings;
     for (var id in strings) {
-      var s = MathJax.Localization.processString(strings[id]);
-      strings[id] = s.replace(/\n/g, "\\n"); // escape new lines
-
-      // fredw: TODO escape jquery.i18n syntax e.g. $ signs
+      strings[id] = MathJax.Localization.processString(strings[id]);
+      // fredw: TODO escape jquery.i18n syntax e.g. $ signs?
     };
 
     // If the JSON file already exists, merge the MathJax strings into it.
@@ -77,6 +75,8 @@ for (var language in MathJax.Localization.strings) {
 
       var s = strings[id];
       s = s.replace(/\\/g, "\\\\"); // escape the backslash
+// fredw: what's the best way to handle that in TranslateWiki?
+      s = s.replace(/\n/g, "\\n"); // escape the new line
 
       fs.writeSync(fd, '"' + s + '"');
       first = false;

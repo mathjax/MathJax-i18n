@@ -1,5 +1,5 @@
 {
-  "CookieConfig": "O MathJax encontrou um cookie com configurações de usuário que inclui código a ser executado. Deseja executá-lo?\\n\\n(Você deve pressionar Cancelar a não ser que você mesmo tenha criado o cookie.)",
+  "CookieConfig": "O MathJax encontrou um cookie com configurações de usuário que inclui código a ser executado. Deseja executá-lo?\n\n(Você deve pressionar Cancelar a não ser que você mesmo tenha criado o cookie.)",
   "MathProcessingError": "Erro no Processamento das Fórmulas",
   "MathError": "Erro nas Fórmulas",
   "LoadFile": "Carregando $1",

@@ -74,6 +74,10 @@ MathJax.Localization = {
     // This is an adaptation of Localization:processString to convert from
     // the MathJax string format to the jquery.i18n format.
     var parts = aString.split(this.pattern);
+
+    // fredw: There does not seem to be any spec that clearly describes the
+    // jquery.i18n syntax. Let's try to guess...
+
     for (var i = 1, m = parts.length; i < m; i += 2) {
       var c = parts[i].charAt(0);  // first char will be { or \d or a char to be kept literally
       if (c >= "0" && c <= "9") {    // %n

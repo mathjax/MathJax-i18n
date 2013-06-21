@@ -17,8 +17,55 @@
  *
  */
 
-console.error("Not Implemented yet!")
-process.exit(1);
+function processString(aString)
+{
+  // fredw: There does not seem to be any spec that clearly describes the
+  // jquery.i18n syntax. Let's try to guess...
+
+  aString = aString.replace(/%/g, "%%"); // escape percent sign
+  aString = aString.replace(/\$(\d+)/g, "%$1"); // convert $n => %n
+  aString = aString.replace(/\{\{plural:((?:[^\}]|\}[^\}])+)\}\}/gi,
+                            "%{plural:$1}")
+
+  return aString;
+}
+
+function convertToMathJaxFormat(aData)
+{
+  for (var id in aData) {
+    aData[id] = processString(aData[id]);
+  }
+  return aData;
+}
+
+function escapeNonAscii(aString)
+{
+  var string = String(aString).split("");
+  for (var i = 0, m = string.length; i < m; i++) {
+
+    if (string[i] === '\"' ||
+        string[i] === '\\') {
+      // escape quote and backslash
+      string[i] = '\\' + string[i];
+      continue;
+    }
+    if (string[i] === '\n') {
+      // escape new line
+      string[i] = '\\n';
+      continue;
+    }
+    var n = string[i].charCodeAt(0);
+    if (n > 0x7F) {
+      // escape the character
+      string[i] = n.toString(16).toUpperCase();
+      while (string[i].length < 4) string[i] = "0" + string[i];
+      string[i] = "\\u" + string[i];
+    }
+  }
+
+  return string.join("");
+}
+
 
 // Process the config options and command arguments
 var config = require("./config.js");
@@ -35,17 +82,6 @@ MathJax.Localization.loadAll(config.languages, config.domains, gMathJaxPath)
 
 // Merge the data from config.js into MathJax.Localization
 MathJax.Hub.Insert(MathJax.Localization.strings, config.languages)
-
-// Convert the JSON data to MathJax format and merge into MathJax.Localization
-function convertToMathJaxFormat(aData)
-{
-  for (var id in aData) {
-    var s = aData[id];
-    s = s.replace(/%/g, "%%"); // escape percent sign
-    aData[id] = s;
-  }
-  return aData;
-}
 
 for (var lang in config.languages) {
   if (config.languages[lang].remap) continue; // skip remapped languages
@@ -71,6 +107,85 @@ for (var lang in config.languages) {
   }
 }
 
-// Serialize and escape...
+var fs = require("fs");
+var template = fs.readFileSync("template-unpacked.js", "utf8");
 
-console.log(MathJax.Localization.strings['fr'])
+// Clean up language directories
+var dir = gMathJaxPath + "/unpacked/localization/";
+if (!fs.existsSync(dir)) fs.mkdirSync(dir);
+for (var lang in config.languages) {
+  var d = dir + lang + "/";
+  if (!fs.existsSync(d)) {
+    // create a new directory
+    fs.mkdirSync(d);
+  } else {
+    // empty the directory
+    var files = fs.readdirSync(d);
+    for (var i in files) fs.unlinkSync(d + files[i]);
+  }
+}
+
+// Now serialize the localization data
+for (var lang in config.languages) {
+  if (config.languages[lang].remap) continue; // skip remapped languages
+
+  var langData = MathJax.Localization.strings[lang];
+
+  // Create files for each domain
+  var domains = langData.domains;
+  for (var d in domains) {
+    var file = lang + "/" + (d === "_" ? lang : d) + ".js";
+
+    var fd = fs.openSync(dir + "/" + file, "w");
+    console.log("Creating " + file)
+
+    // Write the header
+    fs.writeSync(fd, template.replace("%%%NAME%%%", file));
+
+    fs.writeSync(fd, 'MathJax.Localization.addTranslation("' + lang + '",' +
+                 (d === "_" ? "null" : '"'+d+'"') + ',{\n');
+
+    if (d === "_") {
+      fs.writeSync(fd, '  menuTitle: "' +
+                   escapeNonAscii(langData.menuTitle) + '",\n');
+      fs.writeSync(fd, '  version: "' + langData.version + '",\n');
+      fs.writeSync(fd, '  isLoaded: ' + langData.isLoaded + ',\n');
+      fs.writeSync(fd, '  domains: {\n');
+      fs.writeSync(fd, '    "_": {\n');
+    }
+
+    fs.writeSync(fd, '        version: "' + domains[d].version + '",\n');
+    fs.writeSync(fd, '        isLoaded: ' + domains[d].isLoaded + ',\n');
+    fs.writeSync(fd, '        strings: {\n');
+
+    var first = true;
+    for (var id in domains[d].strings) {
+      if (!first) { fs.writeSync(fd, ',\n'); }
+      fs.writeSync(fd, '          ' + id + ': ');
+      fs.writeSync(fd, '"' + escapeNonAscii(domains[d].strings[id]) + '"');
+      first = false;
+    }
+    fs.writeSync(fd, '\n        }\n');
+
+    if (d === "_") {
+      fs.writeSync(fd, '    },\n');
+      var first = true;
+      for (var id in domains) {
+        if (id === "_") continue;
+        if (!first) { fs.writeSync(fd, ',\n'); }
+        fs.writeSync(fd, '    "' + id + '": {}');
+        first = false;
+      }
+      fs.writeSync(fd, '\n  },\n');
+      
+      fs.writeSync(fd, '  plural: '+langData.plural+',\n');
+      fs.writeSync(fd, '  number: '+langData.number+'\n');
+    }
+
+    fs.writeSync(fd, '});\n\n');
+    fs.writeSync(fd, 'MathJax.Ajax.loadComplete("[MathJax]/localization/'+
+                 file + '");\n');
+
+    fs.closeSync(fd);
+  }
+}
