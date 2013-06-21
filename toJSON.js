@@ -108,7 +108,7 @@ MathJax = {
       try {
         require(path);
       } catch(e) {
-        console.log("Fail to load " + path)
+        console.warn("Fail to load " + path)
       }
     }
   }
@@ -137,29 +137,41 @@ for (var language in MathJax.Localization.strings) {
   var domains = MathJax.Localization.strings[language].domains;
   for (var d in domains) {
 
+    var file = dir + (d === "_" ? language : d) + ".json";
+
+    // Convert the string to WikiMedia format
     var strings = domains[d].strings;
-    var file = dir + (d === "_" ? language : d) + ".js";
+    for (var id in strings) {
+      var s = MathJax.Localization.processString(strings[id]);
+      strings[id] = s.replace(/\n/g, "\\n"); // escape new lines
+
+      // fredw: TODO escape jquery.i18n syntax e.g. $ signs
+    };
+
+    // If the JSON file already exists, merge the MathJax strings into it.
+    if (fs.existsSync(file)) {
+      var mathjaxStrings = strings;
+      strings = require(file);
+      MathJax.Hub.Insert(strings, mathjaxStrings);
+    }
+
+    // Write the JSON object for that domain
     var fd = fs.openSync(file, "w");
     console.log("Creating " + file)
 
-    // Write the JSON object for that domain
     fs.writeSync(fd, "{\n");
     var first = true;
     for (var id in strings) {
       if (!first) { fs.writeSync(fd, ',\n'); }
       fs.writeSync(fd, '  "' + id + '": ');
 
-      var s = MathJax.Localization.processString(strings[id]);
-      s = s.replace(/\n/g, "\\n"); // escape new lines
+      var s = strings[id];
       s = s.replace(/\\/g, "\\\\"); // escape the backslash
-
-      // fredw: TODO escape jquery.i18n syntax e.g. $ signs
 
       fs.writeSync(fd, '"' + s + '"');
       first = false;
     }
     fs.writeSync(fd, "\n}");
-
     fs.closeSync(fd);
   }
 }

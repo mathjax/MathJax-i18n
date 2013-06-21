@@ -20,7 +20,7 @@
   "DoubleExponentPrime": "Un prime entraine un double exposant: utilisez des accolades pour clarifier",
   "CantUseHash1": "Vous ne pouvez pas utilisez le caractère #, indiquant un paramètre de macro, dans le mode mathématique",
   "CantUseHash2": "Usage du caractère # non autorisé dans le modèle pour la séquence de contrôle $1",
-  "MisplacedMiddle": "La commande $1 doit être placée à l'intérieur d'une section \\left ... ight",
+  "MisplacedMiddle": "La commande $1 doit être placée à l'intérieur d'une section \\left ... \\right",
   "MisplacedLimits": "La commande $1 n'est autorisée que sur les opérateurs",
   "MisplacedMoveRoot": "La commande $1 n'est autorisée qu'à l'intérieur d'une racine",
   "MultipleCommand": "Usage multiple de la commande $1",
