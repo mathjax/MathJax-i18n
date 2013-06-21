@@ -22,19 +22,30 @@
 help:
 	@echo ""
 	@echo "make toJSON"
-	@echo "  Convert MathJax localization data to WikiMedia JSON format."
+	@echo "  Convert MathJax localization data to MediaWiki JSON format."
+	@echo "  This will read the MathJax localization data from"
+	@echo "  $(MATHJAXDIR)/unpacked/localization, convert them to MediaWiki"
+	@echo "  format and merge (*) them into the JSON/ data."
 	@echo ""
 	@echo "make toMathJax"
-	@echo "  Create MathJax localization data from WikiMedia JSON format."
+	@echo "  Create MathJax localization data from MediaWiki JSON format."
+	@echo "  This will read the JSON/ data as well as the language"
+	@echo "  descriptions from config.js and merge (*) them into"
+	@echo "  $(MATHJAXDIR)/unpacked/localization/."
 	@echo ""
 	@echo "make pack [LANGUAGES=languagelist]"
 	@echo "  Pack MathJax localization data using the YUI compressor."
-	@echo "  This will apply the packer to all the languages. You can"
-	@echo "  select one or more languages using e.g. LANGUAGES=fr"
-	@echo "  or LANGUAGES='de fr'."
+	@echo "  By default, this will run the packer on all the languages of"
+	@echo "  $(MATHJAXDIR)/unpacked/localization/ to update the files from"
+	@echo "  $(MATHJAXDIR)/localization. You can restrict the execution to"
+	@echo "  some languages with e.g. LANGUAGES=fr or LANGUAGES='de fr'."
+	@echo ""
+	@echo "(*) 'merge' means MathJax.Hub.Insert(destination, source) e.g."
+	@echo "MathJax.Hub.Insert({a:0, b:0}, {b:1, c:1}) ==> {a:0, b:1, c:1}"
+	@echo ""
 
 toJSON:
-	@echo "Generating WikiMedia JSON data..."
+	@echo "Generating MediaWiki JSON data..."
 	$(NODEJS) toJSON.js $(MATHJAXDIR)
 
 toMathJax:
@@ -54,7 +65,7 @@ pack:
 		cd $$lang; \
 		for file in `ls`; do \
 			echo $$file; \
-			$(SED) "s/%%%NAME%%%/\/MathJax\/localization\/$$lang\/$$file/" <../../template.js  > tmp1.js; \
+			$(SED) "s/%%%NAME%%%/$$lang\/$$file/" <../../template-unpacked.js  > tmp1.js; \
 			$(JAVA) -jar $(YUICOMPRESSOR) $$file -o tmp2.js; \
 			cat tmp1.js tmp2.js > $$file; \
 			rm tmp*.js; \

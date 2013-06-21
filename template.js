@@ -1,5 +1,5 @@
 /*
- *  %%%NAME%%%
+ *  /MathJax/localization/%%%NAME%%%
  *  
  *  Copyright (c) 2009-2013 The MathJax Consortium
  *

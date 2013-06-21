@@ -17,15 +17,103 @@
  *
  */
 
-exports.languages = [
-  "de",
-  "en",
-  "fr",
-  "it",
-  "pt-br",
-  "qqq"
-];
+// ********** List of languages **********
+//
+// - Use correct ISO-639-1 two letter code
+//   http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes if available.
+//   If you are specifying in more detail (e.g. a specific dialect), you can use
+//   a IETF language tag: https://en.wikipedia.org/wiki/IETF_language_tag
+//
+// - "menuTitle" is the language name that will appear in the MathJax submenu
+//   for switching locales.
+//
+// - Use "remap" to specify language fallback e.g.
+//
+//   "pt": {
+//     menuTitle: "portugusê",
+//     remap: "pt-br"
+//   }
+//
+//   will use the "pt-br" localization data when the user selects "pt".
+//
+// - "plural" is a Javascript function that maps a number n to the
+//   CLDR mnemonic tags for these plural categories. For example in Macedonian,
+//   it should be
+//
+//   number: function(n) {
+//     if (n % 10 === 1 && n !== 11) {return 1} // one: 1, 21, 31, 41, 51, 61
+//     return 2; // other: 0, 2-20, 22-30, 32-40...; 1.2, 2.07...
+//   }
+//
+//   See http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html
+//
+// - "number" is a Javascript function that allows to localize a number n. It
+//   should return a value that can be converted to string. For example, some
+//   countries use a decimal comma rather than a  decimal point:
+//
+//   number: function(n) {
+//     return String(n).replace(".", ","); // replace dot by comma
+//   }
 
+exports.languages = {
+  "de": {
+    menuTitle: "Deutsch",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return String(n).replace(".", ","); // replace dot by comma
+    }
+  },
+  "en": {
+    menuTitle: "English",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "fr": {
+    menuTitle: "Français",
+    plural: function(n) {
+      if (0 <= n && n < 2) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return String(n).replace(".", ","); // replace dot by comma
+    }
+  },
+  "it": {
+    menuTitle: "Italiano",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "pt": {
+    menuTitle: "portugusê",
+    remap: "pt-br"
+  },
+  "pt-br": {
+    menuTitle: "português do Brasil",
+    plural: function (n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function (n) {
+      return String(n).replace(".", ","); // replace dot by comma
+    }
+  },
+  "qqq": {} // Message Documentation
+};
+
+// ********** List of localization domains **********
 exports.domains = [
   "FontWarnings",
   "HTML-CSS",

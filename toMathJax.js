@@ -17,6 +17,9 @@
  *
  */
 
+console.error("Not Implemented yet!")
+process.exit(1);
+
 // Process the config options and command arguments
 var config = require("./config.js");
 if (process.argv.length != 3) {
@@ -25,5 +28,49 @@ if (process.argv.length != 3) {
 }
 var gMathJaxPath = process.argv[2];
 
-console.log("Not Implemented!")
+// Fake MathJax variable to simulate features used by the localization files.
+MathJax = {};
+require("./MathJax.js");
+MathJax.Localization.loadAll(config.languages, config.domains, gMathJaxPath)
 
+// Merge the data from config.js into MathJax.Localization
+MathJax.Hub.Insert(MathJax.Localization.strings, config.languages)
+
+// Convert the JSON data to MathJax format and merge into MathJax.Localization
+function convertToMathJaxFormat(aData)
+{
+  for (var id in aData) {
+    var s = aData[id];
+    s = s.replace(/%/g, "%%"); // escape percent sign
+    aData[id] = s;
+  }
+  return aData;
+}
+
+for (var lang in config.languages) {
+  if (config.languages[lang].remap) continue; // skip remapped languages
+
+  if (!MathJax.Localization.strings.hasOwnProperty(lang)) {
+    console.error("The data for language '" + lang + "' does not exist." +
+                  "Please verify that you have added it to config.js");
+    process.exit(1);
+  }
+
+  var dir = "./JSON/" + lang + "/";
+  var domains = MathJax.Localization.strings[lang].domains;
+
+  // Main domain _
+  var strings = convertToMathJaxFormat(require(dir + lang + ".json"));
+  MathJax.Hub.Insert(domains["_"], strings);
+
+  // Subdomains
+  for (var i in config.domains) {
+    var d = config.domains[i];
+    var strings = convertToMathJaxFormat(require(dir + d + ".json"));
+    MathJax.Hub.Insert(domains[d], strings);
+  }
+}
+
+// Serialize and escape...
+
+console.log(MathJax.Localization.strings['fr'])
