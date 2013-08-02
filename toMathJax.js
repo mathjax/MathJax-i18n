@@ -101,6 +101,25 @@ for (var lang in config.languages) {
   var dir = "./JSON/" + lang + "/";
   var domains = MathJax.Localization.strings[lang].domains;
 
+  if (!domains) {
+    // The language does not exist yet in MathJax data.
+    MathJax.Localization.strings[lang].domains = {};
+    domains = MathJax.Localization.strings[lang].domains;
+    domains["_"] = {
+      version: MathJax.Localization.strings["en"].version,
+      isLoaded: true, 
+      strings: {}
+    }
+    for (var i in config.domains) {
+      var d = config.domains[i];
+      domains[d] = {
+        version: domains["_"].version,
+        isLoaded: true, 
+        strings: {}
+      }
+    }
+  }
+
   // Main domain _
   var strings = convertToMathJaxFormat(require(dir + lang + ".json"));
   MathJax.Hub.Insert(domains["_"].strings, strings);
