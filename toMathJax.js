@@ -32,6 +32,12 @@ function processString(aString)
 
 function convertToMathJaxFormat(aData)
 {
+  if (aData.hasOwnProperty("@metadata")) {
+    // Delete TranslateWiki's metadata.
+    // fredw: should we import that to our metadata?
+    delete aData["@metadata"];
+  }
+    
   for (var id in aData) {
     aData[id] = processString(aData[id]);
   }
@@ -97,13 +103,13 @@ for (var lang in config.languages) {
 
   // Main domain _
   var strings = convertToMathJaxFormat(require(dir + lang + ".json"));
-  MathJax.Hub.Insert(domains["_"], strings);
+  MathJax.Hub.Insert(domains["_"].strings, strings);
 
   // Subdomains
   for (var i in config.domains) {
     var d = config.domains[i];
     var strings = convertToMathJaxFormat(require(dir + d + ".json"));
-    MathJax.Hub.Insert(domains[d], strings);
+    MathJax.Hub.Insert(domains[d].strings, strings);
   }
 }
 

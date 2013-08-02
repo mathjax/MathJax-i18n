@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["dpvc"]},
   "BadMglyph": "Bad mglyph: $1",
   "BadMglyphFont": "Bad font: $1",
   "MathPlayer": "MathJax was not able to set up MathPlayer.\n\nIf MathPlayer is not installed, you need to install it first.\nOtherwise, your security settings may be preventing ActiveX     \ncontrols from running.  Use the Internet Options item under\nthe Tools menu and select the Security tab, then press the\nCustom Level button. Check that the settings for\n'Run ActiveX Controls', and 'Binary and script behaviors'\nare enabled.\n\nCurrently you will see error messages rather than\ntypeset mathematics.",

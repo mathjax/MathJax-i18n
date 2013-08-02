@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["pkra"]},
   "Help": "MathJax Hilfe",
   "MathJax": "*MathJax* ist eine JavaScript-Bibliothek, die Autoren erlaubt, Ihren Webseiten mathematische Inhalte hinzuzufügen. Als Besucher müssen sie nichts zusätzliches tun, damit MathJax funktioniert.",
   "Browsers": "*Browser*: MathJax ist kompatibel zu allen modernen Webbrowsern inklusive IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ und gängigen mobilen Browsern.",

@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["helder"]},
   "LoadWebFont": "Carregando fonte baseada em web $1",
   "CantLoadWebFont": "Não foi possível carregar a fonte baseada em web $1",
   "FirefoxCantLoadWebFont": "O Firefox Não pode carregar fontes baseadas em web a partir de um host remoto",

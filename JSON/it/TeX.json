@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["nivit"]},
   "ExtraOpenMissingClose": "Graffa d'apertura in più o di chiusura mancante",
   "ExtraCloseMissingOpen": "Graffa di chiusura in più o d'apertura mancante",
   "MissingLeftExtraRight": "Comando \\left mancante oppure \\right extra",

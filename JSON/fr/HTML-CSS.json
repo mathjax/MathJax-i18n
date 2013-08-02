@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["fred"]},
   "LoadWebFont": "Téléchargement de la police Web $1",
   "CantLoadWebFont": "Impossible de télécharger la police Web $1",
   "FirefoxCantLoadWebFont": "Firefox ne peut télécharger les polices Web à partir d'un hôte distant",

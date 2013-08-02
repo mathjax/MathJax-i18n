@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["fred"]},
   "Help": "This is the title displayed at the top of the MathJax Help dialog.",
   "MathJax": "First paragraph of the MathJax Help dialog. Stars around 'MathJax' is the Markdown syntax to put it in emphasis.",
   "Browsers": "Second paragraph of the MathJax Help dialog. Stars around 'Browsers' is the Markdown syntax to put it in emphasis.",

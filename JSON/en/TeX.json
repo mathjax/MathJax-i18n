@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["dpvc"]},
   "ExtraOpenMissingClose": "Extra open brace or missing close brace",
   "ExtraCloseMissingOpen": "Extra close brace or missing open brace",
   "MissingLeftExtraRight": "Missing \\left or extra \\right",

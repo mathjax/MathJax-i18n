@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["helder"]},
   "BadMglyph": "Mglyph ruim: $1",
   "BadMglyphFont": "Fonte ruim: $1",
   "MathPlayer": "O MathJax não foi capaz de configurar o MathPlayer.\n\nSe o MathPlayer não estiver instalado, precisará instalá-lo primeiro.\nCaso contrário, suas configurações de segurança podem estar prevenindo a execução\nde controles ActiveX.  Use as Opções de Internet sob\no menu Ferramentas e selecione a aba de Segurança então pressione o\nbotão Nível Personalizado. Confira se as configurações para\n'Execução de Controles ActiveX', e 'Comportamento de scripts e códigos binários'\nestão ativadas.\n\nAtualmente você verá mensagens de erro em vez da \ndiagramação das fórmulas matemáticas.",

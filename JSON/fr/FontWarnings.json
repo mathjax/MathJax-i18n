@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["fred"]},
   "webFont": "MathJax utilise les polices Web pour afficher les expressions mathématiques sur cette page. Celles-ci mettent du temps à être téléchargées et la page serait affichée plus rapidement si vous installiez les polices mathématiques directement dans le dossier des polices de votre système.",
   "imageFonts": "MathJax utilise des images de caractères plutôt que les polices Web ou locales. Ceci rend le rendu plus lent que la normale et les expressions mathématiques peuvent ne pas s'imprimer à la résolution maximale de votre imprimante",
   "noFonts": "MathJax n'est pas parvenu à localiser une police pour afficher les expressions mathématiques et les images de caractères ne sont pas disponibles. Comme solution de dernier recours, il utilise des caractères Unicode génériques en espérant que votre navigateur sera capable de les afficher. Certains pourront être rendus de façon incorrect voire pas du tout.",

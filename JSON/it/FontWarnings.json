@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["nivit"]},
   "webFont": "MathJax sta usando dei web font per visualizzare le formule di questa pagina. Tali font richiedono tempo per essere scaricati, perciò la pagina sarebbe resa più velocemente se tu installassi dei font matematici direttamente nella cartella dei font di sistema.",
   "imageFonts": "MathJax sta usando dei font immagine invece di quelli locali o dei web font. Questo rallenta la resa oltremodo e le formule potrebbero non essere stampate alla massima risoluzione dalla tua stampante.",
   "noFonts": "MathJax non è in grado di trovare un font adatto a visualizzare le formule e i font immagini non sono disponibili; perciò utilizzerá dei generici caratteri unicode sperando che il tuo browser sia in grado di visualizzarli. Alcuni caratteri potrebbero non essere mostrati correttamente o mancare del tutto.",

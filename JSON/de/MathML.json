@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["pkra"]},
   "BadMglyph": "Schlechter mglyph: $1",
   "BadMglyphFont": "Schlechter Font: $1",
   "MathPlayer": "MathJax konnnte MathPlayer nicht einrichten.\n\nFalls MathPlayer nicht installiert ist,  muss es erst installiert werden.\nEventuell blockieren die Sicherheitsoptionen ActiveX; überprüfen Sie unter \n'Internetoptionen' -> 'Sicherheit' -> 'Stufe Anpassen',\nob ActiveX aktiviert ist.\n\nBei der jetzigen Konfiguration wird MathJax nur Fehlermeldungen anzeigen.",

@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["nivit"]},
   "BadMglyph": "mglyph errato: $1",
   "BadMglyphFont": "Font errato: $1",
   "MathPlayer": "MathJax non è stato in grado di avviare MathPlayer.\n\nSe MathPlayer non è installato, devi prima installarlo.\nPuò darsi anche che le tue impostazioni di sicurezza stiano impedendo\nl'esecuzione dei controlli ActiveX. Controlla la voce Opzioni Internet\ndel menu Strumenti e seleziona il pannello Protezione, quindi premi\nil pulsante 'Livello personalizzato...'. Verifica che siano abilitati\n'Esegui controlli ActiveX e plug-in' e 'Comportamento file binari e script'\n\nOra come ora vedrai dei messaggi d'errore al posto delle formule.",

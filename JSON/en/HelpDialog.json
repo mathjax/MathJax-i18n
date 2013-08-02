@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["dpvc"]},
   "Help": "MathJax Help",
   "MathJax": "*MathJax* is a JavaScript library that allows page authors to include mathematics within their web pages.  As a reader, you don't need to do anything to make that happen.",
   "Browsers": "*Browsers*: MathJax works with all modern browsers including IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ and most mobile browsers.",

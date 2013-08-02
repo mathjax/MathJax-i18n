@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["fred"]},
   "BadMglyph": "This error is displayed when processing a MathML mglyph element with a bad URL. The argument is the value of the src attribute.",
   "BadMglyphFont": "This error is displayed when processing a MathML mglyph element with a bad font family. The argument is the value of the fontfamily attribute",
   "MathPlayer": "This alert is displayed when the Native MathML output Jax fails to set up MathPlayer. The '\\n' character is used to force new lines in the alert box",

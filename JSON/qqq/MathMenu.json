@@ -1,4 +1,5 @@
 {
+  "@metadata": {"authors":["fred"]},
   "Show": "'Show Math As' menu item. MathJax uses 'Math' as a distinct UI choice. Please translate it literally whenever possible.",
   "MathMLcode": "This menu item from 'Show Math As' shows the MathML code that MathJax has produced internally (sanitized, indented etc)",
   "OriginalMathML": "This menu item from 'Show Math As' shows the MathML code if that was originally in the page source",
@@ -19,7 +20,7 @@
   "Command": "This menu option from 'ZoomTrigger' indicates that the COMMAND key is needed (Apple-style)",
   "Control": "This menu option from 'ZoomTrigger' indicates that the CONTROL key is needed",
   "Shift": "This menu option from 'ZoomTrigger' indicates that the SHIFT key is needed",
-  "ZoomFactor": "This menu item from 'Math Settings' describes the Zoom Factor. It will open a submenu with percentage values like 150 etc",
+  "ZoomFactor": "This menu item from 'Math Settings' describes the Zoom Factor. It will open a submenu with percentage values like 150% etc",
   "Renderer": "This menu item from 'Math Settings' changes the output processor used by MathJax e.g. HTML-CSS, SVG",
   "MPHandles": "MathJax recognizes MathPlayer when present. This submenu from 'Math Settings' deals with MathJax/MathPlayer interaction.",
   "MenuEvents": "Option to let MathPlayer handle the contextual menu selections",
