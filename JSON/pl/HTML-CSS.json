@@ -1,0 +1,8 @@
+{
+  "@metadata": {"authors":["piotrdomagalski"]},
+  "LoadWebFont": "Ładuję czcionkę $1",
+  "CantLoadWebFont": "Nie mogę załadować czcionki $1",
+  "FirefoxCantLoadWebFont": "Firefox nie potrafi załadować czcionki ze zdalnego komputera",
+  "CantFindFontUsing": "Nie mogę znaleźć prawidłowej czcionki używając $1",
+  "WebFontsNotAvailable": "Czcionki Web nie są dostępne -- używam czcionek obrazkowych"
+}

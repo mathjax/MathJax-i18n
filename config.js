@@ -17,6 +17,8 @@
  *
  */
 
+exports.version = "2.3"
+
 // ********** List of languages **********
 //
 // - Use correct ISO-639-1 two letter code
@@ -96,6 +98,21 @@ exports.languages = {
       return n;
     }
   },
+  "pl": {
+    menuTitle: "Polski",
+    plural: function(n) {
+      if (n == 1) {
+        return 0;
+      } else if (n % 10 >=2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20)) {
+        return 1;
+      } else {
+        return 2;
+      }
+    },
+    number: function(n) {
+      return String(n).replace(".", ","); // replace dot by comma
+    }
+  },
   "pt": {
     menuTitle: "portugusê",
     remap: "pt-br"
@@ -110,7 +127,11 @@ exports.languages = {
       return String(n).replace(".", ","); // replace dot by comma
     }
   },
-  "qqq": {} // Message Documentation
+  "qqq": {
+    menuTitle: "Message Documentation",
+    plural: function (n) {return 1},
+    number: function (n) {return n}
+  } // 
 };
 
 // ********** List of localization domains **********

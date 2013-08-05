@@ -105,18 +105,10 @@ for (var lang in config.languages) {
     // The language does not exist yet in MathJax data.
     MathJax.Localization.strings[lang].domains = {};
     domains = MathJax.Localization.strings[lang].domains;
-    domains["_"] = {
-      version: MathJax.Localization.strings["en"].version,
-      isLoaded: true, 
-      strings: {}
-    }
+    domains["_"] = { strings: {} }
     for (var i in config.domains) {
       var d = config.domains[i];
-      domains[d] = {
-        version: domains["_"].version,
-        isLoaded: true, 
-        strings: {}
-      }
+      domains[d] = { strings: {} }
     }
   }
 
@@ -173,14 +165,14 @@ for (var lang in config.languages) {
     if (d === "_") {
       fs.writeSync(fd, '  menuTitle: "' +
                    escapeNonAscii(langData.menuTitle) + '",\n');
-      fs.writeSync(fd, '  version: "' + langData.version + '",\n');
-      fs.writeSync(fd, '  isLoaded: ' + langData.isLoaded + ',\n');
+      fs.writeSync(fd, '  version: "' + config.version + '",\n');
+      fs.writeSync(fd, '  isLoaded: true,\n');
       fs.writeSync(fd, '  domains: {\n');
       fs.writeSync(fd, '    "_": {\n');
     }
 
-    fs.writeSync(fd, '        version: "' + domains[d].version + '",\n');
-    fs.writeSync(fd, '        isLoaded: ' + domains[d].isLoaded + ',\n');
+    fs.writeSync(fd, '        version: "' + config.version + '",\n');
+    fs.writeSync(fd, '        isLoaded: true,\n');
     fs.writeSync(fd, '        strings: {\n');
 
     var first = true;
