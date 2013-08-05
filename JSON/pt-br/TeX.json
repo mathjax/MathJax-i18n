@@ -65,7 +65,7 @@
   "NoClosingChar": "Não foi possível encontrar um $1 de fechamento",
   "IllegalControlSequenceName": "Nome ilegal para uma sequência de controle de $1",
   "IllegalParamNumber": "Número ilegal de parâmetros especificado em $1",
-  "DoubleBackSlash": "\\ deve ser seguido por uma sequência de controle",
+  "MissingCS": "$1 deve ser seguido por uma sequência de controle",
   "CantUseHash2": "Uso ilegal de # em um modelo para $1",
   "SequentialParam": "Os parâmetros para $1 devem ser numerados sequencialmente",
   "MissingReplacementString": "Faltou a string de substituição para a definição de $1",

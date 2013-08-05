@@ -65,7 +65,7 @@
   "NoClosingChar": "Kann schließende $1 nicht finden",
   "IllegalControlSequenceName": "Ungültige Befehlsfolge",
   "IllegalParamNumber": "Ungültige Anzahl von Parametern in $1",
-  "DoubleBackSlash": "\\ muss von Befehlsfolge gefolgt werden",
+  "MissingCS": "$1 muss von Befehlsfolge gefolgt werden",
   "CantUseHash2": "Ungültige Verwendung von # im Template von $1",
   "SequentialParam": "Parameter von $1 müssen durch nummeriert sein",
   "MissingReplacementString": "Ersetzende Zeichenkette für Definition von $1 fehlt",

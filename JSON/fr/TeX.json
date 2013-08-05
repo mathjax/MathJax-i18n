@@ -67,7 +67,7 @@
   "InvalidDecimalNumber": "Nombre décimal non valide",
   "ModelArg2": "Les valeurs de couleurs pour le modèle $1 doivent être comprises entre $2 et $3",
   "InvalidNumber": "Nombre non valide",
-  "DoubleBackSlash": "\\ doit être suivi d'une séquence de contrôle",
+  "MissingCS": "$1 doit être suivi d'une séquence de contrôle",
   "SequentialParam": "Les paramètres de la séquence de contrôle $1 doivent être énumérés de façon séquentielle",
   "MissingReplacementString": "Chaine de caractère de remplacement manquante pour la définition $1",
   "MismatchUseDef": "L'utilisation de la commande $1 ne correspond pas à sa définition",
