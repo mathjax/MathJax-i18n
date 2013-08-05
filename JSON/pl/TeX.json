@@ -65,7 +65,6 @@
   "NoClosingChar": "Nie można odnaleźć zamykającego $1",
   "IllegalControlSequenceName": "Nieprawidłowa nazwa sekwencji kontrolnej dla $1",
   "IllegalParamNumber": "Nieprawidłowa liczba parametrów dla $1",
-  "DoubleBackSlash": "Po \\ musi wystąpić sekwencja kontrolna",
   "CantUseHash2": "Nieprawidłowe użycie # w szablonie dla $1",
   "SequentialParam": "Parametry dla $1 muszą być ponumerowane rosnąco",
   "MissingReplacementString": "Brak łańcucha zamiennego dla definicji $1",
