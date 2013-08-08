@@ -33,7 +33,6 @@
   "BracketMustBeDimension": "O argumento nos colchetes de $1 deve ser uma dimensão",
   "InvalidEnv": "Nome de ambiente inválido '$1'",
   "UnknownEnv": "Ambiente desconhecido '$1'",
-  "ExtraClose": "Sobrou uma chave de fechamento",
   "ExtraCloseLooking": "Sobrou uma chave de fechamento ao procurar por $1",
   "MissingCloseBracket": "Não foi encontrado um ']' de fechamento para o argumento de $1",
   "MissingOrUnrecognizedDelim": "O delimitador para $1 está ausente ou não foi reconhecido",

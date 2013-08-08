@@ -37,7 +37,6 @@
   "BracketMustBeDimension": "L'argument entre crochets de la commande $1 doit être une dimension",
   "InvalidEnv": "Nom d'environnement '$1' non valide",
   "UnknownEnv": "Environnement '$1' inconnu",
-  "ExtraClose": "Accolade fermante non attendue",
   "ExtraCloseLooking": "Accolade fermante non attendue lors de la recherche de $1",
   "MissingCloseBracket": "Impossible de trouver le crochet fermant pour l'argument de la commande $1",
   "MissingOrUnrecognizedDelim": "Délimiteur manquant ou non reconnu pour la commande $1",

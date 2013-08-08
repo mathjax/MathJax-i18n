@@ -33,7 +33,6 @@
   "BracketMustBeDimension": "L'argomento tra parentesi per $1 deve essere una dimensione",
   "InvalidEnv": "Nome d'ambiente non valido '$1'",
   "UnknownEnv": "Ambiente sconosciuto '$1'",
-  "ExtraClose": "Graffa di chiusura extra",
   "ExtraCloseLooking": "Graffa di chiusura extra durante la ricerca di $1",
   "MissingCloseBracket": "Parentesi ] per l'argomento di $1 non trovata",
   "MissingOrUnrecognizedDelim": "Delimitatore per $1 mancante o non riconosciuto",

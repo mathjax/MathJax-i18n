@@ -33,7 +33,6 @@
   "BracketMustBeDimension": "Bracket argument to $1 must be a dimension",
   "InvalidEnv": "Invalid environment name '$1'",
   "UnknownEnv": "Unknown environment '$1'",
-  "ExtraClose": "Extra close brace",
   "ExtraCloseLooking": "Extra close brace while looking for $1",
   "MissingCloseBracket": "Couldn't find closing ']' for argument to $1",
   "MissingOrUnrecognizedDelim": "Missing or unrecognized delimiter for $1",

@@ -33,7 +33,6 @@
   "BracketMustBeDimension": "Argument w nawiasie dla $1 musi być wymiarem",
   "InvalidEnv": "Nieznane nazwa środowiska '$1'",
   "UnknownEnv": "Nieznane środowisko '$1'",
-  "ExtraClose": "Nadmiarowy nawias zamykający",
   "ExtraCloseLooking": "Nadmiarowy nawias zamykający napotkany w czasie poszukiwania $1",
   "MissingCloseBracket": "Nie odnaleziono zamykającego nawiasu ']' dla argumentu dla $1",
   "MissingOrUnrecognizedDelim": "Nieodnaleziony lub nierozpoznany separator dla $1",

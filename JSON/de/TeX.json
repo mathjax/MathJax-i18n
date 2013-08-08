@@ -33,7 +33,6 @@
   "BracketMustBeDimension": "Das geklammerte Argument für $1 muss eine Dimension sein",
   "InvalidEnv": "Ungültiger Umgebungsname $1",
   "UnknownEnv": "Ungültige Umgebung $1",
-  "ExtraClose": "Zusätzliche geschlossene Klammer",
   "ExtraCloseLooking": "Zusätzliche geschlossene Klammer während der Suche nach $1",
   "MissingCloseBracket": "Argument zu $1 wurde nicht mit ']' geschlossen",
   "MissingOrUnrecognizedDelim": "Fehlender oder nichterkannter Delimiter bei $1",
