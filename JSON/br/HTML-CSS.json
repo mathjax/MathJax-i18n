@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Fohanno"
+        ]
+    },
+    "LoadWebFont": "O karga\u00f1 ar font web  $1",
+    "CantLoadWebFont": "Ne c'haller ket karga\u00f1 ar font web $1",
+    "CantFindFontUsing": "Ne c'haller ket kavout ur font dereat e-touez $1"
+}

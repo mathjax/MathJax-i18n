@@ -1,14 +1,18 @@
 {
-  "@metadata": {"authors":["fred"]},
-  "CookieConfig": "MathJax a trouvé un cookie de configuration utilisateur qui inclut du code exécutable. Souhaitez vous l'exécuter?\n\n(Choisissez Annuler sauf si vous avez créé ce cookie vous-même)",
-  "MathProcessingError": "Erreur de traitement de la formule mathématique",
-  "MathError": "Erreur dans la formule mathématique",
-  "LoadFile": "Téléchargement de $1",
-  "Loading": "Téléchargement",
-  "LoadFailed": "Échec du téléchargement de $1",
-  "ProcessMath": "Traitement des formules: $1%",
-  "Processing": "Traitement",
-  "TypesetMath": "Composition des formules: $1%",
-  "Typesetting": "Composition",
-  "MathJaxNotSupported": "Votre navigateur ne supporte pas MathJax"
+    "@metadata": {
+        "authors": [
+            "fred"
+        ]
+    },
+    "CookieConfig": "MathJax a trouv\u00e9 un cookie de configuration utilisateur qui inclut du code ex\u00e9cutable. Souhaitez vous l'ex\u00e9cuter?\n\n(Choisissez Annuler sauf si vous avez cr\u00e9\u00e9 ce cookie vous-m\u00eame)",
+    "MathProcessingError": "Erreur de traitement de la formule math\u00e9matique",
+    "MathError": "Erreur dans la formule math\u00e9matique",
+    "LoadFile": "T\u00e9l\u00e9chargement de $1",
+    "Loading": "T\u00e9l\u00e9chargement",
+    "LoadFailed": "\u00c9chec du t\u00e9l\u00e9chargement de $1",
+    "ProcessMath": "Traitement des formules: $1%",
+    "Processing": "Traitement",
+    "TypesetMath": "Composition des formules: $1%",
+    "Typesetting": "Composition",
+    "MathJaxNotSupported": "Votre navigateur ne supporte pas MathJax"
 }

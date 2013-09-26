@@ -1,10 +1,15 @@
 {
-  "@metadata": {"authors":["pkra"]},
-  "webFont": "MathJax nutz web-basierte Fonts zur Darstellung der Mathematik auf dieser Seite. Da diese heruntergeladen werden müssen, lädt die Seite schneller, wenn Mathe-Fonts auf dem System installiert sind.",
-  "imageFonts": "MathJax nutzt Bild-Fonts stall lokaler Fonts oder Webfonts. Das Laden dauert länger als erwartet und Drucken wird evtl. nicht in bester Qualität möglich sein.",
-  "noFonts": "MathJax kann keine Fonts zur Darstellung der Mathematik finden und Bild-Fonts sind nicht verfügbar. MathJax weicht auf generische Unicode-Zeichen aus in der Hoffnung, der Browser kann diese darstellen. Einige oder alle Zeichen könnten nicht korrekt dargestellt werden.",
-  "webFonts": "Die meisten modernen Browser können Fonts aus dem Web laden. Um die Qualität der Mathematik auf dieser Seite zu verbessern, sollten Sie ein Update auf eine aktuelle Version des Browsers vornehmen (oder einen aktuellen Browser installieren).",
-  "fonts": "MathJax kann [STIX Fonts]($1) oder [MathJax TeX Fonts]($2) verwenden. Herunterladen und installieren dieser Fonts wird Ihre MathJax-Erfahrung verbessern.",
-  "STIXPage": "Diese Seite ist optimiert fuer [STIX Fonts]($1). Herunterladen und installieren dieser Fonts wird Ihre MathJax-Erfahrung verbessern.",
-  "TeXPage": "Diese Seite ist optimiert fuer [MathJax TeX Fonts]($1). Herunterladen und installieren dieser Fonts wird Ihre MathJax-Erfahrung verbessern."
+    "@metadata": {
+        "authors": [
+            "Metalhead64",
+            "pkra"
+        ]
+    },
+    "webFont": "MathJax nutz web-basierte Fonts zur Darstellung der Mathematik auf dieser Seite. Da diese heruntergeladen werden m\u00fcssen, l\u00e4dt die Seite schneller, wenn Mathe-Fonts auf dem System installiert sind.",
+    "imageFonts": "MathJax verwendet die Bildschriften anstatt der lokalen oder webbasierten Schriften. Das Rendern dauert l\u00e4nger als gew\u00f6hnlich und die Inhalte werden m\u00f6glicherweise nicht mit der vollen Aufl\u00f6sung deines Druckers ausgedruckt.",
+    "noFonts": "MathJax konnte keine Schriftart zur Anzeige der Inhalte finden und Bildschriften sind nicht verf\u00fcgbar. Es wird auf allgemeine Unicode-Zeichen zur\u00fcckgegriffen in der Hoffnung, dass dein Browser in der Lage ist, sie darzustellen. Einige Zeichen werden m\u00f6glicherweise nicht richtig oder gar nicht angezeigt.",
+    "webFonts": "Die meisten modernen Browser erlauben den Download von Schriften \u00fcber das Web. Eine Aktualisierung auf eine aktuellere Version deines Browsers (oder dessen Wechsel) kann die Qualit\u00e4t der Inhalte auf dieser Seite verbessern.",
+    "fonts": "MathJax kann entweder die [STIX-]($1) oder [MathJax-TeX-Schriften]($2) verwenden. Lade eine dieser Schriften herunter und installiere sie, um dein MathJax-Erlebnis zu steigern.",
+    "STIXPage": "Diese Seite wurde konzipiert, um die [STIX-Schriften]($1) zu verwenden. Lade sie herunter und installiere sie, um dein MathJax-Erlebnis zu steigern.",
+    "TeXPage": "Diese Seite wurde konzipiert, um die [MathJax-TeX-Schriften]($1) zu verwenden. Lade sie herunter und installiere sie, um dein MathJax-Erlebnis zu steigern."
 }

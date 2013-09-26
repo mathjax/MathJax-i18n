@@ -1,13 +1,18 @@
 {
-  "@metadata": {"authors":["pkra"]},
-  "Help": "MathJax Hilfe",
-  "MathJax": "*MathJax* ist eine JavaScript-Bibliothek, die Autoren erlaubt, Ihren Webseiten mathematische Inhalte hinzuzufügen. Als Besucher müssen sie nichts zusätzliches tun, damit MathJax funktioniert.",
-  "Browsers": "*Browser*: MathJax ist kompatibel zu allen modernen Webbrowsern inklusive IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ und gängigen mobilen Browsern.",
-  "Menu": "*Mathe Menü*: MathJax fügt bei allen Formeln ein Kontextmenü hinzu. Es wird mit Rechtsklick oder STRG+Linksklick auf einer Formel aufgerufen.",
-  "ShowMath": "*Zeige Mathe als* erlaubt es, eine Formel im Quellformat anzuzeigen, um Kopieren und Einfügen (als MathML oder im Originalformat) zu ermöglichen.",
-  "Settings": "*Einstellungen* erlaubt es, das Verhalten von MathJax zu modifizieren, so z.B. die Größe der Mathematik sowie den Ausgabemechanismus.",
-  "Language": "*Sprache* erlaubt es, die Sprache zu wechseln, die MathJax  im Menü und den Warnmeldungen verwendent.",
-  "Zoom": "*Zoom*: Falls das Lesen der Formeln schwer fällt, kann MathJax diese vergrößern, um es zu erleichtern.",
-  "Accessibilty": "*Barrierfreiheit*: MathJax arbeite automatisch mit gängigen Screenreadern zusammen, um Mathematik barrierefrei darzustellen.",
-  "Fonts": "*Fonts*: MathJax benutzt gewisse mathematische Fonts, falls sie auf dem Systeminstalliert sind; ansonsten verwendet es Webfonts. Obwohl nicht notwendig, können installierte Fonts den Textsatz beschleunigen. Wir empfehlen, die [STIX fonts]($1) zu installieren."
+    "@metadata": {
+        "authors": [
+            "Metalhead64",
+            "pkra"
+        ]
+    },
+    "Help": "MathJax Hilfe",
+    "MathJax": "*MathJax* ist eine JavaScript-Bibliothek, die es Seitenautoren erm\u00f6glicht, mathematische Inhalte in ihre Webseiten einzubinden. Als Leser muss du nichts unternehmen, um das zu erreichen.",
+    "Browsers": "*Browser*: MathJax funktioniert mit allen modernen Browsern inklusive Internet Explorer 6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ und den meisten mobilen Browsern.",
+    "Menu": "*Men\u00fc*: MathJax f\u00fcgt bei Gleichungen ein Kontextmen\u00fc hinzu. Um das Men\u00fc anzuzeigen, klicke mit der rechten Maustaste oder halte beim Klicken die Strg-Taste gedr\u00fcckt.",
+    "ShowMath": "*Inhalt zeigen als* erlaubt dir, das Formelquellenmarkup f\u00fcr Kopieren \u0026 Einf\u00fcgen anzusehen (als MathML oder im Originalformat).",
+    "Settings": "*Einstellungen* gibt dir die Kontrolle \u00fcber MathJax-Funktionen, wie die Inhaltsgr\u00f6\u00dfe und den verwendeten Mechanismus zum Anzeigen von Gleichungen.",
+    "Language": "*Sprache* l\u00e4sst dir die Sprache ausw\u00e4hlen, die von MathJax f\u00fcr die Men\u00fcs und Warnmeldungen verwendet wird.",
+    "Zoom": "*Zoom*: Wenn du beim Lesen einer Gleichung Schwierigkeiten hast, kann MathJax sie vergr\u00f6\u00dfern, damit du sie besser sehen kannst.",
+    "Accessibilty": "*Barrierefreiheit*: MathJax funktioniert automatisch mit Screenreadern, um die Inhalte f\u00fcr Sehbehinderte verf\u00fcgbar zu machen.",
+    "Fonts": "*Schriftarten*: MathJax verwendet bestimmte Schriften, wenn sie auf deinem Computer installiert sind. Anderenfalls werden webbasierte Schriften verwendet. Obwohl das nicht erforderlich ist, beschleunigen lokal installierte Schriften die Schriftsetzung. Wir empfehlen die Installation der [STIX-Schriften]($1)."
 }

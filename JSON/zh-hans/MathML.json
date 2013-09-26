@@ -1,0 +1,13 @@
+{
+    "@metadata": {
+        "authors": [
+            "Liuxinyu970226"
+        ]
+    },
+    "BadMglyph": "\u9519\u8bef\u7684\u79fb\u52a8\u5b57\u5f62\uff1a$1",
+    "BadMglyphFont": "\u9519\u8bef\u5b57\u4f53\uff1a$1",
+    "UnknownNodeType": "\u672a\u77e5\u7684\u8282\u70b9\u7c7b\u578b\uff1a$1",
+    "UnexpectedTextNode": "\u610f\u5916\u7684\u6587\u672c\u8282\u70b9\uff1a$1",
+    "ErrorParsingMathML": "\u89e3\u6790MathML\u65f6\u51fa\u9519",
+    "ParsingError": "\u89e3\u6790MathML\u65f6\u51fa\u9519\uff1a$1"
+}

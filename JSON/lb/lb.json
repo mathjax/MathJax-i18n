@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Robby"
+        ]
+    },
+    "LoadFile": "$1 lueden",
+    "Loading": "Lueden",
+    "LoadFailed": "De Fichier konnt net geluede ginn: $1",
+    "MathJaxNotSupported": "\u00c4re browser \u00ebnnerst\u00ebtzt MathJax net"
+}

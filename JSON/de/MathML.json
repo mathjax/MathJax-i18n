@@ -1,13 +1,18 @@
 {
-  "@metadata": {"authors":["pkra"]},
-  "BadMglyph": "Schlechter mglyph: $1",
-  "BadMglyphFont": "Schlechter Font: $1",
-  "MathPlayer": "MathJax konnnte MathPlayer nicht einrichten.\n\nFalls MathPlayer nicht installiert ist,  muss es erst installiert werden.\nEventuell blockieren die Sicherheitsoptionen ActiveX; überprüfen Sie unter \n'Internetoptionen' -> 'Sicherheit' -> 'Stufe Anpassen',\nob ActiveX aktiviert ist.\n\nBei der jetzigen Konfiguration wird MathJax nur Fehlermeldungen anzeigen.",
-  "CantCreateXMLParser": "MathJax kann keinen XML-Parser für MathML erzeugen. Überprüfen Sie die Einstellungen unter\n'Internetoptionen'-> 'Werkzeuge' -> 'Sicherheit' -> 'Stufe Anpassen'\nund aktivieren sie ActiveX.\n\nMathJax kann sonst kein MathML verarbeiten.",
-  "UnknownNodeType": "Unbekannter Knotentyp: $1",
-  "UnexpectedTextNode": "Unbekannter Textknoten: $1",
-  "ErrorParsingMathML": "Fehler beim Parsen von MathML",
-  "ParsingError": "Fehler beim Parsen von MathML: $1",
-  "MathMLSingleElement": "MathML muss ein einzelnes <math> Element sein",
-  "MathMLRootElement": "MathML muss ein einzelnes <math> Element sein, nicht $1"
+    "@metadata": {
+        "authors": [
+            "Metalhead64",
+            "pkra"
+        ]
+    },
+    "BadMglyph": "Schlechter mglyph: $1",
+    "BadMglyphFont": "Ung\u00fcltige Schriftart: $1",
+    "MathPlayer": "MathJax konnte MathPlayer nicht einrichten.\n\nFalls MathPlayer nicht installiert ist, musst du ihn zuerst installieren.\nAnderenfalls verhindern deine Sicherheitseinstellungen, dass\nActiveX-Steuerelemente ausgef\u00fchrt werden k\u00f6nnen. Verwende die\nInternetoptionen unter dem Werkzeugmen\u00fc und w\u00e4hle die Registerkarte\n\u201eSicherheit\u201c. Klicke dann auf \u201eStufe anpassen\u201c. \u00dcberpr\u00fcfe, ob die\nEinstellungen f\u00fcr \u201eActiveX-Steuerelemente ausf\u00fchren\u201c und \u201eBin\u00e4r- und\nSkriptverhalten\u201c aktiviert sind.\n\nDerzeit wirst du Fehlermeldungen sehen anstatt gesetzte Inhalte.",
+    "CantCreateXMLParser": "MathJax konnte keinen XML-Parser f\u00fcr MathML erstellen.\n\u00dcberpr\u00fcfe, ob die Sicherheitseinstellung\n\u201eActiveX-Steuerelemente ausf\u00fchren, die f\u00fcr Skripting\nsicher sind\u201c aktiviert ist (verwende zur \u00dcberpr\u00fcfung\ndie Internetoptionen im Werkzeugmen\u00fc, w\u00e4hle die\nRegisterkarte \u201eSicherheit\u201c und klicke auf \u201eStufe\nanpassen\u201c).\n\nMathML-Gleichungen k\u00f6nnen von MathJax nicht\nverarbeitet werden.",
+    "UnknownNodeType": "Unbekannter Knotentyp: $1",
+    "UnexpectedTextNode": "Unerwarteter Textknoten: $1",
+    "ErrorParsingMathML": "Fehler beim Parsen von MathML",
+    "ParsingError": "Fehler beim Parsen von MathML: $1",
+    "MathMLSingleElement": "MathML muss von einem einzelnen Element gebildet werden",
+    "MathMLRootElement": "MathML muss von einem \u003Cmath\u003E-Element gebildet werden, nicht $1"
 }

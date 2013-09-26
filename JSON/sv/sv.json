@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "authors": [
+            "WikiPhoenix"
+        ]
+    },
+    "CookieConfig": "MathJax har hittat en anv\u00e4ndarkonfigurationscookie som inneh\u00e5ller kod som kan k\u00f6ras. Vill du k\u00f6ra den?\n\n(Du b\u00f6r trycka p\u00e5 Avbryt om du inte sj\u00e4lv har lagt upp denna cookie.)",
+    "MathProcessingError": "Matematikbearbetningsfel",
+    "MathError": "Matematikfel",
+    "LoadFile": "L\u00e4ser in $1",
+    "Loading": "L\u00e4ser in",
+    "LoadFailed": "Misslyckades att l\u00e4sa in: $1",
+    "ProcessMath": "Bearbetar matematik: $1 %",
+    "Processing": "Bearbetar",
+    "MathJaxNotSupported": "Din webbl\u00e4sare st\u00f6der inte MathJax"
+}

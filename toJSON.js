@@ -71,17 +71,14 @@ for (var language in MathJax.Localization.strings) {
     var first = true;
     for (var id in strings) {
       if (!first) { fs.writeSync(fd, ',\n'); }
-      fs.writeSync(fd, '  "' + id + '": ');
 
       var s = strings[id];
       if (id === "@metadata") {
-        fs.writeSync(fd, JSON.stringify(s));
+        var jsonstring = '"@metadata": ' + JSON.stringify(s, null, "    ");
+        fs.writeSync(fd, jsonstring.replace(/^/gm, "    "));
       } else {
-        s = s.replace(/\\/g, "\\\\"); // escape the backslash
-        // fredw: what's the best way to handle that in TranslateWiki?
-        s = s.replace(/\n/g, "\\n"); // escape the new line
-
-        fs.writeSync(fd, '"' + s + '"');
+        fs.writeSync(fd, '    "' + id + '": ');
+        fs.writeSync(fd, '"' + MathJax.Hub.EscapeNonAscii(s, false) + '"');
       }
 
       first = false;

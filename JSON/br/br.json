@@ -1,0 +1,17 @@
+{
+    "@metadata": {
+        "authors": [
+            "Fohanno"
+        ]
+    },
+    "MathProcessingError": "Fazi o treta\u00f1 ar formulenn",
+    "MathError": "Fazi er formulenn",
+    "LoadFile": "O karga\u00f1 $1",
+    "Loading": "O karga\u00f1",
+    "LoadFailed": "N'eus ket bet gallet karga\u00f1 $1",
+    "ProcessMath": "Treta\u00f1 ar formulenno\u00f9 : $1%",
+    "Processing": "O treta\u00f1",
+    "TypesetMath": "Aoza\u00f1 formulenno\u00f9 : $1%",
+    "Typesetting": "Aoza\u00f1",
+    "MathJaxNotSupported": "Ne c'hall ket ho merdeer ober gant MathJax"
+}

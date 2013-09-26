@@ -44,35 +44,6 @@ function convertToMathJaxFormat(aData)
   return aData;
 }
 
-function escapeNonAscii(aString)
-{
-  var string = String(aString).split("");
-  for (var i = 0, m = string.length; i < m; i++) {
-
-    if (string[i] === '\"' ||
-        string[i] === '\\') {
-      // escape quote and backslash
-      string[i] = '\\' + string[i];
-      continue;
-    }
-    if (string[i] === '\n') {
-      // escape new line
-      string[i] = '\\n';
-      continue;
-    }
-    var n = string[i].charCodeAt(0);
-    if (n > 0x7F) {
-      // escape the character
-      string[i] = n.toString(16).toUpperCase();
-      while (string[i].length < 4) string[i] = "0" + string[i];
-      string[i] = "\\u" + string[i];
-    }
-  }
-
-  return string.join("");
-}
-
-
 // Process the config options and command arguments
 var config = require("./config.js");
 if (process.argv.length != 3) {
@@ -164,7 +135,8 @@ for (var lang in config.languages) {
 
     if (d === "_") {
       fs.writeSync(fd, '  menuTitle: "' +
-                   escapeNonAscii(langData.menuTitle) + '",\n');
+                   MathJax.Hub.
+                   EscapeNonAscii(langData.menuTitle, true) + '",\n');
       fs.writeSync(fd, '  version: "' + config.version + '",\n');
       fs.writeSync(fd, '  isLoaded: true,\n');
       fs.writeSync(fd, '  domains: {\n');
@@ -179,7 +151,9 @@ for (var lang in config.languages) {
     for (var id in domains[d].strings) {
       if (!first) { fs.writeSync(fd, ',\n'); }
       fs.writeSync(fd, '          ' + id + ': ');
-      fs.writeSync(fd, '"' + escapeNonAscii(domains[d].strings[id]) + '"');
+      fs.writeSync(fd, '"' +
+                   MathJax.Hub.
+                   EscapeNonAscii(domains[d].strings[id], true) + '"');
       first = false;
     }
     fs.writeSync(fd, '\n        }\n');

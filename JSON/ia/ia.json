@@ -1,0 +1,18 @@
+{
+    "@metadata": {
+        "authors": [
+            "McDutchie"
+        ]
+    },
+    "CookieConfig": "MathJax ha trovate un cookie con un configuration de usator que include codice executabile. Executar iste codice?\n\n(Preme Cancellar si vos mesme non ha installate iste cookie.)",
+    "MathProcessingError": "Error de tractamento de formula mathematic",
+    "MathError": "Error in formula",
+    "LoadFile": "Carga $1",
+    "Loading": "Cargamento",
+    "LoadFailed": "Cargamento del file fallite: $1",
+    "ProcessMath": "Tracta formulas: $1%",
+    "Processing": "Tractamento",
+    "TypesetMath": "Compone formulas: $1%",
+    "Typesetting": "Composition",
+    "MathJaxNotSupported": "Vostre navigator non supporta MathJax"
+}

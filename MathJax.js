@@ -30,6 +30,34 @@ MathJax.Hub = {
       }
     }}
     return dst;
+  },
+
+  EscapeNonAscii: function (aString, aToUpper) {
+    var string = String(aString).split("");
+    for (var i = 0, m = string.length; i < m; i++) {
+
+      if (string[i] === '\"' ||
+          string[i] === '\\') {
+        // escape quote and backslash
+        string[i] = '\\' + string[i];
+        continue;
+      }
+      if (string[i] === '\n') {
+        // escape new line
+        string[i] = '\\n';
+        continue;
+      }
+      var n = string[i].charCodeAt(0);
+      if (n > 0x7F || n === 0x26 || n === 0x3C || n === 0x3E) {
+        // escape non-ASCII characters, '<', '>' and '&'
+        string[i] = n.toString(16);
+        if (aToUpper || n <= 0x7F) string[i] = string[i].toUpperCase();
+        while (string[i].length < 4) string[i] = "0" + string[i];
+        string[i] = "\\u" + string[i];
+      }
+    }
+
+    return string.join("");
   }
 }
 

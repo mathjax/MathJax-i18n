@@ -1,0 +1,14 @@
+{
+    "@metadata": {
+        "authors": [
+            "Fohanno"
+        ]
+    },
+    "BadMglyph": "mglyph fall : $1",
+    "BadMglyphFont": "Font fall : $1",
+    "UnknownNodeType": "Seurt skoulm dianav : $1",
+    "UnexpectedTextNode": "Skoulm testenn dic'hortoz : $1",
+    "ErrorParsingMathML": "Fazi o tielfenna\u00f1 MathML",
+    "ParsingError": "Fazi o ielfenna\u00f1 MathML : $1",
+    "MathMLSingleElement": "MathML a rank beza\u00f1 stummet gant un elfenn hepken"
+}

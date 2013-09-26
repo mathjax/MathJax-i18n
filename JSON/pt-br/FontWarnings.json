@@ -1,10 +1,14 @@
 {
-  "@metadata": {"authors":["helder"]},
-  "webFont": "O MathJax está utilizando fontes baseadas em web para exibir as fórmulas matemáticas desta página. O download delas leva algum tempo, então a página seria renderizada mais rapidamente se você instalasse as fontes para matemática diretamente na pasta de fontes do seu sistema.",
-  "imageFonts": "O MathJax está utilizando fontes feitas com imagens em vez de fontes locais ou baseadas em web. Isso torna a renderização mais lenta do que o de costume, e as fórmulas matemáticas poderão não ser impressas com a maior resolução disponível em sua impressora.",
-  "noFonts": "O MathJax não foi capaz de localizar uma fonte para utilizar ao renderizar as fórmulas matemáticas, e não estão disponíveis fontes feitas com imagens, então serão utilizados caracteres unicode genéricos com a esperança de que o seu navegador seja capaz de exibí-los. Alguns caracteres podem não aparecer como deveriam, ou simplesmente desaparecer.",
-  "webFonts": "A maioria dos navegadores modernos permite que as fontes sejam baixadas a partir da web. Atualizar para uma versão mais recente do seu navegador (ou mudar de navegador) poderia melhorar a qualidade das fórmulas matemáticas desta página.",
-  "fonts": "O MathJax pode usar tanto [fontes STIX]($1) ou as [fontes MathJax TeX]($2). Baixe e instale uma destas fontes para melhorar sua experiência com o MathJax.",
-  "STIXPage": "Esta página foi projetada para utilizar [fontes STIX]($1).  Baixe e instale estas fontes para melhorar sua experiência com o MathJax.",
-  "TeXPage": "Esta página foi projetada para utilizar [fontes MathJax TeX]($1). Baixe e instale estas fontes para melhorar sua experiência com o MathJax."
+    "@metadata": {
+        "authors": [
+            "helder"
+        ]
+    },
+    "webFont": "O MathJax est\u00e1 utilizando fontes baseadas em web para exibir as f\u00f3rmulas matem\u00e1ticas desta p\u00e1gina. O download delas leva algum tempo, ent\u00e3o a p\u00e1gina seria renderizada mais rapidamente se voc\u00ea instalasse as fontes para matem\u00e1tica diretamente na pasta de fontes do seu sistema.",
+    "imageFonts": "O MathJax est\u00e1 utilizando fontes feitas com imagens em vez de fontes locais ou baseadas em web. Isso torna a renderiza\u00e7\u00e3o mais lenta do que o de costume, e as f\u00f3rmulas matem\u00e1ticas poder\u00e3o n\u00e3o ser impressas com a maior resolu\u00e7\u00e3o dispon\u00edvel em sua impressora.",
+    "noFonts": "O MathJax n\u00e3o foi capaz de localizar uma fonte para utilizar ao renderizar as f\u00f3rmulas matem\u00e1ticas, e n\u00e3o est\u00e3o dispon\u00edveis fontes feitas com imagens, ent\u00e3o ser\u00e3o utilizados caracteres unicode gen\u00e9ricos com a esperan\u00e7a de que o seu navegador seja capaz de exib\u00ed-los. Alguns caracteres podem n\u00e3o aparecer como deveriam, ou simplesmente desaparecer.",
+    "webFonts": "A maioria dos navegadores modernos permite que as fontes sejam baixadas a partir da web. Atualizar para uma vers\u00e3o mais recente do seu navegador (ou mudar de navegador) poderia melhorar a qualidade das f\u00f3rmulas matem\u00e1ticas desta p\u00e1gina.",
+    "fonts": "O MathJax pode usar tanto [fontes STIX]($1) ou as [fontes MathJax TeX]($2). Baixe e instale uma destas fontes para melhorar sua experi\u00eancia com o MathJax.",
+    "STIXPage": "Esta p\u00e1gina foi projetada para utilizar [fontes STIX]($1).  Baixe e instale estas fontes para melhorar sua experi\u00eancia com o MathJax.",
+    "TeXPage": "Esta p\u00e1gina foi projetada para utilizar [fontes MathJax TeX]($1). Baixe e instale estas fontes para melhorar sua experi\u00eancia com o MathJax."
 }

@@ -1,13 +1,17 @@
 {
-  "@metadata": {"authors":["piotrdomagalski"]},
-  "Help": "Pomoc MathJax",
-  "MathJax": "*MathJax* to biblioteka Javascript umożliwiająca autorom stron Web na zapisywanie wzorów matematycznych. Jako użytkownik, nie musisz robić nic dodatkowo, aby wzory były poprawnie wyświetlane.",
-  "Browsers": "*Przeglądarki*: MathJax działa z nowymi przeglądarkami, m.in. IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ i większością przeglądarek mobilnych.",
-  "Menu": "*Menu*: MathJax dodaje menu kontekstowe do wzorów matematycznych. Kliknij prawym klawiszem myszki (lub lewy klawisz i Ctrl), aby je otworzyć.",
-  "ShowMath": "Opcja *Pokaż wzory jako* pozwala zobaczyć źródłową postać wzorów, aby można było je skopiować do schowka.",
-  "Settings": "Opcja *Ustawienia* pozwala kontrolować MathJax, m.in. ustawiać wielkość wzorów i zmieniać mechanizm ich wyświetlania.",
-  "Language": "*Język* pozwala wybrać język, w jakim wyświetlane jest menu oraz komunikaty o błędach.",
-  "Zoom": "*Powiększanie*: Jeżeli masz problem z odczytaniem wzoru, MathJax może zwiększyć wielkość liter, aby łatwiej było go odczytać.",
-  "Accessibilty": "*Dostępność*: MathJax działa automatycznie z czytnikami ekranowymi, aby wzory matematyczne były dostępne dla niedowidzących.",
-  "Fonts": "*Czcionki*: MathJax użyje czcionek matematycznych zainstalowanych w Twoim systemie. Jeżeli ich nie masz, to użyje czcionek Web. Nie jest to wymagane, ale lokalnie dostępne czcionki przyspieszą działanie MathJax. Sugerujemy zainstalowanie czcionek [STIX]($1)."
+    "@metadata": {
+        "authors": [
+            "piotrdomagalski"
+        ]
+    },
+    "Help": "Pomoc MathJax",
+    "MathJax": "*MathJax* to biblioteka Javascript umo\u017cliwiaj\u0105ca autorom stron Web na zapisywanie wzor\u00f3w matematycznych. Jako u\u017cytkownik, nie musisz robi\u0107 nic dodatkowo, aby wzory by\u0142y poprawnie wy\u015bwietlane.",
+    "Browsers": "*Przegl\u0105darki*: MathJax dzia\u0142a z nowymi przegl\u0105darkami, m.in. IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ i wi\u0119kszo\u015bci\u0105 przegl\u0105darek mobilnych.",
+    "Menu": "*Menu*: MathJax dodaje menu kontekstowe do wzor\u00f3w matematycznych. Kliknij prawym klawiszem myszki (lub lewy klawisz i Ctrl), aby je otworzy\u0107.",
+    "ShowMath": "Opcja *Poka\u017c wzory jako* pozwala zobaczy\u0107 \u017ar\u00f3d\u0142ow\u0105 posta\u0107 wzor\u00f3w, aby mo\u017cna by\u0142o je skopiowa\u0107 do schowka.",
+    "Settings": "Opcja *Ustawienia* pozwala kontrolowa\u0107 MathJax, m.in. ustawia\u0107 wielko\u015b\u0107 wzor\u00f3w i zmienia\u0107 mechanizm ich wy\u015bwietlania.",
+    "Language": "*J\u0119zyk* pozwala wybra\u0107 j\u0119zyk, w jakim wy\u015bwietlane jest menu oraz komunikaty o b\u0142\u0119dach.",
+    "Zoom": "*Powi\u0119kszanie*: Je\u017celi masz problem z odczytaniem wzoru, MathJax mo\u017ce zwi\u0119kszy\u0107 wielko\u015b\u0107 liter, aby \u0142atwiej by\u0142o go odczyta\u0107.",
+    "Accessibilty": "*Dost\u0119pno\u015b\u0107*: MathJax dzia\u0142a automatycznie z czytnikami ekranowymi, aby wzory matematyczne by\u0142y dost\u0119pne dla niedowidz\u0105cych.",
+    "Fonts": "*Czcionki*: MathJax u\u017cyje czcionek matematycznych zainstalowanych w Twoim systemie. Je\u017celi ich nie masz, to u\u017cyje czcionek Web. Nie jest to wymagane, ale lokalnie dost\u0119pne czcionki przyspiesz\u0105 dzia\u0142anie MathJax. Sugerujemy zainstalowanie czcionek [STIX]($1)."
 }

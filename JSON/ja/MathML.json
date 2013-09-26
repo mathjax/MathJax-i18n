@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "Shirayuki"
+        ]
+    },
+    "BadMglyph": "\u8aa4\u3063\u305f mglyph: $1",
+    "BadMglyphFont": "\u8aa4\u3063\u305f\u30d5\u30a9\u30f3\u30c8: $1",
+    "UnknownNodeType": "\u4e0d\u660e\u306a\u7a2e\u985e\u306e\u30ce\u30fc\u30c9: $1",
+    "UnexpectedTextNode": "\u4e88\u671f\u3057\u306a\u3044\u30c6\u30ad\u30b9\u30c8 \u30ce\u30fc\u30c9: $1",
+    "ErrorParsingMathML": "MathML \u306e\u69cb\u6587\u89e3\u6790\u30a8\u30e9\u30fc",
+    "ParsingError": "MathML \u306e\u69cb\u6587\u89e3\u6790\u30a8\u30e9\u30fc: $1",
+    "MathMLSingleElement": "MathML \u306f\u5358\u4e00\u306e\u8981\u7d20\u3067\u69cb\u6210\u3057\u3066\u304f\u3060\u3055\u3044",
+    "MathMLRootElement": "MathML \u306f $1 \u3067\u306f\u306a\u304f \u003Cmath\u003E \u8981\u7d20\u3067\u69cb\u6210\u3057\u3066\u304f\u3060\u3055\u3044"
+}

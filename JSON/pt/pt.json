@@ -1,0 +1,13 @@
+{
+    "@metadata": {
+        "authors": [
+            "Helder.wiki"
+        ]
+    },
+    "MathProcessingError": "Erro no processamento das f\u00f3rmulas",
+    "MathError": "Erro de matem\u00e1tica",
+    "LoadFile": "A carregar $1",
+    "Loading": "A carregar",
+    "LoadFailed": "O ficheiro n\u00e3o pode ser carregado: $1",
+    "ProcessMath": "Processando f\u00f3rmula: $1%"
+}
