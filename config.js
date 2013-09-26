@@ -63,7 +63,7 @@ exports.version = "2.3"
 
 exports.languages = {
   "br": {
-    menuTitle: "Breton",
+    menuTitle: "brezhoneg",
     plural: function(n) {
       if (n % 10 === 1 && !(n % 100 === 11 || n % 100 === 71 ||
                             n % 100 === 91)) {return 1} // one
@@ -101,7 +101,7 @@ exports.languages = {
     }
   },
   "fi": {
-    menuTitle: "Finnish",
+    menuTitle: "suomi",
     plural: function(n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -111,7 +111,7 @@ exports.languages = {
     }
   },
   "fr": {
-    menuTitle: "Français",
+    menuTitle: "français",
     plural: function(n) {
       if (0 <= n && n < 2) {return 1} // one
       return 2; // other
@@ -121,7 +121,7 @@ exports.languages = {
     }
   },
   "he": {
-    menuTitle: "Hebrew",
+    menuTitle: "עברית",
     fontDirection: "rtl",
     plural: function(n) {
       if (n === 1) {return 1} // one
@@ -134,7 +134,7 @@ exports.languages = {
     }
   },
   "ia": {
-    menuTitle: "Interlingua",
+    menuTitle: "interlingua",
     plural: function(n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -144,7 +144,7 @@ exports.languages = {
     }
   },
   "it": {
-    menuTitle: "Italiano",
+    menuTitle: "italiano",
     plural: function(n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -154,7 +154,7 @@ exports.languages = {
     }
   },
   "ja": {
-    menuTitle: "Japanese",
+    menuTitle: "日本語",
     plural: function(n) {
       return 1; // other
     },
@@ -163,7 +163,7 @@ exports.languages = {
     }
   },
   "lb": {
-    menuTitle: "Luxembourgish",
+    menuTitle: "Lëtzebuergesch",
     plural: function(n) {
       if (n === 1) return 1; // one
       return 2; // other
@@ -173,7 +173,7 @@ exports.languages = {
     }
   },
   "mk": {
-    menuTitle: "Macedonian",
+    menuTitle: "македонски",
     plural: function(n) {
       if (n % 10 === 1 && n !== 11) return 1; // one
       return 2; // other
@@ -183,7 +183,7 @@ exports.languages = {
     }
   },
   "pl": {
-    menuTitle: "Polski",
+    menuTitle: "polski",
     plural: function(n) {
       if (n == 1) {
         return 0;
@@ -217,7 +217,7 @@ exports.languages = {
     number: function (n) {return n}
   },
   "sv": {
-    menuTitle: "Swedish",
+    menuTitle: "svenska",
     plural: function(n) {
       if (n === 1) return 1; // one
       return 2; // other
@@ -227,7 +227,7 @@ exports.languages = {
     }
   },
   "uk": {
-    menuTitle: "Ukrainian",
+    menuTitle: "українська",
     plural: function(n) {
       if (n % 10 === 1 && n % 100 != 11) return 1; // one
       if (2 <= n % 10 && n % 10 <= 4 && !(12 <= n % 100 && n % 100 <= 14)) return 2; // few
@@ -239,7 +239,7 @@ exports.languages = {
     }
   },
   "zh-hans": {
-    menuTitle: "Simplified Chinese",
+    menuTitle: "中文（简体）",
     plural: function(n) {
       return 1; // other
     },
