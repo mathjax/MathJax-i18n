@@ -29,6 +29,10 @@ exports.version = "2.3"
 // - "menuTitle" is the language name that will appear in the MathJax submenu
 //   for switching locales.
 //
+// - "fontDirection" is an optional the CSS direction ("ltr", "rtl")
+//
+// - "fontFamily" is an optional CSS font family.
+//
 // - Use "remap" to specify language fallback e.g.
 //
 //   "pt": {
@@ -58,6 +62,24 @@ exports.version = "2.3"
 //   }
 
 exports.languages = {
+  "br": {
+    menuTitle: "Breton",
+    plural: function(n) {
+      if (n % 10 === 1 && !(n % 100 === 11 || n % 100 === 71 ||
+                            n % 100 === 91)) {return 1} // one
+      if (n % 10 === 2 && !(n % 100 === 12 || n % 100 === 72 ||
+                            n % 100 === 92)) {return 2} // two
+      if ((n % 10 === 3 || n % 10 === 4 || n % 10 === 9) &&
+          !(10 <= n % 100 && n % 100 <= 19 ||
+            70 <= n % 100 && n % 100 <= 79 ||
+            90 <= n % 100 && n % 100 <= 99)) {return 3} // few
+      if (n !== 0 && n % 1000000 === 0) {return 4} // other
+      return 5;
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "de": {
     menuTitle: "Deutsch",
     plural: function(n) {
@@ -78,6 +100,16 @@ exports.languages = {
       return n;
     }
   },
+  "fi": {
+    menuTitle: "Finnish",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "fr": {
     menuTitle: "Français",
     plural: function(n) {
@@ -88,10 +120,62 @@ exports.languages = {
       return String(n).replace(".", ","); // replace dot by comma
     }
   },
+  "he": {
+    menuTitle: "Hebrew",
+    fontDirection: "rtl",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      if (n === 2) {return 2} // two
+      if (n !== 0 && n % 10 !== 0) {return 3} // many
+      return 4; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "ia": {
+    menuTitle: "Interlingua",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "it": {
     menuTitle: "Italiano",
     plural: function(n) {
       if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "ja": {
+    menuTitle: "Japanese",
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "lb": {
+    menuTitle: "Luxembourgish",
+    plural: function(n) {
+      if (n === 1) return 1; // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "mk": {
+    menuTitle: "Macedonian",
+    plural: function(n) {
+      if (n % 10 === 1 && n !== 11) return 1; // one
       return 2; // other
     },
     number: function(n) {
@@ -131,7 +215,38 @@ exports.languages = {
     menuTitle: "Message Documentation",
     plural: function (n) {return 1},
     number: function (n) {return n}
-  } // 
+  },
+  "sv": {
+    menuTitle: "Swedish",
+    plural: function(n) {
+      if (n === 1) return 1; // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "uk": {
+    menuTitle: "Ukrainian",
+    plural: function(n) {
+      if (n % 10 === 1 && n % 100 != 11) return 1; // one
+      if (2 <= n % 10 && n % 10 <= 4 && !(12 <= n % 100 && n % 100 <= 14)) return 2; // few
+      if (n % 10 === 0 || (5 <= n % 10 && n % 10 <= 9) || (11 <= n % 100 && n % 100 <= 14)) return 3; // many
+      return 4; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "zh-hans": {
+    menuTitle: "Simplified Chinese",
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  }
 };
 
 // ********** List of localization domains **********

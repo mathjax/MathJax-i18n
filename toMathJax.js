@@ -60,6 +60,8 @@ MathJax.Localization.loadAll(config.languages, config.domains, gMathJaxPath)
 // Merge the data from config.js into MathJax.Localization
 MathJax.Hub.Insert(MathJax.Localization.strings, config.languages)
 
+var fs = require("fs");
+
 for (var lang in config.languages) {
   if (config.languages[lang].remap) continue; // skip remapped languages
 
@@ -90,12 +92,14 @@ for (var lang in config.languages) {
   // Subdomains
   for (var i in config.domains) {
     var d = config.domains[i];
-    var strings = convertToMathJaxFormat(require(dir + d + ".json"));
-    MathJax.Hub.Insert(domains[d].strings, strings);
+    var subfile = dir + d + ".json";
+    if (fs.existsSync(subfile)) {
+      var strings = convertToMathJaxFormat(require(subfile));
+      MathJax.Hub.Insert(domains[d].strings, strings);
+    }
   }
 }
 
-var fs = require("fs");
 var template = fs.readFileSync("template-unpacked.js", "utf8");
 
 // Clean up language directories
@@ -137,6 +141,10 @@ for (var lang in config.languages) {
       fs.writeSync(fd, '  menuTitle: "' +
                    MathJax.Hub.
                    EscapeNonAscii(langData.menuTitle, true) + '",\n');
+      if (langData.fontDirection)
+        fs.writeSync(fd, '  fontDirection: "' + langData.fontDirection + '",\n');
+      if (langData.fontFamily)
+        fs.writeSync(fd, '  fontFamily: "' + langData.fontFamily + '",\n');
       fs.writeSync(fd, '  version: "' + config.version + '",\n');
       fs.writeSync(fd, '  isLoaded: true,\n');
       fs.writeSync(fd, '  domains: {\n');
