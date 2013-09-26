@@ -62,6 +62,89 @@ exports.version = "2.3"
 //   }
 
 exports.languages = {
+  // "af": {
+  //   menuTitle: "Afrikaans",
+  //   plural: function(n) {
+  //     if (n === 1) return 1; // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
+  // "ak": {
+  //   menuTitle: "Akan",
+  //   plural: function(n) {
+  //     if (0 <= n && n <= 1) return 1; // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
+  // "am": {
+  //   menuTitle: "አማርኛ",
+  //   plural: function(n) {
+  //     if (0 <= n && n <= 1) return 1; // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
+  // "ar": {
+  //   menuTitle: "العربية",
+  //   fontDirection: "rtl",
+  //   plural: function(n) {
+  //     if (n === 0) return 1; // zero
+  //     if (n === 1) return 2; // one
+  //     if (n === 2) return 3; // two
+  //     if (3 <= n % 100 && n % 100 <= 10) return 4; // few
+  //     if (11 <= n % 100 && n % 100 <= 99) return 5; // many
+  //     return 6; // other
+  //   },
+  //   number: function(n) {
+  //     return String(n).replace("/([0-9])/g", "\\U066$1").replace(".", "\\U066B");
+  //   }
+  // },
+  // "ast": {
+  //   menuTitle: "asturianu]",
+  //   plural: function(n) {
+  //     if (n === 1) {return 1} // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
+  // "asa": {
+  //   menuTitle: "asu",
+  //   plural: function(n) {
+  //     if (n === 1) {return 1} // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
+  // "az": {
+  //   menuTitle: "azərbaycanca",
+  //   plural: function(n) {
+  //     return 1; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
+  // "bm": {
+  //   menuTitle: "bamanankan",
+  //   plural: function(n) {
+  //     return 1; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
   "br": {
     menuTitle: "brezhoneg",
     plural: function(n) {
@@ -80,6 +163,27 @@ exports.languages = {
       return n;
     }
   },
+  // "cs": {
+  //   menuTitle: "česky",
+  //   plural: function(n) {
+  //     if (n === 1) return 1; // one
+  //     if (2 <= n && n <= 4) return 2; // few
+  //     return 3; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
+  // "da": {
+  //   menuTitle: "dansk",
+  //   plural: function(n) {
+  //     if (n === 1) return 1; // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
   "de": {
     menuTitle: "Deutsch",
     plural: function(n) {
@@ -90,6 +194,16 @@ exports.languages = {
       return String(n).replace(".", ","); // replace dot by comma
     }
   },
+  // "el": {
+  //   menuTitle: "Ελληνικά",
+  //   plural: function(n) {
+  //     if (n === 1) {return 1} // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
   "en": {
     menuTitle: "English",
     plural: function(n) {
@@ -100,6 +214,16 @@ exports.languages = {
       return n;
     }
   },
+  // "es": {
+  //   menuTitle: "español",
+  //   plural: function(n) {
+  //     if (n === 1) return 1; // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
   "fi": {
     menuTitle: "suomi",
     plural: function(n) {
@@ -120,6 +244,26 @@ exports.languages = {
       return String(n).replace(".", ","); // replace dot by comma
     }
   },
+  // "gu": {
+  //   menuTitle: "",
+  //   plural: function(n) {
+  //     if (n === 1) return 1; // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
+  // "hi": {
+  //   menuTitle: "हिन्दी]",
+  //   plural: function(n) {
+  //     if (0 <= n && n <= 1) {return 1} // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
   "he": {
     menuTitle: "עברית",
     fontDirection: "rtl",
@@ -133,6 +277,16 @@ exports.languages = {
       return n;
     }
   },
+  // "hy": {
+  //   menuTitle: "Հայերեն",
+  //   plural: function(n) {
+  //     if (n === 1) {return 1} // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
   "ia": {
     menuTitle: "interlingua",
     plural: function(n) {
@@ -182,6 +336,25 @@ exports.languages = {
       return n;
     }
   },
+  // "ms": {
+  //   menuTitle: "Bahasa Melayu",
+  //   plural: function(n) {
+  //     return 1; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
+  // "nl": {
+  //   menuTitle: "Nederlands",
+  //   plural: function(n) {
+  //     if (n === 1) {return 1} // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
   "pl": {
     menuTitle: "polski",
     plural: function(n) {
@@ -216,6 +389,29 @@ exports.languages = {
     plural: function (n) {return 1},
     number: function (n) {return n}
   },
+  // "ru": {
+  //   menuTitle: "русский",
+  //   plural: function(n) {
+  //     if (n % 10 === 1 && n % 100 !== 11) return 1; // one
+  //     if (2 <= n % 10 && n % 10 <= 4 && 12 <= n % 100 && n % 100 <= 14) return 2; // few
+  //     if (n % 10 === 0 || (5 <= n % 10 && n % 10 <= 9) ||
+  //         (11 <= n % 100 && n % 100 <= 14)) return 2; // many
+  //     return 3; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
+  // "sq": {
+  //   menuTitle: "shqip",
+  //   plural: function(n) {
+  //     if (n === 1) return 1; // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
   "sv": {
     menuTitle: "svenska",
     plural: function(n) {
