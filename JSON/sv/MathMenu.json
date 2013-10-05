@@ -1,0 +1,36 @@
+{
+    "@metadata": {
+        "authors": [
+            "Jopparn",
+            "WikiPhoenix"
+        ]
+    },
+    "MathMLcode": "MathML-kod",
+    "OriginalMathML": "Ursprunglig MathML",
+    "TeXCommands": "TeX-kommandon",
+    "AsciiMathInput": "AsciiMathML-inmatning",
+    "Original": "Ursprungligt format",
+    "ErrorMessage": "Felmeddelande",
+    "TeX": "TeX",
+    "StarMath": "StarMath",
+    "OpenMath": "OpenMath",
+    "Click": "Klick",
+    "DoubleClick": "Dubbelklick",
+    "NoZoom": "Ingen zoom",
+    "Option": "Alternativ",
+    "Alt": "Alt",
+    "Command": "Command",
+    "Control": "Ctrl",
+    "Shift": "Shift",
+    "TeXLocal": "TeX (lokal)",
+    "TeXWeb": "TeX (webb)",
+    "TeXImage": "TeX (bild)",
+    "STIXLocal": "STIX (lokal)",
+    "Locale": "Spr\u00e5k",
+    "LoadLocale": "L\u00e4s in fr\u00e5n URL ...",
+    "About": "Om MathJax",
+    "Help": "Hj\u00e4lp f\u00f6r MathJax",
+    "eotffonts": "eot-teckensnitt",
+    "svgfonts": "svg-teckensnitt",
+    "Close": "St\u00e4ng"
+}

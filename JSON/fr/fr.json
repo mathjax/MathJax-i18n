@@ -1,10 +1,11 @@
 {
     "@metadata": {
         "authors": [
+            "Urhixidur",
             "fred"
         ]
     },
-    "CookieConfig": "MathJax a trouv\u00e9 un cookie de configuration utilisateur qui inclut du code ex\u00e9cutable. Souhaitez vous l'ex\u00e9cuter?\n\n(Choisissez Annuler sauf si vous avez cr\u00e9\u00e9 ce cookie vous-m\u00eame)",
+    "CookieConfig": "MathJax a trouv\u00e9 un t\u00e9moin (cookie) de configuration utilisateur qui inclut du code ex\u00e9cutable. Souhaitez vous l\u2019ex\u00e9cuter ?\n\n(Choisissez Annuler sauf si vous avez cr\u00e9\u00e9 ce t\u00e9moin vous-m\u00eame)",
     "MathProcessingError": "Erreur de traitement de la formule math\u00e9matique",
     "MathError": "Erreur dans la formule math\u00e9matique",
     "LoadFile": "T\u00e9l\u00e9chargement de $1",

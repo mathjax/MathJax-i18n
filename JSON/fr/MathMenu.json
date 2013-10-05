@@ -1,8 +1,10 @@
 {
     "@metadata": {
         "authors": [
+            "Fred",
             "Gomoko",
-            "Jean-Frédéric",
+            "Jean-Fr\u00e9d\u00e9ric",
+            "Urhixidur",
             "fred"
         ]
     },
@@ -17,7 +19,7 @@
     "TeX": "TeX",
     "StarMath": "StarMath",
     "Maple": "Maple",
-    "ContentMathML": "Contenu MathML",
+    "ContentMathML": "MathML de contenu",
     "OpenMath": "OpenMath",
     "texHints": "Afficher les aides TeX en MathML",
     "Settings": "Param\u00e9trages des maths",
@@ -62,16 +64,16 @@
     "wofforotffonts": "polices woff ou otf",
     "eotffonts": "polices eot",
     "svgfonts": "polices svg",
-    "WebkitNativeMMLWarning": "Votre navigateur ne semble pas supporter MathML en natif, donc basculer sur MathML en sortie pourrait rendre les math\u00e9matiques illisibles sur cette page.",
+    "WebkitNativeMMLWarning": "Votre navigateur ne semble pas prendre en charge MathML en natif, donc basculer sur MathML en sortie pourrait rendre les math\u00e9matiques illisibles sur cette page.",
     "MSIENativeMMLWarning": "Internet Explorer n\u00e9cessite le module MathPlayer pour traiter les sorties MathML.",
-    "OperaNativeMMLWarning": "Le support de MathML par Op\u00e9ra est limit\u00e9, donc passer sur du MathML en sortie pourrait rendre certaines expressions peu lisibles.",
+    "OperaNativeMMLWarning": "La prise en charge de MathML par Op\u00e9ra est limit\u00e9e, donc passer sur du MathML en sortie pourrait rendre certaines expressions peu lisibles.",
     "SafariNativeMMLWarning": "Le MathML natif de votre navigateur n\u2019impl\u00e9mente pas toutes les fonctionnalit\u00e9s utilis\u00e9s par MathJax, donc certaines expressions pourraient ne pas \u00eatre affich\u00e9es correctement.",
     "FirefoxNativeMMLWarning": "Le MathML natif de votre navigateur n\u2019impl\u00e9mente pas toutes les fonctionnalit\u00e9s de MathJax, donc certaines expressions pourraient \u00eatre mal affich\u00e9es.",
-    "MSIESVGWarning": "SVG n\u2019est pas impl\u00e9ment\u00e9 dans Internet Explorer avant la version 9 ou dans l\u2019\u00e9mulation de IE8 ou inf\u00e9rieur. Basculer sur SVG en sortie pourrait faire que les math\u00e9matiques s\u2019affichent mal.",
+    "MSIESVGWarning": "SVG n\u2019est pas pris en charge par Internet Explorer avant la version 9 (ni dans l\u2019\u00e9mulation de IE8 ou inf\u00e9rieur, par cons\u00e9quent). Basculer sur SVG en sortie pourrait faire que les math\u00e9matiques s\u2019affichent mal.",
     "LoadURL": "Charger les donn\u00e9es de traduction depuis cette URL :",
     "BadURL": "L\u2019URL devrait \u00eatre un fichier javascript qui d\u00e9finit les donn\u00e9es de traduction de MathJax. Les noms de fichier Javascript devraient se terminer par '.js'",
-    "BadData": "\u00c9chec au chargement des donn\u00e9es de traduction depuis $1",
-    "SwitchAnyway": "Basculer tout de m\u00eame le rendu\u202f?\n\n(Appuyer sur OK pour basculer, ANNULER pour continuer avec le rendu actuel)",
+    "BadData": "\u00c9chec du chargement des donn\u00e9es de traduction depuis $1",
+    "SwitchAnyway": "Basculer tout de m\u00eame le rendu\u202f?\n\n(Cliquez OK pour basculer, ANNULER pour continuer avec le rendu actuel)",
     "ScaleMath": "Mettre \u00e0 l\u2019\u00e9chelle toutes les math\u00e9matiques (par rapport au texte environnant) de",
     "NonZeroScale": "L\u2019\u00e9chelle ne devrait pas \u00eatre z\u00e9ro",
     "PercentScale": "L\u2019\u00e9chelle devrait \u00eatre un pourcentage (par ex., 120%)",

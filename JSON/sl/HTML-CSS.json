@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "Eleassar"
+        ]
+    },
+    "LoadWebFont": "Nalagam spletni font $1",
+    "CantLoadWebFont": "Spletne pisave $1 ni mogo\u010de nalo\u017eiti",
+    "FirefoxCantLoadWebFont": "Firefox ne more nalo\u017eiti spletnih pisav na oddaljenem gostitelju.",
+    "CantFindFontUsing": "Z uporabo $1 ne morem najti veljavne pisave.",
+    "WebFontsNotAvailable": "Web-Fonts niso na razpolago. Namesto njih uporabljam slikovne pisave."
+}

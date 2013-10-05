@@ -2,6 +2,7 @@
     "@metadata": {
         "authors": [
             "Gomoko",
+            "Urhixidur",
             "fred"
         ]
     },
@@ -9,5 +10,5 @@
     "CantLoadWebFont": "Impossible de t\u00e9l\u00e9charger la police Web $1",
     "FirefoxCantLoadWebFont": "Firefox ne peut pas charger les polices web depuis un h\u00f4te distant",
     "CantFindFontUsing": "Impossible de trouver une police valide en utilisant $1",
-    "WebFontsNotAvailable": "Polices web non disponibles -- utilise les polices image \u00e0 la place"
+    "WebFontsNotAvailable": "Polices web non disponibles -- les polices image seront utilis\u00e9es \u00e0 la place"
 }

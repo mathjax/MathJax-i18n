@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "WikiPhoenix"
+        ]
+    },
+    "FirefoxCantLoadWebFont": "Firefox kan inte l\u00e4sa in webbteckensnitt fr\u00e5n en fj\u00e4rrstyrd v\u00e4rd",
+    "CantFindFontUsing": "Kan inte hitta ett giltigt teckensnitt med $1"
+}
