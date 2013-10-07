@@ -14,6 +14,7 @@
     "Misplaced": "$1\u88ab\u653e\u7f6e\u4e8e\u9519\u8bef\u7684\u5730\u65b9",
     "MissingOpenForSub": "\u7f3a\u5c11\u4e0b\u6807\u7684\u5de6\u62ec\u53f7",
     "MissingOpenForSup": "\u7f3a\u5c11\u4e0a\u6807\u7684\u5de6\u62ec\u53f7",
+    "AmbiguousUseOf": "$1\u7684\u4f7f\u7528\u4e0d\u660e\u786e",
     "EnvBadEnd": "\\begin{$1}\u7531\\end{$2}\u7ed3\u675f\u4e4b",
     "EnvMissingEnd": "\\end{$1}\u4e22\u5931",
     "MissingBoxFor": "\u7f3a\u5c11\u7528\u4e8e$1\u7684\u6846",
