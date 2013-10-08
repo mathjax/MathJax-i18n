@@ -163,17 +163,26 @@ exports.languages = {
       return n;
     }
   },
-  // "cs": {
-  //   menuTitle: "česky",
-  //   plural: function(n) {
-  //     if (n === 1) return 1; // one
-  //     if (2 <= n && n <= 4) return 2; // few
-  //     return 3; // other
-  //   },
-  //   number: function(n) {
-  //     return n;
-  //   }
-  // },
+  "cdo": {
+    menuTitle: "Mìng-dĕ̤ng-ngṳ̄",
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "cs": {
+    menuTitle: "česky",
+    plural: function(n) {
+      if (n === 1) return 1; // one
+      if (2 <= n && n <= 4) return 2; // few
+      return 3; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   // "da": {
   //   menuTitle: "dansk",
   //   plural: function(n) {
@@ -214,11 +223,20 @@ exports.languages = {
       return n;
     }
   },
-  // "es": {
-  //   menuTitle: "español",
+  "es": {
+    menuTitle: "español",
+    plural: function(n) {
+      if (n === 1) return 1; // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  // "fa": {
+  //   menuTitle: "فارسی",
   //   plural: function(n) {
-  //     if (n === 1) return 1; // one
-  //     return 2; // other
+  //     return 1; // other
   //   },
   //   number: function(n) {
   //     return n;
@@ -242,6 +260,16 @@ exports.languages = {
     },
     number: function(n) {
       return String(n).replace(".", ","); // replace dot by comma
+    }
+  },
+  "gl": {
+    menuTitle: "galego",
+    plural: function(n) {
+      if (n === 1) return 1; // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
     }
   },
   // "gu": {
@@ -316,6 +344,15 @@ exports.languages = {
       return n;
     }
   },
+  "ko": {
+    menuTitle: "한국어",
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "lb": {
     menuTitle: "Lëtzebuergesch",
     plural: function(n) {
@@ -345,16 +382,16 @@ exports.languages = {
   //     return n;
   //   }
   // },
-  // "nl": {
-  //   menuTitle: "Nederlands",
-  //   plural: function(n) {
-  //     if (n === 1) {return 1} // one
-  //     return 2; // other
-  //   },
-  //   number: function(n) {
-  //     return n;
-  //   }
-  // },
+  "nl": {
+    menuTitle: "Nederlands",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "pl": {
     menuTitle: "polski",
     plural: function(n) {
@@ -370,6 +407,16 @@ exports.languages = {
       return String(n).replace(".", ","); // replace dot by comma
     }
   },
+  // "ps": {
+  //   menuTitle: "پښتو",
+  //   plural: function(n) {
+  //     if (n === 1) return 1; // one
+  //     return 2; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
   "pt": {
     menuTitle: "portugusê",
     remap: "pt-br"
@@ -389,19 +436,31 @@ exports.languages = {
     plural: function (n) {return 1},
     number: function (n) {return n}
   },
-  // "ru": {
-  //   menuTitle: "русский",
-  //   plural: function(n) {
-  //     if (n % 10 === 1 && n % 100 !== 11) return 1; // one
-  //     if (2 <= n % 10 && n % 10 <= 4 && 12 <= n % 100 && n % 100 <= 14) return 2; // few
-  //     if (n % 10 === 0 || (5 <= n % 10 && n % 10 <= 9) ||
-  //         (11 <= n % 100 && n % 100 <= 14)) return 2; // many
-  //     return 3; // other
-  //   },
-  //   number: function(n) {
-  //     return n;
-  //   }
-  // },
+  "ru": {
+    menuTitle: "русский",
+    plural: function(n) {
+      if (n % 10 === 1 && n % 100 !== 11) return 1; // one
+      if (2 <= n % 10 && n % 10 <= 4 && 12 <= n % 100 && n % 100 <= 14) return 2; // few
+      if (n % 10 === 0 || (5 <= n % 10 && n % 10 <= 9) ||
+          (11 <= n % 100 && n % 100 <= 14)) return 2; // many
+      return 3; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "sl": {
+    menuTitle: "slovenščina",
+    plural: function(n) {
+      if (n % 100 === 1) return 1; // one
+      if (n % 100 === 2) return 2; // two
+      if (3 <= n % 100 && n % 100 <= 4) return 3;
+      return 4; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   // "sq": {
   //   menuTitle: "shqip",
   //   plural: function(n) {

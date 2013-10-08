@@ -74,7 +74,12 @@ for (var language in MathJax.Localization.strings) {
 
       var s = strings[id];
       if (id === "@metadata") {
-        var jsonstring = '"@metadata": ' + JSON.stringify(s, null, "    ");
+        var jsonstring = '"@metadata": ' +
+          JSON.stringify(s, null, "    ").replace(/[\u007f-\uffff]/g,
+            function(c) {
+              return '\\u'+('0000'+c.charCodeAt(0).toString(16)).slice(-4);
+            }
+          );
         fs.writeSync(fd, jsonstring.replace(/^/gm, "    "));
       } else {
         fs.writeSync(fd, '    "' + id + '": ');
