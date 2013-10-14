@@ -59,7 +59,7 @@
     "genericfonts": "using generic Unicode fonts",
     "wofforotffonts": "WOFF or OTF fonts",
     "eotffonts": "OTF fonts",
-    "svgfonts": "svg fonts",
+    "svgfonts": "SVG fonts",
     "WebkitNativeMMLWarning": "Your browser doesn't seem to support MathML natively, so switching to MathML output may cause the mathematics on the page to become unreadable.",
     "MSIENativeMMLWarning": "Internet Explorer requires the MathPlayer plugin in order to process MathML output.",
     "OperaNativeMMLWarning": "Opera's support for MathML is limited, so switching to MathML output may cause some expressions to render poorly.",
