@@ -74,5 +74,5 @@
     "MissingReplacementString": "Missing replacement string for definition of $1.",
     "MismatchUseDef": "Use of $1 does not match its definition.",
     "RunawayArgument": "Runaway argument for $1?",
-    "NoClosingDelim": "Canot find closing delimiter for $1."
+    "NoClosingDelim": "Cannot find closing delimiter for $1."
 }
