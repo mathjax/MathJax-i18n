@@ -72,7 +72,7 @@
     "SwitchAnyway": "Switch the renderer anyway?\n\n(Press OK to switch, CANCEL to continue with the current renderer)",
     "ScaleMath": "Scale all mathematics (compared to surrounding text) by",
     "NonZeroScale": "The scale should not be zero",
-    "PercentScale": "The scale should be a percentage (e.g., 120%)",
+    "PercentScale": "The scale should be a percentage (for example 120%).",
     "IE8warning": "This will disable the MathJax menu and zoom features, but you can Alt-Click on an expression to obtain the MathJax menu instead.\n\nReally change the MathPlayer settings?",
     "IE9warning": "The MathJax contextual menu will be disabled, but you can Alt-Click on an expression to obtain the MathJax menu instead.",
     "NoOriginalForm": "No original form available",
