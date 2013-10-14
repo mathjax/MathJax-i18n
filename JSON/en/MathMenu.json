@@ -67,7 +67,7 @@
     "FirefoxNativeMMLWarning": "Your browser's native MathML does not implement all the features used by MathJax, so some expressions may not render properly.",
     "MSIESVGWarning": "SVG is not implemented in Internet Explorer prior to IE9 or when it is emulating IE8 or below. Switching to SVG output will cause the mathematics to not display properly.",
     "LoadURL": "Load translation data from this URL:",
-    "BadURL": "The URL should be for a javascript file that defines MathJax translation data.  Javascript file names should end with '.js'",
+    "BadURL": "The URL should be for a javascript file that defines MathJax translation data. Javascript file names should end with '.js'",
     "BadData": "Failed to load translation data from $1",
     "SwitchAnyway": "Switch the renderer anyway?\n\n(Press OK to switch, CANCEL to continue with the current renderer)",
     "ScaleMath": "Scale all mathematics (compared to surrounding text) by",
