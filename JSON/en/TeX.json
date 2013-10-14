@@ -20,7 +20,7 @@
     "UndefinedControlSequence": "Undefined control sequence $1.",
     "DoubleExponent": "Double exponent: use braces to clarify.",
     "DoubleSubscripts": "Double subscripts: use braces to clarify.",
-    "DoubleExponentPrime": "Prime causes double exponent: use braces to clarify.",
+    "DoubleExponentPrime": "Prime causes double exponent: Use braces to clarify.",
     "CantUseHash1": "You cannot use 'macro parameter character #' in math mode.",
     "MisplacedMiddle": "$1 must be within \\left and \\right.",
     "MisplacedLimits": "$1 is allowed only on operators.",
