@@ -2,9 +2,11 @@
     "@metadata": {
         "authors": [
             "Fitoschido",
+            "Julian leonardo paez",
             "Ovruni"
         ]
     },
+    "CookieConfig": "MathJax ha encontrado una cookie de configuraci\u00f3n de usuario que incluye c\u00f3digo para ser ejecutado.\u00bfQuieres ejecutarlo?\n\\n\n(Pulse Cancelar al menos que configure la cookie).",
     "MathProcessingError": "Error de procesamiento de matem\u00e1ticas",
     "MathError": "Error de matem\u00e1ticas",
     "LoadFile": "Cargando $1",

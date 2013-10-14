@@ -12,5 +12,6 @@
     "LoadFailed": "Misslyckades att l\u00e4sa in: $1",
     "ProcessMath": "Bearbetar matematik: $1 %",
     "Processing": "Bearbetar",
+    "Typesetting": "S\u00e4ttning",
     "MathJaxNotSupported": "Din webbl\u00e4sare st\u00f6der inte MathJax"
 }

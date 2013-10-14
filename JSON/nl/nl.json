@@ -1,11 +1,12 @@
 {
     "@metadata": {
         "authors": [
+            "Siebrand",
             "Southparkfan"
         ]
     },
-    "LoadFile": "Laden $1",
-    "Loading": "Laden",
+    "LoadFile": "Bezig met laden van $1",
+    "Loading": "Bezig met laden",
     "Processing": "Bezig met verwerken",
     "MathJaxNotSupported": "Uw browser ondersteunt MathJax niet."
 }
