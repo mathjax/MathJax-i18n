@@ -56,7 +56,7 @@
     "imagefonts": "using Image fonts",
     "localSTIXfonts": "using local STIX fonts",
     "webSVGfonts": "using web SVG fonts",
-    "genericfonts": "using generic unicode fonts",
+    "genericfonts": "using generic Unicode fonts",
     "wofforotffonts": "woff or otf fonts",
     "eotffonts": "eot fonts",
     "svgfonts": "svg fonts",

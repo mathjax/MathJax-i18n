@@ -64,7 +64,7 @@
     "InvalidNumber": "Invalid number",
     "NewextarrowArg1": "First argument to $1 must be a control sequence name",
     "NewextarrowArg2": "Second argument to $1 must be two integers separated by a comma",
-    "NewextarrowArg3": "Third argument to $1 must be a unicode character number",
+    "NewextarrowArg3": "Third argument to $1 must be a Unicode character number",
     "NoClosingChar": "Can't find closing $1",
     "IllegalControlSequenceName": "Illegal control sequence name for $1",
     "IllegalParamNumber": "Illegal number of parameters specified in $1",
