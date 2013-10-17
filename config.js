@@ -51,7 +51,7 @@ exports.version = "2.3"
 //     return 2; // other: 0, 2-20, 22-30, 32-40...; 1.2, 2.07...
 //   }
 //
-//   See http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html
+//   See http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html and https://github.com/wikimedia/jquery.uls/blob/master/data/langdb.yaml
 //
 // - "number" is a Javascript function that allows to localize a number n. It
 //   should return a value that can be converted to string. For example, some
@@ -203,6 +203,15 @@ exports.languages = {
       return String(n).replace(".", ","); // replace dot by comma
     }
   },
+  // "diq": {
+  //   menuTitle: "Zazaki",
+  //   plural: function(n) {
+  //     return 1; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
   // "el": {
   //   menuTitle: "Ελληνικά",
   //   plural: function(n) {
@@ -234,6 +243,7 @@ exports.languages = {
     }
   },
   "fa": {
+    fontDirection: "rtl",
     menuTitle: "فارسی",
     plural: function(n) {
       return 1; // other
@@ -409,6 +419,7 @@ exports.languages = {
   },
   // "ps": {
   //   menuTitle: "پښتو",
+  //   fontDirection: "rtl",
   //   plural: function(n) {
   //     if (n === 1) return 1; // one
   //     return 2; // other
@@ -488,6 +499,15 @@ exports.languages = {
       return n;
     }
   },
+  // "tr": {
+  //   menuTitle: "Türkçe",
+  //   plural: function(n) {
+  //     return 1; // other
+  //   },
+  //   number: function(n) {
+  //     return n;
+  //   }
+  // },
   "uk": {
     menuTitle: "українська",
     plural: function(n) {

@@ -7,6 +7,8 @@ convert them. The localization data are organized as follows:
 * config.js: configuration for languages and domains.
 * JSON/: the localizable strings in JSON jquery.i18n format.
  
+See also the [Statistics on TranslateWiki](https://translatewiki.net/w/i.php?title=Special:MessageGroupStats&group=out-mathjax-0-all#sortable:3=asc).
+
 @translators: translations should ideally be done on TranslateWiki and the JSON
 files commited here. Do not forget to update config.js if you add new
 languages.
