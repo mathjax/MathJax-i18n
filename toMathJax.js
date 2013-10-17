@@ -32,16 +32,38 @@ function processString(aString)
 
 function convertToMathJaxFormat(aData)
 {
-  if (aData.hasOwnProperty("@metadata")) {
-    // Delete TranslateWiki's metadata.
-    // fredw: should we import that to our metadata?
-    delete aData["@metadata"];
+  if (!aData.hasOwnProperty("@metadata")) {
+    // @metadata has been removed: this data are already in the MathJax format
+    // so there is nothing to do.
+    return aData;
   }
+
+  // Delete TranslateWiki's metadata.
+  delete aData["@metadata"];
     
   for (var id in aData) {
     aData[id] = processString(aData[id]);
   }
   return aData;
+}
+
+function insertStrings(aDomains, aLanguage)
+{
+  var dir = "./JSON/" + aLanguage + "/";
+
+  // Main domain _
+  var strings = convertToMathJaxFormat(require(dir + aLanguage + ".json"));
+  MathJax.Hub.Insert(aDomains["_"].strings, strings);
+
+  // Subdomains
+  for (var i in config.domains) {
+    var d = config.domains[i];
+    var subfile = dir + d + ".json";
+    if (fs.existsSync(subfile)) {
+      var strings = convertToMathJaxFormat(require(subfile));
+      MathJax.Hub.Insert(aDomains[d].strings, strings);
+    }
+  }
 }
 
 // Process the config options and command arguments
@@ -63,7 +85,6 @@ MathJax.Hub.Insert(MathJax.Localization.strings, config.languages)
 var fs = require("fs");
 
 for (var lang in config.languages) {
-  if (config.languages[lang].remap) continue; // skip remapped languages
 
   if (!MathJax.Localization.strings.hasOwnProperty(lang)) {
     console.error("The data for language '" + lang + "' does not exist." +
@@ -71,7 +92,6 @@ for (var lang in config.languages) {
     process.exit(1);
   }
 
-  var dir = "./JSON/" + lang + "/";
   var domains = MathJax.Localization.strings[lang].domains;
 
   if (!domains) {
@@ -85,19 +105,12 @@ for (var lang in config.languages) {
     }
   }
 
-  // Main domain _
-  var strings = convertToMathJaxFormat(require(dir + lang + ".json"));
-  MathJax.Hub.Insert(domains["_"].strings, strings);
-
-  // Subdomains
-  for (var i in config.domains) {
-    var d = config.domains[i];
-    var subfile = dir + d + ".json";
-    if (fs.existsSync(subfile)) {
-      var strings = convertToMathJaxFormat(require(subfile));
-      MathJax.Hub.Insert(domains[d].strings, strings);
-    }
+  if (config.languages[lang].remap) {
+    // It's a remapped language, first insert the data of the fallback language.
+    insertStrings(domains, config.languages[lang].remap);
   }
+  // Insert the strings of the language.
+  insertStrings(domains, lang);
 }
 
 var template = fs.readFileSync("template-unpacked.js", "utf8");
@@ -119,8 +132,6 @@ for (var lang in config.languages) {
 
 // Now serialize the localization data
 for (var lang in config.languages) {
-  if (config.languages[lang].remap) continue; // skip remapped languages
-
   var langData = MathJax.Localization.strings[lang];
 
   // Create files for each domain

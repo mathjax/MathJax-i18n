@@ -233,15 +233,15 @@ exports.languages = {
       return n;
     }
   },
-  // "fa": {
-  //   menuTitle: "فارسی",
-  //   plural: function(n) {
-  //     return 1; // other
-  //   },
-  //   number: function(n) {
-  //     return n;
-  //   }
-  // },
+  "fa": {
+    menuTitle: "فارسی",
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "fi": {
     menuTitle: "suomi",
     plural: function(n) {
@@ -419,7 +419,14 @@ exports.languages = {
   // },
   "pt": {
     menuTitle: "portugusê",
-    remap: "pt-br"
+    remap: "pt-br",
+    plural: function (n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function (n) {
+      return String(n).replace(".", ","); // replace dot by comma
+    }
   },
   "pt-br": {
     menuTitle: "português do Brasil",
