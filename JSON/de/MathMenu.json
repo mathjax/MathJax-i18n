@@ -1,6 +1,7 @@
 {
     "@metadata": {
         "authors": [
+            "Alawatthe",
             "Metalhead64",
             "pkra"
         ]
@@ -16,7 +17,7 @@
     "TeX": "TeX",
     "StarMath": "StarMath",
     "Maple": "Maple",
-    "ContentMathML": "Inhalts-MathML",
+    "ContentMathML": "Content MathML",
     "OpenMath": "OpenMath",
     "texHints": "TeX-Hinweise in MathML anzeigen",
     "Settings": "Math-Einstellungen",

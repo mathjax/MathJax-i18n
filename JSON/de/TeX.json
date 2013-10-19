@@ -1,18 +1,19 @@
 {
     "@metadata": {
         "authors": [
+            "Alawatthe",
             "Metalhead64",
             "pkra"
         ]
     },
-    "ExtraOpenMissingClose": "Zus\u00e4tzliche offene oder fehlende schliessende Klammer",
-    "ExtraCloseMissingOpen": "Zus\u00e4tzliche schliessende oder fehlende offene Klammer",
+    "ExtraOpenMissingClose": "Zus\u00e4tzliche \u00f6ffnende oder fehlende schlie\u00dfende Klammer",
+    "ExtraCloseMissingOpen": "Zus\u00e4tzliche schlie\u00dfende oder fehlende \u00f6ffnende Klammer",
     "MissingLeftExtraRight": "Fehlendes '\\left' oder zus\u00e4tzliches '\\right'",
     "MissingScript": "Fehlendes Argument im Sub- oder Superskript",
     "ExtraLeftMissingRight": "Zus\u00e4tzliches '\\left' oder fehlendes '\\right'",
     "Misplaced": "$1 falsch plaziert",
-    "MissingOpenForSub": "Fehlende offende Klammer im Subskript",
-    "MissingOpenForSup": "Fehlende offene Klammer im Superskript",
+    "MissingOpenForSub": "Fehlende \u00f6ffnende Klammer im Subskript",
+    "MissingOpenForSup": "Fehlende \u00f6ffnende Klammer im Superskript",
     "AmbiguousUseOf": "Mehrdeutige Verwendung von $1",
     "EnvBadEnd": "\\begin{$1} endet mit \\end{$2}",
     "EnvMissingEnd": "\\end{$1} fehlt",
@@ -45,7 +46,7 @@
     "TokenNotFoundForCommand": "Konnte $1 nicht f\u00fcr $2 finden",
     "MathNotTerminated": "Formel in Textbox nicht abgeschlossen",
     "IllegalMacroParam": "Ung\u00fcltiger Makroparameter",
-    "MaxBufferSize": "Interner Puffergr\u00f6\u00dfe \u00fcberschritten; wird ein rekursiver Makroaufruf verwendet?",
+    "MaxBufferSize": "Interne Puffergr\u00f6\u00dfe \u00fcberschritten; wird ein rekursiver Makroaufruf verwendet?",
     "CommandNotAllowedInEnv": "$1 ist in der Umgebung $2 nicht erlaubt",
     "MultipleLabel": "Label '$1' \u00fcberdefiniert",
     "CommandAtTheBeginingOfLine": "$1 muss am Zeilenanfang stehen",

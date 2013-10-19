@@ -33,6 +33,7 @@
     "TeXWeb": "TeX (web)",
     "TeXImage": "TeX (afbeelding)",
     "STIXLocal": "STIX (lokaal)",
+    "Browser": "Browser",
     "Discoverable": "Uitlichten bij aanwijzen",
     "Locale": "Taal",
     "LoadLocale": "Laden van URL...",
