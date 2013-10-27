@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Christian List"
+        ]
+    },
+    "webFont": "MathJax bruger web-baserede skrifttyper til at vise det matematiske p\u00e5 denne side.  Dette tager tid at hente, s\u00e5 siden ville blive hurtigere, hvis du installerede matematiske skrifttyper direkte i dit systems skrifttypemappe.",
+    "STIXPage": "Denne side er designet til at bruge [STIX fonts]($1). Hent og install\u00e9r disse skrifttyper for at forbedre oplevelsen med MathJax.",
+    "TeXPage": "Denne side er designet til at bruge [MathJax TeX fonts]($1).  Hent og install\u00e9r disse skrifttyper for at forbedre oplevelsen med MathJax."
+}

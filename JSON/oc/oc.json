@@ -1,0 +1,14 @@
+{
+    "@metadata": {
+        "authors": [
+            "Cedric31"
+        ]
+    },
+    "LoadFile": "Telecargament de $1",
+    "Loading": "Cargament",
+    "LoadFailed": "Frac\u00e0s del telecargament de $1",
+    "ProcessMath": "Tractament de las formulas : $1%",
+    "Processing": "Tractament",
+    "TypesetMath": "Composicion de las formulas : $1%",
+    "Typesetting": "Composicion"
+}
