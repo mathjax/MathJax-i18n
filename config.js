@@ -183,16 +183,16 @@ exports.languages = {
       return n;
     }
   },
-  // "da": {
-  //   menuTitle: "dansk",
-  //   plural: function(n) {
-  //     if (n === 1) return 1; // one
-  //     return 2; // other
-  //   },
-  //   number: function(n) {
-  //     return n;
-  //   }
-  // },
+  "da": {
+    menuTitle: "dansk",
+    plural: function(n) {
+      if (n === 1) return 1; // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "de": {
     menuTitle: "Deutsch",
     plural: function(n) {
@@ -402,6 +402,16 @@ exports.languages = {
       return n;
     }
   },
+  "oc": {
+    menuTitle: "occitan",
+    plural: function(n) {
+      if (n === 1) return 1; // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "pl": {
     menuTitle: "polski",
     plural: function(n) {
@@ -499,15 +509,15 @@ exports.languages = {
       return n;
     }
   },
-  // "tr": {
-  //   menuTitle: "Türkçe",
-  //   plural: function(n) {
-  //     return 1; // other
-  //   },
-  //   number: function(n) {
-  //     return n;
-  //   }
-  // },
+  "tr": {
+    menuTitle: "Türkçe",
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "uk": {
     menuTitle: "українська",
     plural: function(n) {
