@@ -1,0 +1,14 @@
+{
+    "@metadata": {
+        "authors": [
+            "Tcho\u0159"
+        ]
+    },
+    "webFont": "MathJax pou\u017e\u00edv\u00e1 k zobrazen\u00ed matematiky na t\u00e9to str\u00e1nce webov\u00e1 p\u00edsma. T\u011bm trv\u00e1 sta\u017een\u00ed n\u011bjakou dobu, tak\u017ee str\u00e1nka by se vykreslila rychleji, pokud byste si tato matematick\u00e1 p\u00edsma nainstalovali p\u0159\u00edmo do syst\u00e9mov\u00e9 slo\u017eky p\u00edsem.",
+    "imageFonts": "MathJax pou\u017e\u00edv\u00e1 m\u00edsto m\u00edstn\u00edch nebo webov\u00fdch p\u00edsem obr\u00e1zkov\u00e9 p\u00edsmo. Proto bude vykreslov\u00e1n\u00ed pomalej\u0161\u00ed, ne\u017e je obvykl\u00e9, a p\u0159i tisku na Va\u0161\u00ed tisk\u00e1rn\u011b mo\u017en\u00e1 nebude matematika vykreslena na nejlep\u0161\u00ed rozli\u0161en\u00ed.",
+    "noFonts": "MathJax nedok\u00e1\u017ee naj\u00edt p\u00edsmo, kter\u00fdm by vykreslil matematiku, a obr\u00e1zkov\u00e1 p\u00edsma nejsou k dispozici, tak\u017ee se uch\u00fdl\u00ed k b\u011b\u017en\u00fdm znak\u016fm Unicode v nad\u011bji, \u017ee je v\u00e1\u0161 prohl\u00ed\u017ee\u010d dok\u00e1\u017ee zobrazit. N\u011bkter\u00e9 znaky se mo\u017en\u00e1 nezobraz\u00ed spr\u00e1vn\u011b, nebo dokonce v\u016fbec.",
+    "webFonts": "V\u011bt\u0161ina modern\u00edch prohl\u00ed\u017ee\u010d\u016f umo\u017e\u0148uje sta\u017een\u00ed p\u00edsem p\u0159es web. Aktualizace na nov\u011bj\u0161\u00ed verzi prohl\u00ed\u017ee\u010de (nebo zm\u011bna prohl\u00ed\u017ee\u010de) by mohla zlep\u0161it zobrazen\u00ed matematiky na t\u00e9to str\u00e1nce.",
+    "fonts": "MathJax m\u016f\u017ee pou\u017e\u00edvat bu\u010f [p\u00edsma STIX]($1) nebo [MathJaxov\u00e1 TeXov\u00e1 p\u00edsma]($2). St\u00e1hn\u011bte a nainstalujte si jedny z nich, abyste si MathJax u\u017eili l\u00e9pe.",
+    "STIXPage": "Tato str\u00e1nka je vytvo\u0159ena pro pou\u017eit\u00ed s [p\u00edsmy STIX]($1). St\u00e1hn\u011bte a nainstalujte si tato p\u00edsma, abyste si l\u00e9pe u\u017eili MathJax.",
+    "TeXPage": "Tato str\u00e1nka je vytvo\u0159ena pro pou\u017eit\u00ed s [MathJaxov\u00fdmi TeXov\u00fdmi p\u00edsmy]($1). Pro lep\u0161\u00ed vyu\u017e\u00edv\u00e1n\u00ed MathJaxu si st\u00e1hn\u011bte a nainstalujte tato p\u00edsma."
+}

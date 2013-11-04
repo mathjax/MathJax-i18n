@@ -1,0 +1,18 @@
+{
+    "@metadata": {
+        "authors": [
+            "Christian List",
+            "Overlaet"
+        ]
+    },
+    "Help": "MathJax hj\u00e6lp",
+    "MathJax": "*MathJax* er et JavaScript-bibliotek, der giver mulighed for forfattere af sider kan inkludere matematik i deres websider. Som l\u00e6ser beh\u00f8ver du ikke at g\u00f8re noget for at f\u00e5 det til at virke.",
+    "Browsers": "*Browsere*: MathJax virker p\u00e5 alle moderne browsere inklusiv IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ og de fleste mobile browsere.",
+    "Menu": "*Matematikmenu*: MathJax tilf\u00f8jer en genvejsmenu til ligninger. H\u00f8jreklik eller Ctrl-klik p\u00e5 matematikken for at f\u00e5 adgang til menuen.",
+    "ShowMath": "*Vis matematik som* giver dig mulighed for at se formelens kilde markup s\u00e5 du kan kopierer og inds\u00e6tte andre steder (som MathML eller i dens oprindelige format).",
+    "Settings": "*Indstillinger* giver dig kontrol over funktioner i MathJax, s\u00e5som st\u00f8rrelsen af matematikken, og den mekanisme, der bruges til at vise ligninger.",
+    "Language": "*Sprog* lader dig v\u00e6lge det sprog MathJax bruger i sine menuer og advarselsmeddelelser.",
+    "Zoom": "*Matematik zoom*: Hvis du har sv\u00e6rt ved at l\u00e6se en ligning, kan MathJax forst\u00f8rre den for at hj\u00e6lpe dig med at se den bedre.",
+    "Accessibilty": "*Tilg\u00e6ngelighed*: MathJax vil automatisk arbejde med sk\u00e6rml\u00e6sere for at g\u00f8re matematik tilg\u00e6ngeligt for synsh\u00e6mmede.",
+    "Fonts": "*Skrifttyper*: MathJax vil bruge visse matematiske skrifttyper, hvis de er installeret p\u00e5 computeren. ellers vil det bruge web-baserede skrifttyper. Selvom det ikke er p\u00e5kr\u00e6vet, vil lokalt installerede skrifttyper fremskynde ops\u00e6tningen. Vi foresl\u00e5r at installere [STIX fonts]($1)."
+}

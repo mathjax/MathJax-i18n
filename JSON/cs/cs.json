@@ -4,6 +4,7 @@
             "Mormegil"
         ]
     },
+    "CookieConfig": "MathJax nalezl cookie u\u017eivatelsk\u00e9 konfigurace obsahuj\u00edc\u00ed spustiteln\u00fd k\u00f3d. Chcete ho spustit?\n\n(Pokud jste cookie nenastavili sami, m\u011bli byste stisknout Storno.)",
     "MathProcessingError": "Chyba zpracov\u00e1n\u00ed matematiky",
     "MathError": "Chyba matematiky",
     "LoadFile": "Na\u010d\u00edt\u00e1 se $1",

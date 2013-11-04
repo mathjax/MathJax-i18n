@@ -15,6 +15,7 @@
     "AmbiguousUseOf": "Flertydig brug af $1",
     "EnvBadEnd": "\\begin{$1} sluttede med \\end{$2}",
     "EnvMissingEnd": "Manglende \\end{$1}",
+    "MissingBoxFor": "Manglende boks for $1",
     "MissingCloseBrace": "Manglende h\u00f8jreklammeparentes",
     "UndefinedControlSequence": "Udefineret kontrolsekvens $1",
     "DoubleExponent": "Dobbelt eksponent: brug klammeparenteser til at tydeligg\u00f8re",
