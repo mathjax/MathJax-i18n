@@ -232,6 +232,16 @@ exports.languages = {
       return n;
     }
   },
+  "eo": {
+    menuTitle: "Esperanto",
+    plural: function(n) {
+      if (n === 1) return 1; // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "es": {
     menuTitle: "español",
     plural: function(n) {
