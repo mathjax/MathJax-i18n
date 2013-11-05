@@ -1,11 +1,11 @@
-????-??-?? MathJax v2.3
+2013-??-?? MathJax v2.3
 
-	- New languages: String documentation (qqq), Italian (it), Brazilian Portuguese (pt-bz), Polish (pl).
 	- MathJax contains a new Web page test/localization.html to verify the localization strings.
 	- TeX/DoubleBackSlash has been renamed TeX/MissingCS and a command has been added as a parameter.
 	- TeX/ExtraClose has been removed (the string was never used).
 	- New strings for the annotation menu: MathMenu/Annotation, MathMenu/TeX, MathMenu/StarMath, MathMenu/Maple, MathMenu/ContentMathML, MathMenu/OpenMath.
+	- New strings for the font menu: MathMenu/STIXWeb, MathMenu/AsanaMathWeb, MathMenu/GyrePagellaWeb, MathMenu/GyreTermesWeb, MathMenu/LatinModernWeb, MathMenu/NeoEulerWeb.
 
 2013-05-16 MathJax v2.2
 
-	- Initial localization support: American English (en), German (de) and French (fr).
+	- Initial localization support.
