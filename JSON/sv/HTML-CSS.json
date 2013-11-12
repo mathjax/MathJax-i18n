@@ -4,6 +4,9 @@
             "WikiPhoenix"
         ]
     },
+    "LoadWebFont": "L\u00e4ser in webbtypsnittet $1",
+    "CantLoadWebFont": "Kan inte l\u00e4sa in webbtypsnittet $1",
     "FirefoxCantLoadWebFont": "Firefox kan inte l\u00e4sa in webbteckensnitt fr\u00e5n en fj\u00e4rrstyrd v\u00e4rd",
-    "CantFindFontUsing": "Kan inte hitta ett giltigt teckensnitt med $1"
+    "CantFindFontUsing": "Kan inte hitta ett giltigt teckensnitt med $1",
+    "WebFontsNotAvailable": "Webbtypsnitt \u00e4r inte tillg\u00e4ngliga. Anv\u00e4nder bildtypsnitt ist\u00e4llet"
 }

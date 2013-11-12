@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "Gorizon"
+        ]
+    },
+    "MathError": "Matematigane \u011feta",
+    "LoadFile": "$1 Bar keri",
+    "Loading": "Beno bar",
+    "LoadFailed": "Dosyay bar nebi: $1",
+    "ProcessMath": "Matematik neq\u0131\u015f kerden: $1%"
+}

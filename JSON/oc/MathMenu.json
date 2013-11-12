@@ -45,5 +45,16 @@
     "ContextMenu": "Men\u00fa contextual",
     "Browser": "Navigador",
     "Locale": "Lenga",
+    "About": "A prepaus de MathJax",
+    "Help": "Ajuda de MathJax",
+    "localTeXfonts": "utilizar las poli\u00e7as TeX localas",
+    "webTeXfonts": "utilizar las poli\u00e7as TeX del web",
+    "imagefonts": "utilizar las poli\u00e7as Imatge",
+    "localSTIXfonts": "utilizar las poli\u00e7as STIX localas",
+    "webSVGfonts": "utilizar las poli\u00e7as SVG del web",
+    "genericfonts": "utilizar las poli\u00e7as unicode genericas",
+    "wofforotffonts": "poli\u00e7as woff o otf",
+    "eotffonts": "poli\u00e7as eot",
+    "svgfonts": "poli\u00e7as svg",
     "Close": "Tampar"
 }
