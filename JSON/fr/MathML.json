@@ -4,13 +4,14 @@
             "Fred",
             "Gomoko",
             "Jean-Fr\u00e9d\u00e9ric",
+            "Sherbrooke",
             "Urhixidur",
             "fred"
         ]
     },
     "BadMglyph": "\u00c9lement mglyph incorrect: $1",
     "BadMglyphFont": "Police non valide : $1",
-    "MathPlayer": "MathJax n\u2019a pas pu configurer MathPlayer.\n\nSi MathPlayer n\u2019est pas install\u00e9, vous devez d\u2019abord le faire.\nSinon, il se peut que vos param\u00e8tres de s\u00e9curit\u00e9 emp\u00eachent l\u2019ex\u00e9cution des contr\u00f4les ActiveX. Utilisez l\u2019entr\u00e9e Options Internet sous le menu Outils et s\u00e9lectionnez l\u2019onglet S\u00e9curit\u00e9, puis cliquez le bouton \u00ab Personnaliser le niveau \u00bb. V\u00e9rifiez que les param\u00e8tres pour 'Ex\u00e9cuter les contr\u00f4les ActiveX', et 'Comportement de fichiers binaires et des scripts' sont activ\u00e9s.\n\nPour le moment, vous verrez des messages d\u2019erreur au lieu de math\u00e9matiques compos\u00e9es.",
+    "MathPlayer": "MathJax n\u2019a pas pu configurer MathPlayer.\n\nSi MathPlayer n\u2019est pas install\u00e9, vous devez d\u2019abord le faire.\nSinon, il se peut que vos param\u00e8tres de s\u00e9curit\u00e9 emp\u00eachent l\u2019ex\u00e9cution des contr\u00f4les ActiveX. Utilisez l\u2019entr\u00e9e Options Internet sous le menu Outils et s\u00e9lectionnez l\u2019onglet S\u00e9curit\u00e9, puis cliquez le bouton \u00ab Personnaliser le niveau \u00bb. V\u00e9rifiez que les param\u00e8tres pour 'Ex\u00e9cuter les contr\u00f4les ActiveX', et 'Comportement de fichiers binaires et des scripts' sont activ\u00e9s.\n\nPour le moment, vous verrez des messages d\u2019erreur au lieu de textes math\u00e9matiques.",
     "CantCreateXMLParser": "MathJax ne peut pas cr\u00e9er un analyseur XML pour MathML. V\u00e9rifiez que l\u2019option de s\u00e9curit\u00e9 'Contr\u00f4les ActiveX reconnus s\u00fbrs pour l\u2019\u00e9criture de scripts' est activ\u00e9e (utilisez l\u2019entr\u00e9e Options Internet dans le menu Outils, et s\u00e9lectionnez l\u2019onglet S\u00e9curit\u00e9, puis appuyez sur le bouton Personnaliser le niveau, pour le v\u00e9rifier).",
     "UnknownNodeType": "Type de n\u0153ud inconnu : $1",
     "UnexpectedTextNode": "N\u0153ud de texte inattendu : $1",

@@ -2,13 +2,14 @@
     "@metadata": {
         "authors": [
             "Gomoko",
+            "Rastus Vernon",
             "Urhixidur",
             "fred"
         ]
     },
-    "LoadWebFont": "T\u00e9l\u00e9chargement de la police Web $1",
-    "CantLoadWebFont": "Impossible de t\u00e9l\u00e9charger la police Web $1",
+    "LoadWebFont": "T\u00e9l\u00e9chargement de la police web $1",
+    "CantLoadWebFont": "Impossible de t\u00e9l\u00e9charger la police web $1",
     "FirefoxCantLoadWebFont": "Firefox ne peut pas charger les polices web depuis un h\u00f4te distant",
     "CantFindFontUsing": "Impossible de trouver une police valide en utilisant $1",
-    "WebFontsNotAvailable": "Polices web non disponibles -- les polices image seront utilis\u00e9es \u00e0 la place"
+    "WebFontsNotAvailable": "Polices web non disponibles. Les polices image seront utilis\u00e9es \u00e0 la place"
 }

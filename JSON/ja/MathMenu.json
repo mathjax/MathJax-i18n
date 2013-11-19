@@ -1,11 +1,12 @@
 {
     "@metadata": {
         "authors": [
+            "Fryed-peach",
             "Shirayuki",
             "\uc544\ub77c"
         ]
     },
-    "Show": "\u6570\u5f0f\u3092\u8868\u793a",
+    "Show": "\u6570\u5f0f\u3092\u6b21\u306e\u5f62\u5f0f\u3067\u8868\u793a",
     "MathMLcode": "MathML \u30b3\u30fc\u30c9",
     "OriginalMathML": "\u5143\u306e MathML",
     "TeXCommands": "TeX \u30b3\u30de\u30f3\u30c9",
@@ -20,7 +21,7 @@
     "OpenMath": "OpenMath",
     "texHints": "MathML \u3067 TeX \u306e\u30d2\u30f3\u30c8\u3092\u8868\u793a",
     "Settings": "\u6570\u5f0f\u306e\u8a2d\u5b9a",
-    "ZoomTrigger": "\u30ba\u30fc\u30e0\u306e\u30c8\u30ea\u30ac\u30fc",
+    "ZoomTrigger": "\u30ba\u30fc\u30e0\u306e\u958b\u59cb\u64cd\u4f5c",
     "Hover": "\u30db\u30d0\u30fc",
     "Click": "\u30af\u30ea\u30c3\u30af",
     "DoubleClick": "\u30c0\u30d6\u30eb\u30af\u30ea\u30c3\u30af",
@@ -44,6 +45,12 @@
     "TeXWeb": "TeX (Web)",
     "TeXImage": "TeX (\u753b\u50cf)",
     "STIXLocal": "STIX (\u30ed\u30fc\u30ab\u30eb)",
+    "STIXWeb": "STIX (Web)",
+    "AsanaMathWeb": "Asana Math (Web)",
+    "GyrePagellaWeb": "Gyre Pagella (Web)",
+    "GyreTermesWeb": "Gyre Termes (Web)",
+    "LatinModernWeb": "Latin Modern (Web)",
+    "NeoEulerWeb": "Neo Euler (Web)",
     "ContextMenu": "\u30b3\u30f3\u30c6\u30ad\u30b9\u30c8 \u30e1\u30cb\u30e5\u30fc",
     "Browser": "\u30d6\u30e9\u30a6\u30b6\u30fc",
     "Scale": "\u3059\u3079\u3066\u306e\u6570\u5f0f\u306e\u500d\u7387\u3092\u5909\u66f4...",

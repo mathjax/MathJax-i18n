@@ -45,6 +45,8 @@
     "TeXWeb": "TeX\uff08\u7f51\u9875\uff09",
     "TeXImage": "TeX\uff08\u56fe\u7247\uff09",
     "STIXLocal": "STIX\uff08\u672c\u5730\uff09",
+    "STIXWeb": "STIX\uff08web\uff09",
+    "LatinModernWeb": "\u62c9\u4e01\u6469\u767b\uff08web\uff09",
     "ContextMenu": "\u4e0a\u4e0b\u6587\u83dc\u5355",
     "Browser": "\u6d4f\u89c8\u5668",
     "Scale": "\u7f29\u653e\u6240\u6709\u6570\u5b66...",
