@@ -1,6 +1,7 @@
 {
     "@metadata": {
         "authors": [
+            "Chmee2",
             "Mormegil"
         ]
     },
@@ -59,5 +60,7 @@
     "eotffonts": "p\u00edsma eot",
     "svgfonts": "p\u00edsma svg",
     "SwitchAnyway": "Chcete p\u0159esto p\u0159epnout vykreslov\u00e1n\u00ed?\n\n(Stiskn\u011bte OK pro p\u0159epnut\u00ed, STORNO pro pokra\u010dov\u00e1n\u00ed se st\u00e1vaj\u00edc\u00edm vykreslov\u00e1n\u00edm.)",
+    "NonZeroScale": "Rozsah by nem\u011bl b\u00fdt nulov\u00fd",
+    "PercentScale": "Rozsah by m\u011bl b\u00fdt v procentech (nap\u0159\u00edklad 120 %)",
     "Close": "Zav\u0159\u00edt"
 }

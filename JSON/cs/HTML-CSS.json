@@ -1,10 +1,12 @@
 {
     "@metadata": {
         "authors": [
+            "Chmee2",
             "Mormegil"
         ]
     },
     "LoadWebFont": "Na\u010d\u00edt\u00e1 se web-font $1",
     "CantLoadWebFont": "Nelze na\u010d\u00edst web-font $1",
-    "FirefoxCantLoadWebFont": "Firefox nem\u016f\u017ee na\u010d\u00edtat web-fonty ze vzd\u00e1len\u00e9ho hostitele"
+    "FirefoxCantLoadWebFont": "Firefox nem\u016f\u017ee na\u010d\u00edtat web-fonty ze vzd\u00e1len\u00e9ho hostitele",
+    "CantFindFontUsing": "Nelze naj\u00edt platn\u00fd font pomoc\u00ed $1"
 }
