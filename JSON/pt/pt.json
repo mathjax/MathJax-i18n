@@ -5,15 +5,15 @@
             "Waldir"
         ]
     },
-    "CookieConfig": "O MathJax encontrou um cookie com configura\u00e7\u00f5es de utilizador que inclui c\u00f3digo a ser executado. Deseja execut\u00e1-lo?\n\n(Escolha Cancelar a n\u00e3o ser que voc\u00ea mesmo tenha criado o cookie.)",
-    "MathProcessingError": "Erro no processamento das f\u00f3rmulas",
-    "MathError": "Erro de matem\u00e1tica",
+    "CookieConfig": "O MathJax encontrou um cookie com configurações de utilizador que inclui código a ser executado. Deseja executá-lo?\n\n(Escolha Cancelar a não ser que você mesmo tenha criado o cookie.)",
+    "MathProcessingError": "Erro no processamento das fórmulas",
+    "MathError": "Erro de matemática",
     "LoadFile": "A carregar $1",
     "Loading": "A carregar",
-    "LoadFailed": "O ficheiro n\u00e3o pode ser carregado: $1",
-    "ProcessMath": "Processando f\u00f3rmula: $1%",
+    "LoadFailed": "O ficheiro não pode ser carregado: $1",
+    "ProcessMath": "Processando fórmula: $1%",
     "Processing": "Processando",
-    "TypesetMath": "Formatando f\u00f3rmulas: $1%",
+    "TypesetMath": "Formatando fórmulas: $1%",
     "Typesetting": "Formatando",
-    "MathJaxNotSupported": "O seu navegador n\u00e3o suporta MathJax"
+    "MathJaxNotSupported": "O seu navegador não suporta MathJax"
 }

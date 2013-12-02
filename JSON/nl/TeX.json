@@ -52,7 +52,7 @@
     "BadMathStyleFor": "Foute wiskunde stijl voor $1",
     "PositiveIntegerArg": "Het argument voor $1 moet een positief geheel getal zijn",
     "ErroneousNestingEq": "Foutieve nesting van vergelijking structuren",
-    "MultlineRowsOneCol": "De regels in de $1 omgeving moeten precies \u00e9\u00e9n kolom bevatten",
+    "MultlineRowsOneCol": "De regels in de $1 omgeving moeten precies één kolom bevatten",
     "MultipleBBoxProperty": "$1 twee keer gespecificeerd in $2",
     "InvalidBBoxProperty": "'$1' lijkt niet op een kleur, een opvuldimensie of een stijl",
     "ExtraEndMissingBegin": "Overtollige $1 of ontbrekende \\begingroup",

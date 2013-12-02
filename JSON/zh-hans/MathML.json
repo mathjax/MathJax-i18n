@@ -5,14 +5,14 @@
             "Liuxinyu970226"
         ]
     },
-    "BadMglyph": "\u9519\u8bef\u7684\u79fb\u52a8\u5b57\u5f62\uff1a$1",
-    "BadMglyphFont": "\u9519\u8bef\u5b57\u4f53\uff1a$1",
-    "MathPlayer": "MathJax\u65e0\u6cd5\u542f\u7528MathPlayer\u3002\n\n\u5982\u679c\u8fd8\u6ca1\u6709\u5b89\u88c5MathPlayer\uff0c\u60a8\u5fc5\u987b\u5148\u5b89\u88c5MathPlayer\u3002\n\u5982\u679c\u60a8\u7684\u5b89\u5168\u8bbe\u7f6e\u6709\u53ef\u80fd\u4f1a\u963b\u6b62ActiveX\u7684\u8fd0\u884c\uff0c\u8bf7\u5728\n\u5de5\u5177\u83dc\u5355\u4e0b\u7684Internet \u9009\u9879\u4e2d\u9009\u62e9\u5b89\u5168\u6807\u7b7e\u7136\u540e\u70b9\u51fb\n\u81ea\u5b9a\u4e49\u7ea7\u522b\uff0c\u68c0\u67e5\n\u201c\u4e8c\u8fdb\u5236\u6587\u4ef6\u548c\u811a\u672c\u884c\u4e3a\u201d\u548c\u201c\u8fd0\u884c ActiveX \u63a7\u4ef6\u201d\n\u662f\u5426\u5df2\u542f\u7528\u3002\n\n\u76ee\u524d\u60a8\u770b\u5230\u7684\u53ea\u80fd\u662f\u9519\u8bef\u4fe1\u606f\u800c\u975e\u6392\u7248\u6570\u5f0f\u3002",
-    "CantCreateXMLParser": "MathJax\u65e0\u6cd5\u4e3aMathML\u521b\u5efaXML\u89e3\u6790\u5668\u3002\u8bf7\u68c0\u67e5\u5b89\u5168\u8bbe\u7f6e\n\u201c\u5bf9\u6807\u8bb0\u4e3a\u53ef\u5b89\u5168\u6267\u884c\u811a\u672c\u7684 Active \u63a7\u4ef6\u6267\u884c\u811a\u672c\u201d\n\u662f\u5426\u5df2\u5f00\u542f\uff08\u5728\u5de5\u5177\u4e2d\u5f00\u542fInternet \u9009\u9879\u7136\u540e\u9009\u62e9\u5b89\u5168\n\u9762\u677f\uff0c\u70b9\u81ea\u5b9a\u4e49\u7ea7\u522b\u6309\u94ae\u627e\u5230\u8fd9\u4e2a\u9009\u9879\u5e76\u5f00\u542f\uff09\u3002\n\nMathJax\u5c06\u65e0\u6cd5\u5904\u7406MathML\u7b49\u5f0f\u3002",
-    "UnknownNodeType": "\u672a\u77e5\u7684\u8282\u70b9\u7c7b\u578b\uff1a$1",
-    "UnexpectedTextNode": "\u610f\u5916\u7684\u6587\u672c\u8282\u70b9\uff1a$1",
-    "ErrorParsingMathML": "\u89e3\u6790MathML\u65f6\u51fa\u9519",
-    "ParsingError": "\u89e3\u6790MathML\u65f6\u51fa\u9519\uff1a$1",
-    "MathMLSingleElement": "MathML\u5fc5\u987b\u7528\u5355\u4e2a\u5143\u7d20\u5efa\u7acb",
-    "MathMLRootElement": "MathML\u5fc5\u987b\u7528\u003Cmath\u003E\u5143\u7d20\u5efa\u7acb\uff0c\u800c\u4e0d\u662f$1"
+    "BadMglyph": "错误的移动字形：$1",
+    "BadMglyphFont": "错误字体：$1",
+    "MathPlayer": "MathJax无法启用MathPlayer。\n\n如果还没有安装MathPlayer，您必须先安装MathPlayer。\n如果您的安全设置有可能会阻止ActiveX的运行，请在\n工具菜单下的Internet 选项中选择安全标签然后点击\n自定义级别，检查\n“二进制文件和脚本行为”和“运行 ActiveX 控件”\n是否已启用。\n\n目前您看到的只能是错误信息而非排版数式。",
+    "CantCreateXMLParser": "MathJax无法为MathML创建XML解析器。请检查安全设置\n“对标记为可安全执行脚本的 Active 控件执行脚本”\n是否已开启（在工具中开启Internet 选项然后选择安全\n面板，点自定义级别按钮找到这个选项并开启）。\n\nMathJax将无法处理MathML等式。",
+    "UnknownNodeType": "未知的节点类型：$1",
+    "UnexpectedTextNode": "意外的文本节点：$1",
+    "ErrorParsingMathML": "解析MathML时出错",
+    "ParsingError": "解析MathML时出错：$1",
+    "MathMLSingleElement": "MathML必须用单个元素建立",
+    "MathMLRootElement": "MathML必须用\u003Cmath\u003E元素建立，而不是$1"
 }

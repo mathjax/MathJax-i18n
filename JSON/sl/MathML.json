@@ -6,12 +6,12 @@
     },
     "BadMglyph": "Neveljaven mglyph: $1",
     "BadMglyphFont": "Neveljavna pisava: $1",
-    "MathPlayer": "MathJax ni mogel nastaviti programa MathPlayer.\n\n\u010ce MathPlayer ni name\u0161\u010den, ga morate najprej namestiti. Sicer morda njegov zahon prepre\u010dujejo va\u0161e varnostne nastavitve. Uporabite element Internetne mo\u017enosti [Internet Options] pod menijem Orodja [Tools] in izberite zavihek Varnost [Security], nato pritisnite gumb Prilagojena raven [Custom Level]. Preverite, alo so nastavitve za 'Za\u017eeni krmilne elemente ActiveX' in 'Binarna in skriptna vedenja' omogo\u010dene.\n\nTrenutno boste namesto matematike videli sporo\u010dila o napakah.",
-    "CantCreateXMLParser": "MathJax ne more ustvariti raz\u010dlenjevalnika XML za MathML. Preverite, ali je varnostna nastavitev 'Krmilni elementi Script ActiveX ozna\u010deni kot varni za skriptiranje' omogo\u010dena (da to preverite, v meniju Orodja [Tools] uporabite element Internetne mo\u017enosti [Internet Options], nato izberite plo\u0161\u010do Varnost [Security], nato pritisnite gumb Prilagojena raven [Custom Level]).",
-    "UnknownNodeType": "Neznana vrsta vozli\u0161\u010da: $1",
-    "UnexpectedTextNode": "Nepri\u010dakovano tekstovno vozli\u0161\u010de: $1",
-    "ErrorParsingMathML": "Napaka pri raz\u010dlenjevanju MathML",
-    "ParsingError": "Napaka pri raz\u010dlenjevanju MathML: $1",
+    "MathPlayer": "MathJax ni mogel nastaviti programa MathPlayer.\n\nČe MathPlayer ni nameščen, ga morate najprej namestiti. Sicer morda njegov zahon preprečujejo vaše varnostne nastavitve. Uporabite element Internetne možnosti [Internet Options] pod menijem Orodja [Tools] in izberite zavihek Varnost [Security], nato pritisnite gumb Prilagojena raven [Custom Level]. Preverite, alo so nastavitve za 'Zaženi krmilne elemente ActiveX' in 'Binarna in skriptna vedenja' omogočene.\n\nTrenutno boste namesto matematike videli sporočila o napakah.",
+    "CantCreateXMLParser": "MathJax ne more ustvariti razčlenjevalnika XML za MathML. Preverite, ali je varnostna nastavitev 'Krmilni elementi Script ActiveX označeni kot varni za skriptiranje' omogočena (da to preverite, v meniju Orodja [Tools] uporabite element Internetne možnosti [Internet Options], nato izberite ploščo Varnost [Security], nato pritisnite gumb Prilagojena raven [Custom Level]).",
+    "UnknownNodeType": "Neznana vrsta vozlišča: $1",
+    "UnexpectedTextNode": "Nepričakovano tekstovno vozlišče: $1",
+    "ErrorParsingMathML": "Napaka pri razčlenjevanju MathML",
+    "ParsingError": "Napaka pri razčlenjevanju MathML: $1",
     "MathMLSingleElement": "MathML mora biti oblikovan z enim samim elementom",
     "MathMLRootElement": "MathML mora biti oblikovan z elementom \u003Cmath\u003E, ne s korenom $1"
 }

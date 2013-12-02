@@ -8,7 +8,7 @@
     "BadMglyphFont": "Font fall : $1",
     "UnknownNodeType": "Seurt skoulm dianav : $1",
     "UnexpectedTextNode": "Skoulm testenn dic'hortoz : $1",
-    "ErrorParsingMathML": "Fazi o tielfenna\u00f1 MathML",
-    "ParsingError": "Fazi o ielfenna\u00f1 MathML : $1",
-    "MathMLSingleElement": "MathML a rank beza\u00f1 stummet gant un elfenn hepken"
+    "ErrorParsingMathML": "Fazi o tielfennañ MathML",
+    "ParsingError": "Fazi o ielfennañ MathML : $1",
+    "MathMLSingleElement": "MathML a rank bezañ stummet gant un elfenn hepken"
 }

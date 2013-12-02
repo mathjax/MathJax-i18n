@@ -4,15 +4,15 @@
             "Amire80"
         ]
     },
-    "CookieConfig": "MathJax \u05de\u05e6\u05d0 \u05e2\u05d5\u05d2\u05d9\u05d9\u05ea \u05d4\u05d2\u05d3\u05e8\u05d5\u05ea \u05de\u05e9\u05ea\u05de\u05e9 \u05e9\u05db\u05d5\u05dc\u05dc\u05ea \u05e7\u05d5\u05d3 \u05dc\u05d4\u05e8\u05e6\u05d4. \u05d4\u05d0\u05dd \u05dc\u05d4\u05e8\u05d9\u05e5 \u05d0\u05d5\u05ea\u05d5?\n\n(\u05d9\u05e9 \u05dc\u05dc\u05d7\u05d5\u05e5 \"\u05d1\u05d9\u05d8\u05d5\u05dc\" \u05d0\u05dc\u05d0 \u05d0\u05dd \u05d4\u05d2\u05d3\u05e8\u05ea \u05d0\u05ea \u05d4\u05e2\u05d5\u05d2\u05d9\u05d9\u05d4 \u05d1\u05e2\u05e6\u05de\u05da.)",
-    "MathProcessingError": "\u05e9\u05d2\u05d9\u05d0\u05d4 \u05d1\u05e2\u05d9\u05d1\u05d5\u05d3 \u05e0\u05d5\u05e1\u05d7\u05d4",
-    "MathError": "\u05e9\u05d2\u05d9\u05d0\u05d4 \u05d1\u05e0\u05d5\u05e1\u05d7\u05d4",
-    "LoadFile": "\u05d8\u05e2\u05d9\u05e0\u05ea $1",
-    "Loading": "\u05d8\u05e2\u05d9\u05e0\u05d4",
-    "LoadFailed": "\u05d4\u05e7\u05d5\u05d1\u05e5 \u05dc\u05d0 \u05e0\u05d8\u05e2\u05df: $1",
-    "ProcessMath": "\u05e2\u05d9\u05d1\u05d5\u05d3 \u05e0\u05d5\u05e1\u05d7\u05d0\u05d5\u05ea: $1%",
-    "Processing": "\u05e2\u05d9\u05d1\u05d5\u05d3",
-    "TypesetMath": "\u05e1\u05d3\u05b7\u05e8 \u05e0\u05d5\u05e1\u05d7\u05d0\u05d5\u05ea: $1%",
-    "Typesetting": "\u05e1\u05d3\u05b7\u05e8",
-    "MathJaxNotSupported": "\u05d4\u05d3\u05e4\u05d3\u05e4\u05df \u05e9\u05dc\u05da \u05d0\u05d9\u05e0\u05d5 \u05ea\u05d5\u05de\u05da \u05d1\u05beMathJax"
+    "CookieConfig": "MathJax מצא עוגיית הגדרות משתמש שכוללת קוד להרצה. האם להריץ אותו?\n\n(יש ללחוץ \"ביטול\" אלא אם הגדרת את העוגייה בעצמך.)",
+    "MathProcessingError": "שגיאה בעיבוד נוסחה",
+    "MathError": "שגיאה בנוסחה",
+    "LoadFile": "טעינת $1",
+    "Loading": "טעינה",
+    "LoadFailed": "הקובץ לא נטען: $1",
+    "ProcessMath": "עיבוד נוסחאות: $1%",
+    "Processing": "עיבוד",
+    "TypesetMath": "סדַר נוסחאות: $1%",
+    "Typesetting": "סדַר",
+    "MathJaxNotSupported": "הדפדפן שלך אינו תומך ב־MathJax"
 }

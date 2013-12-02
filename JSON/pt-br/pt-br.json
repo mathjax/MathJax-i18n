@@ -4,15 +4,15 @@
             "helder"
         ]
     },
-    "CookieConfig": "O MathJax encontrou um cookie com configura\u00e7\u00f5es de usu\u00e1rio que inclui c\u00f3digo a ser executado. Deseja execut\u00e1-lo?\n\n(Voc\u00ea deve pressionar Cancelar a n\u00e3o ser que voc\u00ea mesmo tenha criado o cookie.)",
-    "MathProcessingError": "Erro no Processamento das F\u00f3rmulas",
-    "MathError": "Erro nas F\u00f3rmulas",
+    "CookieConfig": "O MathJax encontrou um cookie com configurações de usuário que inclui código a ser executado. Deseja executá-lo?\n\n(Você deve pressionar Cancelar a não ser que você mesmo tenha criado o cookie.)",
+    "MathProcessingError": "Erro no Processamento das Fórmulas",
+    "MathError": "Erro nas Fórmulas",
     "LoadFile": "Carregando $1",
     "Loading": "Carregando",
-    "LoadFailed": "O arquivo n\u00e3o pode ser carregado: $1",
-    "ProcessMath": "Processando F\u00f3rmula: $1%",
+    "LoadFailed": "O arquivo não pode ser carregado: $1",
+    "ProcessMath": "Processando Fórmula: $1%",
     "Processing": "Processando",
-    "TypesetMath": "Realizando a Diagrama\u00e7\u00e3o das F\u00f3rmulas: $1%",
-    "Typesetting": "Realizando a Diagrama\u00e7\u00e3o",
-    "MathJaxNotSupported": "Seu navegador n\u00e3o suporta MathJax"
+    "TypesetMath": "Realizando a Diagramação das Fórmulas: $1%",
+    "Typesetting": "Realizando a Diagramação",
+    "MathJaxNotSupported": "Seu navegador não suporta MathJax"
 }

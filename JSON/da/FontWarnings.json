@@ -4,11 +4,11 @@
             "Christian List"
         ]
     },
-    "webFont": "MathJax bruger web-baserede skrifttyper til at vise det matematiske p\u00e5 denne side.  Dette tager tid at hente, s\u00e5 siden ville blive hurtigere, hvis du installerede matematiske skrifttyper direkte i dit systems skrifttypemappe.",
-    "imageFonts": "MathJax bruger sine billedeskrifttyper snarere end lokale eller web-baserede skrifttyper. Dette vil g\u00f8re visningen langsommere end s\u00e6dvanligt, og matematik kan ikke udskrives med printerens fulde opl\u00f8sning.",
-    "noFonts": "MathJax er ikke i stand til at finde en skrifttype, som kan bruges til at vise matematikken, og billedeskrifttyper er ikke tilg\u00e6ngelige, s\u00e5 der faldes tilbage p\u00e5 generiske Unicode-tegn i h\u00e5b om, at din browser vil v\u00e6re i stand til at vise dem. Nogle tegn kan m\u00e5ske ikke vises korrekt, eller muligvis slet ikke.",
-    "webFonts": "De fleste moderne browsere giver mulighed for at hente skrifttyper over nettet. At opdatere til en nyere version af din browser (eller skifte browser) kunne forbedre kvaliteten af matematik p\u00e5 denne side.",
+    "webFont": "MathJax bruger web-baserede skrifttyper til at vise det matematiske på denne side.  Dette tager tid at hente, så siden ville blive hurtigere, hvis du installerede matematiske skrifttyper direkte i dit systems skrifttypemappe.",
+    "imageFonts": "MathJax bruger sine billedeskrifttyper snarere end lokale eller web-baserede skrifttyper. Dette vil gøre visningen langsommere end sædvanligt, og matematik kan ikke udskrives med printerens fulde opløsning.",
+    "noFonts": "MathJax er ikke i stand til at finde en skrifttype, som kan bruges til at vise matematikken, og billedeskrifttyper er ikke tilgængelige, så der faldes tilbage på generiske Unicode-tegn i håb om, at din browser vil være i stand til at vise dem. Nogle tegn kan måske ikke vises korrekt, eller muligvis slet ikke.",
+    "webFonts": "De fleste moderne browsere giver mulighed for at hente skrifttyper over nettet. At opdatere til en nyere version af din browser (eller skifte browser) kunne forbedre kvaliteten af matematik på denne side.",
     "fonts": "MathJax kan bruge enten [STIX fonts]($1) eller [MathJax TeX fonts]($2). Hent og installer en af disse skrifttyper for at forbedre din MathJax oplevelse.",
-    "STIXPage": "Denne side er designet til at bruge [STIX fonts]($1). Hent og install\u00e9r disse skrifttyper for at forbedre oplevelsen med MathJax.",
-    "TeXPage": "Denne side er designet til at bruge [MathJax TeX fonts]($1).  Hent og install\u00e9r disse skrifttyper for at forbedre oplevelsen med MathJax."
+    "STIXPage": "Denne side er designet til at bruge [STIX fonts]($1). Hent og installér disse skrifttyper for at forbedre oplevelsen med MathJax.",
+    "TeXPage": "Denne side er designet til at bruge [MathJax TeX fonts]($1).  Hent og installér disse skrifttyper for at forbedre oplevelsen med MathJax."
 }

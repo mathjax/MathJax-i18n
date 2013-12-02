@@ -5,8 +5,8 @@
         ]
     },
     "LoadWebFont": "Carregando fonte baseada em web $1",
-    "CantLoadWebFont": "N\u00e3o foi poss\u00edvel carregar a fonte baseada em web $1",
-    "FirefoxCantLoadWebFont": "O Firefox N\u00e3o pode carregar fontes baseadas em web a partir de um host remoto",
-    "CantFindFontUsing": "N\u00e3o \u00e9 poss\u00edvel encontrar uma fonte v\u00e1lida usando $1",
-    "WebFontsNotAvailable": "Fontes baseadas em web n\u00e3o est\u00e3o dispon\u00edveis -- usando fontes feitas com imagens em vez disso"
+    "CantLoadWebFont": "Não foi possível carregar a fonte baseada em web $1",
+    "FirefoxCantLoadWebFont": "O Firefox Não pode carregar fontes baseadas em web a partir de um host remoto",
+    "CantFindFontUsing": "Não é possível encontrar uma fonte válida usando $1",
+    "WebFontsNotAvailable": "Fontes baseadas em web não estão disponíveis -- usando fontes feitas com imagens em vez disso"
 }

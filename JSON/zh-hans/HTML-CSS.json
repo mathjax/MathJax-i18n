@@ -4,9 +4,9 @@
             "Liuxinyu970226"
         ]
     },
-    "LoadWebFont": "\u52a0\u8f7dweb\u5b57\u4f53$1",
-    "CantLoadWebFont": "Web\u5b57\u4f53$1\u65e0\u6cd5\u52a0\u8f7d",
-    "FirefoxCantLoadWebFont": "\u60a8\u5728\u4f7f\u7528\u706b\u72d0\u6d4f\u89c8\u5668\uff0c\u5979\u4e0d\u652f\u6301\u4ece\u8fdc\u7a0b\u4e3b\u673a\u4e0b\u8f7d\u4efb\u4f55web\u5b57\u4f53",
-    "CantFindFontUsing": "\u65e0\u6cd5\u627e\u5230\u4f7f\u7528$1\u7684\u6709\u6548\u5b57\u4f53",
-    "WebFontsNotAvailable": "Web\u5b57\u4f53\u4e0d\u77e5\u4e3a\u4f55\u65e0\u6cd5\u4f7f\u7528\uff1f\uff01\u2014\u2014\u6211\u4eec\u5c06\u4e3a\u9601\u4e0b\u8f6c\u6362\u4e3a\u56fe\u7247\u5b57\u4f53"
+    "LoadWebFont": "加载web字体$1",
+    "CantLoadWebFont": "Web字体$1无法加载",
+    "FirefoxCantLoadWebFont": "您在使用火狐浏览器，她不支持从远程主机下载任何web字体",
+    "CantFindFontUsing": "无法找到使用$1的有效字体",
+    "WebFontsNotAvailable": "Web字体不知为何无法使用？！——我们将为阁下转换为图片字体"
 }

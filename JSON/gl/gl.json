@@ -1,18 +1,18 @@
 {
     "@metadata": {
         "authors": [
-            "Toli\u00f1o"
+            "Toliño"
         ]
     },
-    "CookieConfig": "MathJax atopou unha cookie de configuraci\u00f3n de usuario que incl\u00fae c\u00f3digo executable. Quere executar ese c\u00f3digo?\n\n(Deber\u00eda premer en \"Cancelar\", a menos que vostede crease a cookie.)",
-    "MathProcessingError": "Erro de procesamento da f\u00f3rmula matem\u00e1tica",
-    "MathError": "Erro na f\u00f3rmula matem\u00e1tica",
+    "CookieConfig": "MathJax atopou unha cookie de configuración de usuario que inclúe código executable. Quere executar ese código?\n\n(Debería premer en \"Cancelar\", a menos que vostede crease a cookie.)",
+    "MathProcessingError": "Erro de procesamento da fórmula matemática",
+    "MathError": "Erro na fórmula matemática",
     "LoadFile": "Cargando \"$1\"",
     "Loading": "Cargando",
     "LoadFailed": "Erro ao cargar o ficheiro: $1",
-    "ProcessMath": "Procesando as f\u00f3rmulas: $1%",
+    "ProcessMath": "Procesando as fórmulas: $1%",
     "Processing": "Procesando",
-    "TypesetMath": "Compo\u00f1endo as f\u00f3rmulas: $1%",
-    "Typesetting": "Compo\u00f1endo",
+    "TypesetMath": "Compoñendo as fórmulas: $1%",
+    "Typesetting": "Compoñendo",
     "MathJaxNotSupported": "O seu navegador non soporta MathJax"
 }

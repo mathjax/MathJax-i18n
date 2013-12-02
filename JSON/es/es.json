@@ -6,15 +6,15 @@
             "Ovruni"
         ]
     },
-    "CookieConfig": "MathJax ha encontrado una cookie de configuraci\u00f3n de usuario que incluye c\u00f3digo para ser ejecutado.\u00bfQuieres ejecutarlo?\n\\n\n(Pulse Cancelar al menos que configure la cookie).",
-    "MathProcessingError": "Error de procesamiento de matem\u00e1ticas",
-    "MathError": "Error de matem\u00e1ticas",
+    "CookieConfig": "MathJax ha encontrado una cookie de configuración de usuario que incluye código para ser ejecutado.¿Quieres ejecutarlo?\n\\n\n(Pulse Cancelar al menos que configure la cookie).",
+    "MathProcessingError": "Error de procesamiento de matemáticas",
+    "MathError": "Error de matemáticas",
     "LoadFile": "Cargando $1",
     "Loading": "Cargando",
-    "LoadFailed": "Fall\u00f3 la carga del archivo: $1",
-    "ProcessMath": "Procesando matem\u00e1ticas: $1 %",
+    "LoadFailed": "Falló la carga del archivo: $1",
+    "ProcessMath": "Procesando matemáticas: $1 %",
     "Processing": "Procesando",
-    "TypesetMath": "Composici\u00f3n tipogr\u00e1fica en curso: $1 %",
-    "Typesetting": "Composici\u00f3n tipogr\u00e1fica",
+    "TypesetMath": "Composición tipográfica en curso: $1 %",
+    "Typesetting": "Composición tipográfica",
     "MathJaxNotSupported": "El navegador no admite MathJax"
 }

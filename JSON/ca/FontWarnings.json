@@ -1,0 +1,14 @@
+{
+    "@metadata": {
+        "authors": [
+            "Alvaro Vidal-Abarca"
+        ]
+    },
+    "webFont": "MathJax està utilitzant fonts basades en web per mostrar les expressions matemàtiques d'aquesta pàgina. Això porta un temps per descarregar, de tal manera que la pàgina es mostrarà més ràpidament si instal·leu les fonts matemàtiques directament a la vostra carpeta de sistema de fonts.",
+    "imageFonts": "MathJaz està utilitzant les seves fonts d'imatge en comptes de fonts locals o basades en web. Això pot fer que la composició de la pàgina sigui més lenta que l'habitual, i les expressions matemàtiques poden no imprimir-se a resolució completa en la vostra impressora.",
+    "noFonts": "MathJax no pot localitzar una font per utilitzar-la a l'hora de mostrar les expressions matemàtiques, de tal manera que es recolza en caràcters Unicode genèrics, amb el supòsit que el vostre navegador serà capaç de mostrar-les. Alguns caràcters poden no mostrar-se correctament, o fins i tot poden no mostrar-se en absolut.",
+    "webFonts": "La majoria de navegadors moderns permeten la descàrrega de les fonts. Si actualitzeu a una versió més nova del vostre navegador (o si canvieu de navegador) podreu millorar la qualitat de les expressions matemàtiques d'aquesta pàgina.",
+    "fonts": "MathJax pot utilitzar tant les [fonts STIX]($1) com les [fonts TeX MathJax]($2). Descarregueu i instal·leu una d'aquestes fonts per millorar la vostra experiència MathJax.",
+    "STIXPage": "Aquesta pàgina està dissenyada per usar les [fonts STIX]($1). Descarregueu i instal·leu aquestes fonts per millorar la vostra experiència MathJax.",
+    "TeXPage": "Aquesta pàgina està dissenyada per usar les [fonts TeX MathJax]($1). Descarregueu i instal·leu aquestes fonts per millorar la vostra experiència MathJax."
+}

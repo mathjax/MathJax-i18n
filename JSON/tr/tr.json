@@ -4,11 +4,11 @@
             "Meelo"
         ]
     },
-    "MathProcessingError": "Matematik i\u015fleme hatas\u0131",
-    "MathError": "Matematik hatas\u0131",
-    "LoadFile": "$1 Y\u00fckleniyor",
-    "Loading": "Y\u00fckleniyor",
-    "LoadFailed": "Dosya y\u00fcklenemedi: $1",
-    "ProcessMath": "Matematik i\u015fleme: %$1",
-    "MathJaxNotSupported": "Taray\u0131c\u0131n\u0131z MathJax'i desteklemiyor"
+    "MathProcessingError": "Matematik işleme hatası",
+    "MathError": "Matematik hatası",
+    "LoadFile": "$1 Yükleniyor",
+    "Loading": "Yükleniyor",
+    "LoadFailed": "Dosya yüklenemedi: $1",
+    "ProcessMath": "Matematik işleme: %$1",
+    "MathJaxNotSupported": "Tarayıcınız MathJax'i desteklemiyor"
 }

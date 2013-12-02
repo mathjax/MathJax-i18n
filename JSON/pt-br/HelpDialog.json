@@ -5,13 +5,13 @@
         ]
     },
     "Help": "Ajuda do MathJax",
-    "MathJax": "*MathJax* \u00e9 uma biblioteca em JavaScript que permite aos autores a inclus\u00e3o de conte\u00fado matem\u00e1tico em suas p\u00e1ginas web. Como um renderizador, voc\u00ea n\u00e3o precisa fazer qualquer coisa para que isso ocorra.",
-    "Browsers": "*Navegadores*: O MathJax funciona em todos os navegadores modernos incluindo IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ e a maioria dos navegadores para dispositivos m\u00f3veis.",
-    "Menu": "*Menu de F\u00f3rmulas*: O MathJax acrescenta um menu de contexto \u00e0s equa\u00e7\u00f5es. Clique com o bot\u00e3o direito ou pressione CTRL ao clicar em qualquer f\u00f3rmula matem\u00e1tica para acessar o menu.",
-    "ShowMath": "*Mostrar F\u00f3rmulas Como* permite que visualize o c\u00f3digo da f\u00f3rmula para copiar e colar (como MathML ou em seu formato original).",
-    "Settings": "*Configura\u00e7\u00f5es* oferecem a voc\u00ea o controle sobre os recursos do MathJax, tais como o tamanho das f\u00f3rmulas, e o mecanismo utilizado para exibir equa\u00e7\u00f5es.",
+    "MathJax": "*MathJax* é uma biblioteca em JavaScript que permite aos autores a inclusão de conteúdo matemático em suas páginas web. Como um renderizador, você não precisa fazer qualquer coisa para que isso ocorra.",
+    "Browsers": "*Navegadores*: O MathJax funciona em todos os navegadores modernos incluindo IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ e a maioria dos navegadores para dispositivos móveis.",
+    "Menu": "*Menu de Fórmulas*: O MathJax acrescenta um menu de contexto às equações. Clique com o botão direito ou pressione CTRL ao clicar em qualquer fórmula matemática para acessar o menu.",
+    "ShowMath": "*Mostrar Fórmulas Como* permite que visualize o código da fórmula para copiar e colar (como MathML ou em seu formato original).",
+    "Settings": "*Configurações* oferecem a você o controle sobre os recursos do MathJax, tais como o tamanho das fórmulas, e o mecanismo utilizado para exibir equações.",
     "Language": "*Idioma* permite que escolha o idioma que o MathJax utiliza em seus menus e mensagens de aviso.",
-    "Zoom": "*Zoom nas F\u00f3rmulas*: Se voc\u00ea tem dificuldade para ler uma equa\u00e7\u00e3o, o MathJax pode ampli\u00e1-la para ajud\u00e1-lo a visualiz\u00e1-la melhor.",
-    "Accessibilty": "*Acessibilidade*: O MathJax funcionar\u00e1 automaticamente em leitores de tela para tornar as f\u00f3rmulas matem\u00e1ticas acess\u00edveis aos que possuem problemas de vis\u00e3o.",
-    "Fonts": "*Fontes*: O MathJax utilizar\u00e1 certas fontes para f\u00f3rmulas matem\u00e1ticas se elas estiverem instaladas no seu computador; caso contr\u00e1rio, ele utilizar\u00e1 fontes baseadas em web. Embora n\u00e3o seja obrigat\u00f3rio, o uso de fontes instaladas localmente acelerar\u00e1 a diagrama\u00e7\u00e3o. Sugerimos que instale [fontes STIX]($1)."
+    "Zoom": "*Zoom nas Fórmulas*: Se você tem dificuldade para ler uma equação, o MathJax pode ampliá-la para ajudá-lo a visualizá-la melhor.",
+    "Accessibilty": "*Acessibilidade*: O MathJax funcionará automaticamente em leitores de tela para tornar as fórmulas matemáticas acessíveis aos que possuem problemas de visão.",
+    "Fonts": "*Fontes*: O MathJax utilizará certas fontes para fórmulas matemáticas se elas estiverem instaladas no seu computador; caso contrário, ele utilizará fontes baseadas em web. Embora não seja obrigatório, o uso de fontes instaladas localmente acelerará a diagramação. Sugerimos que instale [fontes STIX]($1)."
 }

@@ -6,12 +6,12 @@
             "fred"
         ]
     },
-    "CookieConfig": "MathJax a trouv\u00e9 un t\u00e9moin (cookie) de configuration utilisateur qui inclut du code ex\u00e9cutable. Souhaitez vous l\u2019ex\u00e9cuter ?\n\n(Choisissez Annuler sauf si vous avez cr\u00e9\u00e9 ce t\u00e9moin vous-m\u00eame.)",
-    "MathProcessingError": "Erreur de traitement de la formule math\u00e9matique",
-    "MathError": "Erreur dans la formule math\u00e9matique",
-    "LoadFile": "T\u00e9l\u00e9chargement de $1",
-    "Loading": "T\u00e9l\u00e9chargement",
-    "LoadFailed": "\u00c9chec du t\u00e9l\u00e9chargement de $1",
+    "CookieConfig": "MathJax a trouvé un témoin (cookie) de configuration utilisateur qui inclut du code exécutable. Souhaitez vous l’exécuter ?\n\n(Choisissez Annuler sauf si vous avez créé ce témoin vous-même.)",
+    "MathProcessingError": "Erreur de traitement de la formule mathématique",
+    "MathError": "Erreur dans la formule mathématique",
+    "LoadFile": "Téléchargement de $1",
+    "Loading": "Téléchargement",
+    "LoadFailed": "Échec du téléchargement de $1",
     "ProcessMath": "Traitement des formules: $1%",
     "Processing": "En traitement",
     "TypesetMath": "Composition des formules: $1%",

@@ -4,14 +4,14 @@
             "Eleassar"
         ]
     },
-    "Help": "Pomo\u010d za MathJax",
-    "MathJax": "*MathJax* je javaskriptna knji\u017enica, ki ustvarjalcem spletnih strani omogo\u010da vklju\u010ditev matematike. Kot bralec ne potrebujete ni\u010desar, da bi se to zgodilo.",
-    "Browsers": "*Brskalniki*: MathJax deluje v vseh sodobnih brskalnikih, vklju\u010dno z IE6+, Firefoxom 3+, Chromeom 0.2+, Safarijem 2+, Opero 9.6+, in v ve\u010dini mobilnih brskalnikov.",
-    "Menu": "*Meni ena\u010db*: MathJax k ena\u010dbam doda kontekstni meni. Za dostop do menija matematiko desno kliknite ali jo kliknite ob dr\u017eanju tipke CTRL.",
-    "ShowMath": "*Prika\u017ei matematiko kot* vam omogo\u010da prikaz izvornega ozna\u010devanja formule za kopiranje in lepljenje (kot MathML ali v izvorni obliki).",
-    "Settings": "*Nastavitve* vam dajo nadzor nad mo\u017enostmi MathJaxa, kot so velikost matematike in mehanizem za prikaz ena\u010db.",
-    "Language": "*Jezik* vam omogo\u010da izbrati jezik, ki naj ga MathJax uporablja za svoje menije in opozorilna sporo\u010dila.",
-    "Zoom": "*Math Zoom*: \u010de imate te\u017eave pri branju ena\u010dbe, jo lahko MathJax pove\u010da, da jo boste bolje videli.",
-    "Accessibilty": "*Dostopnost*: MathJax samodejno deluje z bralniki zaslona in omogo\u010da dostop do matematike tudi slepim in slabovidnim.",
-    "Fonts": "*Pisave*: MathJax bo uporabljal nekatere matemati\u010dne pisave, \u010de so name\u0161\u010dene na ra\u010dunalniku, sicer pa pisave s spleta. \u010ceprav niso nujne, bodo lokalno name\u0161\u010dene pisave pospe\u0161ile prikaz. Predlagamo namestitev [pisav STIX]($1)."
+    "Help": "Pomoč za MathJax",
+    "MathJax": "*MathJax* je javaskriptna knjižnica, ki ustvarjalcem spletnih strani omogoča vključitev matematike. Kot bralec ne potrebujete ničesar, da bi se to zgodilo.",
+    "Browsers": "*Brskalniki*: MathJax deluje v vseh sodobnih brskalnikih, vključno z IE6+, Firefoxom 3+, Chromeom 0.2+, Safarijem 2+, Opero 9.6+, in v večini mobilnih brskalnikov.",
+    "Menu": "*Meni enačb*: MathJax k enačbam doda kontekstni meni. Za dostop do menija matematiko desno kliknite ali jo kliknite ob držanju tipke CTRL.",
+    "ShowMath": "*Prikaži matematiko kot* vam omogoča prikaz izvornega označevanja formule za kopiranje in lepljenje (kot MathML ali v izvorni obliki).",
+    "Settings": "*Nastavitve* vam dajo nadzor nad možnostmi MathJaxa, kot so velikost matematike in mehanizem za prikaz enačb.",
+    "Language": "*Jezik* vam omogoča izbrati jezik, ki naj ga MathJax uporablja za svoje menije in opozorilna sporočila.",
+    "Zoom": "*Math Zoom*: če imate težave pri branju enačbe, jo lahko MathJax poveča, da jo boste bolje videli.",
+    "Accessibilty": "*Dostopnost*: MathJax samodejno deluje z bralniki zaslona in omogoča dostop do matematike tudi slepim in slabovidnim.",
+    "Fonts": "*Pisave*: MathJax bo uporabljal nekatere matematične pisave, če so nameščene na računalniku, sicer pa pisave s spleta. Čeprav niso nujne, bodo lokalno nameščene pisave pospešile prikaz. Predlagamo namestitev [pisav STIX]($1)."
 }

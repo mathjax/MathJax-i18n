@@ -1,6 +1,7 @@
 {
     "@metadata": {
         "authors": [
+            "Mormegil",
             "Shirayuki",
             "fred"
         ]
@@ -82,7 +83,7 @@
     "PercentScale": "This is the alert message when the scale specified to 'ScaleMath' is not a percentage",
     "IE8warning": "This this the confirm message displayed for when the user chooses to let MathPlayer control the contextual menu (IE8)",
     "IE9warning": "This this the alert message displayed for when the user chooses to let MathPlayer control the contextual menu (IE9)",
-    "NoOriginalForm": "This is the alert box displayed when there are missing source formats for 'Show math as'",
+    "NoOriginalForm": "This is the alert box displayed when there are missing source formats for {{Msg-mathjax|Mathmenu-Show}}; see also {{Msg-mathjax|Mathmenu-Original}}.",
     "Close": "Closing button in the 'Show math as' window.\n{{Identical|Close}}",
     "EqSource": "This is the title of the 'Show math as' button.\n\nUsed in the \u003Ccode\u003E\u003Cnowiki\u003E\u003Ctitle\u003E\u003C/nowiki\u003E\u003C/code\u003E tag of the new window."
 }

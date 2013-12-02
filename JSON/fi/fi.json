@@ -4,14 +4,14 @@
             "Nike"
         ]
     },
-    "CookieConfig": "MathJax on l\u00f6yt\u00e4nyt ev\u00e4steen, joka sis\u00e4lt\u00e4\u00e4 asetuksia ja ohjelmakoodia. Haluatko ajaa sen?\n\n(Peru, ellet ole luonut ev\u00e4stett\u00e4 itse.)",
-    "MathProcessingError": "Matematiikan k\u00e4sittely ep\u00e4onnistui",
+    "CookieConfig": "MathJax on löytänyt evästeen, joka sisältää asetuksia ja ohjelmakoodia. Haluatko ajaa sen?\n\n(Peru, ellet ole luonut evästettä itse.)",
+    "MathProcessingError": "Matematiikan käsittely epäonnistui",
     "MathError": "Matematiikkavirhe",
     "LoadFile": "Ladataan tiedostoa $1",
     "Loading": "Ladataan",
-    "LoadFailed": "Tiedoston $1 lataaminen ep\u00e4onnistui",
-    "ProcessMath": "K\u00e4sitell\u00e4\u00e4n matematiikkaa: $1%",
-    "Processing": "K\u00e4sitell\u00e4\u00e4n",
+    "LoadFailed": "Tiedoston $1 lataaminen epäonnistui",
+    "ProcessMath": "Käsitellään matematiikkaa: $1%",
+    "Processing": "Käsitellään",
     "TypesetMath": "Ladotaan matematiikkaa: $1%",
     "Typesetting": "Ladotaan",
     "MathJaxNotSupported": "Selaimesi ei tue MathJaxia"

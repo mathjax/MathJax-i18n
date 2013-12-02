@@ -4,10 +4,10 @@
             "Evropi"
         ]
     },
-    "MathProcessingError": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03bc\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd",
-    "MathError": "\u039c\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1",
-    "LoadFile": "\u03a6\u03cc\u03c1\u03c4\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 $1 \u03c3\u03b5 \u03b5\u03be\u03ad\u03bb\u03b9\u03be\u03b7",
-    "Loading": "\u03a6\u03bf\u03c1\u03c4\u03ce\u03bd\u03b5\u03b9",
-    "Processing": "\u0395\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c3\u03b5 \u03b5\u03be\u03ad\u03bb\u03b9\u03be\u03b7",
-    "MathJaxNotSupported": "\u03a4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03c3\u03b1\u03c2 \u03b4\u03b5\u03bd \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03af\u03b6\u03b5\u03b9 \u03c4\u03bf MathJax"
+    "MathProcessingError": "Σφάλμα κατά την επεξεργασία μαθηματικών",
+    "MathError": "Μαθηματικά σφάλμα",
+    "LoadFile": "Φόρτωση του $1 σε εξέλιξη",
+    "Loading": "Φορτώνει",
+    "Processing": "Επεξεργασία σε εξέλιξη",
+    "MathJaxNotSupported": "Το πρόγραμμα περιήγησης σας δεν υποστηρίζει το MathJax"
 }

@@ -4,15 +4,15 @@
             "Minh Nguyen"
         ]
     },
-    "CookieConfig": "MathJax \u0111\u00e3 t\u00ecm th\u1ea5y m\u1ed9t cookie thi\u1ebft l\u1eadp c\u1ee7a ng\u01b0\u1eddi d\u00f9ng c\u00f3 m\u00e3 ngu\u1ed3n \u0111\u1ec3 ch\u1ea1y. B\u1ea1n c\u00f3 mu\u1ed1n ch\u1ea1y n\u00f3?\n\n(Khuy\u00ean b\u1ea1n b\u1ea5m H\u1ee7y b\u1ecf tr\u1eeb khi b\u1ea1n l\u00e0 ng\u01b0\u1eddi thi\u1ebft l\u1eadp cookie.)",
-    "MathProcessingError": "L\u1ed7i x\u1eed l\u00fd to\u00e1n",
-    "MathError": "L\u1ed7i to\u00e1n",
-    "LoadFile": "\u0110ang t\u1ea3i $1",
-    "Loading": "\u0110ang t\u1ea3i",
-    "LoadFailed": "Th\u1ea5t b\u1ea1i khi t\u1ea3i t\u1eadp tin: $1",
-    "ProcessMath": "\u0110ang x\u1eed l\u00fd to\u00e1n: $1%",
-    "Processing": "\u0110ang x\u1eed l\u00fd",
-    "TypesetMath": "\u0110ang x\u1ebfp ch\u1eef to\u00e1n: $1%",
-    "Typesetting": "\u0110ang x\u1ebfp ch\u1eef",
-    "MathJaxNotSupported": "Tr\u00ecnh duy\u1ec7t c\u1ee7a b\u1ea1n kh\u00f4ng h\u1ed7 tr\u1ee3 MathJax"
+    "CookieConfig": "MathJax đã tìm thấy một cookie thiết lập của người dùng có mã nguồn để chạy. Bạn có muốn chạy nó?\n\n(Khuyên bạn bấm Hủy bỏ trừ khi bạn là người thiết lập cookie.)",
+    "MathProcessingError": "Lỗi xử lý toán",
+    "MathError": "Lỗi toán",
+    "LoadFile": "Đang tải $1",
+    "Loading": "Đang tải",
+    "LoadFailed": "Thất bại khi tải tập tin: $1",
+    "ProcessMath": "Đang xử lý toán: $1%",
+    "Processing": "Đang xử lý",
+    "TypesetMath": "Đang xếp chữ toán: $1%",
+    "Typesetting": "Đang xếp chữ",
+    "MathJaxNotSupported": "Trình duyệt của bạn không hỗ trợ MathJax"
 }

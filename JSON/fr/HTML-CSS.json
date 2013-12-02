@@ -7,9 +7,9 @@
             "fred"
         ]
     },
-    "LoadWebFont": "T\u00e9l\u00e9chargement de la police web $1",
-    "CantLoadWebFont": "Impossible de t\u00e9l\u00e9charger la police web $1",
-    "FirefoxCantLoadWebFont": "Firefox ne peut pas charger les polices web depuis un h\u00f4te distant",
+    "LoadWebFont": "Téléchargement de la police web $1",
+    "CantLoadWebFont": "Impossible de télécharger la police web $1",
+    "FirefoxCantLoadWebFont": "Firefox ne peut pas charger les polices web depuis un hôte distant",
     "CantFindFontUsing": "Impossible de trouver une police valide en utilisant $1",
-    "WebFontsNotAvailable": "Polices web non disponibles. Les polices image seront utilis\u00e9es \u00e0 la place"
+    "WebFontsNotAvailable": "Polices web non disponibles. Les polices image seront utilisées à la place"
 }

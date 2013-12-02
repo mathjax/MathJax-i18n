@@ -5,15 +5,15 @@
             "Overlaet"
         ]
     },
-    "CookieConfig": "MathJax har fundet en cookie med brugerkonfiguration, der indeholder kode til at k\u00f8re. Vil du k\u00f8re det?\n\n(Du b\u00f8r trykke p\u00e5 Annuller, medmindre du oprettede cookien selv.)",
+    "CookieConfig": "MathJax har fundet en cookie med brugerkonfiguration, der indeholder kode til at køre. Vil du køre det?\n\n(Du bør trykke på Annuller, medmindre du oprettede cookien selv.)",
     "MathProcessingError": "Fejl under bearbejdning af matematik",
     "MathError": "Matematikfejl",
-    "LoadFile": "Indl\u00e6ser $1",
-    "Loading": "Indl\u00e6ser",
-    "LoadFailed": "Kunne ikke indl\u00e6se filen: $1",
+    "LoadFile": "Indlæser $1",
+    "Loading": "Indlæser",
+    "LoadFailed": "Kunne ikke indlæse filen: $1",
     "ProcessMath": "Bearbejder matematik: $1%",
     "Processing": "Bearbejder",
-    "TypesetMath": "Ops\u00e6tter matematik: $1%",
-    "Typesetting": "Ops\u00e6tter",
-    "MathJaxNotSupported": "Din browser underst\u00f8tter ikke MathJax"
+    "TypesetMath": "Opsætter matematik: $1%",
+    "Typesetting": "Opsætter",
+    "MathJaxNotSupported": "Din browser understøtter ikke MathJax"
 }

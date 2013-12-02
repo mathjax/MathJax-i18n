@@ -4,9 +4,9 @@
             "Shirayuki"
         ]
     },
-    "LoadWebFont": "Web \u30d5\u30a9\u30f3\u30c8 $1 \u3092\u8aad\u307f\u8fbc\u307f\u4e2d",
-    "CantLoadWebFont": "Web \u30d5\u30a9\u30f3\u30c8 $1 \u3092\u8aad\u307f\u8fbc\u3081\u307e\u305b\u3093",
-    "FirefoxCantLoadWebFont": "Firefox \u306f\u3001\u30ea\u30e2\u30fc\u30c8 \u30db\u30b9\u30c8\u306e Web \u30d5\u30a9\u30f3\u30c8\u3092\u8aad\u307f\u8fbc\u3081\u307e\u305b\u3093",
-    "CantFindFontUsing": "$1 \u3067\u6709\u52b9\u306a\u30d5\u30a9\u30f3\u30c8\u304c\u898b\u3064\u304b\u308a\u307e\u305b\u3093",
-    "WebFontsNotAvailable": "Web \u30d5\u30a9\u30f3\u30c8\u3092\u5229\u7528\u3067\u304d\u307e\u305b\u3093\u3002\u4ee3\u308f\u308a\u306b\u753b\u50cf\u30d5\u30a9\u30f3\u30c8\u3092\u4f7f\u7528\u3057\u307e\u3059"
+    "LoadWebFont": "Web フォント $1 を読み込み中",
+    "CantLoadWebFont": "Web フォント $1 を読み込めません",
+    "FirefoxCantLoadWebFont": "Firefox は、リモート ホストの Web フォントを読み込めません",
+    "CantFindFontUsing": "$1 で有効なフォントが見つかりません",
+    "WebFontsNotAvailable": "Web フォントを利用できません。代わりに画像フォントを使用します"
 }

@@ -14,5 +14,5 @@
     "Language": "Via *Taal* kunt u de taal kiezen die MathJax gebruikt voor de menu's en waarschuwingsboodschappen.",
     "Zoom": "*Wiskunde zoom*: Als u moeite heeft met het lezen van een vergelijking dan kan MathJax deze vergroten zodat u het beter kunt zien.",
     "Accessibilty": "*Toegankelijkheid*: MathJax werkt automatisch samen met schermlezers waardoor wiskunde toegankelijk wordt voor slechtzienden.",
-    "Fonts": "*Lettertypes*: MathJax zal bepaalde wiskunde lettertypes gebruiken als die ge\u00efnstalleerd zijn op uw computer; anders zal het web-gebaseerde lettertypes gebruiken. Alhoewel het niet noodzakelijk is, zullen lokaal ge\u00efnstalleerde lettertypes het zetwerk versnellen. We raden aan om de [STIX fonts]($1) te installeren."
+    "Fonts": "*Lettertypes*: MathJax zal bepaalde wiskunde lettertypes gebruiken als die geïnstalleerd zijn op uw computer; anders zal het web-gebaseerde lettertypes gebruiken. Alhoewel het niet noodzakelijk is, zullen lokaal geïnstalleerde lettertypes het zetwerk versnellen. We raden aan om de [STIX fonts]($1) te installeren."
 }

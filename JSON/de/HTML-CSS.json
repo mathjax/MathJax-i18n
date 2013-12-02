@@ -8,6 +8,6 @@
     "LoadWebFont": "Lade Webfont $1",
     "CantLoadWebFont": "Webschriftart $1 konnte nicht geladen werden",
     "FirefoxCantLoadWebFont": "Firefox kann keine Webschriften von einem Remotehost laden",
-    "CantFindFontUsing": "Es konnte keine g\u00fcltige Schriftart aus $1 gefunden werden",
-    "WebFontsNotAvailable": "Webschriften sind nicht verf\u00fcgbar. Verwende stattdessen Bildschriften."
+    "CantFindFontUsing": "Es konnte keine gültige Schriftart aus $1 gefunden werden",
+    "WebFontsNotAvailable": "Webschriften sind nicht verfügbar. Verwende stattdessen Bildschriften."
 }

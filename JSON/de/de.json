@@ -4,7 +4,7 @@
             "pkra"
         ]
     },
-    "CookieConfig": "MathJax hat eine Cookie mit ausf\u00fchrbaren Code gefunden. Soll dieser Code ausgef\u00fchrt werden?\n\n(Klicken Sie 'Abbrechen' falls Sie das Cookie nicht selber akzeptiert haben.)",
+    "CookieConfig": "MathJax hat eine Cookie mit ausführbaren Code gefunden. Soll dieser Code ausgeführt werden?\n\n(Klicken Sie 'Abbrechen' falls Sie das Cookie nicht selber akzeptiert haben.)",
     "MathProcessingError": "Mathe Verarbeitungsfehler",
     "MathError": "Mathe Fehler",
     "LoadFile": "Lade $1",
@@ -14,5 +14,5 @@
     "Processing": "Verarbeiten",
     "TypesetMath": "Mathe wird gesetzt: $1%",
     "Typesetting": "Setzen",
-    "MathJaxNotSupported": "Ihr Webbrowser unterst\u00fctzt MathJax nicht"
+    "MathJaxNotSupported": "Ihr Webbrowser unterstützt MathJax nicht"
 }

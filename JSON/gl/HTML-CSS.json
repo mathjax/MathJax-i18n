@@ -1,12 +1,12 @@
 {
     "@metadata": {
         "authors": [
-            "Toli\u00f1o"
+            "Toliño"
         ]
     },
     "LoadWebFont": "Cargando o tipo de letra web $1",
     "CantLoadWebFont": "Non se pode cargar o tipo de letra web $1",
     "FirefoxCantLoadWebFont": "Firefox non pode cargar os tipos de letra web desde un servidor remoto",
-    "CantFindFontUsing": "Non se pode atopar un tipo de letra v\u00e1lido utilizando $1",
-    "WebFontsNotAvailable": "Os tipos de letra web non est\u00e1n dispo\u00f1ibles; use os tipos de letra de imaxe no seu lugar"
+    "CantFindFontUsing": "Non se pode atopar un tipo de letra válido utilizando $1",
+    "WebFontsNotAvailable": "Os tipos de letra web non están dispoñibles; use os tipos de letra de imaxe no seu lugar"
 }

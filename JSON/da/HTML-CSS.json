@@ -4,9 +4,9 @@
             "Overlaet"
         ]
     },
-    "LoadWebFont": "Indl\u00e6ser webskrifftype $1",
-    "CantLoadWebFont": "Kan ikke indl\u00e6se webskrifttype $1",
-    "FirefoxCantLoadWebFont": "Firefox kan ikke indl\u00e6se webskrifttyper fra en fjernstyret v\u00e6rt",
-    "CantFindFontUsing": "Kunne ikke finde en gyldig skrifttype ved hj\u00e6lp af $1",
-    "WebFontsNotAvailable": "Webskrifttyper er ikke tilg\u00e6ngelig. Brug billede skrifttyper i stedet"
+    "LoadWebFont": "Indlæser webskrifftype $1",
+    "CantLoadWebFont": "Kan ikke indlæse webskrifttype $1",
+    "FirefoxCantLoadWebFont": "Firefox kan ikke indlæse webskrifttyper fra en fjernstyret vært",
+    "CantFindFontUsing": "Kunne ikke finde en gyldig skrifttype ved hjælp af $1",
+    "WebFontsNotAvailable": "Webskrifttyper er ikke tilgængelig. Brug billede skrifttyper i stedet"
 }

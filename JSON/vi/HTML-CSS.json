@@ -4,9 +4,9 @@
             "Minh Nguyen"
         ]
     },
-    "LoadWebFont": "\u0110ang t\u1ea3i ph\u00f4ng ch\u1eef Web $1",
-    "CantLoadWebFont": "Kh\u00f4ng th\u1ec3 t\u1ea3i ph\u00f4ng ch\u1eef Web $1",
-    "FirefoxCantLoadWebFont": "Firefox kh\u00f4ng th\u1ec3 t\u1ea3i ph\u00f4ng ch\u1eef Web t\u1eeb m\u1ed9t m\u00e1y ch\u1ee7 t\u1eeb xa",
-    "CantFindFontUsing": "Kh\u00f4ng t\u00ecm th\u1ea5y ph\u00f4ng ch\u1eef h\u1ee3p l\u1ec7 d\u00f9ng $1",
-    "WebFontsNotAvailable": "Ph\u00f4ng ch\u1eef Web kh\u00f4ng c\u00f3 s\u1eb5n; \u0111ang s\u1eed d\u1ee5ng ph\u00f4ng ch\u1eef h\u00ecnh \u1ea3nh thay th\u1ebf"
+    "LoadWebFont": "Đang tải phông chữ Web $1",
+    "CantLoadWebFont": "Không thể tải phông chữ Web $1",
+    "FirefoxCantLoadWebFont": "Firefox không thể tải phông chữ Web từ một máy chủ từ xa",
+    "CantFindFontUsing": "Không tìm thấy phông chữ hợp lệ dùng $1",
+    "WebFontsNotAvailable": "Phông chữ Web không có sẵn; đang sử dụng phông chữ hình ảnh thay thế"
 }

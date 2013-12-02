@@ -8,10 +8,10 @@
     "MathError": "Error dins la formula matematica",
     "LoadFile": "Telecargament de $1",
     "Loading": "Cargament",
-    "LoadFailed": "Frac\u00e0s del telecargament de $1",
+    "LoadFailed": "Fracàs del telecargament de $1",
     "ProcessMath": "Tractament de las formulas : $1%",
     "Processing": "Tractament",
     "TypesetMath": "Composicion de las formulas : $1%",
     "Typesetting": "Composicion",
-    "MathJaxNotSupported": "V\u00f2stre navigador sup\u00f2rta pas MathJax"
+    "MathJaxNotSupported": "Vòstre navigador supòrta pas MathJax"
 }

@@ -4,15 +4,15 @@
             "piotrdomagalski"
         ]
     },
-    "CookieConfig": "MathJax znalaz\u0142 konfiguracj\u0119 zapisan\u0105 w ciasteczku, kt\u00f3ra zawiera kod do uruchomienia. Czy chcesz go uruchomi\u0107?\n\n(Powiniene\u015b nacisn\u0105\u0107 Anuluj, je\u015bli to nie Ty stworzy\u0142e\u015b t\u0119 konfiguracj\u0119.)",
-    "MathProcessingError": "B\u0142\u0105d podczas przetwarzania wzor\u00f3w matematycznych",
-    "MathError": "B\u0142\u0105d we wzorze matematycznym",
-    "LoadFile": "\u0141aduj\u0119 $1",
-    "Loading": "\u0141aduj\u0119",
-    "LoadFailed": "Nie uda\u0142o si\u0119 za\u0142adowa\u0107 pliku: $1",
+    "CookieConfig": "MathJax znalazł konfigurację zapisaną w ciasteczku, która zawiera kod do uruchomienia. Czy chcesz go uruchomić?\n\n(Powinieneś nacisnąć Anuluj, jeśli to nie Ty stworzyłeś tę konfigurację.)",
+    "MathProcessingError": "Błąd podczas przetwarzania wzorów matematycznych",
+    "MathError": "Błąd we wzorze matematycznym",
+    "LoadFile": "Ładuję $1",
+    "Loading": "Ładuję",
+    "LoadFailed": "Nie udało się załadować pliku: $1",
     "ProcessMath": "Przetwarzam wzory matematyczne: $1%",
     "Processing": "Przetwarzam",
     "TypesetMath": "Przetwarzam wzory matematyczne: $1%",
     "Typesetting": "Przetwarzam",
-    "MathJaxNotSupported": "MathJax nie obs\u0142uguje Twojej przegl\u0105darki"
+    "MathJaxNotSupported": "MathJax nie obsługuje Twojej przeglądarki"
 }
