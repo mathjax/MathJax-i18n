@@ -1,7 +1,8 @@
 {
     "@metadata": {
         "authors": [
-            "Nike"
+            "Nike",
+            "Silvonen"
         ]
     },
     "MathMLcode": "MathML-koodi",
@@ -57,5 +58,6 @@
     "genericfonts": "käyttäen geneerisiä unicode-kirjasimia",
     "wofforotffonts": "woff- tai otf-kirjasimia",
     "eotffonts": "eot-kirjasimia",
-    "svgfonts": "svg-kirjasimia"
+    "svgfonts": "svg-kirjasimia",
+    "Close": "Sulje"
 }
