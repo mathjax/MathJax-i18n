@@ -1,6 +1,7 @@
 {
     "@metadata": {
         "authors": [
+            "Dimension10",
             "Mormegil",
             "Shirayuki",
             "fred"
@@ -8,7 +9,7 @@
     },
     "Show": "'Show math as' menu item. MathJax uses 'Math' as a distinct UI choice. Please translate it literally whenever possible.\n\nFollowed by the following menu subitems:\n* {{msg-mathjax|Mathmenu-MathMLcode}}\n* {{msg-mathjax|Mathmenu-Original}}\n* {{msg-mathjax|Mathmenu-Annotation}}\n* {{msg-mathjax|Mathmenu-texHints}} - checkbox label",
     "MathMLcode": "This menu item from 'Show math as' shows the MathML code that MathJax has produced internally (sanitized, indented etc.)\n\nThe parent menu item is {{msg-mathjax|Mathmenu-Show}}.",
-    "OriginalMathML": "This menu item from 'Show math as' shows the MathML code if that was originally in the page source",
+    "OriginalMathML": "This menu item from 'Show math as' shows the MathML code as if that was originally in the page source",
     "TeXCommands": "This menu item from 'Show math as' shows the TeX code if that was originally in the page source",
     "AsciiMathInput": "This menu item from 'Show math as' shows the asciimath code if that was originally in the page source",
     "Original": "This menu item from 'Show math as' shows the code that was originally in the page source but has no registered type.\n\nThis can happen when extensions add new input formats but fail to provide an adequate format name.\n\nThe parent menu item is {{msg-mathjax|Mathmenu-Show}}.",

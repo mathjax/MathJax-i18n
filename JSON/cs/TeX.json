@@ -27,6 +27,7 @@
     "MisplacedMoveRoot": "$1 se může vyskytnout pouze v kořeni",
     "MultipleCommand": "Vícenásobný $1",
     "IntegerArg": "Argumentem $1 musí být celé číslo",
+    "NotMathMLToken": "$1 není primitivní element",
     "InvalidMathMLAttr": "Neplatný atribut MathML: $1",
     "UnknownAttrForElement": "$1 není známý atribut $2",
     "MaxMacroSub1": "Překročen maximální počet substitucí makra MathJaxu; není tam rekurzivní volání makra?",
@@ -72,5 +73,6 @@
     "SequentialParam": "Parametry $1 musí být číslovány postupně",
     "MissingReplacementString": "V definici $1 chybí nahrazující řetězec",
     "MismatchUseDef": "Použití $1 neodpovídá jeho definici",
+    "RunawayArgument": "Zbloudilý argument u $1?",
     "NoClosingDelim": "Nenalezen ukončovací znak u $1"
 }

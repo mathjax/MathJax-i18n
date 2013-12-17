@@ -3,7 +3,8 @@
         "authors": [
             "Hzy980512",
             "Liuxinyu970226",
-            "Qiyue2001"
+            "Qiyue2001",
+            "Yfdyh000"
         ]
     },
     "ExtraOpenMissingClose": "有多余的左括号或缺少右括号",
@@ -20,6 +21,7 @@
     "MissingBoxFor": "缺少用于$1的框",
     "MissingCloseBrace": "缺少右括号",
     "UndefinedControlSequence": "未定义的控制数列$1",
+    "DoubleExponent": "两个指数：使用大括号来澄清",
     "DoubleSubscripts": "双下标：使用括号来明确",
     "CantUseHash1": "您无法在数学模式中使用'宏参数字符#'",
     "MisplacedLimits": "$1只允许在运算符上",
