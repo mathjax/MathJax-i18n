@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "authors": null
+    },
+    "CookieConfig": "Gwnaeth MathJax ddarganfod ffurfwedd defnyddiwr sy'n cynnwys cod i'w redeg. Ydych chi am ei redeg?\n\n(Dylech chi bwyso Canslo oni bai y hoffech chi osod y cwci ar ben eich hun.)",
+    "MathProcessingError": "Gwall prosesu mathemateg",
+    "MathError": "Gwall mathemategol",
+    "LoadFile": "Yn llwytho $1",
+    "Loading": "Yn llwytho",
+    "LoadFailed": "Methwyd llwytho'r ffeil: $1",
+    "ProcessMath": "Prosesu'r math'g: $1%",
+    "Processing": "Yn prosesu",
+    "TypesetMath": "Yn gosod fformat i'r math'g: $1%",
+    "Typesetting": "Yn gosod fformat",
+    "MathJaxNotSupported": "'Dyw eich porwr ddim yn cynnal MathJax"
+}
