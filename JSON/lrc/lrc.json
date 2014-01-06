@@ -1,0 +1,14 @@
+{
+    "@metadata": {
+        "authors": [
+            "Bonevarluri",
+            "Mogoeilor"
+        ]
+    },
+    "MathError": "خطا ریاضی",
+    "LoadFile": "$1 د حالت سوار کرد",
+    "Loading": "د حالت سوار كرد",
+    "LoadFailed": "فایل سی سوارکردن شکست حرده:$1",
+    "Processing": "د حالت پردازشت",
+    "Typesetting": "تظیمات نیسنن"
+}
