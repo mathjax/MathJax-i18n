@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "கௌசிக் பிரபு"
+        ]
+    },
+    "LoadFile": "ஏற்றுகிறது $1",
+    "Loading": "ஏற்றுகிறது",
+    "LoadFailed": "ஏற்றுவதில் தோல்வி: $1",
+    "MathJaxNotSupported": "உங்களது இணைய உலாவியில் MathJax எடுக்காது"
+}
