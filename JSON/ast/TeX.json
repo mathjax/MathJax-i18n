@@ -1,0 +1,42 @@
+{
+    "@metadata": {
+        "authors": [
+            "Xuacu"
+        ]
+    },
+    "ExtraOpenMissingClose": "Hai una llave d'apertura de más o falta una llave de zarramientu",
+    "ExtraCloseMissingOpen": "Hai una llave de zarramientu de más o falta una llave d'apertura",
+    "MissingLeftExtraRight": "Falta un \\left o sobra un \\right",
+    "MissingScript": "Falta un argumentu de superíndiz o subíndiz",
+    "ExtraLeftMissingRight": "Sobra un \\left o falta un \\right",
+    "Misplaced": "$1 ta mal colocáu",
+    "MissingOpenForSub": "Falta una llave d'apertura pal subíndiz",
+    "MissingOpenForSup": "Falta una llave d'apertura pal superíndiz",
+    "AmbiguousUseOf": "Usu ambiguu de $1",
+    "EnvBadEnd": "\\begin{$1} acabáu con \\end{$2}",
+    "EnvMissingEnd": "Falta \\end{$1}",
+    "MissingBoxFor": "Falta un cuadru pa $1",
+    "MissingCloseBrace": "Falta la llave de zarramientu",
+    "UndefinedControlSequence": "Secuencia de control indefinida $1",
+    "DoubleExponent": "Doble esponente: use llaves p'aclarar",
+    "DoubleSubscripts": "Doble subíndiz: usu llaves p'aclarar",
+    "DoubleExponentPrime": "La prima causa un doble esponente: use llaves p'aclarar",
+    "CantUseHash1": "Nun pue usar el «caráuter # de parámetru de macro» en mou matemáticu",
+    "MisplacedMiddle": "$1 tien de tar ente \\left y \\right",
+    "MisplacedLimits": "$1 sólo ta permitíu pa operadores",
+    "MisplacedMoveRoot": "$1 sólo pue apaecer dientro d'una raíz",
+    "MultipleCommand": "Múltiples $1",
+    "IntegerArg": "L'argumentu de $1 tien de ser un enteru",
+    "NotMathMLToken": "$1 nun ye un elementu de «token»",
+    "InvalidMathMLAttr": "Atributu de MathML inválidu: $1",
+    "UnknownAttrForElement": "$1 nun ye un atributu reconocíu pa $2",
+    "MaxMacroSub1": "Se sobrepasó'l númberu máximu de sustituciones de macro de MathJax; ¿hai ha una llamada de macro recursiva?",
+    "MaxMacroSub2": "Se sobrepasó'l númberu máximu de sustituciones de MathJax; ¿hai un entornu de LaTeX recursivu?",
+    "MissingArgFor": "Falta l'argumentu pa $1",
+    "ExtraAlignTab": "Tabulador d'alliniamientu estra en testu \\cases",
+    "BracketMustBeDimension": "L'argumentu de corchete pa $1 tien de ser una dimensión",
+    "InvalidEnv": "Nome d'entornu «$1» inválidu",
+    "UnknownEnv": "Entornu desconocíu «$1»",
+    "ExtraCloseLooking": "Llave de zarramientu estra cuando se buscaba $1",
+    "MissingCloseBracket": "Nun pudo alcontrase'l «]» de zarramientu pal argumentu de $1"
+}

@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "authors": [
+            "Xuacu"
+        ]
+    },
+    "BadMglyph": "Mglyph incorreutu: $1",
+    "BadMglyphFont": "Tipografía incorreuta: $1",
+    "CantCreateXMLParser": "MathJax nun pue crear un analizador XML pa MathML. Compruebe que\nla configuración de seguridá «Controles de script ActiveX marcaos como seguros pa scripting»\nta activada (use l'elementu Opciones d'Internet del menú Ferramientes,\ny seleicione'l panel Seguridá, y darréu calque nel botón Nivel personalizáu pa comprobalo).\n\nMathJax nun podrá procesar les ecuaciones MathML",
+    "UnknownNodeType": "Tipu de nuedu desconocíu: $1",
+    "UnexpectedTextNode": "Nuedu de testu inesperáu: $1",
+    "ErrorParsingMathML": "Error al analizar MathML",
+    "ParsingError": "Error al analizar MathML: $1",
+    "MathMLSingleElement": "MathML tien de tar formáu por un únicu elementu",
+    "MathMLRootElement": "MathML tien de tar formáu por un elementu \u003Cmath\u003E, non por $1"
+}
