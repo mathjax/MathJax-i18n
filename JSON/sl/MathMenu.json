@@ -1,7 +1,8 @@
 {
     "@metadata": {
         "authors": [
-            "Eleassar"
+            "Eleassar",
+            "Dbc334"
         ]
     },
     "Show": "Prikaži matematiko kot",
@@ -43,6 +44,12 @@
     "TeXWeb": "TeX (splet)",
     "TeXImage": "TeX (slika)",
     "STIXLocal": "STIX (lokalno)",
+    "STIXWeb": "STIX (splet)",
+    "AsanaMathWeb": "Asana Math (splet)",
+    "GyrePagellaWeb": "Gyre Pagella (splet)",
+    "GyreTermesWeb": "Gyre Termes (splet)",
+    "LatinModernWeb": "Latin Modern (splet)",
+    "NeoEulerWeb": "Neo Euler (splet)",
     "ContextMenu": "Kontekstni meni",
     "Browser": "Brskalnik",
     "Scale": "Umeri vso matematiko ...",

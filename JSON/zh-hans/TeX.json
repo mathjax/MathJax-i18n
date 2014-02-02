@@ -38,6 +38,7 @@
     "UnknownEnv": "未知的环境变量'$1'",
     "MissingCloseBracket": "无法找到$1的参数的右“]”",
     "MissingOrUnrecognizedDelim": "找不到或无法识别$1的分隔符",
+    "MissingDimOrUnits": "缺少$1的维度或其单位",
     "TokenNotFoundForCommand": "无法找到用于$2的$1",
     "MathNotTerminated": "数学式在文本框中未结束",
     "IllegalMacroParam": "非法宏参数引用",

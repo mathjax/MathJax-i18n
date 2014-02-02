@@ -5,7 +5,8 @@
             "Rastus Vernon",
             "Sherbrooke",
             "Urhixidur",
-            "fred"
+            "fred",
+            "Yann.fauche"
         ]
     },
     "ExtraOpenMissingClose": "Accolade ouvrante non attendue ou accolade fermante manquante",
@@ -22,8 +23,8 @@
     "MissingBoxFor": "Boite manquante pour la commande $1",
     "MissingCloseBrace": "Accolade fermante manquante",
     "UndefinedControlSequence": "Commande $1 non définie",
-    "DoubleExponent": "Double exposant: utilisez des accolades pour clarifier",
-    "DoubleSubscripts": "Double indice: utilisez des accolades pour clarifier",
+    "DoubleExponent": "Double exposant : utilisez des accolades pour clarifier",
+    "DoubleSubscripts": "Double indice : utilisez des accolades pour clarifier",
     "DoubleExponentPrime": "Un prime entraîne un double exposant : utilisez des accolades pour clarifier",
     "CantUseHash1": "Vous ne pouvez pas utilisez le caractère #, indiquant un paramètre de macro, dans le mode mathématique",
     "MisplacedMiddle": "La commande $1 doit être placée à l’intérieur d’une section \\left ... \\right",
