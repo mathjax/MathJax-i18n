@@ -6,6 +6,8 @@
     },
     "BadMglyph": "mglyph hỏng: $1",
     "BadMglyphFont": "Phông chữ hỏng: $1",
+    "MathPlayer": "MathJax không thể thiết lập MathPlayer.\n\nNếu MathPlayer chưa được cài đặt, bạn cần phải cài đặt nó trước tiên.\nNếu không, các tùy chọn bảo mật của bạn có thể ngăn trở các điều khiển ActiveX. Hãy chọn Tùy chọn Internet trong trình đơn Công cụ, qua thẻ Bảo mật, và bấm nút Mức tùy chỉnh. Kiểm các hộp “Chạy điều khiển ActiveX” và “Hành vi nhị phân và kịch bản”.\n\nHiện tại bạn sẽ gặp các thông báo lỗi thay vì toán học được kết xuất.",
+    "CantCreateXMLParser": "MathJax không thể tạo ra bộ phân tích XML cho MathML. Hãy chọn Tùy chọn Internet trong trình đơn Công cụ, qua thẻ Bảo mật, và bấm nút Mức tùy chỉnh. Kiểm hộp “Script các điều khiển ActiveX được đánh dấu là an toàn”.\n\nMathJax sẽ không thể xử lý các phương trình MathML.",
     "UnknownNodeType": "Kiểu nút không rõ: $1",
     "UnexpectedTextNode": "Nút văn bản bất ngừ: $1",
     "ErrorParsingMathML": "Lỗi khi phân tích MathML",
