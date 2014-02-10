@@ -22,7 +22,7 @@ languages.
 
 @MathJax developers: when new strings are created or removed, be sure to update
 config.js and to use the conversion tools to update the JSON files
-appropriately. If you add/modify/remove strings, do forget to update the
+appropriately. If you add/modify/remove strings, don't forget to update the
 ChangeLog file and to inform the translators about obsolete/new strings on the
 MathJax Project TranslateWiki page.
 
