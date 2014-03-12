@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "Aftab1995",
+            "Tauhid16"
+        ]
+    },
+    "MathProcessingError": "অংক প্রক্রিয়াকরণে সমস্যা",
+    "MathError": "গাণিতিক সমস্যা",
+    "LoadFile": "$1 লোড হচ্ছে",
+    "Loading": "লোড হচ্ছে",
+    "LoadFailed": "ফাইল লোড হতে ব্যর্থ: $1",
+    "ProcessMath": "অংক প্রক্রিয়া চলছে:$1%",
+    "Processing": "প্রক্রিয়া চলছে"
+}

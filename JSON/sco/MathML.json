@@ -1,0 +1,17 @@
+{
+    "@metadata": {
+        "authors": [
+            "John Reid"
+        ]
+    },
+    "BadMglyph": "Bad mglyph: $1",
+    "BadMglyphFont": "Bad font: $1",
+    "MathPlayer": "MathsJax wisna able tae set up MathsPlayer.\n\nGif MathsPlayer isna installed, ye need tae install it firstwhile.\nItherwise, yer securitie settins micht be preventin ActiveX\ncontrols fae rinnin. Uise the Internet Opties eitem unner\nthe Tuilkist menu n select the Securitie tab, then press the\nCustom Level button. Check that the settins fer\n'Rin ActiveX Controls', n 'Binarie n screept behaviors'\nar enabled.\n\nCurrently ye will see mistak messages rather than\ntypeset mathematics",
+    "CantCreateXMLParser": "MathsJax canna cræft aen XML parser fer MathsML. Check that\nthe 'Screept ActiveX controls maurked safe fer screeptin' securitie\nsettin is enabled (uise the Internet Opties eitem in the Tuils menu, n select the Securitie panel, then press the Custom Level\nbutton tae check this).\n\nMathsML equations will no be able tae be processed bi MathsJax",
+    "UnknownNodeType": "Onkent node type: $1",
+    "UnexpectedTextNode": "Onexpected tex node: $1",
+    "ErrorParsingMathML": "Mistak parsin MathsML",
+    "ParsingError": "Mistak parsin MathsML: $1",
+    "MathMLSingleElement": "MathsML maun be formed bi ae single element",
+    "MathMLRootElement": "MathsML maun be formed bi ae \u003Cmath\u003E element, no $1"
+}

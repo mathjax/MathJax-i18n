@@ -1,0 +1,18 @@
+{
+    "@metadata": {
+        "authors": [
+            "John Reid"
+        ]
+    },
+    "CookieConfig": "MathsJax haes foond ae uiser confeeguration cookie that inclædes code tae be run. Dae ye want tae run it?\n\n(Ye shid press Cancel onless ye set the cookie up yersel.)",
+    "MathProcessingError": "Maths processin mistak",
+    "MathError": "Maths mistak",
+    "LoadFile": "Laidin $1",
+    "Loading": "Laidin",
+    "LoadFailed": "File failed tae laid: $1",
+    "ProcessMath": "Processin maths: $1%",
+    "Processing": "Processin",
+    "TypesetMath": "Typesettin maths: $1%",
+    "Typesetting": "Typesettin",
+    "MathJaxNotSupported": "Yer brouser disna support MathsJax"
+}

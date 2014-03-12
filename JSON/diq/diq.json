@@ -1,10 +1,11 @@
 {
     "@metadata": {
         "authors": [
-            "Gorizon"
+            "Gorizon",
+            "Mirzali"
         ]
     },
-    "MathError": "Matematigane ğeta",
+    "MathError": "Xetaya matematiki",
     "LoadFile": "$1 Bar keri",
     "Loading": "Beno bar",
     "LoadFailed": "Dosyay bar nebi: $1",

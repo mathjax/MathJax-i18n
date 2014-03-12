@@ -10,8 +10,8 @@
     "CantCreateXMLParser": "MathJax не може да создаде XML-парсер за MathML. Проверете дали е вклучена сигурносната поставка ActiveX-контроли безбедни за скриптирање (во прилагодливиот дел (Custom Level) на безбедностите поставки во прелистувачот).\n\nMathJax нема да може да ги обработи равенките на MathML.",
     "UnknownNodeType": "Непознат тип на јазол: $1",
     "UnexpectedTextNode": "Неочекуван јазол во текстот: $1",
-    "ErrorParsingMathML": "Грешка при парсирањето на MathML",
-    "ParsingError": "Грешка при парсирањето на MathML: $1",
+    "ErrorParsingMathML": "Грешка при расчленувањето на MathML",
+    "ParsingError": "Грешка при расчленувањето на MathML: $1",
     "MathMLSingleElement": "MathML мора да се образува од еден елемент",
     "MathMLRootElement": "MathML мора да се образува со елемент \u003Cmath\u003E, а не $1"
 }
