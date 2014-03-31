@@ -13,6 +13,6 @@
     "UnexpectedTextNode": "Текстовый узел $1 в этом месте не ожидается",
     "ErrorParsingMathML": "Ошибка разбора MathML",
     "ParsingError": "Ошибка разбора MathML: $1",
-    "MathMLSingleElement": "MathML должен содержать только один тэг \u003Cmath\u003E",
-    "MathMLRootElement": "Корневым узлом MathML должен быть \u003Cmath\u003E, не $1"
+    "MathMLSingleElement": "MathML должен содержать только один тэг <math>",
+    "MathMLRootElement": "Корневым узлом MathML должен быть <math>, не $1"
 }

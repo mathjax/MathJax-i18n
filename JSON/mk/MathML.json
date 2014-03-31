@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "Грешка при расчленувањето на MathML",
     "ParsingError": "Грешка при расчленувањето на MathML: $1",
     "MathMLSingleElement": "MathML мора да се образува од еден елемент",
-    "MathMLRootElement": "MathML мора да се образува со елемент \u003Cmath\u003E, а не $1"
+    "MathMLRootElement": "MathML мора да се образува со елемент <math>, а не $1"
 }

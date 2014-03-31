@@ -80,7 +80,7 @@
     "SwitchAnyway": "Renderer wechseln?\n\n(OK wählen zum Wechseln, ABBRECHEN zum Fortfahren mit dem aktuellen Renderer)",
     "ScaleMath": "Alle Inhalte skalieren (verglichen mit dem umfließenden Text) um",
     "NonZeroScale": "Der Wert sollte nicht null sein",
-    "PercentScale": "Der Wert sollte ein Prozentsatz sein (z.\u0026nbsp;B. 120%)",
+    "PercentScale": "Der Wert sollte ein Prozentsatz sein (z.&nbsp;B. 120%)",
     "IE8warning": "Dies deaktiviert das MathJax-Menü und die Zoomfunktionen, aber du kannst bei einem Ausdruck während des Mausklicks die Alt-Taste gedrückt halten, um stattdessen das MathJax-Menü zu erhalten.\n\nMathPlayer-Einstellungen wirklich ändern?",
     "IE9warning": "Das MathJax-Kontextmenü wird deaktiviert, aber du kannst bei einem Ausdruck während des Mausklicks die Alt-Taste gedrückt halten, um stattdessen das MathJax-Menü zu erhalten.",
     "NoOriginalForm": "Keine Originalformel verfügbar",

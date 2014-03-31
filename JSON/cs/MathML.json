@@ -15,5 +15,5 @@
     "ErrorParsingMathML": "Chyba při analýze MathML",
     "ParsingError": "Chyba při analýze MathML: $1",
     "MathMLSingleElement": "MathML musí být tvořeno jediným elementem",
-    "MathMLRootElement": "MathML musí být tvořeno elementem \u003Cmath\u003E, nikoli $1"
+    "MathMLRootElement": "MathML musí být tvořeno elementem <math>, nikoli $1"
 }

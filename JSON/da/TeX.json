@@ -33,7 +33,7 @@
     "MaxMacroSub1": "Det maksimale antal makro substitutioner i MathJax er overskredet; er der et rekursivt makrokald?",
     "MaxMacroSub2": "Det maksimale antal substitutioner i MathJax er overskredet; er der et rekursivt latex miljø?",
     "MissingArgFor": "Manglende argument til $1",
-    "ExtraAlignTab": "For mange \u0026 i \\cases tekst",
+    "ExtraAlignTab": "For mange & i \\cases tekst",
     "BracketMustBeDimension": "Klammeargument til $1 skal være en dimension",
     "InvalidEnv": "Ugyldigt navn '$1'",
     "UnknownEnv": "Ukendt navn '$1'",

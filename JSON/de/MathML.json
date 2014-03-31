@@ -14,5 +14,5 @@
     "ErrorParsingMathML": "Fehler beim Parsen von MathML",
     "ParsingError": "Fehler beim Parsen von MathML: $1",
     "MathMLSingleElement": "MathML muss von einem einzelnen Element gebildet werden",
-    "MathMLRootElement": "MathML muss von einem \u003Cmath\u003E-Element gebildet werden, nicht $1"
+    "MathMLRootElement": "MathML muss von einem <math>-Element gebildet werden, nicht $1"
 }

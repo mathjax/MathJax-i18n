@@ -9,7 +9,7 @@
     "MathJax": "*MathJax* ist eine JavaScript-Bibliothek, die es Seitenautoren ermöglicht, mathematische Inhalte in ihre Webseiten einzubinden. Als Leser muss du nichts unternehmen, um das zu erreichen.",
     "Browsers": "*Browser*: MathJax funktioniert mit allen modernen Browsern inklusive Internet Explorer 6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ und den meisten mobilen Browsern.",
     "Menu": "*Menü*: MathJax fügt bei Gleichungen ein Kontextmenü hinzu. Um das Menü anzuzeigen, klicke mit der rechten Maustaste oder halte beim Klicken die Strg-Taste gedrückt.",
-    "ShowMath": "*Inhalt zeigen als* erlaubt dir, das Formelquellenmarkup für Kopieren \u0026 Einfügen anzusehen (als MathML oder im Originalformat).",
+    "ShowMath": "*Inhalt zeigen als* erlaubt dir, das Formelquellenmarkup für Kopieren & Einfügen anzusehen (als MathML oder im Originalformat).",
     "Settings": "*Einstellungen* gibt dir die Kontrolle über MathJax-Funktionen, wie die Inhaltsgröße und den verwendeten Mechanismus zum Anzeigen von Gleichungen.",
     "Language": "*Sprache* lässt dir die Sprache auswählen, die von MathJax für die Menüs und Warnmeldungen verwendet wird.",
     "Zoom": "*Zoom*: Wenn du beim Lesen einer Gleichung Schwierigkeiten hast, kann MathJax sie vergrößern, damit du sie besser sehen kannst.",

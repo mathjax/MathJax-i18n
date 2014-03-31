@@ -3,7 +3,8 @@
         "authors": [
             "Helder.wiki",
             "helder",
-            "Mordecaista"
+            "Mordecaista",
+            "Amgauna"
         ]
     },
     "Show": "Mostrar Fórmulas Como",
@@ -68,11 +69,11 @@
     "wofforotffonts": "fontes woff ou otf",
     "eotffonts": "fontes eot",
     "svgfonts": "fontes svg",
-    "WebkitNativeMMLWarning": "Não parece haver suporte nativo a MathML em seu navegador, então a mudança para MathML pode tornar ilegíveis as fórmulas matemáticas da página.",
+    "WebkitNativeMMLWarning": "Não parece haver suporte nativo ao MathML em seu navegador, então a mudança para MathML pode tornar ilegíveis as fórmulas matemáticas da página.",
     "MSIENativeMMLWarning": "O Internet Explorer requer o plugin MathPlayer para processar MathML.",
-    "OperaNativeMMLWarning": "O suporte a MathML no Opera é limitado, então a mudança para MathML pode piorar a renderização de algumas expressões.",
-    "SafariNativeMMLWarning": "O suporte a MathML nativo do seu navegador não implementa todos os recursos usados pelo MathJax, então algumas expressões podem não ser exibidas adequadamente.",
-    "FirefoxNativeMMLWarning": "O suporte a MathML nativo do seu navegador não implementa todos os recursos usados pelo MathJax, então algumas expressões podem não ser exibidas adequadamente.",
+    "OperaNativeMMLWarning": "O suporte ao MathML no Opera é limitado, então a mudança para MathML pode piorar a renderização de algumas expressões.",
+    "SafariNativeMMLWarning": "O suporte ao MathML nativo do seu navegador não implementa todos os recursos usados pelo MathJax, então algumas expressões podem não ser exibidas adequadamente.",
+    "FirefoxNativeMMLWarning": "O suporte ao MathML nativo do seu navegador não implementa todos os recursos usados pelo MathJax, então algumas expressões podem não ser exibidas adequadamente.",
     "MSIESVGWarning": "Não há uma implementação de SVG nas versões do Internet Explorer anteriores ao IE9 ou quando ele está emulando o IE8 ou as versões anteriores. A mudança para SVG fará com que as fórmulas não sejam exibidas adequadamente.",
     "LoadURL": "Carregar os dados de tradução a partir desta URL:",
     "BadURL": "A URL deve ser para um um arquivo de javascript que defina os dados de tradução do MathJax. Os nomes dos arquivos de Javascript devem terminar com '.js'",

@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "שגיאה בפענוח MathML",
     "ParsingError": "שגיאה בפענוח MathML‏: $1",
     "MathMLSingleElement": "MathML צריך להיות כתוב באלמנט אחד",
-    "MathMLRootElement": "MathML צריך להיכתב באלמנט \u003Cmath\u003E, לא $1"
+    "MathMLRootElement": "MathML צריך להיכתב באלמנט <math>, לא $1"
 }

@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "خطای تجزیهٔ MathML",
     "ParsingError": "خطای تجزیهٔ MathML‏: $1",
     "MathMLSingleElement": "MathML باید به دنبال یک عنصر واحد بیاید",
-    "MathMLRootElement": "MathML باید توسط عنصر \u003Cmath\u003E تشکیل شده باشد نه $1"
+    "MathMLRootElement": "MathML باید توسط عنصر <math> تشکیل شده باشد نه $1"
 }

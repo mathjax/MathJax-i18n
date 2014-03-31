@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "Error d'anàlisi MathML",
     "ParsingError": "Error d'anàlisi MathML: $1",
     "MathMLSingleElement": "MathML ha d'estar format per un sol element",
-    "MathMLRootElement": "MathML ha d'estar format per un element \u003Cmath\u003E, no per $1"
+    "MathMLRootElement": "MathML ha d'estar format per un element <math>, no per $1"
 }

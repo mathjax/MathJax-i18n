@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "Error al analizar MathML",
     "ParsingError": "Error al analizar MathML: $1",
     "MathMLSingleElement": "MathML tien de tar formáu por un únicu elementu",
-    "MathMLRootElement": "MathML tien de tar formáu por un elementu \u003Cmath\u003E, non por $1"
+    "MathMLRootElement": "MathML tien de tar formáu por un elementu <math>, non por $1"
 }

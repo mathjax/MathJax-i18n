@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "Помилка аналізу MathML",
     "ParsingError": "Помилка аналізу MathML: $1",
     "MathMLSingleElement": "MathML повинен бути сформований одним елементом",
-    "MathMLRootElement": "MathML повинен бути сформований \u003Cmath\u003E елементом, а не $1"
+    "MathMLRootElement": "MathML повинен бути сформований <math> елементом, а не $1"
 }

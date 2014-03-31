@@ -14,5 +14,5 @@
     "ErrorParsingMathML": "Fout tijdens verwerken MathML",
     "ParsingError": "Fout tijdens verwerken MathML: $1",
     "MathMLSingleElement": "MathML moet bestaan uit één element",
-    "MathMLRootElement": "MathML moet bestaan uit een \u003Cmath\u003E element, niet $1"
+    "MathMLRootElement": "MathML moet bestaan uit een <math> element, niet $1"
 }

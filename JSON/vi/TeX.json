@@ -1,0 +1,35 @@
+{
+    "@metadata": {
+        "authors": [
+            "Minh Nguyen"
+        ]
+    },
+    "ExtraOpenMissingClose": "Dấu ngoặc mở còn dư hoặc dấu ngoặc đóng bị thiếu",
+    "ExtraCloseMissingOpen": "Dấu ngoặc đóng còn dư hoặc dấu ngoặc mở bị thiếu",
+    "MissingLeftExtraRight": "\\left bị thiếu hoặc \\right dư",
+    "MissingScript": "Thiếu đối số chỉ số",
+    "ExtraLeftMissingRight": "\\left dư hoặc \\right bị thiếu",
+    "MissingOpenForSub": "Thiếu dấu ngoặc đơn mở cho chỉ số dưới",
+    "MissingOpenForSup": "Thiếu dấu ngoặc đơn mở cho chỉ số trên",
+    "AmbiguousUseOf": "$1 được sử dụng một cách không rõ ràng",
+    "EnvBadEnd": "\\begin{$1} kết thúc với \\end{$2}",
+    "EnvMissingEnd": "Thiếu \\end{$1}",
+    "MissingBoxFor": "Thiếu hộp cho $1",
+    "MissingCloseBrace": "Thiếu dấu ngoặc đóng",
+    "MisplacedMiddle": "$1 phải nằm giữa \\left và \\right",
+    "MisplacedLimits": "$1 chỉ được cho phép đối với phép toán",
+    "MultipleCommand": "Nhiều $1",
+    "InvalidMathMLAttr": "Thuộc tính MathML không hợp lệ: $1",
+    "UnknownAttrForElement": "$1 không được công nhận là thuộc tính cho $2",
+    "MissingArgFor": "Thiếu đối số cho $1",
+    "InvalidEnv": "Tên môi trường “$1” không hợp lệ",
+    "UnknownEnv": "Môi trường không rõ “$1”",
+    "TokenNotFoundForCommand": "Không tìm thấy $1 cho $2",
+    "CommandNotAllowedInEnv": "Không cho phép $1 trong môi trường $2",
+    "MultipleLabel": "Nhãn “$1” được định rõ nhiều lần",
+    "CommandAtTheBeginingOfLine": "$1 phải nằm vào đầu dòng",
+    "MultipleBBoxProperty": "$1 được định rõ hai lần trong $2",
+    "InvalidDecimalNumber": "Số thập phân không hợp lệ",
+    "InvalidNumber": "Số không hợp lệ",
+    "NoClosingChar": "Không tìm thấy $1 đóng"
+}

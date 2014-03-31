@@ -18,5 +18,5 @@
     "ErrorParsingMathML": "Erreur lors de l’analyse de MathML",
     "ParsingError": "Erreur d’analyse de MathML : $1",
     "MathMLSingleElement": "MathML doit être formé d’un unique élément",
-    "MathMLRootElement": "MathML doit être formé d’un élément \u003Cmath\u003E, et pas $1"
+    "MathMLRootElement": "MathML doit être formé d’un élément <math>, et pas $1"
 }

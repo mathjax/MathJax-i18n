@@ -14,5 +14,5 @@
     "ErrorParsingMathML": "解析MathML时出错",
     "ParsingError": "解析MathML时出错：$1",
     "MathMLSingleElement": "MathML必须用单个元素建立",
-    "MathMLRootElement": "MathML必须用\u003Cmath\u003E元素建立，而不是$1"
+    "MathMLRootElement": "MathML必须用<math>元素建立，而不是$1"
 }

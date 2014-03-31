@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Minh Nguyen"
+        ]
+    },
+    "webFont": "MathJax sử dụng các phông chữ trên Web để vẽ ký hiệu toán học trên trang này. Trình duyệt phải tự động tải về các phông chữ này; để làm cho trang hiển thị nhanh hơn, bạn có thể cài đặt các phông chữ toán học trực tiếp vào thư mục phông chữ của máy.",
+    "imageFonts": "MathJax sử dụng các phông chữ hình ảnh của nó thay vì các phông chữ trên máy hoặc trên Web. Các biểu thức toán học này sẽ hiển thị chậm hơn bình thường và có thể in ra ở độ phân giải thấp.",
+    "noFonts": "MathJax không tìm thấy phông chữ để hiển thị toán học, và các phông chữ hình ảnh không có sẵn, nên nó sử dụng các ký tự Unicode bình thường nếu trường hợp trình duyệt có khả năng hiển thị chúng. Một số ký tự sẽ không hiển thị hoặc không hiển thị chính xác."
+}

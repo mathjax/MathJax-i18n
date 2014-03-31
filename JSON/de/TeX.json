@@ -35,7 +35,7 @@
     "MaxMacroSub1": "Maximale Anzahl an Makros ist erreicht; wird ein rekursiver Makroaufruf verwendet?",
     "MaxMacroSub2": "Maximale Anzahl an Substitutionen ist erreicht; wird eine rekursive LaTeX-Umgebung verwendet?",
     "MissingArgFor": "Fehlendes Argument in $1",
-    "ExtraAlignTab": "Zusätzliches \u0026 im '\\cases' Text",
+    "ExtraAlignTab": "Zusätzliches & im '\\cases' Text",
     "BracketMustBeDimension": "Das geklammerte Argument für $1 muss eine Dimension sein",
     "InvalidEnv": "Ungültiger Umgebungsname $1",
     "UnknownEnv": "Ungültige Umgebung $1",

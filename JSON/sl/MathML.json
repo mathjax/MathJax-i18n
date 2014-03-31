@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "Napaka pri razčlenjevanju MathML",
     "ParsingError": "Napaka pri razčlenjevanju MathML: $1",
     "MathMLSingleElement": "MathML mora biti oblikovan z enim samim elementom",
-    "MathMLRootElement": "MathML mora biti oblikovan z elementom \u003Cmath\u003E, ne s korenom $1"
+    "MathMLRootElement": "MathML mora biti oblikovan z elementom <math>, ne s korenom $1"
 }

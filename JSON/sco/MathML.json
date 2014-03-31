@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "Mistak parsin MathsML",
     "ParsingError": "Mistak parsin MathsML: $1",
     "MathMLSingleElement": "MathsML maun be formed bi ae single element",
-    "MathMLRootElement": "MathsML maun be formed bi ae \u003Cmath\u003E element, no $1"
+    "MathMLRootElement": "MathsML maun be formed bi ae <math> element, no $1"
 }

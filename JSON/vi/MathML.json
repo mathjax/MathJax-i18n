@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "Lỗi khi phân tích MathML",
     "ParsingError": "Lỗi khi phân tích MathML: $1",
     "MathMLSingleElement": "MathML phải chỉ có một phần tử gốc",
-    "MathMLRootElement": "Phần tử gốc của MathML phải là \u003Cmath\u003E, chứ không phải $1"
+    "MathMLRootElement": "Phần tử gốc của MathML phải là <math>, chứ không phải $1"
 }

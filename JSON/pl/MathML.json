@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "Błąd podczas przetwarzania MathML",
     "ParsingError": "Błąd podczas przetwarzania MathML: $1",
     "MathMLSingleElement": "MathML musi być zamknięty w pojedynczym elemencie",
-    "MathMLRootElement": "MathML musi być zamknięty w elemencie \u003Cmath\u003E, a nie $1"
+    "MathMLRootElement": "MathML musi być zamknięty w elemencie <math>, a nie $1"
 }

@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "Fejl under parsing af MathML",
     "ParsingError": "Fejl under parsing af MathML: $1",
     "MathMLSingleElement": "MathML skal være dannet af en enkelt element",
-    "MathMLRootElement": "MathML skal være dannet af et \u003Cmath\u003E element, ikke $1"
+    "MathMLRootElement": "MathML skal være dannet af et <math> element, ikke $1"
 }

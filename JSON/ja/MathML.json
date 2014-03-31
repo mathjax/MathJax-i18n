@@ -13,5 +13,5 @@
     "ErrorParsingMathML": "MathML の構文解析エラー",
     "ParsingError": "MathML の構文解析エラー: $1",
     "MathMLSingleElement": "MathML は単一の要素で構成してください",
-    "MathMLRootElement": "MathML は $1 ではなく \u003Cmath\u003E 要素で構成してください"
+    "MathMLRootElement": "MathML は $1 ではなく <math> 要素で構成してください"
 }

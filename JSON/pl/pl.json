@@ -1,7 +1,8 @@
 {
     "@metadata": {
         "authors": [
-            "piotrdomagalski"
+            "piotrdomagalski",
+            "Ty221"
         ]
     },
     "CookieConfig": "MathJax znalazł konfigurację zapisaną w ciasteczku, która zawiera kod do uruchomienia. Czy chcesz go uruchomić?\n\n(Powinieneś nacisnąć Anuluj, jeśli to nie Ty stworzyłeś tę konfigurację.)",
@@ -14,5 +15,5 @@
     "Processing": "Przetwarzam",
     "TypesetMath": "Przetwarzam wzory matematyczne: $1%",
     "Typesetting": "Przetwarzam",
-    "MathJaxNotSupported": "MathJax nie obsługuje Twojej przeglądarki"
+    "MathJaxNotSupported": "Twoja przeglądarka nie obsługuje MathJax"
 }
