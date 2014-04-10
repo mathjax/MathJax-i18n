@@ -540,6 +540,15 @@ exports.languages = {
       return n;
     }
   },
+  "vi": {
+    menuTitle: "Tiếng Việt",
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return String(n).replace(".", ","); // replace dot by comma
+    }
+  },
   "zh-hans": {
     menuTitle: "中文（简体）",
     plural: function(n) {
