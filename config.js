@@ -107,16 +107,16 @@ exports.languages = {
   //     return String(n).replace("/([0-9])/g", "\\U066$1").replace(".", "\\U066B");
   //   }
   // },
-  // "ast": {
-  //   menuTitle: "asturianu]",
-  //   plural: function(n) {
-  //     if (n === 1) {return 1} // one
-  //     return 2; // other
-  //   },
-  //   number: function(n) {
-  //     return n;
-  //   }
-  // },
+  "ast": {
+    menuTitle: "asturianu]",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   // "asa": {
   //   menuTitle: "asu",
   //   plural: function(n) {
