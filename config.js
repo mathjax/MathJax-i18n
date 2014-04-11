@@ -163,6 +163,16 @@ exports.languages = {
       return n;
     }
   },
+  "ca": {
+    menuTitle: "català",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return String(n).replace(".", ","); // replace dot by comma
+    }
+  },
   "cdo": {
     menuTitle: "Mìng-dĕ̤ng-ngṳ̄",
     plural: function(n) {
