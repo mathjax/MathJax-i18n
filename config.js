@@ -394,6 +394,15 @@ exports.languages = {
       return n;
     }
   },
+  "kn": {
+    menuTitle: "ಕನ್ನಡ",
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "lb": {
     menuTitle: "Lëtzebuergesch",
     plural: function(n) {
