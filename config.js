@@ -517,6 +517,16 @@ exports.languages = {
       return n;
     }
   },
+  "so": {
+    menuTitle: "scots",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "sl": {
     menuTitle: "slovenščina",
     plural: function(n) {
