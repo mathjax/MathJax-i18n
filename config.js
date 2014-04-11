@@ -426,11 +426,11 @@ exports.languages = {
     menuTitle: "polski",
     plural: function(n) {
       if (n == 1) {
-        return 0;
-      } else if (n % 10 >=2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20)) {
         return 1;
-      } else {
+      } else if (n % 10 >=2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20)) {
         return 2;
+      } else {
+        return 3;
       }
     },
     number: function(n) {
