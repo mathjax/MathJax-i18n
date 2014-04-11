@@ -193,6 +193,17 @@ exports.languages = {
       return n;
     }
   },
+  "cz": {
+    menuTitle: "čeština",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      if (n === 2 || n === 3 || n === 4) {return 2} // two--four
+      return 3; // other
+    },
+    number: function(n) {
+      return String(n).replace(".", ","); // replace dot by comma
+    }
+  },
   "da": {
     menuTitle: "dansk",
     plural: function(n) {
