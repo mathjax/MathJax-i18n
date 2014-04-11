@@ -193,7 +193,7 @@ exports.languages = {
       return n;
     }
   },
-  "cz": {
+  "cs": {
     menuTitle: "čeština",
     plural: function(n) {
       if (n === 1) {return 1} // one
