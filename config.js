@@ -107,16 +107,16 @@ exports.languages = {
   //     return String(n).replace("/([0-9])/g", "\\U066$1").replace(".", "\\U066B");
   //   }
   // },
-  // "ast": {
-  //   menuTitle: "asturianu]",
-  //   plural: function(n) {
-  //     if (n === 1) {return 1} // one
-  //     return 2; // other
-  //   },
-  //   number: function(n) {
-  //     return n;
-  //   }
-  // },
+  "ast": {
+    menuTitle: "asturianu",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   // "asa": {
   //   menuTitle: "asu",
   //   plural: function(n) {
@@ -163,6 +163,16 @@ exports.languages = {
       return n;
     }
   },
+  "ca": {
+    menuTitle: "català",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return String(n).replace(".", ","); // replace dot by comma
+    }
+  },
   "cdo": {
     menuTitle: "Mìng-dĕ̤ng-ngṳ̄",
     plural: function(n) {
@@ -181,6 +191,17 @@ exports.languages = {
     },
     number: function(n) {
       return n;
+    }
+  },
+  "cs": {
+    menuTitle: "čeština",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      if (n === 2 || n === 3 || n === 4) {return 2} // two--four
+      return 3; // other
+    },
+    number: function(n) {
+      return String(n).replace(".", ","); // replace dot by comma
     }
   },
   "da": {
@@ -373,6 +394,15 @@ exports.languages = {
       return n;
     }
   },
+  "kn": {
+    menuTitle: "ಕನ್ನಡ",
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "lb": {
     menuTitle: "Lëtzebuergesch",
     plural: function(n) {
@@ -426,11 +456,11 @@ exports.languages = {
     menuTitle: "polski",
     plural: function(n) {
       if (n == 1) {
-        return 0;
-      } else if (n % 10 >=2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20)) {
         return 1;
-      } else {
+      } else if (n % 10 >=2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20)) {
         return 2;
+      } else {
+        return 3;
       }
     },
     number: function(n) {
@@ -482,6 +512,16 @@ exports.languages = {
       if (n % 10 === 0 || (5 <= n % 10 && n % 10 <= 9) ||
           (11 <= n % 100 && n % 100 <= 14)) return 2; // many
       return 3; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "so": {
+    menuTitle: "scots",
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
     },
     number: function(n) {
       return n;
