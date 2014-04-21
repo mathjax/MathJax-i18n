@@ -108,7 +108,7 @@ exports.languages = {
   //   }
   // },
   "ast": {
-    menuTitle: "asturianu]",
+    menuTitle: "asturianu",
     plural: function(n) {
       if (n === 1) {return 1} // one
       return 2; // other
