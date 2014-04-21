@@ -1,17 +1,17 @@
 {
-    "@metadata": {
-        "authors": [
-            "Claw eg"
-        ]
-    },
-    "MathProcessingError": "خطأ معالجة رياضية",
-    "MathError": "خطأ رياضي",
-    "LoadFile": "تحميل $1",
-    "Loading": "جاري التحميل",
-    "LoadFailed": "فشل تحميل الملف: $1",
-    "ProcessMath": "عملية رياضية: $1%",
-    "Processing": "معالجة",
-    "TypesetMath": "تنضيد رياضي: $1%",
-    "Typesetting": "تنضيد",
-    "MathJaxNotSupported": "متصفحك لا يدعم ماثجاكس"
+	"@metadata": {
+		"authors": [
+			"Claw eg"
+		]
+	},
+	"MathProcessingError": "خطأ معالجة رياضية",
+	"MathError": "خطأ رياضي",
+	"LoadFile": "تحميل $1",
+	"Loading": "جاري التحميل",
+	"LoadFailed": "فشل تحميل الملف: $1",
+	"ProcessMath": "عملية رياضية: $1%",
+	"Processing": "معالجة",
+	"TypesetMath": "تنضيد رياضي: $1%",
+	"Typesetting": "تنضيد",
+	"MathJaxNotSupported": "متصفحك لا يدعم ماثجاكس"
 }

@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "WikiPhoenix"
-        ]
-    },
-    "LoadWebFont": "Läser in webbtypsnittet $1",
-    "CantLoadWebFont": "Kan inte läsa in webbtypsnittet $1",
-    "FirefoxCantLoadWebFont": "Firefox kan inte läsa in webbteckensnitt från en fjärrstyrd värd",
-    "CantFindFontUsing": "Kan inte hitta ett giltigt teckensnitt med $1",
-    "WebFontsNotAvailable": "Webbtypsnitt är inte tillgängliga. Använder bildtypsnitt istället"
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"LoadWebFont": "Läser in webbtypsnittet $1",
+	"CantLoadWebFont": "Kan inte läsa in webbtypsnittet $1",
+	"FirefoxCantLoadWebFont": "Firefox kan inte läsa in webbteckensnitt från en fjärrstyrd värd",
+	"CantFindFontUsing": "Kan inte hitta ett giltigt teckensnitt med $1",
+	"WebFontsNotAvailable": "Webbtypsnitt är inte tillgängliga. Använder bildtypsnitt istället"
 }

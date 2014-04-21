@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Overlaet"
-        ]
-    },
-    "LoadWebFont": "Indlæser webskrifftype $1",
-    "CantLoadWebFont": "Kan ikke indlæse webskrifttype $1",
-    "FirefoxCantLoadWebFont": "Firefox kan ikke indlæse webskrifttyper fra en fjernstyret vært",
-    "CantFindFontUsing": "Kunne ikke finde en gyldig skrifttype ved hjælp af $1",
-    "WebFontsNotAvailable": "Webskrifttyper er ikke tilgængelig. Brug billede skrifttyper i stedet"
+	"@metadata": {
+		"authors": [
+			"Overlaet"
+		]
+	},
+	"LoadWebFont": "Indlæser webskrifftype $1",
+	"CantLoadWebFont": "Kan ikke indlæse webskrifttype $1",
+	"FirefoxCantLoadWebFont": "Firefox kan ikke indlæse webskrifttyper fra en fjernstyret vært",
+	"CantFindFontUsing": "Kunne ikke finde en gyldig skrifttype ved hjælp af $1",
+	"WebFontsNotAvailable": "Webskrifttyper er ikke tilgængelig. Brug billede skrifttyper i stedet"
 }

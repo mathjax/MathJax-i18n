@@ -1,17 +1,17 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "BadMglyph": "誤った mglyph: $1",
-    "BadMglyphFont": "誤ったフォント: $1",
-    "MathPlayer": "MathJax は MathPlayer を設定できませんでした。\n\nMathPlayer をインストールしていない場合は、\nまずインストールする必要があります。\nインストールしている場合は、セキュリティの設定で ActiveX\nコントロールの実行を拒否している場合があります。\n[ツール] メニューの [インターネット オプション] で、\n[セキュリティ] タブの [レベルのカスタマイズ] を押してください。\n[Active コントロールの実行] と [バイナリ ビヘイビアーとスクリプト\nビヘイビアー] が有効になっていることを確認してください。\n\n現時点では、数式が組版されず、エラー メッセージが表示されます。",
-    "CantCreateXMLParser": "MathJax は MathML 用の XML パーサーを作成できませんでした。\n「スクリプトを実行しても安全だとマークされている ActiveX\nコントロールのスクリプトの実行」を有効にしているか確認してください\n([ツール] メニューの [インターネット オプション] を選択し、\n[セキュリティ] タブの [レベルのカスタマイズ] で確認できます)。\n\nMathML の数式を MathML が処理できなくなります。",
-    "UnknownNodeType": "不明な種類のノード: $1",
-    "UnexpectedTextNode": "予期しないテキスト ノード: $1",
-    "ErrorParsingMathML": "MathML の構文解析エラー",
-    "ParsingError": "MathML の構文解析エラー: $1",
-    "MathMLSingleElement": "MathML は単一の要素で構成してください",
-    "MathMLRootElement": "MathML は $1 ではなく <math> 要素で構成してください"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"BadMglyph": "誤った mglyph: $1",
+	"BadMglyphFont": "誤ったフォント: $1",
+	"MathPlayer": "MathJax は MathPlayer を設定できませんでした。\n\nMathPlayer をインストールしていない場合は、\nまずインストールする必要があります。\nインストールしている場合は、セキュリティの設定で ActiveX\nコントロールの実行を拒否している場合があります。\n[ツール] メニューの [インターネット オプション] で、\n[セキュリティ] タブの [レベルのカスタマイズ] を押してください。\n[Active コントロールの実行] と [バイナリ ビヘイビアーとスクリプト\nビヘイビアー] が有効になっていることを確認してください。\n\n現時点では、数式が組版されず、エラー メッセージが表示されます。",
+	"CantCreateXMLParser": "MathJax は MathML 用の XML パーサーを作成できませんでした。\n「スクリプトを実行しても安全だとマークされている ActiveX\nコントロールのスクリプトの実行」を有効にしているか確認してください\n([ツール] メニューの [インターネット オプション] を選択し、\n[セキュリティ] タブの [レベルのカスタマイズ] で確認できます)。\n\nMathML の数式を MathML が処理できなくなります。",
+	"UnknownNodeType": "不明な種類のノード: $1",
+	"UnexpectedTextNode": "予期しないテキスト ノード: $1",
+	"ErrorParsingMathML": "MathML の構文解析エラー",
+	"ParsingError": "MathML の構文解析エラー: $1",
+	"MathMLSingleElement": "MathML は単一の要素で構成してください",
+	"MathMLRootElement": "MathML は $1 ではなく <math> 要素で構成してください"
 }

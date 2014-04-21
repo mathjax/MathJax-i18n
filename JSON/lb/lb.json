@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "Robby"
-        ]
-    },
-    "MathError": "Math Feeler",
-    "LoadFile": "$1 lueden",
-    "Loading": "Lueden",
-    "LoadFailed": "De Fichier konnt net geluede ginn: $1",
-    "Processing": "Verschaffen",
-    "MathJaxNotSupported": "Äre browser ënnerstëtzt MathJax net"
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"MathError": "Math Feeler",
+	"LoadFile": "$1 lueden",
+	"Loading": "Lueden",
+	"LoadFailed": "De Fichier konnt net geluede ginn: $1",
+	"Processing": "Verschaffen",
+	"MathJaxNotSupported": "Äre browser ënnerstëtzt MathJax net"
 }

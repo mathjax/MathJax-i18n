@@ -1,19 +1,19 @@
 {
-    "@metadata": {
-        "authors": [
-            "piotrdomagalski",
-            "Ty221"
-        ]
-    },
-    "CookieConfig": "MathJax znalazł konfigurację zapisaną w ciasteczku, która zawiera kod do uruchomienia. Czy chcesz go uruchomić?\n\n(Powinieneś nacisnąć Anuluj, jeśli to nie Ty stworzyłeś tę konfigurację.)",
-    "MathProcessingError": "Błąd podczas przetwarzania wzorów matematycznych",
-    "MathError": "Błąd we wzorze matematycznym",
-    "LoadFile": "Ładuję $1",
-    "Loading": "Ładuję",
-    "LoadFailed": "Nie udało się załadować pliku: $1",
-    "ProcessMath": "Przetwarzam wzory matematyczne: $1%",
-    "Processing": "Przetwarzam",
-    "TypesetMath": "Przetwarzam wzory matematyczne: $1%",
-    "Typesetting": "Przetwarzam",
-    "MathJaxNotSupported": "Twoja przeglądarka nie obsługuje MathJax"
+	"@metadata": {
+		"authors": [
+			"piotrdomagalski",
+			"Ty221"
+		]
+	},
+	"CookieConfig": "MathJax znalazł konfigurację zapisaną w ciasteczku, która zawiera kod do uruchomienia. Czy chcesz go uruchomić?\n\n(Powinieneś nacisnąć Anuluj, jeśli to nie Ty stworzyłeś tę konfigurację.)",
+	"MathProcessingError": "Błąd podczas przetwarzania wzorów matematycznych",
+	"MathError": "Błąd we wzorze matematycznym",
+	"LoadFile": "Ładuję $1",
+	"Loading": "Ładuję",
+	"LoadFailed": "Nie udało się załadować pliku: $1",
+	"ProcessMath": "Przetwarzam wzory matematyczne: $1%",
+	"Processing": "Przetwarzam",
+	"TypesetMath": "Przetwarzam wzory matematyczne: $1%",
+	"Typesetting": "Przetwarzam",
+	"MathJaxNotSupported": "Twoja przeglądarka nie obsługuje MathJax"
 }

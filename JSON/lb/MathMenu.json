@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"MathMLcode": "MathML Code",
+	"OriginalMathML": "Original MathML",
+	"Original": "Original Formulaire",
+	"ErrorMessage": "Feelermessage",
+	"Annotation": "Notiz",
+	"TeX": "TeX",
+	"StarMath": "StarMath",
+	"Maple": "Maple",
+	"OpenMath": "OpenMath",
+	"Settings": "Math Astellungen",
+	"Hover": "Driwwerfueren",
+	"Click": "Klicken",
+	"DoubleClick": "Duebel-Klick",
+	"NoZoom": "Kee Zoom",
+	"Option": "Optioun",
+	"Alt": "Alt",
+	"Control": "Ctrl",
+	"Auto": "Automatesch",
+	"TeXImage": "TeX (Bild)",
+	"STIXLocal": "STIX (lokal)",
+	"ContextMenu": "kontextuelle Menü",
+	"Browser": "Browser",
+	"Locale": "Sprooch",
+	"LoadLocale": "Luede vun der URL ...",
+	"About": "Iwwer MathJax",
+	"Help": "MathJax Hëllef",
+	"LoadURL": "Iwwersetzungsdonnéeë vun dëser URL lueden:",
+	"Close": "Zoumaachen"
+}

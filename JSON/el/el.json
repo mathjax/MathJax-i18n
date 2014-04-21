@@ -1,13 +1,15 @@
 {
-    "@metadata": {
-        "authors": [
-            "Evropi"
-        ]
-    },
-    "MathProcessingError": "Σφάλμα κατά την επεξεργασία μαθηματικών",
-    "MathError": "Μαθηματικά σφάλμα",
-    "LoadFile": "Φόρτωση του $1 σε εξέλιξη",
-    "Loading": "Φορτώνει",
-    "Processing": "Επεξεργασία σε εξέλιξη",
-    "MathJaxNotSupported": "Το πρόγραμμα περιήγησης σας δεν υποστηρίζει το MathJax"
+	"@metadata": {
+		"authors": [
+			"Evropi",
+			"Glavkos"
+		]
+	},
+	"MathProcessingError": "Σφάλμα κατά την επεξεργασία μαθηματικών",
+	"MathError": "Μαθηματικά σφάλμα",
+	"LoadFile": "Φόρτωση του $1 σε εξέλιξη",
+	"Loading": "Φορτώνει",
+	"Processing": "Επεξεργασία σε εξέλιξη",
+	"Typesetting": "Στοιχειοθεσία",
+	"MathJaxNotSupported": "Το πρόγραμμα περιήγησης σας δεν υποστηρίζει το MathJax"
 }

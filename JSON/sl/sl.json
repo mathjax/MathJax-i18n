@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Eleassar"
-        ]
-    },
-    "CookieConfig": "MathJax je našel piškotek za uporabniško konfiguracijo, ki vključuje kodo za zagon. Ali jo želite zagnati?\n\n(Pritisnite Prekliči, razen če ste piškotek sami nastavili.)",
-    "MathProcessingError": "Napaka pri obdelavi matematike",
-    "MathError": "Napaka v matematični formuli",
-    "LoadFile": "Nalagam $1",
-    "Loading": "Nalagam",
-    "LoadFailed": "Datoteka se ni naložila: $1",
-    "ProcessMath": "Obdelava matematike: $1%",
-    "Processing": "Obdelujem",
-    "TypesetMath": "Stavljenje matematike: $1%",
-    "Typesetting": "Stavljenje",
-    "MathJaxNotSupported": "Vaš brskalnik ne podpira MathJax"
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"CookieConfig": "MathJax je našel piškotek za uporabniško konfiguracijo, ki vključuje kodo za zagon. Ali jo želite zagnati?\n\n(Pritisnite Prekliči, razen če ste piškotek sami nastavili.)",
+	"MathProcessingError": "Napaka pri obdelavi matematike",
+	"MathError": "Napaka v matematični formuli",
+	"LoadFile": "Nalagam $1",
+	"Loading": "Nalagam",
+	"LoadFailed": "Datoteka se ni naložila: $1",
+	"ProcessMath": "Obdelava matematike: $1%",
+	"Processing": "Obdelujem",
+	"TypesetMath": "Stavljenje matematike: $1%",
+	"Typesetting": "Stavljenje",
+	"MathJaxNotSupported": "Vaš brskalnik ne podpira MathJax"
 }

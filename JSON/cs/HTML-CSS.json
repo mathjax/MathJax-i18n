@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "Chmee2",
-            "Mormegil"
-        ]
-    },
-    "LoadWebFont": "Načítá se web-font $1",
-    "CantLoadWebFont": "Nelze načíst web-font $1",
-    "FirefoxCantLoadWebFont": "Firefox nemůže načítat web-fonty ze vzdáleného hostitele",
-    "CantFindFontUsing": "Nelze najít platný font pomocí $1",
-    "WebFontsNotAvailable": "Webové fonty nejsou k dispozici. Místo toho jsou použity obrázkové fonty."
+	"@metadata": {
+		"authors": [
+			"Chmee2",
+			"Mormegil"
+		]
+	},
+	"LoadWebFont": "Načítá se web-font $1",
+	"CantLoadWebFont": "Nelze načíst web-font $1",
+	"FirefoxCantLoadWebFont": "Firefox nemůže načítat web-fonty ze vzdáleného hostitele",
+	"CantFindFontUsing": "Nelze najít platný font pomocí $1",
+	"WebFontsNotAvailable": "Webové fonty nejsou k dispozici. Místo toho jsou použity obrázkové fonty."
 }

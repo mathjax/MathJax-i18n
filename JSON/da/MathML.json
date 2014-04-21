@@ -1,17 +1,17 @@
 {
-    "@metadata": {
-        "authors": [
-            "Christian List"
-        ]
-    },
-    "BadMglyph": "Dårlig mglyph: $1",
-    "BadMglyphFont": "Dårlig skrifttype: $1",
-    "MathPlayer": "MathJax var ikke i stand til at konfigurere MathPlayer.\n\nHvis MathPlayer ikke er installeret, skal du installere det først.\nEllers, kan dine sikkerhedsindstillinger forhindrer ActiveX\nkontrolelementer i at køre. Bruge dine Internetindstillinger under\ni menuen Funktioner og vælg fanen Sikkerhed, og tryk derefter på\nknappen Brugerdefineret niveau. Kontroller, at indstillingerne for\n'Kør ActiveX-objekter' og 'binær- og script-opførsel' er aktiveret.\n\nI øjeblikket vil du se fejlmeddelelser i stedet for\nformateret matematik",
-    "CantCreateXMLParser": "MathJax kan ikke oprette en XML-parser til MathML. Kontroller, at\n'Script ActiveX-objekter markeret sikre til scripting' sikkerhed\ner aktiveret (bruge elementet Internetindstillinger i menuen \nværktøjer, og vælg sikkerhedspanel, tryk derefter på \nBrugerdefineret niveau knappen for at undersøge det).\n\nMathML ligninger vil ikke kunne behandles af MathJax",
-    "UnknownNodeType": "Ukendt nodetype: $1",
-    "UnexpectedTextNode": "Uventet tekst node: $1",
-    "ErrorParsingMathML": "Fejl under parsing af MathML",
-    "ParsingError": "Fejl under parsing af MathML: $1",
-    "MathMLSingleElement": "MathML skal være dannet af en enkelt element",
-    "MathMLRootElement": "MathML skal være dannet af et <math> element, ikke $1"
+	"@metadata": {
+		"authors": [
+			"Christian List"
+		]
+	},
+	"BadMglyph": "Dårlig mglyph: $1",
+	"BadMglyphFont": "Dårlig skrifttype: $1",
+	"MathPlayer": "MathJax var ikke i stand til at konfigurere MathPlayer.\n\nHvis MathPlayer ikke er installeret, skal du installere det først.\nEllers, kan dine sikkerhedsindstillinger forhindrer ActiveX\nkontrolelementer i at køre. Bruge dine Internetindstillinger under\ni menuen Funktioner og vælg fanen Sikkerhed, og tryk derefter på\nknappen Brugerdefineret niveau. Kontroller, at indstillingerne for\n'Kør ActiveX-objekter' og 'binær- og script-opførsel' er aktiveret.\n\nI øjeblikket vil du se fejlmeddelelser i stedet for\nformateret matematik",
+	"CantCreateXMLParser": "MathJax kan ikke oprette en XML-parser til MathML. Kontroller, at\n'Script ActiveX-objekter markeret sikre til scripting' sikkerhed\ner aktiveret (bruge elementet Internetindstillinger i menuen \nværktøjer, og vælg sikkerhedspanel, tryk derefter på \nBrugerdefineret niveau knappen for at undersøge det).\n\nMathML ligninger vil ikke kunne behandles af MathJax",
+	"UnknownNodeType": "Ukendt nodetype: $1",
+	"UnexpectedTextNode": "Uventet tekst node: $1",
+	"ErrorParsingMathML": "Fejl under parsing af MathML",
+	"ParsingError": "Fejl under parsing af MathML: $1",
+	"MathMLSingleElement": "MathML skal være dannet af en enkelt element",
+	"MathMLRootElement": "MathML skal være dannet af et <math> element, ikke $1"
 }

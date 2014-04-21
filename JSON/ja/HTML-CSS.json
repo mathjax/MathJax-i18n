@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "LoadWebFont": "Web フォント $1 を読み込み中",
-    "CantLoadWebFont": "Web フォント $1 を読み込めません",
-    "FirefoxCantLoadWebFont": "Firefox は、リモート ホストの Web フォントを読み込めません",
-    "CantFindFontUsing": "$1 で有効なフォントが見つかりません",
-    "WebFontsNotAvailable": "Web フォントを利用できません。代わりに画像フォントを使用します"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"LoadWebFont": "Web フォント $1 を読み込み中",
+	"CantLoadWebFont": "Web フォント $1 を読み込めません",
+	"FirefoxCantLoadWebFont": "Firefox は、リモート ホストの Web フォントを読み込めません",
+	"CantFindFontUsing": "$1 で有効なフォントが見つかりません",
+	"WebFontsNotAvailable": "Web フォントを利用できません。代わりに画像フォントを使用します"
 }

@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Chmee2",
-            "Mormegil"
-        ]
-    },
-    "Help": "Nápověda k MathJaxu",
-    "MathJax": "*MathJax* je JavaScriptová knihovna, která autorům stránek umožňuje zahrnout do stránek matematiku. Jako čtenář se nemusíte o nic starat.",
-    "Browsers": "*Prohlížeče*: MathJax pracuje na všech moderních prohlížečích včetně IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ a většině mobilních prohlížečů.",
-    "Menu": "*Matematické menu*: MathJax přidává k rovnicím kontextové menu. Pro zobrazení menu klikněte pravým tlačítkem myši nebo s podržením klávesy Ctrl na jakoukoli matematiku.",
-    "ShowMath": "*Zobrazit matematiku jako* vám umožní prohlédnout si zdrojový kód vzorce pro okopírování (jako MathML nebo v původním formátu).",
-    "Settings": "*Nastavení* vám umožňují přizpůsobit si některé funkce MathJaxu, jako jsou velikost matematiky či mechanismy používané k zobrazování rovnic.",
-    "Language": "*Jazyk* vám umožní zvolit si jazyk používaný MathJaxem pro menu a chybová hlášení.",
-    "Zoom": "*Matematický zoom*: Pokud vám dělá problémy čtení rovnice, Mathjax vám umožní ji zvětšit, abyste ji lépe viděli.",
-    "Accessibilty": "*Přístupnost*: MathJax automaticky funguje s čtečkami obrazovky, aby matematiku zpřístupnil zrakově postiženým.",
-    "Fonts": "*Písma*: MathJax bude používat jistá matematická písma, pokud je máte na počítači nainstalované; v opačném případě použije písma webová. Přestože to není nutné, lokálně nainstalovaná písma urychlí sazbu. Doporučujeme nainstalovat [písma STIX]($1)."
+	"@metadata": {
+		"authors": [
+			"Chmee2",
+			"Mormegil"
+		]
+	},
+	"Help": "Nápověda k MathJaxu",
+	"MathJax": "*MathJax* je JavaScriptová knihovna, která autorům stránek umožňuje zahrnout do stránek matematiku. Jako čtenář se nemusíte o nic starat.",
+	"Browsers": "*Prohlížeče*: MathJax pracuje na všech moderních prohlížečích včetně IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ a většině mobilních prohlížečů.",
+	"Menu": "*Matematické menu*: MathJax přidává k rovnicím kontextové menu. Pro zobrazení menu klikněte pravým tlačítkem myši nebo s podržením klávesy Ctrl na jakoukoli matematiku.",
+	"ShowMath": "*Zobrazit matematiku jako* vám umožní prohlédnout si zdrojový kód vzorce pro okopírování (jako MathML nebo v původním formátu).",
+	"Settings": "*Nastavení* vám umožňují přizpůsobit si některé funkce MathJaxu, jako jsou velikost matematiky či mechanismy používané k zobrazování rovnic.",
+	"Language": "*Jazyk* vám umožní zvolit si jazyk používaný MathJaxem pro menu a chybová hlášení.",
+	"Zoom": "*Matematický zoom*: Pokud vám dělá problémy čtení rovnice, Mathjax vám umožní ji zvětšit, abyste ji lépe viděli.",
+	"Accessibilty": "*Přístupnost*: MathJax automaticky funguje s čtečkami obrazovky, aby matematiku zpřístupnil zrakově postiženým.",
+	"Fonts": "*Písma*: MathJax bude používat jistá matematická písma, pokud je máte na počítači nainstalované; v opačném případě použije písma webová. Přestože to není nutné, lokálně nainstalovaná písma urychlí sazbu. Doporučujeme nainstalovat [písma STIX]($1)."
 }

@@ -1,22 +1,22 @@
 {
-    "@metadata": {
-        "authors": [
-            "Fred",
-            "Gomoko",
-            "Jean-Frédéric",
-            "Sherbrooke",
-            "Urhixidur",
-            "fred"
-        ]
-    },
-    "BadMglyph": "Élement mglyph incorrect: $1",
-    "BadMglyphFont": "Police non valide : $1",
-    "MathPlayer": "MathJax n’a pas pu configurer MathPlayer.\n\nSi MathPlayer n’est pas installé, vous devez d’abord le faire.\nSinon, il se peut que vos paramètres de sécurité empêchent l’exécution des contrôles ActiveX. Utilisez l’entrée Options Internet sous le menu Outils et sélectionnez l’onglet Sécurité, puis cliquez le bouton « Personnaliser le niveau ». Vérifiez que les paramètres pour 'Exécuter les contrôles ActiveX', et 'Comportement de fichiers binaires et des scripts' sont activés.\n\nPour le moment, vous verrez des messages d’erreur au lieu de textes mathématiques.",
-    "CantCreateXMLParser": "MathJax ne peut pas créer un analyseur XML pour MathML. Vérifiez que l’option de sécurité 'Contrôles ActiveX reconnus sûrs pour l’écriture de scripts' est activée (utilisez l’entrée Options Internet dans le menu Outils, et sélectionnez l’onglet Sécurité, puis appuyez sur le bouton Personnaliser le niveau, pour le vérifier).",
-    "UnknownNodeType": "Type de nœud inconnu : $1",
-    "UnexpectedTextNode": "Nœud de texte inattendu : $1",
-    "ErrorParsingMathML": "Erreur lors de l’analyse de MathML",
-    "ParsingError": "Erreur d’analyse de MathML : $1",
-    "MathMLSingleElement": "MathML doit être formé d’un unique élément",
-    "MathMLRootElement": "MathML doit être formé d’un élément <math>, et pas $1"
+	"@metadata": {
+		"authors": [
+			"Fred",
+			"Gomoko",
+			"Jean-Frédéric",
+			"Sherbrooke",
+			"Urhixidur",
+			"fred"
+		]
+	},
+	"BadMglyph": "Élement mglyph incorrect: $1",
+	"BadMglyphFont": "Police non valide : $1",
+	"MathPlayer": "MathJax n’a pas pu configurer MathPlayer.\n\nSi MathPlayer n’est pas installé, vous devez d’abord le faire.\nSinon, il se peut que vos paramètres de sécurité empêchent l’exécution des contrôles ActiveX. Utilisez l’entrée Options Internet sous le menu Outils et sélectionnez l’onglet Sécurité, puis cliquez le bouton « Personnaliser le niveau ». Vérifiez que les paramètres pour 'Exécuter les contrôles ActiveX', et 'Comportement de fichiers binaires et des scripts' sont activés.\n\nPour le moment, vous verrez des messages d’erreur au lieu de textes mathématiques.",
+	"CantCreateXMLParser": "MathJax ne peut pas créer un analyseur XML pour MathML. Vérifiez que l’option de sécurité 'Contrôles ActiveX reconnus sûrs pour l’écriture de scripts' est activée (utilisez l’entrée Options Internet dans le menu Outils, et sélectionnez l’onglet Sécurité, puis appuyez sur le bouton Personnaliser le niveau, pour le vérifier).",
+	"UnknownNodeType": "Type de nœud inconnu : $1",
+	"UnexpectedTextNode": "Nœud de texte inattendu : $1",
+	"ErrorParsingMathML": "Erreur lors de l’analyse de MathML",
+	"ParsingError": "Erreur d’analyse de MathML : $1",
+	"MathMLSingleElement": "MathML doit être formé d’un unique élément",
+	"MathMLRootElement": "MathML doit être formé d’un élément <math>, et pas $1"
 }

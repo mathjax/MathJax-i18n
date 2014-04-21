@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ty221",
-            "piotrdomagalski"
-        ]
-    },
-    "LoadWebFont": "Ładuję czcionkę $1",
-    "CantLoadWebFont": "Nie można załadować czcionki $1",
-    "FirefoxCantLoadWebFont": "Firefox nie może załadować czcionek ze zdalnego hosta",
-    "CantFindFontUsing": "Nie można znaleźć właściwej czcionki używając $1",
-    "WebFontsNotAvailable": "Czcionki internetowe nie dostępne - zamiast tego używane są czcionki obrazkowe"
+	"@metadata": {
+		"authors": [
+			"Ty221",
+			"piotrdomagalski"
+		]
+	},
+	"LoadWebFont": "Ładuję czcionkę $1",
+	"CantLoadWebFont": "Nie można załadować czcionki $1",
+	"FirefoxCantLoadWebFont": "Firefox nie może załadować czcionek ze zdalnego hosta",
+	"CantFindFontUsing": "Nie można znaleźć właściwej czcionki używając $1",
+	"WebFontsNotAvailable": "Czcionki internetowe nie dostępne - zamiast tego używane są czcionki obrazkowe"
 }

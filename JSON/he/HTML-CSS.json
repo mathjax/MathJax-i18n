@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Amire80"
-        ]
-    },
-    "LoadWebFont": "טעינת גופן הרשת $1",
-    "CantLoadWebFont": "לא ניתן לטעון את גופן הרשת $1",
-    "FirefoxCantLoadWebFont": "פיירפוקס אינו יכול לטעון גופני רשת משרת מרוחק",
-    "CantFindFontUsing": "לא נמצא גופן תקין באמצעות $1",
-    "WebFontsNotAvailable": "גופני רשת אינם זמינים – במקומם משמשים גופני תמונה"
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"LoadWebFont": "טעינת גופן הרשת $1",
+	"CantLoadWebFont": "לא ניתן לטעון את גופן הרשת $1",
+	"FirefoxCantLoadWebFont": "פיירפוקס אינו יכול לטעון גופני רשת משרת מרוחק",
+	"CantFindFontUsing": "לא נמצא גופן תקין באמצעות $1",
+	"WebFontsNotAvailable": "גופני רשת אינם זמינים – במקומם משמשים גופני תמונה"
 }

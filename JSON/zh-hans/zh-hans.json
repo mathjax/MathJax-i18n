@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Liuxinyu970226"
-        ]
-    },
-    "CookieConfig": "MathJax已找到用户配置，其中包含要运行代码所依赖的cookie。您想运行它么？\n\n（您应该自行按取消除非您设置了自己的cookie。）",
-    "MathProcessingError": "数学处理错误",
-    "MathError": "数学错误",
-    "LoadFile": "$1加载中",
-    "Loading": "加载中",
-    "LoadFailed": "无法加载文件：$1",
-    "ProcessMath": "数学处理：$1%",
-    "Processing": "处理中",
-    "TypesetMath": "排版数学：$1%",
-    "Typesetting": "排版",
-    "MathJaxNotSupported": "您的浏览器暂不支持MathJax"
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"CookieConfig": "MathJax已找到用户配置，其中包含要运行代码所依赖的cookie。您想运行它么？\n\n（您应该自行按取消除非您设置了自己的cookie。）",
+	"MathProcessingError": "数学处理错误",
+	"MathError": "数学错误",
+	"LoadFile": "$1加载中",
+	"Loading": "加载中",
+	"LoadFailed": "无法加载文件：$1",
+	"ProcessMath": "数学处理：$1%",
+	"Processing": "处理中",
+	"TypesetMath": "排版数学：$1%",
+	"Typesetting": "排版",
+	"MathJaxNotSupported": "您的浏览器暂不支持MathJax"
 }

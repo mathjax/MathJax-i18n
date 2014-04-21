@@ -1,14 +1,14 @@
 {
-    "@metadata": {
-        "authors": [
-            "piotrdomagalski"
-        ]
-    },
-    "webFont": "MathJax używa czcionek Web, aby wyświetlić wzory matematyczne na tej stronie. Pobranie czcionek z sieci zajmuje chwilę. Strona ta mogłaby załadować się szybciej, jeśli zainstalowałbyś czcionki lokalnie w swoim systemie.",
-    "imageFonts": "MathJax używa czcionek obrazkowych zamiast lokalnych lub pobranych z sieci. To powoduje wolniejsze wyświetlanie strony oraz uniemożliwia wydruk w pełnej rozdzielczości Twojej drukarki.",
-    "noFonts": "MathJax nie może zlokalizować czcionek potrzebnych do wyświetlenia wzorów, a czcionki obrazkowe nie są dostępne. Używane są więc znaki Unicode z nadzieją, że Twoja przeglądarka wyświetli je poprawnie. Niektóre znaki mogą jednak nie wyglądać prawidłowo lub mogą nie być w ogóle wyświetlane.",
-    "webFonts": "Większość nowych przeglądarek umożliwia pobieranie czcionek z sieci Web. Aktualizacja Twojej przeglądarki (lub wybór innej) może polepszyć jakość wyświetlanych wzorów matematycznych na tej stronie.",
-    "fonts": "MathJax może użyć albo [czcionek STIX]($1), albo [czcionek MathJax Tex]($2). Pobierz i zainstaluj te czcionki, aby ulepszyć działanie MathJax.",
-    "STIXPage": "Ta strona wymaga [czcionek STIX]($1). Pobierz i zainstaluj te czcionki, aby ulepszyć działanie MathJax.",
-    "TeXPage": "Ta strona wymaga [czcionek MathJax Tex]($1). Pobierz i zainstaluj te czcionki, aby ulepszyć działanie MathJax."
+	"@metadata": {
+		"authors": [
+			"piotrdomagalski"
+		]
+	},
+	"webFont": "MathJax używa czcionek Web, aby wyświetlić wzory matematyczne na tej stronie. Pobranie czcionek z sieci zajmuje chwilę. Strona ta mogłaby załadować się szybciej, jeśli zainstalowałbyś czcionki lokalnie w swoim systemie.",
+	"imageFonts": "MathJax używa czcionek obrazkowych zamiast lokalnych lub pobranych z sieci. To powoduje wolniejsze wyświetlanie strony oraz uniemożliwia wydruk w pełnej rozdzielczości Twojej drukarki.",
+	"noFonts": "MathJax nie może zlokalizować czcionek potrzebnych do wyświetlenia wzorów, a czcionki obrazkowe nie są dostępne. Używane są więc znaki Unicode z nadzieją, że Twoja przeglądarka wyświetli je poprawnie. Niektóre znaki mogą jednak nie wyglądać prawidłowo lub mogą nie być w ogóle wyświetlane.",
+	"webFonts": "Większość nowych przeglądarek umożliwia pobieranie czcionek z sieci Web. Aktualizacja Twojej przeglądarki (lub wybór innej) może polepszyć jakość wyświetlanych wzorów matematycznych na tej stronie.",
+	"fonts": "MathJax może użyć albo [czcionek STIX]($1), albo [czcionek MathJax Tex]($2). Pobierz i zainstaluj te czcionki, aby ulepszyć działanie MathJax.",
+	"STIXPage": "Ta strona wymaga [czcionek STIX]($1). Pobierz i zainstaluj te czcionki, aby ulepszyć działanie MathJax.",
+	"TeXPage": "Ta strona wymaga [czcionek MathJax Tex]($1). Pobierz i zainstaluj te czcionki, aby ulepszyć działanie MathJax."
 }

@@ -1,14 +1,14 @@
 {
-    "@metadata": {
-        "authors": [
-            "Meelo"
-        ]
-    },
-    "MathProcessingError": "Matematik işleme hatası",
-    "MathError": "Matematik hatası",
-    "LoadFile": "$1 Yükleniyor",
-    "Loading": "Yükleniyor",
-    "LoadFailed": "Dosya yüklenemedi: $1",
-    "ProcessMath": "Matematik işleme: %$1",
-    "MathJaxNotSupported": "Tarayıcınız MathJax'i desteklemiyor"
+	"@metadata": {
+		"authors": [
+			"Meelo"
+		]
+	},
+	"MathProcessingError": "Matematik işleme hatası",
+	"MathError": "Matematik hatası",
+	"LoadFile": "$1 Yükleniyor",
+	"Loading": "Yükleniyor",
+	"LoadFailed": "Dosya yüklenemedi: $1",
+	"ProcessMath": "Matematik işleme: %$1",
+	"MathJaxNotSupported": "Tarayıcınız MathJax'i desteklemiyor"
 }

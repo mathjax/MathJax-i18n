@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Minh Nguyen"
-        ]
-    },
-    "CookieConfig": "MathJax đã tìm thấy một cookie thiết lập của người dùng có mã nguồn để chạy. Bạn có muốn chạy nó?\n\n(Khuyên bạn bấm Hủy bỏ trừ khi bạn là người thiết lập cookie.)",
-    "MathProcessingError": "Lỗi xử lý toán",
-    "MathError": "Lỗi toán",
-    "LoadFile": "Đang tải $1",
-    "Loading": "Đang tải",
-    "LoadFailed": "Thất bại khi tải tập tin: $1",
-    "ProcessMath": "Đang xử lý toán: $1%",
-    "Processing": "Đang xử lý",
-    "TypesetMath": "Đang xếp chữ toán: $1%",
-    "Typesetting": "Đang xếp chữ",
-    "MathJaxNotSupported": "Trình duyệt của bạn không hỗ trợ MathJax"
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"CookieConfig": "MathJax đã tìm thấy một cookie thiết lập của người dùng có mã nguồn để chạy. Bạn có muốn chạy nó?\n\n(Khuyên bạn bấm Hủy bỏ trừ khi bạn là người thiết lập cookie.)",
+	"MathProcessingError": "Lỗi xử lý toán",
+	"MathError": "Lỗi toán",
+	"LoadFile": "Đang tải $1",
+	"Loading": "Đang tải",
+	"LoadFailed": "Thất bại khi tải tập tin: $1",
+	"ProcessMath": "Đang xử lý toán: $1%",
+	"Processing": "Đang xử lý",
+	"TypesetMath": "Đang xếp chữ toán: $1%",
+	"Typesetting": "Đang xếp chữ",
+	"MathJaxNotSupported": "Trình duyệt của bạn không hỗ trợ MathJax"
 }

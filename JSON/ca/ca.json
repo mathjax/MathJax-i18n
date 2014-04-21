@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Alvaro Vidal-Abarca"
-        ]
-    },
-    "CookieConfig": "MathJax ha trobat una galeta de configuració d'usuari que inclou codi que s'ha d'executar. Voleu executar-lo?",
-    "MathProcessingError": "Error en processament d'expressió matemàtica",
-    "MathError": "Error d'expressió matemàtica",
-    "LoadFile": "Carregant $1",
-    "Loading": "Carregant",
-    "LoadFailed": "No s'ha pogut carregar el fitxer: $1",
-    "ProcessMath": "Processant expressió: $1%",
-    "Processing": "Processant",
-    "TypesetMath": "Formatejant expressió: $1%",
-    "Typesetting": "Formatejant",
-    "MathJaxNotSupported": "El vostre navegador no suporta MathJax"
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca"
+		]
+	},
+	"CookieConfig": "MathJax ha trobat una galeta de configuració d'usuari que inclou codi que s'ha d'executar. Voleu executar-lo?",
+	"MathProcessingError": "Error en processament d'expressió matemàtica",
+	"MathError": "Error d'expressió matemàtica",
+	"LoadFile": "Carregant $1",
+	"Loading": "Carregant",
+	"LoadFailed": "No s'ha pogut carregar el fitxer: $1",
+	"ProcessMath": "Processant expressió: $1%",
+	"Processing": "Processant",
+	"TypesetMath": "Formatejant expressió: $1%",
+	"Typesetting": "Formatejant",
+	"MathJaxNotSupported": "El vostre navegador no suporta MathJax"
 }

@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "Gorizon",
-            "Mirzali"
-        ]
-    },
-    "MathError": "Xetaya matematiki",
-    "LoadFile": "$1 Bar keri",
-    "Loading": "Beno bar",
-    "LoadFailed": "Dosyay bar nebi: $1",
-    "ProcessMath": "Matematik neqış kerden: $1%"
+	"@metadata": {
+		"authors": [
+			"Gorizon",
+			"Mirzali"
+		]
+	},
+	"MathError": "Xetaya matematiki",
+	"LoadFile": "$1 Bar keri",
+	"Loading": "Bar beno",
+	"LoadFailed": "Dosyay bar nebi: $1",
+	"ProcessMath": "Matematik neqış kerden: $1%"
 }

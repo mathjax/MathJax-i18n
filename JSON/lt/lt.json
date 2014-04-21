@@ -1,14 +1,14 @@
 {
-    "@metadata": {
-        "authors": [
-            "Mantak111"
-        ]
-    },
-    "MathError": "Matematikos klaida",
-    "LoadFile": "Įkraunama $1",
-    "Loading": "Įkraunama",
-    "LoadFailed": "Nepavyko įkrauti failo: $1",
-    "Processing": "Procesas",
-    "Typesetting": "Tekstų rinkimas",
-    "MathJaxNotSupported": "Jūsų naršyklė nepalaiko MathJax"
+	"@metadata": {
+		"authors": [
+			"Mantak111"
+		]
+	},
+	"MathError": "Matematikos klaida",
+	"LoadFile": "Įkraunama $1",
+	"Loading": "Įkraunama",
+	"LoadFailed": "Nepavyko įkrauti failo: $1",
+	"Processing": "Procesas",
+	"Typesetting": "Tekstų rinkimas",
+	"MathJaxNotSupported": "Jūsų naršyklė nepalaiko MathJax"
 }

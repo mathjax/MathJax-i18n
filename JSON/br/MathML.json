@@ -1,14 +1,14 @@
 {
-    "@metadata": {
-        "authors": [
-            "Fohanno"
-        ]
-    },
-    "BadMglyph": "mglyph fall : $1",
-    "BadMglyphFont": "Font fall : $1",
-    "UnknownNodeType": "Seurt skoulm dianav : $1",
-    "UnexpectedTextNode": "Skoulm testenn dic'hortoz : $1",
-    "ErrorParsingMathML": "Fazi o tielfennañ MathML",
-    "ParsingError": "Fazi o ielfennañ MathML : $1",
-    "MathMLSingleElement": "MathML a rank bezañ stummet gant un elfenn hepken"
+	"@metadata": {
+		"authors": [
+			"Fohanno"
+		]
+	},
+	"BadMglyph": "mglyph fall : $1",
+	"BadMglyphFont": "Font fall : $1",
+	"UnknownNodeType": "Seurt skoulm dianav : $1",
+	"UnexpectedTextNode": "Skoulm testenn dic'hortoz : $1",
+	"ErrorParsingMathML": "Fazi o tielfennañ MathML",
+	"ParsingError": "Fazi o ielfennañ MathML : $1",
+	"MathMLSingleElement": "MathML a rank bezañ stummet gant un elfenn hepken"
 }

@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ebraminio"
-        ]
-    },
-    "CookieConfig": "MathJax یک کلوچک تنظیمات کاربری یافت که شامل کد اجرایی است. آیا می‌خواهید آن را اجرا کنید؟\n\n(بهتر است بر لغو بفشارید مگر اینکه خودتان کلوچک را تنظیم‌کرده‌اید.)",
-    "MathProcessingError": "خطای پردازش ریاضی",
-    "MathError": "حطای ریاضی",
-    "LoadFile": "بارگیری $1",
-    "Loading": "بارگیری",
-    "LoadFailed": "خطا در بارگیری پرونده: $1",
-    "ProcessMath": "پردازش ریاضی: $1٪",
-    "Processing": "پردازش",
-    "TypesetMath": "حروف‌چینی ریاضی: $1٪",
-    "Typesetting": "حروف‌چینی",
-    "MathJaxNotSupported": "مرورگر شما از MathJax پشتیبانی نمی‌کند"
+	"@metadata": {
+		"authors": [
+			"Ebraminio"
+		]
+	},
+	"CookieConfig": "MathJax یک کلوچک تنظیمات کاربری یافت که شامل کد اجرایی است. آیا می‌خواهید آن را اجرا کنید؟\n\n(بهتر است بر لغو بفشارید مگر اینکه خودتان کلوچک را تنظیم‌کرده‌اید.)",
+	"MathProcessingError": "خطای پردازش ریاضی",
+	"MathError": "حطای ریاضی",
+	"LoadFile": "بارگیری $1",
+	"Loading": "بارگیری",
+	"LoadFailed": "خطا در بارگیری پرونده: $1",
+	"ProcessMath": "پردازش ریاضی: $1٪",
+	"Processing": "پردازش",
+	"TypesetMath": "حروف‌چینی ریاضی: $1٪",
+	"Typesetting": "حروف‌چینی",
+	"MathJaxNotSupported": "مرورگر شما از MathJax پشتیبانی نمی‌کند"
 }

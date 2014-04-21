@@ -1,19 +1,19 @@
 {
-    "@metadata": {
-        "authors": [
-            "Helder.wiki",
-            "Waldir"
-        ]
-    },
-    "CookieConfig": "O MathJax encontrou um cookie com configurações de utilizador que inclui código a ser executado. Deseja executá-lo?\n\n(Escolha Cancelar a não ser que você mesmo tenha criado o cookie.)",
-    "MathProcessingError": "Erro no processamento das fórmulas",
-    "MathError": "Erro de matemática",
-    "LoadFile": "A carregar $1",
-    "Loading": "A carregar",
-    "LoadFailed": "O ficheiro não pode ser carregado: $1",
-    "ProcessMath": "Processando fórmula: $1%",
-    "Processing": "Processando",
-    "TypesetMath": "Formatando fórmulas: $1%",
-    "Typesetting": "Formatando",
-    "MathJaxNotSupported": "O seu navegador não suporta MathJax"
+	"@metadata": {
+		"authors": [
+			"Helder.wiki",
+			"Waldir"
+		]
+	},
+	"CookieConfig": "O MathJax encontrou um cookie com configurações de utilizador que inclui código a ser executado. Deseja executá-lo?\n\n(Escolha Cancelar a não ser que você mesmo tenha criado o cookie.)",
+	"MathProcessingError": "Erro no processamento das fórmulas",
+	"MathError": "Erro de matemática",
+	"LoadFile": "A carregar $1",
+	"Loading": "A carregar",
+	"LoadFailed": "O ficheiro não pode ser carregado: $1",
+	"ProcessMath": "Processando fórmula: $1%",
+	"Processing": "Processando",
+	"TypesetMath": "Formatando fórmulas: $1%",
+	"Typesetting": "Formatando",
+	"MathJaxNotSupported": "O seu navegador não suporta MathJax"
 }

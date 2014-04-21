@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Xuacu"
-        ]
-    },
-    "CookieConfig": "MathJax alcontró una cookie de configuración d'usuariu qu'incluye códigu a executar. ¿Quier executar esi códigu?\n\n(Tendría de calcar «Encaboxar» a menos que creara la cookie vusté mesmu.)",
-    "MathProcessingError": "Error de procesamientu matemáticu",
-    "MathError": "Error matemáticu",
-    "LoadFile": "Cargando $1",
-    "Loading": "Cargando",
-    "LoadFailed": "Falló la carga del ficheru: $1",
-    "ProcessMath": "Procesando matemátiques: $1%",
-    "Processing": "Procesando",
-    "TypesetMath": "Escribiendo matemátiques: $1%",
-    "Typesetting": "Componiendo",
-    "MathJaxNotSupported": "El so navegador nun tien sofitu pa MathJax"
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"CookieConfig": "MathJax alcontró una cookie de configuración d'usuariu qu'incluye códigu a executar. ¿Quier executar esi códigu?\n\n(Tendría de calcar «Encaboxar» a menos que creara la cookie vusté mesmu.)",
+	"MathProcessingError": "Error de procesamientu matemáticu",
+	"MathError": "Error matemáticu",
+	"LoadFile": "Cargando $1",
+	"Loading": "Cargando",
+	"LoadFailed": "Falló la carga del ficheru: $1",
+	"ProcessMath": "Procesando matemátiques: $1%",
+	"Processing": "Procesando",
+	"TypesetMath": "Escribiendo matemátiques: $1%",
+	"Typesetting": "Componiendo",
+	"MathJaxNotSupported": "El so navegador nun tien sofitu pa MathJax"
 }

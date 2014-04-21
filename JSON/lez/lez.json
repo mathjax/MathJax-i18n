@@ -1,15 +1,15 @@
 {
-    "@metadata": {
-        "authors": [
-            "Lezgia"
-        ]
-    },
-    "MathError": "Математекадин гъалатl",
-    "LoadFile": "Пъарун",
-    "Loading": "Пъарун",
-    "LoadFailed": "Хьанач пъариз",
-    "ProcessMath": "Математика гъилгун",
-    "Processing": "Гъилгун",
-    "TypesetMath": "Журесетматематикадин",
-    "Typesetting": "Журесет"
+	"@metadata": {
+		"authors": [
+			"Lezgia"
+		]
+	},
+	"MathError": "Математекадин гъалатl",
+	"LoadFile": "Пъарун",
+	"Loading": "Пъарун",
+	"LoadFailed": "Хьанач пъариз",
+	"ProcessMath": "Математика гъилгун",
+	"Processing": "Гъилгун",
+	"TypesetMath": "Журесетматематикадин",
+	"Typesetting": "Журесет"
 }

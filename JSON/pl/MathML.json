@@ -1,17 +1,17 @@
 {
-    "@metadata": {
-        "authors": [
-            "piotrdomagalski"
-        ]
-    },
-    "BadMglyph": "Błąd w elemencie mglyph: $1",
-    "BadMglyphFont": "Błędna czcionka: $1",
-    "MathPlayer": "MathJax nie mógł uruchomić MathPlayer.\n\nJeśli MathPlayer nie jest zainstalowany, musisz go najpierw zainstalować.\nW przeciwnym razie, twoje ustawienia bezpieczeństwa mogą blokować działanie\nformantów ActiveX. W Opcjach internetowych, w menu Narzędzia wybierz zakładkę\nZabezpieczenia i naciśnij przycisk Poziom niestandardowy. Upewnij się, że ustawienia\ndotyczące ActiveX oraz skryptów są włączone.\n\nDo tego czasu będą wyświetlane błędy zamiast wzorów matematycznych.",
-    "CantCreateXMLParser": "MathJax nie może utworzyć parsera XML dla MathML. Upewnij się, że\nopcja 'Wykonywanie skryptów formantów ActiveX' jest włączona\n(sprawdź to w Opcjach internetowych w menu Narzędzia,\nw zakładce Zabezpieczenia kliknij na przycisk Poziom niestandardowy).\n\nDo tego czasu będą wyświetlane błędy zamiast wzorów matematycznych.",
-    "UnknownNodeType": "Nieznany typ elementu: $1",
-    "UnexpectedTextNode": "Nieoczekiwany element tekstowy: $1",
-    "ErrorParsingMathML": "Błąd podczas przetwarzania MathML",
-    "ParsingError": "Błąd podczas przetwarzania MathML: $1",
-    "MathMLSingleElement": "MathML musi być zamknięty w pojedynczym elemencie",
-    "MathMLRootElement": "MathML musi być zamknięty w elemencie <math>, a nie $1"
+	"@metadata": {
+		"authors": [
+			"piotrdomagalski"
+		]
+	},
+	"BadMglyph": "Błąd w elemencie mglyph: $1",
+	"BadMglyphFont": "Błędna czcionka: $1",
+	"MathPlayer": "MathJax nie mógł uruchomić MathPlayer.\n\nJeśli MathPlayer nie jest zainstalowany, musisz go najpierw zainstalować.\nW przeciwnym razie, twoje ustawienia bezpieczeństwa mogą blokować działanie\nformantów ActiveX. W Opcjach internetowych, w menu Narzędzia wybierz zakładkę\nZabezpieczenia i naciśnij przycisk Poziom niestandardowy. Upewnij się, że ustawienia\ndotyczące ActiveX oraz skryptów są włączone.\n\nDo tego czasu będą wyświetlane błędy zamiast wzorów matematycznych.",
+	"CantCreateXMLParser": "MathJax nie może utworzyć parsera XML dla MathML. Upewnij się, że\nopcja 'Wykonywanie skryptów formantów ActiveX' jest włączona\n(sprawdź to w Opcjach internetowych w menu Narzędzia,\nw zakładce Zabezpieczenia kliknij na przycisk Poziom niestandardowy).\n\nDo tego czasu będą wyświetlane błędy zamiast wzorów matematycznych.",
+	"UnknownNodeType": "Nieznany typ elementu: $1",
+	"UnexpectedTextNode": "Nieoczekiwany element tekstowy: $1",
+	"ErrorParsingMathML": "Błąd podczas przetwarzania MathML",
+	"ParsingError": "Błąd podczas przetwarzania MathML: $1",
+	"MathMLSingleElement": "MathML musi być zamknięty w pojedynczym elemencie",
+	"MathMLRootElement": "MathML musi być zamknięty w elemencie <math>, a nie $1"
 }

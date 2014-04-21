@@ -1,20 +1,20 @@
 {
-    "@metadata": {
-        "authors": [
-            "Fitoschido",
-            "Julian leonardo paez",
-            "Ovruni"
-        ]
-    },
-    "CookieConfig": "MathJax ha encontrado una cookie de configuración de usuario que incluye código para ser ejecutado.¿Quieres ejecutarlo?\n\\n\n(Pulse Cancelar al menos que configure la cookie).",
-    "MathProcessingError": "Error de procesamiento de matemáticas",
-    "MathError": "Error de matemáticas",
-    "LoadFile": "Cargando $1",
-    "Loading": "Cargando",
-    "LoadFailed": "Falló la carga del archivo: $1",
-    "ProcessMath": "Procesando matemáticas: $1 %",
-    "Processing": "Procesando",
-    "TypesetMath": "Composición tipográfica en curso: $1 %",
-    "Typesetting": "Composición tipográfica",
-    "MathJaxNotSupported": "El navegador no admite MathJax"
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Julian leonardo paez",
+			"Ovruni"
+		]
+	},
+	"CookieConfig": "MathJax ha encontrado una cookie de configuración de usuario que incluye código para ser ejecutado.¿Quieres ejecutarlo?\n\\n\n(Pulse Cancelar al menos que configure la cookie).",
+	"MathProcessingError": "Error de procesamiento de matemáticas",
+	"MathError": "Error de matemáticas",
+	"LoadFile": "Cargando $1",
+	"Loading": "Cargando",
+	"LoadFailed": "Falló la carga del archivo: $1",
+	"ProcessMath": "Procesando notación matemática: $1 %",
+	"Processing": "Procesando",
+	"TypesetMath": "Composición tipográfica en curso: $1 %",
+	"Typesetting": "Composición tipográfica",
+	"MathJaxNotSupported": "El navegador no admite MathJax"
 }

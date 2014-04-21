@@ -1,19 +1,19 @@
 {
-    "@metadata": {
-        "authors": [
-            "Chmee2",
-            "Mormegil",
-            "Tchoř"
-        ]
-    },
-    "BadMglyph": "Chybný mglyph: $1",
-    "BadMglyphFont": "Špatné písmo: $1",
-    "MathPlayer": "MathJax nedokázal spustit MathPlayer.\n\nPokud není MathPlayer nainstalován, budete ho muset nejprve nainstalovat.\nJinak možná spuštění ovládacích prvků ActiveX brání vaše bezpečnostní\nnastavení. Klikněte v nabídce Nástroje na položku Možnosti Internetu,\nvyberte záložku Zabezpečení a klikněte na tlačítko Vlastní úroveň.\nZkontrolujte, že jsou povolené možnosti „Spouštět ovládací prvky ActiveX“\na „Chování skriptů a binárních souborů“.\n\nMomentálně uvidíte místo vysázené matematiky chybová hlášení.",
-    "CantCreateXMLParser": "MathJax nemůže vytvořit XML parser pro MathML. Zkontrolujte,\nže máte povolené nastavení „Skriptovat ovládací prvky ActiveX\noznačené jako bezpečné“ (v nabídce Nástroje klikněte na položku\nMožnosti Internetu, vyberte záložku Zabezpečení a klikněte na\ntlačítko Vlastní úroveň).\n\nMathJax nebude moci zpracovávat rovnice v MathML",
-    "UnknownNodeType": "Neznámý typ uzlu: $1",
-    "UnexpectedTextNode": "Neočekávaný textový uzel: $1",
-    "ErrorParsingMathML": "Chyba při analýze MathML",
-    "ParsingError": "Chyba při analýze MathML: $1",
-    "MathMLSingleElement": "MathML musí být tvořeno jediným elementem",
-    "MathMLRootElement": "MathML musí být tvořeno elementem <math>, nikoli $1"
+	"@metadata": {
+		"authors": [
+			"Chmee2",
+			"Mormegil",
+			"Tchoř"
+		]
+	},
+	"BadMglyph": "Chybný mglyph: $1",
+	"BadMglyphFont": "Špatné písmo: $1",
+	"MathPlayer": "MathJax nedokázal spustit MathPlayer.\n\nPokud není MathPlayer nainstalován, budete ho muset nejprve nainstalovat.\nJinak možná spuštění ovládacích prvků ActiveX brání vaše bezpečnostní\nnastavení. Klikněte v nabídce Nástroje na položku Možnosti Internetu,\nvyberte záložku Zabezpečení a klikněte na tlačítko Vlastní úroveň.\nZkontrolujte, že jsou povolené možnosti „Spouštět ovládací prvky ActiveX“\na „Chování skriptů a binárních souborů“.\n\nMomentálně uvidíte místo vysázené matematiky chybová hlášení.",
+	"CantCreateXMLParser": "MathJax nemůže vytvořit XML parser pro MathML. Zkontrolujte,\nže máte povolené nastavení „Skriptovat ovládací prvky ActiveX\noznačené jako bezpečné“ (v nabídce Nástroje klikněte na položku\nMožnosti Internetu, vyberte záložku Zabezpečení a klikněte na\ntlačítko Vlastní úroveň).\n\nMathJax nebude moci zpracovávat rovnice v MathML",
+	"UnknownNodeType": "Neznámý typ uzlu: $1",
+	"UnexpectedTextNode": "Neočekávaný textový uzel: $1",
+	"ErrorParsingMathML": "Chyba při analýze MathML",
+	"ParsingError": "Chyba při analýze MathML: $1",
+	"MathMLSingleElement": "MathML musí být tvořeno jediným elementem",
+	"MathMLRootElement": "MathML musí být tvořeno elementem <math>, nikoli $1"
 }

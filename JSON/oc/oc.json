@@ -1,17 +1,17 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cedric31"
-        ]
-    },
-    "MathProcessingError": "Error de tractament de la formula matematica",
-    "MathError": "Error dins la formula matematica",
-    "LoadFile": "Telecargament de $1",
-    "Loading": "Cargament",
-    "LoadFailed": "Fracàs del telecargament de $1",
-    "ProcessMath": "Tractament de las formulas : $1%",
-    "Processing": "Tractament",
-    "TypesetMath": "Composicion de las formulas : $1%",
-    "Typesetting": "Composicion",
-    "MathJaxNotSupported": "Vòstre navigador supòrta pas MathJax"
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"MathProcessingError": "Error de tractament de la formula matematica",
+	"MathError": "Error dins la formula matematica",
+	"LoadFile": "Telecargament de $1",
+	"Loading": "Cargament",
+	"LoadFailed": "Fracàs del telecargament de $1",
+	"ProcessMath": "Tractament de las formulas : $1%",
+	"Processing": "Tractament",
+	"TypesetMath": "Composicion de las formulas : $1%",
+	"Typesetting": "Composicion",
+	"MathJaxNotSupported": "Vòstre navigador supòrta pas MathJax"
 }

@@ -1,14 +1,14 @@
 {
-    "@metadata": {
-        "authors": [
-            "Tchoř"
-        ]
-    },
-    "webFont": "MathJax používá k zobrazení matematiky na této stránce webová písma. Těm trvá stažení nějakou dobu, takže stránka by se vykreslila rychleji, pokud byste si tato matematická písma nainstalovali přímo do systémové složky písem.",
-    "imageFonts": "MathJax používá místo místních nebo webových písem obrázkové písmo. Proto bude vykreslování pomalejší, než je obvyklé, a při tisku na Vaší tiskárně možná nebude matematika vykreslena na nejlepší rozlišení.",
-    "noFonts": "MathJax nedokáže najít písmo, kterým by vykreslil matematiku, a obrázková písma nejsou k dispozici, takže se uchýlí k běžným znakům Unicode v naději, že je váš prohlížeč dokáže zobrazit. Některé znaky se možná nezobrazí správně, nebo dokonce vůbec.",
-    "webFonts": "Většina moderních prohlížečů umožňuje stažení písem přes web. Aktualizace na novější verzi prohlížeče (nebo změna prohlížeče) by mohla zlepšit zobrazení matematiky na této stránce.",
-    "fonts": "MathJax může používat buď [písma STIX]($1) nebo [MathJaxová TeXová písma]($2). Stáhněte a nainstalujte si jedny z nich, abyste si MathJax užili lépe.",
-    "STIXPage": "Tato stránka je vytvořena pro použití s [písmy STIX]($1). Stáhněte a nainstalujte si tato písma, abyste si lépe užili MathJax.",
-    "TeXPage": "Tato stránka je vytvořena pro použití s [MathJaxovými TeXovými písmy]($1). Pro lepší využívání MathJaxu si stáhněte a nainstalujte tato písma."
+	"@metadata": {
+		"authors": [
+			"Tchoř"
+		]
+	},
+	"webFont": "MathJax používá k zobrazení matematiky na této stránce webová písma. Těm trvá stažení nějakou dobu, takže stránka by se vykreslila rychleji, pokud byste si tato matematická písma nainstalovali přímo do systémové složky písem.",
+	"imageFonts": "MathJax používá místo místních nebo webových písem obrázkové písmo. Proto bude vykreslování pomalejší, než je obvyklé, a při tisku na Vaší tiskárně možná nebude matematika vykreslena na nejlepší rozlišení.",
+	"noFonts": "MathJax nedokáže najít písmo, kterým by vykreslil matematiku, a obrázková písma nejsou k dispozici, takže se uchýlí k běžným znakům Unicode v naději, že je váš prohlížeč dokáže zobrazit. Některé znaky se možná nezobrazí správně, nebo dokonce vůbec.",
+	"webFonts": "Většina moderních prohlížečů umožňuje stažení písem přes web. Aktualizace na novější verzi prohlížeče (nebo změna prohlížeče) by mohla zlepšit zobrazení matematiky na této stránce.",
+	"fonts": "MathJax může používat buď [písma STIX]($1) nebo [MathJaxová TeXová písma]($2). Stáhněte a nainstalujte si jedny z nich, abyste si MathJax užili lépe.",
+	"STIXPage": "Tato stránka je vytvořena pro použití s [písmy STIX]($1). Stáhněte a nainstalujte si tato písma, abyste si lépe užili MathJax.",
+	"TeXPage": "Tato stránka je vytvořena pro použití s [MathJaxovými TeXovými písmy]($1). Pro lepší využívání MathJaxu si stáhněte a nainstalujte tato písma."
 }

@@ -1,15 +1,15 @@
 {
-    "@metadata": {
-        "authors": [
-            "Dimension10"
-        ]
-    },
-    "BadMglyph": "ಕೆಟ್ಟ mglyph:  $1",
-    "BadMglyphFont": "ಕೆಟ್ಟ ತೈಲದಾನಿ:         $1",
-    "UnknownNodeType": "ಗೊತ್ತು ಇರಲೇ ಇದ್ದ ನೋಡ್ ಟೈಪ್: $1",
-    "UnexpectedTextNode": "ಎದರು ನೋದಲಿಲ್ಲದ್ದ ನೋಡ್ ಟೈಪ್   :     $1",
-    "ErrorParsingMathML": "ಮಾತ್ ಎಂ ಎಲ್ ಪಾರ್ಸೆ ಮಾಡುವಾಗ ತ್ರುಟಿ",
-    "ParsingError": "ಮಾತ್ ಎಂ ಎಲ್ ಪಾರ್ಸೆ ಮಾಡುವಾಗ ತ್ರುಟಿ: $1",
-    "MathMLSingleElement": "ಮಾತ್ ಎಂ ಎಲ್ ಒಂದು ಎಲಿಮೆಂಟ್ ಇಂದ ಮಾಡ ಬೆಕು.",
-    "MathMLRootElement": "ಮಾತ್ ಎಂ ಎಲ್ ಒಂದು  <math> ಟ್ಯಾಗ್  ಇಂದ ಶುರು ಆಗಬೇಕು, $1    ಇಂದ ಅಲ್ಲ"
+	"@metadata": {
+		"authors": [
+			"Dimension10"
+		]
+	},
+	"BadMglyph": "ಕೆಟ್ಟ mglyph:  $1",
+	"BadMglyphFont": "ಕೆಟ್ಟ ತೈಲದಾನಿ:         $1",
+	"UnknownNodeType": "ಗೊತ್ತು ಇರಲೇ ಇದ್ದ ನೋಡ್ ಟೈಪ್: $1",
+	"UnexpectedTextNode": "ಎದರು ನೋದಲಿಲ್ಲದ್ದ ನೋಡ್ ಟೈಪ್   :     $1",
+	"ErrorParsingMathML": "ಮಾತ್ ಎಂ ಎಲ್ ಪಾರ್ಸೆ ಮಾಡುವಾಗ ತ್ರುಟಿ",
+	"ParsingError": "ಮಾತ್ ಎಂ ಎಲ್ ಪಾರ್ಸೆ ಮಾಡುವಾಗ ತ್ರುಟಿ: $1",
+	"MathMLSingleElement": "ಮಾತ್ ಎಂ ಎಲ್ ಒಂದು ಎಲಿಮೆಂಟ್ ಇಂದ ಮಾಡ ಬೆಕು.",
+	"MathMLRootElement": "ಮಾತ್ ಎಂ ಎಲ್ ಒಂದು  <math> ಟ್ಯಾಗ್  ಇಂದ ಶುರು ಆಗಬೇಕು, $1    ಇಂದ ಅಲ್ಲ"
 }

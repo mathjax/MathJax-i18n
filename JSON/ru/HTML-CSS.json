@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Okras"
-        ]
-    },
-    "LoadWebFont": "Загрузка веб-шрифта $1",
-    "CantLoadWebFont": "Не удаётся загрузить веб-шрифт $1",
-    "FirefoxCantLoadWebFont": "Firefox не может загрузить веб-шрифты с удалённого хоста",
-    "CantFindFontUsing": "Не удаётся найти допустимый шрифт среди $1",
-    "WebFontsNotAvailable": "Веб-шрифты недоступны — вместо них используем шрифты на основе изображений"
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"LoadWebFont": "Загрузка веб-шрифта $1",
+	"CantLoadWebFont": "Не удаётся загрузить веб-шрифт $1",
+	"FirefoxCantLoadWebFont": "Firefox не может загрузить веб-шрифты с удалённого хоста",
+	"CantFindFontUsing": "Не удаётся найти допустимый шрифт среди $1",
+	"WebFontsNotAvailable": "Веб-шрифты недоступны — вместо них используем шрифты на основе изображений"
 }

@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Yejianfei"
-        ]
-    },
-    "CookieConfig": "MathJax已經討著包括會運行其代碼其用戶配置cookie。汝有想運行無？\n\n（除開這確實是汝自家特意設其cookie，若無汝著點取消。）",
-    "MathProcessingError": "數學處理錯誤",
-    "MathError": "數學錯誤",
-    "LoadFile": "載底$1",
-    "Loading": "載底",
-    "LoadFailed": "文件載底失敗：$1",
-    "ProcessMath": "處理數學：$1%",
-    "Processing": "敆𡅏處理",
-    "TypesetMath": "排版數學：$1%",
-    "Typesetting": "敆𡅏排版",
-    "MathJaxNotSupported": "汝其瀏覽器𣍐支持MathJax"
+	"@metadata": {
+		"authors": [
+			"Yejianfei"
+		]
+	},
+	"CookieConfig": "MathJax已經討著包括會運行其代碼其用戶配置cookie。汝有想運行無？\n\n（除開這確實是汝自家特意設其cookie，若無汝著點取消。）",
+	"MathProcessingError": "數學處理錯誤",
+	"MathError": "數學錯誤",
+	"LoadFile": "載底$1",
+	"Loading": "載底",
+	"LoadFailed": "文件載底失敗：$1",
+	"ProcessMath": "處理數學：$1%",
+	"Processing": "敆𡅏處理",
+	"TypesetMath": "排版數學：$1%",
+	"Typesetting": "敆𡅏排版",
+	"MathJaxNotSupported": "汝其瀏覽器𣍐支持MathJax"
 }

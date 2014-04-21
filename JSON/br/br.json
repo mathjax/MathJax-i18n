@@ -1,17 +1,17 @@
 {
-    "@metadata": {
-        "authors": [
-            "Fohanno"
-        ]
-    },
-    "MathProcessingError": "Fazi o tretañ ar formulenn",
-    "MathError": "Fazi er formulenn",
-    "LoadFile": "O kargañ $1",
-    "Loading": "O kargañ",
-    "LoadFailed": "N'eus ket bet gallet kargañ $1",
-    "ProcessMath": "Tretañ ar formulennoù : $1%",
-    "Processing": "O tretañ",
-    "TypesetMath": "Aozañ formulennoù : $1%",
-    "Typesetting": "Aozañ",
-    "MathJaxNotSupported": "Ne c'hall ket ho merdeer ober gant MathJax"
+	"@metadata": {
+		"authors": [
+			"Fohanno"
+		]
+	},
+	"MathProcessingError": "Fazi o tretañ ar formulenn",
+	"MathError": "Fazi er formulenn",
+	"LoadFile": "O kargañ $1",
+	"Loading": "O kargañ",
+	"LoadFailed": "N'eus ket bet gallet kargañ $1",
+	"ProcessMath": "Tretañ ar formulennoù : $1%",
+	"Processing": "O tretañ",
+	"TypesetMath": "Aozañ formulennoù : $1%",
+	"Typesetting": "Aozañ",
+	"MathJaxNotSupported": "Ne c'hall ket ho merdeer ober gant MathJax"
 }

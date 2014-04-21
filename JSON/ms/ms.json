@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Anakmalaysia"
-        ]
-    },
-    "CookieConfig": "MathJax telah menemui cookie konfigurasi pengguna yang termasuk kod untuk dijalankan. Adakah anda mahu menjalankannya?\n\n(Anda harus menekan Batalkan melainkan andalah yang mendirikan cookie itu sendiri.)",
-    "MathProcessingError": "Ralat pemprosesan matematik",
-    "MathError": "Ralat matematik",
-    "LoadFile": "Memuatkan $1",
-    "Loading": "Memuatkan",
-    "LoadFailed": "Fail gagal dimuatkan: $1",
-    "ProcessMath": "Memproseskan matematik: $1%",
-    "Processing": "Sedang memproses",
-    "TypesetMath": "Sedang mengatur huruf matematik: $1%",
-    "Typesetting": "Mengatur huruf",
-    "MathJaxNotSupported": "Pelayar anda tidak menyokong MathJax"
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"CookieConfig": "MathJax telah menemui cookie konfigurasi pengguna yang termasuk kod untuk dijalankan. Adakah anda mahu menjalankannya?\n\n(Anda harus menekan Batalkan melainkan andalah yang mendirikan cookie itu sendiri.)",
+	"MathProcessingError": "Ralat pemprosesan matematik",
+	"MathError": "Ralat matematik",
+	"LoadFile": "Memuatkan $1",
+	"Loading": "Memuatkan",
+	"LoadFailed": "Fail gagal dimuatkan: $1",
+	"ProcessMath": "Memproseskan matematik: $1%",
+	"Processing": "Sedang memproses",
+	"TypesetMath": "Sedang mengatur huruf matematik: $1%",
+	"Typesetting": "Mengatur huruf",
+	"MathJaxNotSupported": "Pelayar anda tidak menyokong MathJax"
 }

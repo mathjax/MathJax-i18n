@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Amire80"
-        ]
-    },
-    "CookieConfig": "MathJax מצא עוגיית הגדרות משתמש שכוללת קוד להרצה. האם להריץ אותו?\n\n(יש ללחוץ \"ביטול\" אלא אם הגדרת את העוגייה בעצמך.)",
-    "MathProcessingError": "שגיאה בעיבוד נוסחה",
-    "MathError": "שגיאה בנוסחה",
-    "LoadFile": "טעינת $1",
-    "Loading": "טעינה",
-    "LoadFailed": "הקובץ לא נטען: $1",
-    "ProcessMath": "עיבוד נוסחאות: $1%",
-    "Processing": "עיבוד",
-    "TypesetMath": "סדַר נוסחאות: $1%",
-    "Typesetting": "סדַר",
-    "MathJaxNotSupported": "הדפדפן שלך אינו תומך ב־MathJax"
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"CookieConfig": "MathJax מצא עוגיית הגדרות משתמש שכוללת קוד להרצה. האם להריץ אותו?\n\n(יש ללחוץ \"ביטול\" אלא אם הגדרת את העוגייה בעצמך.)",
+	"MathProcessingError": "שגיאה בעיבוד נוסחה",
+	"MathError": "שגיאה בנוסחה",
+	"LoadFile": "טעינת $1",
+	"Loading": "טעינה",
+	"LoadFailed": "הקובץ לא נטען: $1",
+	"ProcessMath": "עיבוד נוסחאות: $1%",
+	"Processing": "עיבוד",
+	"TypesetMath": "סדַר נוסחאות: $1%",
+	"Typesetting": "סדַר",
+	"MathJaxNotSupported": "הדפדפן שלך אינו תומך ב־MathJax"
 }

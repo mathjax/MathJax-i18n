@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Mormegil"
-        ]
-    },
-    "CookieConfig": "MathJax nalezl cookie uživatelské konfigurace obsahující spustitelný kód. Chcete ho spustit?\n\n(Pokud jste cookie nenastavili sami, měli byste stisknout Storno.)",
-    "MathProcessingError": "Chyba zpracování matematiky",
-    "MathError": "Chyba matematiky",
-    "LoadFile": "Načítá se $1",
-    "Loading": "Načítá se",
-    "LoadFailed": "Nepodařilo se načíst soubor: $1",
-    "ProcessMath": "Zpracovává se matematika: $1 %",
-    "Processing": "Zpracovává se",
-    "TypesetMath": "Sází se matematika: $1 %",
-    "Typesetting": "Sází se",
-    "MathJaxNotSupported": "Váš prohlížeč nepodporuje MathJax"
+	"@metadata": {
+		"authors": [
+			"Mormegil"
+		]
+	},
+	"CookieConfig": "MathJax nalezl cookie uživatelské konfigurace obsahující spustitelný kód. Chcete ho spustit?\n\n(Pokud jste cookie nenastavili sami, měli byste stisknout Storno.)",
+	"MathProcessingError": "Chyba zpracování matematiky",
+	"MathError": "Chyba matematiky",
+	"LoadFile": "Načítá se $1",
+	"Loading": "Načítá se",
+	"LoadFailed": "Nepodařilo se načíst soubor: $1",
+	"ProcessMath": "Zpracovává se matematika: $1 %",
+	"Processing": "Zpracovává se",
+	"TypesetMath": "Sází se matematika: $1 %",
+	"Typesetting": "Sází se",
+	"MathJaxNotSupported": "Váš prohlížeč nepodporuje MathJax"
 }

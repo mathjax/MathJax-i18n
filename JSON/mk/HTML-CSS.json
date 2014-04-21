@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Bjankuloski06"
-        ]
-    },
-    "LoadWebFont": "Го вчитувам мрежниот фонт $1",
-    "CantLoadWebFont": "Не можам да го вчитам мрежниот фонт $1",
-    "FirefoxCantLoadWebFont": "Firefox не може да вчита мрежни фонтови од далечински домаќин",
-    "CantFindFontUsing": "Не можам да најдам прикладен фонт што користи $1",
-    "WebFontsNotAvailable": "Мрежните фонтови се недостапни. Ќе користам сликовни."
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"LoadWebFont": "Го вчитувам мрежниот фонт $1",
+	"CantLoadWebFont": "Не можам да го вчитам мрежниот фонт $1",
+	"FirefoxCantLoadWebFont": "Firefox не може да вчита мрежни фонтови од далечински домаќин",
+	"CantFindFontUsing": "Не можам да најдам прикладен фонт што користи $1",
+	"WebFontsNotAvailable": "Мрежните фонтови се недостапни. Ќе користам сликовни."
 }

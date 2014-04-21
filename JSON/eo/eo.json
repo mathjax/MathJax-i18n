@@ -1,14 +1,14 @@
 {
-    "@metadata": {
-        "authors": [
-            "Umbert'"
-        ]
-    },
-    "Loading": "Ŝargado",
-    "LoadFailed": "Ŝargado de dosiero malsukcesis: $1",
-    "ProcessMath": "Prilaborado de formulo: $1 %",
-    "Processing": "Prilaborado",
-    "TypesetMath": "Kompostado de formulo: $1 %",
-    "Typesetting": "Kompostado",
-    "MathJaxNotSupported": "Via krozilo ne subtenas Mathjax."
+	"@metadata": {
+		"authors": [
+			"Umbert'"
+		]
+	},
+	"Loading": "Ŝargado",
+	"LoadFailed": "Ŝargado de dosiero malsukcesis: $1",
+	"ProcessMath": "Prilaborado de formulo: $1 %",
+	"Processing": "Prilaborado",
+	"TypesetMath": "Kompostado de formulo: $1 %",
+	"Typesetting": "Kompostado",
+	"MathJaxNotSupported": "Via krozilo ne subtenas Mathjax."
 }
