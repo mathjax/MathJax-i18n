@@ -4,7 +4,6 @@
             "dpvc"
         ]
     },
-    "CookieConfig": "MathJax has found a user configuration cookie that includes code to be run. Do you want to run it?\n\n(You should press Cancel unless you set up the cookie yourself.)",
     "MathProcessingError": "Math processing error",
     "MathError": "Math error",
     "LoadFile": "Loading $1",
