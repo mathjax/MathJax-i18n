@@ -4,7 +4,6 @@
 			"Eleassar"
 		]
 	},
-	"CookieConfig": "MathJax je našel piškotek za uporabniško konfiguracijo, ki vključuje kodo za zagon. Ali jo želite zagnati?\n\n(Pritisnite Prekliči, razen če ste piškotek sami nastavili.)",
 	"MathProcessingError": "Napaka pri obdelavi matematike",
 	"MathError": "Napaka v matematični formuli",
 	"LoadFile": "Nalagam $1",

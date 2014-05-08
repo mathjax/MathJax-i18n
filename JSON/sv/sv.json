@@ -5,7 +5,6 @@
 			"Lokal Profil"
 		]
 	},
-	"CookieConfig": "MathJax har hittat en användarkonfigurations-cookie som innehåller kod som kan köras. Vill du köra den?\n\n(Du bör trycka på Avbryt om du inte själv har lagt upp denna cookie.)",
 	"MathProcessingError": "Matematikbearbetningsfel",
 	"MathError": "Matematikfel",
 	"LoadFile": "Läser in $1",

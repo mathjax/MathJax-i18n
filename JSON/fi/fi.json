@@ -4,7 +4,6 @@
 			"Nike"
 		]
 	},
-	"CookieConfig": "MathJax on löytänyt evästeen, joka sisältää asetuksia ja ohjelmakoodia. Haluatko ajaa sen?\n\n(Peru, ellet ole luonut evästettä itse.)",
 	"MathProcessingError": "Matematiikan käsittely epäonnistui",
 	"MathError": "Matematiikkavirhe",
 	"LoadFile": "Ladataan tiedostoa $1",

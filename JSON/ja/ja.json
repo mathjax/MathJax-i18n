@@ -4,7 +4,6 @@
 			"Shirayuki"
 		]
 	},
-	"CookieConfig": "MathJax は、ユーザー設定の Cookie で実行すべきコードを検出しました。実行しますか?\n\n(Cookie を自分で設定していない場合はキャンセルしてください。)",
 	"MathProcessingError": "数式処理エラー",
 	"MathError": "数式エラー",
 	"LoadFile": "$1 を読み込み中",

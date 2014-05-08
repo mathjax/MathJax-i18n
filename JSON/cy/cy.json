@@ -4,7 +4,6 @@
 			"Diafol"
 		]
 	},
-	"CookieConfig": "Gwnaeth MathJax ddarganfod ffurfwedd defnyddiwr sy'n cynnwys cod i'w redeg. Ydych chi am ei redeg?\n\n(Dylech chi bwyso Canslo oni bai y hoffech chi osod y cwci ar ben eich hun.)",
 	"MathProcessingError": "Gwall prosesu mathemateg",
 	"MathError": "Gwall mathemategol",
 	"LoadFile": "Yn llwytho $1",

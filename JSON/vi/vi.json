@@ -4,7 +4,6 @@
 			"Minh Nguyen"
 		]
 	},
-	"CookieConfig": "MathJax đã tìm thấy một cookie thiết lập của người dùng có mã nguồn để chạy. Bạn có muốn chạy nó?\n\n(Khuyên bạn bấm Hủy bỏ trừ khi bạn là người thiết lập cookie.)",
 	"MathProcessingError": "Lỗi xử lý toán",
 	"MathError": "Lỗi toán",
 	"LoadFile": "Đang tải $1",

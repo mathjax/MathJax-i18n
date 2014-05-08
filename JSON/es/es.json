@@ -6,7 +6,6 @@
 			"Ovruni"
 		]
 	},
-	"CookieConfig": "MathJax ha encontrado una cookie de configuración de usuario que incluye código para ser ejecutado.¿Quieres ejecutarlo?\n\\n\n(Pulse Cancelar al menos que configure la cookie).",
 	"MathProcessingError": "Error de procesamiento de matemáticas",
 	"MathError": "Error de matemáticas",
 	"LoadFile": "Cargando $1",

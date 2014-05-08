@@ -4,7 +4,6 @@
 			"Toliño"
 		]
 	},
-	"CookieConfig": "MathJax atopou unha cookie de configuración de usuario que inclúe código executable. Quere executar ese código?\n\n(Debería premer en \"Cancelar\", a menos que vostede crease a cookie.)",
 	"MathProcessingError": "Erro de procesamento da fórmula matemática",
 	"MathError": "Erro na fórmula matemática",
 	"LoadFile": "Cargando \"$1\"",

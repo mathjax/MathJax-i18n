@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"John Reid"
+			"John Reid",
+			"Pkra"
 		]
 	},
 	"ExtraOpenMissingClose": "Eixtra apen brace or missin claise bracket",
@@ -28,10 +29,10 @@
 	"MultipleCommand": "Multiple $1",
 	"IntegerArg": "The aurgument til $1 mau be aen integer",
 	"NotMathMLToken": "$1 isna ae token element",
-	"InvalidMathMLAttr": "Onvalid MathsML attribute: $1",
+	"InvalidMathMLAttr": "Onvalid MathML attribute: $1",
 	"UnknownAttrForElement": "$1 isna ae recognized attribute fer $2",
-	"MaxMacroSub1": "MathsJax mucklest macro substitution coont exceeded; is there ae recursive macro caw?",
-	"MaxMacroSub2": "MathsJax mucklest substitution coont exceeded; is there ae recursive latex environment?",
+	"MaxMacroSub1": "MathJax mucklest macro substitution coont exceeded; is there ae recursive macro caw?",
+	"MaxMacroSub2": "MathJax mucklest substitution coont exceeded; is there ae recursive latex environment?",
 	"MissingArgFor": "Missin aurgument fer $1",
 	"ExtraAlignTab": "Eixtra alignment tab in \\cases tex",
 	"BracketMustBeDimension": "Bracket aurgument til $1 maun be ae dimension",
@@ -44,7 +45,7 @@
 	"TokenNotFoundForCommand": "Coudna fynd $1 fer $2",
 	"MathNotTerminated": "Maths no terminated in tex kist",
 	"IllegalMacroParam": "Onlegal macro parameter reference",
-	"MaxBufferSize": "MathsJax internal buffer size exceeded; is thaur ae recursive macro caw?",
+	"MaxBufferSize": "MathJax internal buffer size exceeded; is thaur ae recursive macro caw?",
 	"CommandNotAllowedInEnv": "$1 no permited in $2 environment",
 	"MultipleLabel": "Label '$1' multiplie defined",
 	"CommandAtTheBeginingOfLine": "$1 maun come at the beginnin o the line",

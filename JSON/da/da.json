@@ -5,7 +5,6 @@
 			"Overlaet"
 		]
 	},
-	"CookieConfig": "MathJax har fundet en cookie med brugerkonfiguration, der indeholder kode til at køre. Vil du køre det?\n\n(Du bør trykke på Annuller, medmindre du oprettede cookien selv.)",
 	"MathProcessingError": "Fejl under bearbejdning af matematik",
 	"MathError": "Matematikfejl",
 	"LoadFile": "Indlæser $1",

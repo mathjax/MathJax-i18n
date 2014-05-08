@@ -5,7 +5,6 @@
 			"Ty221"
 		]
 	},
-	"CookieConfig": "MathJax znalazł konfigurację zapisaną w ciasteczku, która zawiera kod do uruchomienia. Czy chcesz go uruchomić?\n\n(Powinieneś nacisnąć Anuluj, jeśli to nie Ty stworzyłeś tę konfigurację.)",
 	"MathProcessingError": "Błąd podczas przetwarzania wzorów matematycznych",
 	"MathError": "Błąd we wzorze matematycznym",
 	"LoadFile": "Ładuję $1",

@@ -5,7 +5,6 @@
 			"Waldir"
 		]
 	},
-	"CookieConfig": "O MathJax encontrou um cookie com configurações de utilizador que inclui código a ser executado. Deseja executá-lo?\n\n(Escolha Cancelar a não ser que você mesmo tenha criado o cookie.)",
 	"MathProcessingError": "Erro no processamento das fórmulas",
 	"MathError": "Erro de matemática",
 	"LoadFile": "A carregar $1",

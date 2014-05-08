@@ -4,7 +4,6 @@
 			"Alvaro Vidal-Abarca"
 		]
 	},
-	"CookieConfig": "MathJax ha trobat una galeta de configuració d'usuari que inclou codi que s'ha d'executar. Voleu executar-lo?",
 	"MathProcessingError": "Error en processament d'expressió matemàtica",
 	"MathError": "Error d'expressió matemàtica",
 	"LoadFile": "Carregant $1",
