@@ -54,7 +54,7 @@
 	"LatinModernWeb": "{{Related|Mathmenu-fonts}}",
 	"NeoEulerWeb": "{{Related|Mathmenu-fonts}}",
 	"ContextMenu": "Used as menu item.\n\nFollowed by the following sub menu items:\n* MathJax - radio box label\n* {{msg-mathjax|Mathmenu-Browser}} - radio box label",
-	"Browser": "Used as menu item.\n\nThe parent menu item is {{msg-mathjax|Mathmenu-ContextMenu}}.",
+	"Browser": "Used as menu item.\n\nThe parent menu item is {{msg-mathjax|Mathmenu-ContextMenu}}.\n{{Identical|Browser}}",
 	"Scale": "This menu item from 'Math Settings' allows users to set a scaling factor for the MathJax output (relative to the surrounding content).",
 	"Discoverable": "This menu option indicates whether the formulas should be highlighted when you pass the mouse over them.\n\nUsed as checkbox label in the menu.",
 	"Locale": "This menu item from 'Math Settings' allows to select a language. The language names are specified by the 'menuTitle' properties.\n\nThis menu item has the following sub menu items:\n* en\n* {{msg-mathjax|Mathmenu-LoadLocale}}\n{{Identical|Language}}",
