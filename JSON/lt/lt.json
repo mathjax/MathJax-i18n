@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mantak111"
+			"Mantak111",
+			"Eitvys200"
 		]
 	},
+	"MathProcessingError": "Matematikos apdorojimo klaida",
 	"MathError": "Matematikos klaida",
 	"LoadFile": "Įkraunama $1",
 	"Loading": "Įkraunama",

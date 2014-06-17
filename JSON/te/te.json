@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kiranmayee",
+			"Ravichandra"
+		]
+	},
+	"MathProcessingError": "గణిత గణాంక పద్ధతిలో తప్పింది",
+	"MathError": "గణిత పొరబాటు",
+	"LoadFile": "$1 లోడు చేస్తున్నాం",
+	"Loading": "లోడవుతోంది",
+	"LoadFailed": "దస్త్రము లొడు అవ్వలేదు:$1",
+	"Processing": "విశ్లేషిస్తోంది",
+	"MathJaxNotSupported": "మీ విహరిణి మ్యాధ్ జాక్స్ ను సమర్ధించదు"
+}
