@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil",
+			"WikiPhoenix"
+		]
+	},
+	"BadMglyph": "Dålig mglyph: $1",
+	"BadMglyphFont": "Dåligt typsnitt: $1",
+	"MathPlayer": "MathJax kunde inte ställa in MathPlayer.\n\nOm MathPlayer inte är installerat, måste du installera \nden först. Annars kan det hända att dina \nsäkerhetsinställningar förhindrar ActiveX-kontroller \nfrån att köras. Använd internetinställningar i \nverktygsmenyn, välj säkerhetspanelen, klicka sedan \nanvändardefinierad nivå-knappen. Kontrollera att \ninställningarna för 'Kör ActiveX-kontroller' samt \n'Binär och skript-beteenden' är aktiverade.\n\nFör närvarande kommer du att se flemeddelande snarare \nän typsatt matematik",
+	"CantCreateXMLParser": "MathJax kunde inte skapa en XML-tolk för MathML. Kontrollera att \nsäkerhetsinställningen 'Script ActiveX X-kontroller som markerats \nsom säkra för skript' är aktiverad (använd internetinställningar \ni verktygsmenyn, välj säkerhetspanelen, klicka sedan \nanvändardefinierad nivå-knappen för att kontrollera detta).\n\nMathML-ekvationer kommer inte kunna hanteras av MathJax",
+	"UnknownNodeType": "Okänd nodtyp: $1",
+	"UnexpectedTextNode": "Oväntad textnod: $1",
+	"ErrorParsingMathML": "Fel vid tolkning av MathML",
+	"ParsingError": "Fel vid tolkning av MathML: $1",
+	"MathMLSingleElement": "MathML måste bildas av ett enskilt element",
+	"MathMLRootElement": "MathML måste bildas av ett <math>-element, inte $1"
+}

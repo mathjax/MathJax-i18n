@@ -33,6 +33,7 @@
 	"InvalidMathMLAttr": "无效MathML属性：$1",
 	"UnknownAttrForElement": "$1不是$2的已识别属性",
 	"MaxMacroSub1": "超出MathJax最大宏替代次数；存在递归的宏调用？",
+	"MaxMacroSub2": "已超出MathJax的最高替代次数；难道存在循环latex环境？",
 	"MissingArgFor": "与$1相关的参数缺失",
 	"InvalidEnv": "无效的环境名称“$1”",
 	"UnknownEnv": "未知的环境变量'$1'",

@@ -73,6 +73,7 @@
 	"OperaNativeMMLWarning": "Opera对MathML的支持十分有限，因此转换至MathML输出可能会导致一些表达式无法正常渲染。",
 	"SafariNativeMMLWarning": "您的浏览器的MathML不支持所有MathJax的功能，有些表达式可能无法正常呈现。",
 	"FirefoxNativeMMLWarning": "您的浏览器的MathML不支持所有MathJax的功能，有些表达式可能无法正常呈现。",
+	"MSIESVGWarning": "SVG在 IE9 之前的 Internet Explorer 或使用 IE8 及以下架构的浏览器中不执行。转换SVG输出将导致数学公式不能正常显示。",
 	"LoadURL": "从此URL加载翻译数据：",
 	"BadURL": "URL必须链至定义MathJax翻译数据的JavaScript文件。JavaScript的文件名应以“.js”结尾",
 	"BadData": "从$1加载翻译数据失败",
