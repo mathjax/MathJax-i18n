@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Ty221",
-			"piotrdomagalski"
+			"piotrdomagalski",
+			"WTM"
 		]
 	},
 	"Show": "Pokaż wzory jako",
@@ -44,6 +45,12 @@
 	"TeXWeb": "TeX (www)",
 	"TeXImage": "TeX (obraz)",
 	"STIXLocal": "STIX (lokalny)",
+	"STIXWeb": "STIX (www)",
+	"AsanaMathWeb": "Asana Math (www)",
+	"GyrePagellaWeb": "Gyre Pagella (www)",
+	"GyreTermesWeb": "Gyre Termes (www)",
+	"LatinModernWeb": "Latin Modern (www)",
+	"NeoEulerWeb": "Neo Euler (www)",
 	"ContextMenu": "Menu kontekstowe",
 	"Browser": "Przeglądarka",
 	"Scale": "Skaluje wszystkie matematyczne...",

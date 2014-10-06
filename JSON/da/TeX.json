@@ -31,7 +31,7 @@
 	"InvalidMathMLAttr": "Ugyldig MathML attribut: $1",
 	"UnknownAttrForElement": "$1 er ikke en genkendt attribut for $2",
 	"MaxMacroSub1": "Det maksimale antal makro substitutioner i MathJax er overskredet; er der et rekursivt makrokald?",
-	"MaxMacroSub2": "Det maksimale antal substitutioner i MathJax er overskredet; er der et rekursivt latex miljø?",
+	"MaxMacroSub2": "Det maksimale antal substitutioner i MathJax er overskredet; er der et rekursivt LaTeX miljø?",
 	"MissingArgFor": "Manglende argument til $1",
 	"ExtraAlignTab": "For mange & i \\cases tekst",
 	"BracketMustBeDimension": "Klammeargument til $1 skal være en dimension",

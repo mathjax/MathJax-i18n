@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Ty221",
-			"piotrdomagalski"
+			"piotrdomagalski",
+			"Chrumps"
 		]
 	},
 	"ExtraOpenMissingClose": "Nadmiarowy nawias otwierający lub brakujący nawias zamykający",
@@ -32,7 +33,7 @@
 	"InvalidMathMLAttr": "Nieprawidłowy atrybut MathML: $1",
 	"UnknownAttrForElement": "$1 nie jest znanym atrybutem dla $2",
 	"MaxMacroSub1": "Przekroczono maksymalną liczbę wywołań makra; czy występuje rekursywne makro?",
-	"MaxMacroSub2": "Przekroczono maksymalną liczbę zastąpień; czy występuje rekursywne środowisko latex?",
+	"MaxMacroSub2": "Przekroczono maksymalną liczbę zastąpień MathJax; czy występuje rekursywne środowisko LaTeX?",
 	"MissingArgFor": "Brakuje argumentu dla $1",
 	"ExtraAlignTab": "Nadmiarowy tabulator w \\cases",
 	"BracketMustBeDimension": "Argument w nawiasie dla $1 musi być wymiarem",

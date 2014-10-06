@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Fitoschido",
-			"VegaDark"
+			"VegaDark",
+			"Macofe"
 		]
 	},
 	"ExtraOpenMissingClose": "Llave de apertura adicional o falta la llave de cierre",
@@ -18,7 +19,7 @@
 	"EnvMissingEnd": "Falta \\end{$1}",
 	"MissingBoxFor": "Falta la caja para $1",
 	"MissingCloseBrace": "Falta la llave de cierre",
-	"UndefinedControlSequence": "Secuencia de control indefinido $1",
+	"UndefinedControlSequence": "Secuencia de control indefinida $1",
 	"DoubleExponent": "Doble exponente: utiliza llaves para aclarar",
 	"DoubleSubscripts": "Doble subíndices: utiliza llaves para aclarar",
 	"DoubleExponentPrime": "El símbolo «prima» causa un exponente doble, utiliza llaves para aclarar",
@@ -32,7 +33,7 @@
 	"InvalidMathMLAttr": "El atributo MathML no es válido: $1",
 	"UnknownAttrForElement": "$1 no es un atributo reconocido para $2",
 	"MaxMacroSub1": "Conteo máximo de sustitución de macro MathJax superado, ¿hay una llamada recursiva de macro?",
-	"MaxMacroSub2": "Conteo máximo de sustitución MathJax superado, ¿hay un ambiente recursivo de látex?",
+	"MaxMacroSub2": "Se excedió el conteo máximo de sustitución MathJax, ¿hay un ambiente recursivo de LaTeX?",
 	"MissingArgFor": "Falta el argumento para $1",
 	"ExtraAlignTab": "Ficha de alineación adicional en texto \\cases",
 	"BracketMustBeDimension": "El argumento de paréntesis $1 debe ser una dimensión",
@@ -40,12 +41,12 @@
 	"UnknownEnv": "Entorno desconocido «$1»",
 	"ExtraCloseLooking": "Llave de cierre adicional al buscar $1",
 	"MissingCloseBracket": "No se pudo encontrar \"]\" de cierre para el argumento $1",
-	"MissingOrUnrecognizedDelim": "Delimitador no reconocido o falta para $1",
+	"MissingOrUnrecognizedDelim": "Delimitador no reconocido o faltante para $1",
 	"MissingDimOrUnits": "Falta la dimensión o sus unidades para $1",
 	"TokenNotFoundForCommand": "No se pudo encontrar $1 para $2",
 	"MathNotTerminated": "La notación matemática no termina en el cuadro de texto",
 	"IllegalMacroParam": "Referencia de parámetro de macro ilegal",
-	"MaxBufferSize": "Tamaño del búfer interno de MathJax excedido; ¿Hay una llamada macro recursiva?",
+	"MaxBufferSize": "Tamaño del búfer interno de MathJax excedido. ¿Hay una llamada macro recursiva?",
 	"CommandNotAllowedInEnv": "$1 no permitido en el entorno $2",
 	"MultipleLabel": "Se definió la etiqueta «$1» varias veces",
 	"CommandAtTheBeginingOfLine": "$1 debe aparecer al principio de la línea",
@@ -66,7 +67,7 @@
 	"NewextarrowArg1": "El primer argumento de $1 debe ser un nombre de secuencia de control",
 	"NewextarrowArg2": "El segundo argumento de $1 debe ser dos números enteros separados por una coma",
 	"NewextarrowArg3": "El tercer argumento de $1 debe ser un número de caracteres Unicode",
-	"NoClosingChar": "No se puede encontrar el cierre $1",
+	"NoClosingChar": "No se puede encontrar el $1 de cierre",
 	"IllegalControlSequenceName": "El nombre de la secuencia de control para $1 es incorrecto",
 	"IllegalParamNumber": "Se especificó una cantidad incorrecta de parámetros en $1",
 	"MissingCS": "A $1 ha de añadírsele una secuencia de control",

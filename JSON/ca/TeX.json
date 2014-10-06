@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alvaro Vidal-Abarca"
+			"Alvaro Vidal-Abarca",
+			"Hiperpobla"
 		]
 	},
 	"ExtraOpenMissingClose": "Sobra una clau d'apertura o falta una clau de tancament",
@@ -31,7 +32,7 @@
 	"InvalidMathMLAttr": "Atribut MathML invàlid: $1",
 	"UnknownAttrForElement": "$1 no és un atribut vàlid per $2",
 	"MaxMacroSub1": "S'ha sobrepassat el nombre màxim de substitucions en una macro MathJax; hi ha una crida de macro recursiva?",
-	"MaxMacroSub2": "S'ha sobrepassat el nombre màxim de substitucions en una macro MathJax; hi ha un entorn de LaTeX recursiu?",
+	"MaxMacroSub2": "El comptador màxim de substitucions de MathJax s'ha sobrepassat; hi ha un entorn de LaTeX recursiu?",
 	"MissingArgFor": "Falta argument per $1",
 	"ExtraAlignTab": "Marca d'alineació extra en text \\cases",
 	"BracketMustBeDimension": "Argument de claudàtor per $1 ha de ser una dimensió",

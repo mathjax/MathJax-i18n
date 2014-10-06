@@ -32,7 +32,7 @@
 	"InvalidMathMLAttr": "Onvalid MathML attreebute: $1",
 	"UnknownAttrForElement": "$1 isna ae recognized attribute fer $2",
 	"MaxMacroSub1": "MathJax mucklest macro substitution coont exceeded; is thaur ae recursive macro caw?",
-	"MaxMacroSub2": "MathJax mucklest substitution coont exceeded; is thaur ae recursive latex environment?",
+	"MaxMacroSub2": "MathJax mucklest substitution coont exceeded; is thaur ae recursive LaTeX environment?",
 	"MissingArgFor": "Missin aurgument fer $1",
 	"ExtraAlignTab": "Eixtra alignment tab in \\cases tex",
 	"BracketMustBeDimension": "Bracket aurgument til $1 maun be ae dimension",

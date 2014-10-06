@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"helder"
+			"helder",
+			"!Silent"
 		]
 	},
 	"ExtraOpenMissingClose": "Sobrou uma chave de abertura ou faltou uma de fechamento",
@@ -31,7 +32,7 @@
 	"InvalidMathMLAttr": "Atributo MathML inválido: $1",
 	"UnknownAttrForElement": "$1 não é um atributo reconhecido para $2",
 	"MaxMacroSub1": "Foi excedido o máximo de substituições de macros do MathJax; há alguma chamada a uma macro recursiva?",
-	"MaxMacroSub2": "Foi excedido o máximo de substituições do MathJax; há algum ambiente latex recursivo?",
+	"MaxMacroSub2": "Foi excedido o máximo de substituições do MathJax; há algum ambiente de LaTeX recursivo?",
 	"MissingArgFor": "Faltou um argumento para $1",
 	"ExtraAlignTab": "Sobrou um tab de alinhamento no texto de \\cases",
 	"BracketMustBeDimension": "O argumento nos colchetes de $1 deve ser uma dimensão",

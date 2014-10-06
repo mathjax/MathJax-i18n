@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eleassar"
+			"Eleassar",
+			"Dbc334"
 		]
 	},
 	"ExtraOpenMissingClose": "Dodaten uklepaj ali manjkajoč zaklepaj",
@@ -31,7 +32,7 @@
 	"InvalidMathMLAttr": "Neveljaven atribut MathML: $1",
 	"UnknownAttrForElement": "$1 ni prepoznani atribut za $2",
 	"MaxMacroSub1": "Preseženo največje število makrosubstitucij MathJax; ali obstaja rekurzivni makroklic?",
-	"MaxMacroSub2": "Preseženo največje število substitucij MathJax; ali obstaja rekurzivno okolje latex?",
+	"MaxMacroSub2": "Preseženo največje število substitucij MathJax; ali obstaja rekurzivno okolje LaTeX?",
 	"MissingArgFor": "Manjka argument za $1",
 	"ExtraAlignTab": "Dodatni zavihek za poravnavo v tekstu \\cases",
 	"BracketMustBeDimension": "Argument v oklepaju za $1 mora biti velikost",

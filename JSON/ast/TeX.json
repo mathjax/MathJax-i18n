@@ -31,7 +31,7 @@
 	"InvalidMathMLAttr": "Atributu de MathML inválidu: $1",
 	"UnknownAttrForElement": "$1 nun ye un atributu reconocíu pa $2",
 	"MaxMacroSub1": "Se sobrepasó'l númberu máximu de sustituciones de macro de MathJax; ¿hai ha una llamada de macro recursiva?",
-	"MaxMacroSub2": "Se sobrepasó'l númberu máximu de sustituciones de MathJax; ¿hai un entornu de LaTeX recursivu?",
+	"MaxMacroSub2": "Pasóse'l númberu máximu de sustituciones de MathJax; ¿hai un entornu de LaTeX recursivu?",
 	"MissingArgFor": "Falta l'argumentu pa $1",
 	"ExtraAlignTab": "Tabulador d'alliniamientu estra en testu \\cases",
 	"BracketMustBeDimension": "L'argumentu de corchete pa $1 tien de ser una dimensión",

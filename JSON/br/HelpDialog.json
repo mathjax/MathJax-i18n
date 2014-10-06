@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fohanno",
+			"Gwenn-Ael"
+		]
+	},
+	"Help": "Sikour MathJax",
+	"MathJax": "*MathJax* zo ul levraoueg JavaSkript. Gantañ e c'hall aozerien ar pajennoù enderc'hel jedadoù en o fajennoù Web. Evel lenner n'ho po ket ezhomm d'ober netra evit ma'z aio en-dro.",
+	"Browsers": "\"Merdeerien\": Mont a ra Mathjax en-dro gant an holl verdeerien modern, en ur gontañ Explorer 6, Firefox 3, Chrome 0.2, Safari 2, Opera 9.6 hag o stummoù kreñvoc'h, hag ivez an darn vrasañ eus ar merdeerioù evit hezougelloù ha tablezennoù.",
+	"Menu": "\"Lañser Math\" : Ouzhpennañ a ra MathJax ul lañser kemperzhel  d'ar c'hevatalennoù. Klikit war bouton dehoù al logodenn pe klikit war war ne vern peseurt formulenn jedoniezh o terc'hel da bouezañ war Ktrl evit monet d'al lañser.",
+	"ShowMath": "Gant \"Diskwel ar matematikoù evel\" e c'hallot diskwel balizennañ tarzh ar jedad evit eilañ-pegañ (evel MathML pe en e furmad orin).",
+	"Settings": "Gant *Arventennoù\" e c'hallit kontrollañ arc'hwelioù MathJax, evel ment ar jedadoù, hag ar gwikefre implijet evit diskwel ar c'hevatalennoù."
+}

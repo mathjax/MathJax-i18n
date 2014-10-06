@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"LNDDYL"
 		]
 	},
+	"MathProcessingError": "數學處理錯誤",
 	"MathError": "數學錯誤",
 	"LoadFile": "正在載入$1",
 	"Loading": "載入中…",

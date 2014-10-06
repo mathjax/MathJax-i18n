@@ -6,7 +6,8 @@
 			"Sherbrooke",
 			"Urhixidur",
 			"fred",
-			"Yann.fauche"
+			"Yann.fauche",
+			"Gomoko"
 		]
 	},
 	"ExtraOpenMissingClose": "Accolade ouvrante non attendue ou accolade fermante manquante",
@@ -36,7 +37,7 @@
 	"InvalidMathMLAttr": "Attribut MathML non valide: $1",
 	"UnknownAttrForElement": "Attribut $1 inconnu pour l'élément $2",
 	"MaxMacroSub1": "Le nombre maximal de substitutions de macro autorisé par MathJax a été dépassé. Y a-t-il un appel de macro récursif?",
-	"MaxMacroSub2": "Le nombre maximal de substitutions de macros autorisé par MathJax a été dépassé. Y a-t-il un environnement LaTeX récursif ?",
+	"MaxMacroSub2": "Le nombre maximal de substitutions de macros autorisé par MathJax a été dépassé. Y a-t-il un environnement LaTeX récursif ?",
 	"MissingArgFor": "Argument manquant pour la commande $1",
 	"ExtraAlignTab": "Caractère d'alignement '&' inattendu pour le texte de la commande \\cases",
 	"BracketMustBeDimension": "L'argument entre crochets de la commande $1 doit être une dimension",

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fohanno"
+			"Fohanno",
+			"Gwenn-Ael"
 		]
 	},
 	"BadMglyph": "mglyph fall : $1",
@@ -10,5 +11,6 @@
 	"UnexpectedTextNode": "Skoulm testenn dic'hortoz : $1",
 	"ErrorParsingMathML": "Fazi o tielfennañ MathML",
 	"ParsingError": "Fazi o ielfennañ MathML : $1",
-	"MathMLSingleElement": "MathML a rank bezañ stummet gant un elfenn hepken"
+	"MathMLSingleElement": "MathML a rank bezañ stummet gant un elfenn hepken",
+	"MathMLRootElement": "Gant un elfenn <math> e rank bezañ stummet MathML, ha ket gant $1"
 }

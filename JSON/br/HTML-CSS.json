@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fohanno"
+			"Fohanno",
+			"Gwenn-Ael"
 		]
 	},
 	"LoadWebFont": "O kargañ ar font web  $1",
 	"CantLoadWebFont": "Ne c'haller ket kargañ ar font web $1",
-	"CantFindFontUsing": "Ne c'haller ket kavout ur font dereat e-touez $1"
+	"FirefoxCantLoadWebFont": "Ne c'hall ket Firefox kargañ ar fontoù adalek un ostiz a-bell",
+	"CantFindFontUsing": "Ne c'haller ket kavout ur font dereat e-touez $1",
+	"WebFontsNotAvailable": "N'haller ket kaout ar Fontoù web. Ar fontoù skeudenn a vo implijet en o flas"
 }
