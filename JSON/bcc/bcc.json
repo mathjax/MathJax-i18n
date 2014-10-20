@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Baloch Afghanistan"
+		]
+	},
+	"MathProcessingError": "خطای پردازش ریاضی",
+	"MathError": "حطای ریاضی",
+	"LoadFile": "بارگیری $1",
+	"Loading": "لودبیت...",
+	"LoadFailed": "خطا در بارگیری پرونده: $1",
+	"ProcessMath": "پردازش ریاضی: $1٪",
+	"Processing": "پردازش",
+	"TypesetMath": "حروف‌چینی ریاضی: $1٪",
+	"Typesetting": "حروف‌چینی",
+	"MathJaxNotSupported": "مرورگر شما از MathJax پشتیبانی نمی‌کند"
+}
