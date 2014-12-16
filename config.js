@@ -83,7 +83,7 @@ exports.languages = {
   //   }
   // },
   // "am": {
-  //   menuTitle: "አማርኛ",
+  //   menuTitle: "አማርኛ", // Amharic
   //   plural: function(n) {
   //     if (0 <= n && n <= 1) return 1; // one
   //     return 2; // other
@@ -93,7 +93,7 @@ exports.languages = {
   //   }
   // },
   // "ar": {
-  //   menuTitle: "العربية",
+  //   menuTitle: "العربية", // Arabic
   //   fontDirection: "rtl",
   //   plural: function(n) {
   //     if (n === 0) return 1; // zero
@@ -108,7 +108,7 @@ exports.languages = {
   //   }
   // },
   "ast": {
-    menuTitle: "asturianu",
+    menuTitle: "asturianu", // Asturian
     plural: function(n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -136,6 +136,16 @@ exports.languages = {
   //     return n;
   //   }
   // },
+  // "bcc": {
+  //   fontDirection: "rtl",
+  //   menuTitle: "بلوچی", //Balochi language
+  //   plural: function(n) {
+  //     return 1; // other // needs check
+  //   },
+  //   number: function(n) {
+  //     return n; // needs check
+  //   }
+  // },
   // "bm": {
   //   menuTitle: "bamanankan",
   //   plural: function(n) {
@@ -145,8 +155,17 @@ exports.languages = {
   //     return n;
   //   }
   // },
+  // "bn": {
+  //   menuTitle: "বাংলা", //Bengali
+  //   plural: function(n) {
+  //     return 1; // other // needs check
+  //   },
+  //   number: function(n) {
+  //     return n; // needs check
+  //   }
+  // },
   "br": {
-    menuTitle: "brezhoneg",
+    menuTitle: "brezhoneg", // Bretonese
     plural: function(n) {
       if (n % 10 === 1 && !(n % 100 === 11 || n % 100 === 71 ||
                             n % 100 === 91)) {return 1} // one
@@ -164,7 +183,7 @@ exports.languages = {
     }
   },
   "ca": {
-    menuTitle: "català",
+    menuTitle: "català", // Catalan
     plural: function(n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -173,8 +192,8 @@ exports.languages = {
       return String(n).replace(".", ","); // replace dot by comma
     }
   },
-  "cdo": {
-    menuTitle: "Mìng-dĕ̤ng-ngṳ̄",
+  "cdo": { //
+    menuTitle: "Mìng-dĕ̤ng-ngṳ̄", // Min Dong Chinese
     plural: function(n) {
       return 1; // other
     },
@@ -182,11 +201,13 @@ exports.languages = {
       return n;
     }
   },
-  "cs": {
-    menuTitle: "česky",
+  "ce": {
+    menuTitle: "Нохчийн мотт", //Chechen
     plural: function(n) {
-      if (n === 1) return 1; // one
-      if (2 <= n && n <= 4) return 2; // few
+      if (n % 10 === 1 && n % 100 !== 11) return 1; // one
+      if (2 <= n % 10 && n % 10 <= 4 && 12 <= n % 100 && n % 100 <= 14) return 2; // few
+      if (n % 10 === 0 || (5 <= n % 10 && n % 10 <= 9) ||
+          (11 <= n % 100 && n % 100 <= 14)) return 2; // many
       return 3; // other
     },
     number: function(n) {
@@ -194,7 +215,7 @@ exports.languages = {
     }
   },
   "cs": {
-    menuTitle: "čeština",
+    menuTitle: "čeština", // Czech
     plural: function(n) {
       if (n === 1) {return 1} // one
       if (n === 2 || n === 3 || n === 4) {return 2} // two--four
@@ -204,8 +225,18 @@ exports.languages = {
       return String(n).replace(".", ","); // replace dot by comma
     }
   },
+  "cy": {
+    menuTitle: "Cymraeg", // Welsh
+    plural: function(n) {
+      if (n === 1) {return 1} // one // needs check
+      return 2; // other // needs check
+    },
+    number: function(n) {
+      return n; // needs check
+    }
+  },
   "da": {
-    menuTitle: "dansk",
+    menuTitle: "dansk", // Danish
     plural: function(n) {
       if (n === 1) return 1; // one
       return 2; // other
@@ -215,7 +246,7 @@ exports.languages = {
     }
   },
   "de": {
-    menuTitle: "Deutsch",
+    menuTitle: "Deutsch", // German
     plural: function(n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -234,7 +265,7 @@ exports.languages = {
   //   }
   // },
   // "el": {
-  //   menuTitle: "Ελληνικά",
+  //   menuTitle: "Ελληνικά", // Greek
   //   plural: function(n) {
   //     if (n === 1) {return 1} // one
   //     return 2; // other
@@ -253,6 +284,16 @@ exports.languages = {
       return n;
     }
   },
+//   "en-gb": {
+//     menuTitle: "British English",
+//     plural: function(n) {
+//       if (n === 1) {return 1} // one
+//       return 2; // other
+//     },
+//     number: function(n) {
+//       return n;
+//     }
+//   },
   "eo": {
     menuTitle: "Esperanto",
     plural: function(n) {
@@ -264,7 +305,7 @@ exports.languages = {
     }
   },
   "es": {
-    menuTitle: "español",
+    menuTitle: "español", // Spanish
     plural: function(n) {
       if (n === 1) return 1; // one
       return 2; // other
@@ -273,9 +314,19 @@ exports.languages = {
       return n;
     }
   },
+//   "eu": {
+//     menuTitle: "Euskara", // Basque
+//     plural: function(n) {
+//       if (n === 1) return 1; // one // needs check
+//       return 2; // other
+//     },
+//     number: function(n) {
+//       return n; // needs check
+//     }
+//   },
   "fa": {
     fontDirection: "rtl",
-    menuTitle: "فارسی",
+    menuTitle: "فارسی", // Persian
     plural: function(n) {
       return 1; // other
     },
@@ -284,7 +335,7 @@ exports.languages = {
     }
   },
   "fi": {
-    menuTitle: "suomi",
+    menuTitle: "suomi", // Finnish
     plural: function(n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -294,7 +345,7 @@ exports.languages = {
     }
   },
   "fr": {
-    menuTitle: "français",
+    menuTitle: "français", // French
     plural: function(n) {
       if (0 <= n && n < 2) {return 1} // one
       return 2; // other
@@ -304,7 +355,7 @@ exports.languages = {
     }
   },
   "gl": {
-    menuTitle: "galego",
+    menuTitle: "galego", // Gallician
     plural: function(n) {
       if (n === 1) return 1; // one
       return 2; // other
@@ -334,7 +385,7 @@ exports.languages = {
   //   }
   // },
   "he": {
-    menuTitle: "עברית",
+    menuTitle: "עברית", // Hebrew
     fontDirection: "rtl",
     plural: function(n) {
       if (n === 1) {return 1} // one
@@ -347,7 +398,7 @@ exports.languages = {
     }
   },
   // "hy": {
-  //   menuTitle: "Հայերեն",
+  //   menuTitle: "Հայերեն", // Armenian
   //   plural: function(n) {
   //     if (n === 1) {return 1} // one
   //     return 2; // other
@@ -367,7 +418,7 @@ exports.languages = {
     }
   },
   "it": {
-    menuTitle: "italiano",
+    menuTitle: "italiano", // Italian
     plural: function(n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -377,16 +428,7 @@ exports.languages = {
     }
   },
   "ja": {
-    menuTitle: "日本語",
-    plural: function(n) {
-      return 1; // other
-    },
-    number: function(n) {
-      return n;
-    }
-  },
-  "ko": {
-    menuTitle: "한국어",
+    menuTitle: "日本語", // Japanese
     plural: function(n) {
       return 1; // other
     },
@@ -395,7 +437,7 @@ exports.languages = {
     }
   },
   "kn": {
-    menuTitle: "ಕನ್ನಡ",
+    menuTitle: "ಕನ್ನಡ", // Kannada
     plural: function(n) {
       return 1; // other
     },
@@ -403,8 +445,27 @@ exports.languages = {
       return n;
     }
   },
+  "ko": {
+    menuTitle: "한국어", // Korean
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+//   "ksh": {
+//     menuTitle: "Kölsch", // Colognian
+//     plural: function(n) {
+//       if (n === 1) {return 1} // one
+//       return 2; // other
+//     },
+//     number: function(n) {
+//       return String(n).replace(".", ","); // replace dot by comma
+//     }
+//   },
   "lb": {
-    menuTitle: "Lëtzebuergesch",
+    menuTitle: "Lëtzebuergesch", // Luxembourgish
     plural: function(n) {
       if (n === 1) return 1; // one
       return 2; // other
@@ -413,8 +474,41 @@ exports.languages = {
       return n;
     }
   },
+//   "lez": {
+//     menuTitle: "лезгияр", // Lezgian
+//     plural: function(n) { // needs check
+//       if (n % 10 === 1 && n % 100 !== 11) return 1; // one
+//       if (2 <= n % 10 && n % 10 <= 4 && 12 <= n % 100 && n % 100 <= 14) return 2; // few
+//       if (n % 10 === 0 || (5 <= n % 10 && n % 10 <= 9) ||
+//           (11 <= n % 100 && n % 100 <= 14)) return 2; // many
+//       return 3; // other
+//     },
+//     number: function(n) {
+//       return n; // needs check
+//     }
+//   },
+//   "lrc": {
+//     fontDirection: "rtl",
+//     menuTitle: "لوری", // Lursi
+//     plural: function(n) {
+//       return 1; // other // needs check
+//     },
+//     number: function(n) {
+//       return n; // needs check
+//     }
+//   },
+//   "lt": {
+//     menuTitle: "lietuvių", // Lithuanian
+//     plural: function(n) {
+//       if (n === 1) {return 1} // one // needs check
+//       return 2; // other
+//     },
+//     number: function(n) {
+//       return n; // needs check
+//     }
+//   },
   "mk": {
-    menuTitle: "македонски",
+    menuTitle: "македонски", // Macedonian
     plural: function(n) {
       if (n % 10 === 1 && n !== 11) return 1; // one
       return 2; // other
@@ -423,8 +517,17 @@ exports.languages = {
       return n;
     }
   },
+  // "ml": {
+  //   menuTitle: "മലയാളം", // Malayalam
+  //   plural: function(n) {
+  //     return 1; // other // needs check
+  //   },
+  //   number: function(n) {
+  //     return n; // needs check
+  //   }
+  // },
   // "ms": {
-  //   menuTitle: "Bahasa Melayu",
+  //   menuTitle: "Bahasa Melayu", // Malay
   //   plural: function(n) {
   //     return 1; // other
   //   },
@@ -433,7 +536,7 @@ exports.languages = {
   //   }
   // },
   "nl": {
-    menuTitle: "Nederlands",
+    menuTitle: "Nederlands", // Dutch
     plural: function(n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -443,7 +546,7 @@ exports.languages = {
     }
   },
   "oc": {
-    menuTitle: "occitan",
+    menuTitle: "occitan", // Occitan
     plural: function(n) {
       if (n === 1) return 1; // one
       return 2; // other
@@ -453,7 +556,7 @@ exports.languages = {
     }
   },
   "pl": {
-    menuTitle: "polski",
+    menuTitle: "polski", // Polish
     plural: function(n) {
       if (n == 1) {
         return 1;
@@ -468,7 +571,7 @@ exports.languages = {
     }
   },
   // "ps": {
-  //   menuTitle: "پښتو",
+  //   menuTitle: "پښتو", // Pashto
   //   fontDirection: "rtl",
   //   plural: function(n) {
   //     if (n === 1) return 1; // one
@@ -478,9 +581,8 @@ exports.languages = {
   //     return n;
   //   }
   // },
-  "pt": {
-    menuTitle: "portugusê",
-    remap: "pt-br",
+  "pt-br": {
+    menuTitle: "português do Brasil",  // Brazilian Portuguese
     plural: function (n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -489,8 +591,9 @@ exports.languages = {
       return String(n).replace(".", ","); // replace dot by comma
     }
   },
-  "pt-br": {
-    menuTitle: "português do Brasil",
+  "pt": {
+    menuTitle: "portugusê", // Portuguese
+    remap: "pt-br",
     plural: function (n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -505,7 +608,7 @@ exports.languages = {
     number: function (n) {return n}
   },
   "ru": {
-    menuTitle: "русский",
+    menuTitle: "русский", // Russian
     plural: function(n) {
       if (n % 10 === 1 && n % 100 !== 11) return 1; // one
       if (2 <= n % 10 && n % 10 <= 4 && 12 <= n % 100 && n % 100 <= 14) return 2; // few
@@ -517,8 +620,8 @@ exports.languages = {
       return n;
     }
   },
-  "so": {
-    menuTitle: "scots",
+  "sco": {
+    menuTitle: "scots", // Scottish
     plural: function(n) {
       if (n === 1) {return 1} // one
       return 2; // other
@@ -528,7 +631,7 @@ exports.languages = {
     }
   },
   "sl": {
-    menuTitle: "slovenščina",
+    menuTitle: "slovenščina", // Slovenian
     plural: function(n) {
       if (n % 100 === 1) return 1; // one
       if (n % 100 === 2) return 2; // two
@@ -540,7 +643,7 @@ exports.languages = {
     }
   },
   // "sq": {
-  //   menuTitle: "shqip",
+  //   menuTitle: "shqip", // 
   //   plural: function(n) {
   //     if (n === 1) return 1; // one
   //     return 2; // other
@@ -550,7 +653,7 @@ exports.languages = {
   //   }
   // },
   "sv": {
-    menuTitle: "svenska",
+    menuTitle: "svenska", // Swedish
     plural: function(n) {
       if (n === 1) return 1; // one
       return 2; // other
@@ -560,7 +663,7 @@ exports.languages = {
     }
   },
   "tr": {
-    menuTitle: "Türkçe",
+    menuTitle: "Türkçe", // Turkish
     plural: function(n) {
       return 1; // other
     },
@@ -569,7 +672,7 @@ exports.languages = {
     }
   },
   "uk": {
-    menuTitle: "українська",
+    menuTitle: "українська", // Ukrainian
     plural: function(n) {
       if (n % 10 === 1 && n % 100 != 11) return 1; // one
       if (2 <= n % 10 && n % 10 <= 4 && !(12 <= n % 100 && n % 100 <= 14)) return 2; // few
@@ -581,7 +684,7 @@ exports.languages = {
     }
   },
   "vi": {
-    menuTitle: "Tiếng Việt",
+    menuTitle: "Tiếng Việt", // Vietnamese
     plural: function(n) {
       return 1; // other
     },
@@ -590,7 +693,7 @@ exports.languages = {
     }
   },
   "zh-hans": {
-    menuTitle: "中文（简体）",
+    menuTitle: "中文（简体）", // Simplified Chinese
     plural: function(n) {
       return 1; // other
     },
@@ -599,6 +702,16 @@ exports.languages = {
     }
   }
 };
+//   "zh-hant": {
+//     menuTitle: "汉语", // Traditional Chinese
+//     plural: function(n) {
+//       return 1; // other
+//     },
+//     number: function(n) {
+//       return n;
+//     }
+//   }
+// };
 
 // ********** List of localization domains **********
 exports.domains = [
