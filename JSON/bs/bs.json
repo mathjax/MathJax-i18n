@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Palapa"
+		]
+	},
+	"LoadFile": "Učitavanje $1",
+	"Loading": "Učitavanje",
+	"Processing": "Procesiranje",
+	"Typesetting": "Slovoslagarstvo"
+}
