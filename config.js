@@ -17,7 +17,7 @@
  *
  */
 
-exports.version = "2.3"
+exports.version = "2.5"
 
 // ********** List of languages **********
 //
@@ -136,16 +136,16 @@ exports.languages = {
   //     return n;
   //   }
   // },
-  // "bcc": {
-  //   fontDirection: "rtl",
-  //   menuTitle: "بلوچی", //Balochi language
-  //   plural: function(n) {
-  //     return 1; // other // needs check
-  //   },
-  //   number: function(n) {
-  //     return n; // needs check
-  //   }
-  // },
+  "bcc": {
+    fontDirection: "rtl",
+    menuTitle: "بلوچی", //Balochi language
+    plural: function(n) {
+      return 1; // other 
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   // "bm": {
   //   menuTitle: "bamanankan",
   //   plural: function(n) {
