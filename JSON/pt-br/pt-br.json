@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"helder"
+			"helder",
+			"Webysther"
 		]
 	},
-	"MathProcessingError": "Erro no Processamento das Fórmulas",
-	"MathError": "Erro nas Fórmulas",
+	"MathProcessingError": "Erro no processamento das fórmulas",
+	"MathError": "Erro na fórmula matemática",
 	"LoadFile": "Carregando $1",
 	"Loading": "Carregando",
 	"LoadFailed": "O arquivo não pode ser carregado: $1",
-	"ProcessMath": "Processando Fórmula: $1%",
+	"ProcessMath": "Processando fórmula: $1%",
 	"Processing": "Processando",
 	"TypesetMath": "Realizando a Diagramação das Fórmulas: $1%",
 	"Typesetting": "Realizando a Diagramação",

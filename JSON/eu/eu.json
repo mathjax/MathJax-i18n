@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"LoadFile": "$1 kargatzen",
+	"Loading": "Kargatzen",
+	"Processing": "Prozesatzen",
+	"MathJaxNotSupported": "Zure nabigatzaileak ez du MathJax onartzen"
+}
