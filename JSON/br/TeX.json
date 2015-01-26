@@ -21,6 +21,7 @@
 	"UndefinedControlSequence": "An urzh kontrollañ $1 n'eo ket termenet",
 	"DoubleExponent": "Usskrid doubl : implijit briataennoù evit sklaeraat",
 	"DoubleSubscripts": "Isskrid double : implijit briataennoù evit sklaeraat",
+	"DoubleExponentPrime": "Un ask a zegas un usskrid doubl : implijit briataennoù evit sklaeraat",
 	"CantUseHash1": "Ne c'hallit ket implijout an arouezenn # er mod jedoniezh",
 	"MisplacedMiddle": "$1 a rank bezañ e-barzh \\left ha \\right",
 	"MisplacedLimits": "N'eo aotreet an urzh $1 nemet gant an oberataerioù",
