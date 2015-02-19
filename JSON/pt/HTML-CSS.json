@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720",
+			"Vitorvicentevalente"
+		]
+	},
+	"LoadWebFont": "A carregar fonte baseada em web $1",
+	"CantLoadWebFont": "Não foi possível carregar a fonte baseada em web $1",
+	"FirefoxCantLoadWebFont": "O Firefox não pode carregar fontes baseadas em web a partir de um host remoto",
+	"CantFindFontUsing": "Não é possível encontrar uma fonte válida usando $1",
+	"WebFontsNotAvailable": "Fontes baseadas em web não estão disponíveis -- a usar fontes feitas com imagens em vez disso"
+}
