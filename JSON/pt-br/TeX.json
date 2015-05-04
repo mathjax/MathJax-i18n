@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"helder",
-			"!Silent"
+			"!Silent",
+			"Rodrigo codignoli"
 		]
 	},
 	"ExtraOpenMissingClose": "Sobrou uma chave de abertura ou faltou uma de fechamento",
@@ -51,7 +52,7 @@
 	"CommandAtTheBeginingOfLine": "$1 deve vir no início da linha",
 	"IllegalAlign": "Foi especificado um alinhamento ilegal em $1",
 	"BadMathStyleFor": "Estilo de fórmulas matemáticas ruim para $1",
-	"PositiveIntegerArg": "O argumento para $1 deve ser um inteiro positivo",
+	"PositiveIntegerArg": "O argumento para $1 deve ser um numero inteiro positivo",
 	"ErroneousNestingEq": "Aninhamento incorreto de estruturas de equações",
 	"MultlineRowsOneCol": "As linhas do ambiente $1 devem ter apenas uma coluna",
 	"MultipleBBoxProperty": "$1 foi especificado duas vezes em $2",

@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yejianfei"
+			"Yejianfei",
+			"唐吉訶德的侍從"
 		]
 	},
 	"MathProcessingError": "數學處理錯誤",
 	"MathError": "數學錯誤",
-	"LoadFile": "載底$1",
-	"Loading": "載底",
-	"LoadFailed": "文件載底失敗：$1",
+	"LoadFile": "載入$1",
+	"Loading": "載入",
+	"LoadFailed": "文件載入失敗：$1",
 	"ProcessMath": "處理數學：$1%",
 	"Processing": "敆𡅏處理",
 	"TypesetMath": "排版數學：$1%",

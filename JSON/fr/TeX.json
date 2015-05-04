@@ -7,10 +7,11 @@
 			"Urhixidur",
 			"fred",
 			"Yann.fauche",
-			"Gomoko"
+			"Gomoko",
+			"Yzelf"
 		]
 	},
-	"ExtraOpenMissingClose": "Accolade ouvrante non attendue ou accolade fermante manquante",
+	"ExtraOpenMissingClose": "Accolade ouvrante superflue ou accolade fermante manquante",
 	"ExtraCloseMissingOpen": "Accolade fermante non attendue ou accolade ouvrante manquante",
 	"MissingLeftExtraRight": "Commande \\left manquante ou commande \\right superflue",
 	"MissingScript": "Argument en exposant ou en indice manquant",

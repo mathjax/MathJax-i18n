@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Philipp"
+		]
+	},
+	"MathProcessingError": "Грешка при обработката",
+	"MathError": "Математическа грешка",
+	"LoadFile": "Зареждане на $1",
+	"Loading": "Зареждане",
+	"LoadFailed": "Не може да се зареди: $1",
+	"ProcessMath": "Обработка на кода: $1%",
+	"Processing": "Обработка",
+	"TypesetMath": "Оформяне: $1%",
+	"Typesetting": "Оформяне",
+	"MathJaxNotSupported": "Браузърът Ви не поддържа MathJax"
+}

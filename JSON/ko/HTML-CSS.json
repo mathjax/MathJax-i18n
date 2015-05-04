@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Banwol"
+		]
+	},
+	"LoadWebFont": "$1 웹폰트를 불러오고 있습니다...",
+	"CantLoadWebFont": "$1 웹폰트를 불러올 수 없습니다"
+}

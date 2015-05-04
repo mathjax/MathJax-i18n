@@ -6,7 +6,7 @@
 		]
 	},
 	"Help": "MathJax帮助",
-	"MathJax": "*MathJax*是一种让网页制作者往网页中加入数学式的JavaScript运行库。作为访问者，您没有必要做任何事情。",
+	"MathJax": "*MathJax*是一种让网页制作者往网页中加入数学式的JavaScript运行库。作为读者，您不需要做任何使其出现的事情。",
 	"Browsers": "*浏览器*：MathJax可以在所有较新浏览器上工作，包括IE6+、Firefox 3+、Chrome 0.2+、Safari 2+、Opera 9.6+和大多数移动浏览器。",
 	"Menu": "*数式菜单*：MathJax给数式添加了快捷菜单。右键或按Ctrl然后点击任何数式即可进入菜单。",
 	"ShowMath": "*数式显示形式*允许您浏览公式的源代码以便复制粘贴（以原始形式或MathML）。",

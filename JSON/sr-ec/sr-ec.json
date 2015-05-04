@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"LoadFile": "Учитавам $1",
+	"Loading": "Учитавање",
+	"LoadFailed": "Учитавање датотеке $1 није успело",
+	"MathJaxNotSupported": "Ваш веб прегледач не подржава MathJax"
+}

@@ -4,7 +4,8 @@
 			"Nobody",
 			"Sherbrooke",
 			"Urhixidur",
-			"fred"
+			"fred",
+			"Yzelf"
 		]
 	},
 	"MathProcessingError": "Erreur de traitement de la formule mathématique",
@@ -12,8 +13,8 @@
 	"LoadFile": "Chargement de $1",
 	"Loading": "Chargement",
 	"LoadFailed": "Échec du chargement de $1",
-	"ProcessMath": "Traitement des formules: $1%",
-	"Processing": "En traitement",
+	"ProcessMath": "Traitement des formules : $1 %",
+	"Processing": "Traitement en cours",
 	"TypesetMath": "Composition des formules: $1%",
 	"Typesetting": "Composition",
 	"MathJaxNotSupported": "Votre navigateur ne supporte pas MathJax"
