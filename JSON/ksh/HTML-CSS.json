@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"LoadWebFont": "Ben de Wäb_Schreff $1 aam lahde.",
+	"CantLoadWebFont": "Kann de Wäb_Schreff $1 nit lahde.",
+	"FirefoxCantLoadWebFont": "Der <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Mozilla Firefox - „der Führ-Fußß“ - ene Brauser\">Firefox</i> kann kein Wäb_Schreffte vun üßerhallef lahde.",
+	"CantFindFontUsing": "Kann kein jöllteje Wäb_Schreff fenge onger $1.",
+	"WebFontsNotAvailable": "Wäb_Schreff schtonn_er nit zor Verföhjong.\nMer nämme Bellder schtattdämm."
+}
