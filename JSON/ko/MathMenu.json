@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"Alex00728"
 		]
 	},
 	"Show": "수식 보기",
@@ -65,6 +66,7 @@
 	"OperaNativeMMLWarning": "오페라의 MathML 지원은 제한적이므로 MathML 출력으로 전환하면 일부 표현이 불완전하게 렌더될 수 있습니다.",
 	"SafariNativeMMLWarning": "사용하는 브라우저의 기본 MathML은 MathJax에서 사용하는 모든 기능을 구현하지 않기 때문에 일부 표현이 제대로 렌더되지 않을 수 있습니다.",
 	"FirefoxNativeMMLWarning": "사용하는 브라우저의 기본 MathML은 MathJax에서 사용하는 모든 기능을 구현하지 않기 때문에 일부 표현이 제대로 렌더되지 않을 수 있습니다.",
+	"MSIESVGWarning": "SVG 파일 형식는 Internet Explorer 9 이하에서 보이지 않습니다. 따라서, SVG 형식으로 변경하는 것은 수식이 잘 보이지 않게 만들 수 있습니다.",
 	"LoadURL": "이 URL에서 번역 데이터 열기:",
 	"BadData": "$1에서 번역 데이터를 열 수 없습니다",
 	"NonZeroScale": "배율은 0이 아니어야 합니다",
