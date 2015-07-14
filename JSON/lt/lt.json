@@ -2,15 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Mantak111",
-			"Eitvys200"
+			"Eitvys200",
+			"Aivaras"
 		]
 	},
 	"MathProcessingError": "Matematikos apdorojimo klaida",
 	"MathError": "Matematikos klaida",
-	"LoadFile": "Įkraunama $1",
-	"Loading": "Įkraunama",
-	"LoadFailed": "Nepavyko įkrauti failo: $1",
-	"Processing": "Procesas",
-	"Typesetting": "Tekstų rinkimas",
-	"MathJaxNotSupported": "Jūsų naršyklė nepalaiko MathJax"
+	"LoadFile": "Įkeliama $1",
+	"Loading": "Įkeliama",
+	"LoadFailed": "Nepavyko įkelti bylos: $1",
+	"ProcessMath": "Apdorojama matematika: $1%",
+	"Processing": "Apdorojama",
+	"TypesetMath": "Renkami matematikos ženklai: $1%",
+	"Typesetting": "Ženklų rinkimas",
+	"MathJaxNotSupported": "Jūsų naršyklė „MathJax“ nenumato"
 }

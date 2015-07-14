@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aivaras"
+		]
+	},
+	"webFont": "Matematikos ženklams rodyti „MathJax“ šiame tinklalapyje vartoja tinkle saugomus šriftus, kurių įkėlimas reikalauja laiko. Ženklų rinkimą galima greitinti, matematikos šriftus įdiegus vietiniame sistemos šriftų aplanke.",
+	"imageFonts": "„MathJax“ vartoja paveikslinius, o ne vietinius arba tinkle saugomus šriftus. Matematikos ženklai vaizduojami lėčiau, o spausdinant netenkama raiškos.",
+	"noFonts": "Matematikos ženklams rodyti „MathJax“ nepavyksta rasti šrifto arba paveikslinių šriftų, todėl vartojami bendrieji unikodo rašmenys, tikintis, kad naršyklė juos rodys taisyklingai. Kai kurie ženklai gali būti rodomi išdarkyti arba visai nerodomi.",
+	"webFonts": "Dauguma dabartinių naršyklių leidžia gauti šriftus iš tinklo. Tikėtina, kad atnaujinus naršyklės laidą arba esamą naršyklę pakeitus kita, tinklalapyje gerėtų matematikos ženklų vaizdavimas.",
+	"fonts": "„MathJax“ gali vartoti [STIX fonts]($1) arba [MathJax TeX fonts]($2). Įdiegus vieną iš minėtų alternatyvų, gerės „MathJax“ veikimas.",
+	"STIXPage": "Tinklalapyje numatyti [STIX fonts]($1). Įdiegus minėtus šriftus, gerės „MathJax“ veikimas.",
+	"TeXPage": "Tinklalapyje numatyti [MathJax TeX fonts]($1).  Įdiegus minėtus šriftus, gerės „MathJax“ veikimas."
+}

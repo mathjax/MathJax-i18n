@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aivaras"
+		]
+	},
+	"LoadWebFont": "Įkeliamas tinklo šriftas $1",
+	"CantLoadWebFont": "Tinklo šrifto $1 įkelti nepavyko",
+	"FirefoxCantLoadWebFont": "„Firefox“ nepavyksta įkelti tinklo šriftų iš nutolusios prieglobos",
+	"CantFindFontUsing": "Nepavyksta rasti tinkamo šrifto naudojant $1",
+	"WebFontsNotAvailable": "Naudojami paveiksliniai šriftai, nes nėra tinklo šriftų."
+}
