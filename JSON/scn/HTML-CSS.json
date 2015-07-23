@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pippinu"
+		]
+	},
+	"LoadWebFont": "Scarricamentu dû tipu di caràttiri web $1",
+	"CantLoadWebFont": "Nun si potti scarricari u tipu di caràttiri web $1",
+	"FirefoxCantLoadWebFont": "Firefox nun po’ scarricari tipi di caràttiri web di n’host rimotu",
+	"CantFindFontUsing": "Nun si potti truvari nu tipu di caràttiri bonu tra $1",
+	"WebFontsNotAvailable": "I tipi di caràttiri web nun sunnu dispunìbbili, ô so postu s’adupirannu mmàggini fatti a’ tipu di caràttiri"
+}

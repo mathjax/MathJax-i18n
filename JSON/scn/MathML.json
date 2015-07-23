@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pippinu"
+		]
+	},
+	"BadMglyph": "mglyph sbagghiatu: $1",
+	"BadMglyphFont": "Tipu di caràttiri sbagghiatu: $1",
+	"MathPlayer": "MathJax nun riniscìu a’ armari u MathPlayer.\n\nSi’ u MathPlayer nun è istallatu, pi’ prima cosa s’havi a’ istallari.\nSannunca, purrìunu èssiri i to mpustazzioni dâ sicurizza ca nun pirmèttunu u funziunamentu\ndî cuntrolli ActiveX. Apri a vuci «Opzioni Internet» ntô menù «Strumenti» e pigghia a linguetta «Sicurezza», e ḍḍani carca\nu buttuni «Livello personalizzato...». Cuntrolla ch’i mpustazzioni «Esegui controlli ActiveX e plug-in» e «Comportamento file binari e script» sunnu attivati.\n\nComu ad ora vidirài missaggî d’erruri nveci chi’ fòrmuli matimàtichi mpagginati",
+	"CantCreateXMLParser": "MathJax nun po’ criari n’analizzaturi sintàtticu XML pû MathML. Cuntrolla chi’ è attivata a mpustazzioni di sicurizza «Esegui script controlli ActiveX contrassegnati come sicuri» (apri a vuci «Opzioni Internet» ntô menù «Strumenti», scegghî a linguetta «Sicurezza», e carca u buttuni «Livello personalizzato...» pi’ truvari sta mpustazzioni).\n\nL’equazzioni MathML nun ponnu èssiri labburati di MathJax",
+	"UnknownNodeType": "Tipu di gruppu scanusciutu: $1",
+	"UnexpectedTextNode": "Gruppu di testu inaspittatu: $1",
+	"ErrorParsingMathML": "Erruri nta l’anàlisi dû MathML",
+	"ParsingError": "Erruri nta l’anàlisi dû MathML: $1",
+	"MathMLSingleElement": "U MathML havi a’ èssiri furmatu di n’elimentu sìngulu",
+	"MathMLRootElement": "U MathML havi a’ èssiri furmatu di n’elimentu <math>, no $1"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pippinu"
+		]
+	},
+	"Help": "Guida di MathJax",
+	"MathJax": "*MathJax* è na libbrarìa JavaScript ca pirmetti a’ l’autura di mèttiri fòrmuli matimàtichi ntê pàggini web. Comu litturi, unu nun havi a’ fari nenti pi’ fàrilu funziunari.",
+	"Browsers": "*Browser*: MathJax funziona cu’ tutti i browser muderni cumprisi IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ e u cchiu’ dî browser purtàtili.",
+	"Menu": "*Menù dî fòrmuli*: MathJax agghiunci nu menù cuntistuali nta tutti i fòrmuli matimàtichi. Si apri cliccannu supra dî fòrmuli cû buttuni drittu o tinennu carcatu ctrl.",
+	"ShowMath": "*Mmustra a fòrmula comu* pirmetti di taliari u còdici surgenti dâ fòrmula pû cupiari e ncuḍḍari (sutta forma di MathML o ntô so furmatu origginali).",
+	"Settings": "*Mpustazzioni* duna cuntrollu supra dî carattirìstichi di MathJax, comu ad esempiu a rannizza dî fòrmuli e u miccanismu adupiratu pi’ visualizzàrili.",
+	"Language": "*Lingua* pirmetti di scègghîri a lingua adupirata di MathJax pî so menù e pî so missaggî d’avvirtimentu.",
+	"Zoom": "*Zoom dî fòrmuli*: si’ veni diffìcili a’ lèggiri na fòrmula, MathJax a po’ fari cchiu’ ranni pi’ fàrila vìdiri megghiu.",
+	"Accessibilty": "*Accissibbilità*: MathJax funziona autumaticamenti chî littura di schermu pi’ rènniri i fòrmuli matimàtichi accissìbbili a’ cu havi prubblemi di vista.",
+	"Fonts": "*Tipi di caràttiri*: MathJax adòpira certi tipi di caràttiri matimàtici quannu i trova istallati ntô computer; sannunca, adòpira tipi di caràttiri scarricati di Internet. Nun servi pi’ forza aviri i tipi di caràttiri istallati lucalmenti, però renni a mpagginazzioni cchiu’ viloci. Nui cunsigghiamu di istallari i [tipi di caràttiri STIX]($1)."
+}

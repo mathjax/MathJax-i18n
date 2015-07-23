@@ -7,7 +7,8 @@
 			"Rastus Vernon",
 			"Sherbrooke",
 			"Urhixidur",
-			"fred"
+			"fred",
+			"Wladek92"
 		]
 	},
 	"Show": "Afficher sous forme",
@@ -36,7 +37,7 @@
 	"Command": "Commande",
 	"Control": "Contrôle",
 	"Shift": "Maj",
-	"ZoomFactor": "Facteur de grossissement",
+	"ZoomFactor": "Facteur de grossissement d'échelle",
 	"Renderer": "Outil de rendu mathématique",
 	"MPHandles": "Laisser MathPlayer gérer :",
 	"MenuEvents": "Événements de menu",
