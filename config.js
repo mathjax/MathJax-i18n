@@ -17,7 +17,7 @@
  *
  */
 
-exports.version = "2.5"
+exports.version = "2.5.0"
 
 // ********** List of languages **********
 //
@@ -140,10 +140,17 @@ exports.languages = {
     fontDirection: "rtl",
     menuTitle: "بلوچی", //Balochi language
     plural: function(n) {
-      return 1; // other 
+      return 1; // other
     },
     number: function(n) {
       return n;
+    }
+  },
+  "bg": {
+    menuTitle: " български", // Bulgarian
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
     }
   },
   // "bm": {
@@ -497,16 +504,21 @@ exports.languages = {
 //       return n; // needs check
 //     }
 //   },
-//   "lt": {
-//     menuTitle: "lietuvių", // Lithuanian
-//     plural: function(n) {
-//       if (n === 1) {return 1} // one // needs check
-//       return 2; // other
-//     },
-//     number: function(n) {
-//       return n; // needs check
-//     }
-//   },
+  "lt": {
+    menuTitle: "lietuvių", // Lithuanian
+    plural: function(n) {
+      if (n % 10 === 1 && n % 100 !== 11) {
+        return 1;
+      } else if (n % 10 >=2 && n % 10 <= 9 && (n % 100 < 10 || n % 100 >= 20)) {
+        return 2;
+      } else {
+        return 3;
+      }
+    },
+    number: function(n) {
+      return n; // needs check
+    }
+  },
   "mk": {
     menuTitle: "македонски", // Macedonian
     plural: function(n) {
@@ -620,6 +632,16 @@ exports.languages = {
       return n;
     }
   },
+  "scn": {
+    menuTitle: "sicilianu", // Sicilian
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      return 2; // other
+    },
+    number: function(n) {
+      return String(n).replace(".", ","); // replace dot by comma
+    }
+  },
   "sco": {
     menuTitle: "scots", // Scottish
     plural: function(n) {
@@ -643,7 +665,7 @@ exports.languages = {
     }
   },
   // "sq": {
-  //   menuTitle: "shqip", // 
+  //   menuTitle: "shqip", //
   //   plural: function(n) {
   //     if (n === 1) return 1; // one
   //     return 2; // other
