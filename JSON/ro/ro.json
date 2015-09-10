@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Strainu"
+		]
+	},
+	"MathProcessingError": "Eroare de procesare a codului matematic",
+	"MathError": "Eroare metematică",
+	"LoadFile": "Se încarcă $1",
+	"Loading": "Se încarcă",
+	"LoadFailed": "Nu am putut încărca fișierul $1",
+	"ProcessMath": "Procesez simboluri matematice: $1%",
+	"Processing": "Procesez",
+	"TypesetMath": "Formatez simboluri matematice: $1%",
+	"Typesetting": "Formatare",
+	"MathJaxNotSupported": "Browserul dumneavoastră nu suporta MathJax"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"محک"
+		]
+	},
+	"MathProcessingError": "خطا ریاضی پروسه دله",
+	"MathError": "خطای ریاضی",
+	"LoadFile": "لؤدینگ $1",
+	"Loading": "لؤدینگ",
+	"LoadFailed": "خطا پرونده‌یِ لؤد دله: $1",
+	"ProcessMath": "ریاضی پروسس: $1٪",
+	"Processing": "پروسِس",
+	"TypesetMath": "حروف‌چینی ریاضی: $1٪",
+	"Typesetting": "حروف‌چینی",
+	"MathJaxNotSupported": "شمه بروزر MathJax ره پـِشتی نَکانده"
+}

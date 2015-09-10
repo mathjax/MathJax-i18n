@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"محک"
+		]
+	},
+	"ExtraOpenMissingClose": "اتا وا بَیی آکولاد زیادی دانّه یا اتا آکولاد دَوِسته نیّه",
+	"ExtraCloseMissingOpen": "اتا دَوسته‌بَیی آکولاد زیادی دانّه یا اتا آکولاد وا نیّه",
+	"MissingLeftExtraRight": "اتا \\left یا ‎\\right اضافی دانّه",
+	"MissingScript": "بالامتن یا بِن‌متن ِنشون‌وند ندانّه",
+	"ExtraLeftMissingRight": "‎\\left اضافی دانه یا \\right زیادی دانّه",
+	"Misplaced": "$1 نابجا",
+	"MissingOpenForSub": "وا آکولاد بـِن‌متن وسّه ندانّه",
+	"MissingOpenForSup": "وا آکولاد بالامتن وسّه ندانّه",
+	"AmbiguousUseOf": "عجیب استفاده ‎$1 جه",
+	"EnvBadEnd": "‎\\begin{$1}‎ تموم بیّه \\end{$2}‎ جه",
+	"EnvMissingEnd": "‎\\end{$1}‎ گوم‌بَیی",
+	"MissingBoxFor": "گوم‌بیی جعبه $1 وسه",
+	"MissingCloseBrace": "دوسته آکولاد گوم بیّه",
+	"UndefinedControlSequence": "دنبالهٔ کنترل تعریف‌نشدهٔ $1",
+	"DoubleExponent": "توان دوم: آکولاد جه استفاده هاکنین تا بتتر مَیّن بواشه چچی خانّی",
+	"DoubleSubscripts": "بـِن‌متن دوم: آکولاد جه استفاده هاکنین تا بتتر مَیّن بواشه چچی خانّی",
+	"DoubleExponentPrime": "توان دو باعث بیّه توان مضاعف داره: آکولاد جه استفاده هاکنین تا بتتر مَیّن بواشه چچی خانّی",
+	"CantUseHash1": "شما نتوندی «ماکرو نویسهٔ پارامتر #» جه ریاضی دله استفاده هاکنی",
+	"MisplacedMiddle": "‎$1 وسته \\left و ‎\\right دله دواشه",
+	"MisplacedLimits": "‎$1 فقط عملگرون دله مُجاز هسته",
+	"MisplacedMoveRoot": "‎$1 فقط بتونده اتا ریشه دله دَواشه",
+	"MultipleCommand": "‎$1 مالتی‌پل",
+	"IntegerArg": "نشون‌وند ‎$1 ونه صحیح ِعدد بائه",
+	"NotMathMLToken": "$1 اتا نشون ِعنصر نی‌یه",
+	"InvalidMathMLAttr": "ویژگی نامعتبر MathML: $1",
+	"UnknownAttrForElement": "$1 اتا معلوم ِویژگی $2 وسه نی‌یه"
+}

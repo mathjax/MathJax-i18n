@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"ViDam"
+		]
+	},
+	"MathProcessingError": "Matematikai feldolgozási hiba",
+	"MathError": "Matematikai hiba",
+	"LoadFile": "$1 betöltése",
+	"Loading": "Betöltés",
+	"LoadFailed": "Sikertelen fájlbeolvasás: $1",
+	"ProcessMath": "Matematikai feldolgozás: $1",
+	"Processing": "Feldolgozás",
+	"TypesetMath": "Matematikai betűszedés: $1%",
+	"Typesetting": "Betűszedés",
+	"MathJaxNotSupported": "A böngésződ nem támogatja a MathJaxot"
+}
