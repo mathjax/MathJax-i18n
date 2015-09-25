@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"LoadWebFont": "Ližätäh webfontua $1",
+	"CantLoadWebFont": "Ei voi ližätä webfontua $1"
+}

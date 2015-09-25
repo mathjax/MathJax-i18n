@@ -1,17 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pippinu"
+			"Pippinu",
+			"Sarvaturi"
 		]
 	},
 	"MathProcessingError": "Erruri ntâ labburazzioni dî fòrmuli matimàtichi",
 	"MathError": "Erruri ntâ matimàtica",
 	"LoadFile": "Carricamentu di $1",
 	"Loading": "Carricamentu",
-	"LoadFailed": "Nun riniscìu u carricamentu di: $1",
+	"LoadFailed": "Nun arriniscìu lu carricamentu di: $1",
 	"ProcessMath": "Labburazzioni dî fòrmuli matimàtichi: $1%",
 	"Processing": "Labburazzioni",
 	"TypesetMath": "Mpagginazzioni dî fòrmuli matimàtichi: $1%",
 	"Typesetting": "Mpagginazzioni",
-	"MathJaxNotSupported": "U to browser nun supporta MathJax"
+	"MathJaxNotSupported": "Lu tò browser nun supporta MathJax"
 }

@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pippinu"
+			"Pippinu",
+			"Sarvaturi"
 		]
 	},
-	"webFont": "MathJax sta’ adupirannu tipi di caràttiri scarricati di Internet pi’ mmustrari a matimàtica nta sta pàggina. Scarricari sti tipi si pigghia tempu, dunca sta pàggina si purrìa mpagginari cchiu’ viatu si’ i tipi di caràttiri pâ matimàtica fùssiru istallati dirittamenti ntâ cartella dî caràttiri dû to sistema.",
-	"imageFonts": "MathJax sta’ adupirannu mmàggini comu tipi di caràttiri, nveci di adupirari tipi di caràttiri lucali o scarricati di Internet. Stu fattu renniravi a mpagginazzioni cchiu’ lenta dû sòlitu, e quannu si stampa, a matimàtica purrìa nun aviri a risuluzzioni china cunsintuta dâ stampanti.",
-	"noFonts": "MathJax nun potti truvari nu tipu di caràttiri bonu pi’ mmustrari a matimàtica, e mancu sunnu dispunìbbili mmàggini fatti a’ tipi di caràttiri; pi’ chistu sta’ ripiegannu a’ l’adupirari i caràttiri Unicode, ntâ spiranza ch’u to browser sarravi capaci di mmustràrili. Po’ èssiri ca certi caràttiri nun spùntunu boni, o nun spùntunu propia.",
-	"webFonts": "I cchiu’ dî browser muderni pirmettunu di scarricari i tipi di caràttiri di Internet. Aggiurnannu u to browser (o canciànnulu) si purrìa migghiurari a qualità dâ matimàtica ca veni mmustrata nta sta pàggina.",
-	"fonts": "MathJax po’ fari usu o dî [tipi di caràttiri STIX]($1) o dî [tipi di caràttiri TeX MathJax]($2). Scàrrica e istalla unu di sti tipi pi’ fari funziunari megghiu MathJax.",
-	"STIXPage": "Sta pàggina è pruggittata pi’ fari usu dî [tipi di caràttiri STIX]($1). Scàrrica e istalla sti tipi pi’ fari funziunari megghiu MathJax.",
-	"TeXPage": "Sta pàggina è pruggittata pi’ fari usu dî [tipi di caràttiri TeX MathJax]($1). Scàrrica e istalla sti tipi pi’ fari funziunari megghiu MathJax."
+	"webFont": "MathJax sta adupirannu tipi di caràttiri scarricati di Internet p'ammmustrari la matimàtica nta sta pàggina. Scarricari sti tipi si pigghia tempu, dunca sta pàggina si purrìa mpagginari cchiù viloci si li tipi di caràttiri pâ matimàtica fùssiru istallati direttamenti ntâ cartella dî caràttiri dû tò sistema.",
+	"imageFonts": "MathJax sta adupirannu mmàggini comu tipi di caràttiri, mmeci di adupirari tipi di caràttiri lucali o scarricati d'Internet. Stu fattu renni la mpagginazzioni cchiù lenta dû sòlitu, e quannu si stampa, la matimàtica purrìa nun aviri la risuluzzioni china cunzintuta dâ stampanti.",
+	"noFonts": "MathJax nun potti attruvari nu tipu di caràttiri bonu p'ammustrari la matimàtica, e mancu sunnu dispunìbbili mmàggini fatti a tipi di caràttiri; pi chistu sta ripiegannu a l'adupirari li caràttiri Unicode, ntâ spiranza chi lu tò browser è capaci d'ammustràrili. Pò èssiri ca certi caràttiri nun spùntanu boni, o nun spùntanu propia.",
+	"webFonts": "Li cchiù dî browser muderni pirmèttinu di scarricari li tipi di caràttiri d'Internet. Aggiurnannu lu tò browser (o canciànnulu) si purrìa migghiurari la qualità dâ matimàtica ca veni ammustrata nta sta pàggina.",
+	"fonts": "MathJax po fari usu o dî [tipi di caràttiri STIX]($1) o dî [tipi di caràttiri TeX MathJax]($2). Scàrrica e istalla unu di sti tipi pi fari funziunari megghiu MathJax.",
+	"STIXPage": "Sta pàggina è pruggittata pi fari usu dî [tipi di caràttiri STIX]($1). Scàrrica e istalla sti tipi pi fari funziunari megghiu MathJax.",
+	"TeXPage": "Sta pàggina è pruggittata pi fari usu dî [tipi di caràttiri TeX MathJax]($1). Scàrrica e istalla sti tipi pi fari funziunari megghiu MathJax."
 }

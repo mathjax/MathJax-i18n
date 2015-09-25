@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Fitoschido",
-			"VegaDark"
+			"VegaDark",
+			"Macofe"
 		]
 	},
 	"BadMglyph": "«mglyph» dañado: $1",
 	"BadMglyphFont": "Tipo de letra dañado: $1",
-	"MathPlayer": "MathJax no fue capaz de configurar MathPlayer.\n\nSi no está instalado MathPlayer, tienes que instalarlo primero.\nDe lo contrario, la configuración de seguridad puede impedir que los controles de ActiveX\nfuncionen. Utiliza el elemento en opciones de internet en el menú Herramientas y selecciona la ficha Seguridad, luego presiona el\nbotón de nivel personalizado. Comprueba que la configuración de\n\"Ejecutar controles ActiveX\" y \"comportamientos binarios y script\"\nestán activados.\n\nActualmente verás los mensajes de error en lugar de la\ntipografía matemática",
+	"MathPlayer": "MathJax no fue capaz de configurar MathPlayer.\n\nSi no está instalado MathPlayer, tienes que instalarlo primero.\nDe lo contrario, la configuración de seguridad puede impedir que los controles de ActiveX\nfuncionen. Utiliza el elemento en opciones de Internet en el menú Herramientas y selecciona la ficha Seguridad, luego presiona el\nbotón de nivel personalizado. Comprueba que la configuración de\n\"Ejecutar controles ActiveX\" y \"comportamientos binarios y script\"\nestán activados.\n\nActualmente verás los mensajes de error en lugar de la\ntipografía matemática",
 	"CantCreateXMLParser": "MathJax no puede crear un analizador de XML para MathML. Comprueba que la configuración de seguridad \"controles de secuencia de comandos ActiveX marcados como seguros para scripts\" está habilitada (utiliza el elemento en opciones de Internet en el menú Herramientas y selecciona el panel de seguridad, luego presiona el botón de nivel personalizado para comprobarlo).\n\nLas ecuaciones MathML no podrán ser procesadas por MathJax",
 	"UnknownNodeType": "Tipo de nodo desconocido: $1",
 	"UnexpectedTextNode": "Nodo de texto inesperado: $1",
