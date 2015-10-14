@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"아라",
-			"Alex00728"
+			"Alex00728",
+			"Hwangjy9"
 		]
 	},
 	"Show": "수식 보기",
@@ -44,6 +45,12 @@
 	"TeXWeb": "TeX (웹)",
 	"TeXImage": "TeX (그림)",
 	"STIXLocal": "STIX (로컬)",
+	"STIXWeb": "STIX (웹)",
+	"AsanaMathWeb": "Asana Math (웹)",
+	"GyrePagellaWeb": "Gyre Pagella (웹)",
+	"GyreTermesWeb": "Gyre Termes (웹)",
+	"LatinModernWeb": "Latin Modern (웹)",
+	"NeoEulerWeb": "Neo Euler (웹)",
 	"ContextMenu": "컨텍스트 메뉴",
 	"Browser": "탐색기",
 	"Scale": "모든 수식 배율 ...",
@@ -69,6 +76,7 @@
 	"MSIESVGWarning": "SVG 파일 형식는 Internet Explorer 9 이하에서 보이지 않습니다. 따라서, SVG 형식으로 변경하는 것은 수식이 잘 보이지 않게 만들 수 있습니다.",
 	"LoadURL": "이 URL에서 번역 데이터 열기:",
 	"BadData": "$1에서 번역 데이터를 열 수 없습니다",
+	"SwitchAnyway": "렌더러를 정말 바꾸시겠습니까?\n\n(바꾸려면 OK를, 현재 렌더러로 계속하려면 CANCEL을 누르세요)",
 	"NonZeroScale": "배율은 0이 아니어야 합니다",
 	"PercentScale": "배율은 백분율이어야 합니다 (예, 120%)",
 	"IE9warning": "MathJax 컨텍스트 메뉴가 비활성화되지만, 대신 MathJax 메뉴를 얻으려면 Alt-클릭을 할 수 있습니다.",

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Haytham morsy",
+			"مشعل الحربي"
+		]
+	},
+	"CantFindFontUsing": "لا يمكن العثور على خط صالح باستخدام $1",
+	"WebFontsNotAvailable": "خطوط الويب غير متوفرة. استخدام خطوط الصورة بدلا من ذلك"
+}

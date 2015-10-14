@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Susith Chandira Gts"
+		]
+	},
+	"MathProcessingError": "ගණිත සැකසුම් දෝෂයක්",
+	"MathError": "ගණිත දෝෂයක්",
+	"LoadFile": "පූරණය වෙමින් $1",
+	"Loading": "පූරණය වෙමින්",
+	"LoadFailed": "ගොනුව ප්‍රවේශ කිරීමට නොහැකි විය: $1"
+}
