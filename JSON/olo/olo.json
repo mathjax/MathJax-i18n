@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ilja.mos",
+			"Mashoi7"
+		]
+	},
+	"MathProcessingError": "Matematiekallizen käzittelyn haireh",
+	"MathError": "Matemuattine haireh",
+	"LoadFile": "Ladavus $1",
+	"Loading": "Ladavus kesken",
+	"LoadFailed": "Ei suannuh ladata failua $1"
+}

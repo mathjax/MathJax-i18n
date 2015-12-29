@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hosseinblue"
+		]
+	},
+	"LoadWebFont": "بارگیری قلم وبی $1",
+	"CantLoadWebFont": "نمی‌توان قلم وبی $1 را بارگیری کرد",
+	"FirefoxCantLoadWebFont": "فایرفاکس نمی‌تواند قلم‌های وبی را از یک میزان از راه دور بارگیری کند",
+	"CantFindFontUsing": "نمی‌توان یک قلم معتبر بااستفاده از $1 یافت",
+	"WebFontsNotAvailable": "قلم‌های وبی ناموجودند -- استفاده از قلم‌های تصویری به جای آن"
+}
