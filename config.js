@@ -17,7 +17,7 @@
  *
  */
 
-exports.version = "2.5.0"
+exports.version = "2.6.0-beta"
 
 // ********** List of languages **********
 //
@@ -504,6 +504,17 @@ exports.languages = {
 //       return n; // needs check
 //     }
 //   },
+  "lki": {
+    //TODO couldn't verify; best guess is Persian
+    fontDirection: "rtl",
+    menuTitle: "لەکی", // Laki
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   "lt": {
     menuTitle: "lietuvių", // Lithuanian
     plural: function(n) {
