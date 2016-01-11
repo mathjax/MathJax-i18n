@@ -46,12 +46,14 @@
 	"MaxBufferSize": "MathJax内部缓冲区大小超限；存在递归的宏调用？",
 	"CommandNotAllowedInEnv": "$1在$2环境中不允许",
 	"MultipleLabel": "已定义标签“$1”乘",
+	"CommandAtTheBeginingOfLine": "$1必须位于行的开头",
 	"IllegalAlign": "指定的对齐方式$1不符编辑手册",
 	"BadMathStyleFor": "$1的数式样式无效",
 	"PositiveIntegerArg": "参数$1必须是正整数",
 	"ErroneousNestingEq": "错误的方程嵌套结构",
 	"MultipleBBoxProperty": "$1在$2中指定了两次",
 	"ExtraEndMissingBegin": "有多余的$1或缺少\\begingroup",
+	"GlobalNotFollowedBy": "$1不被\\let、\\def或\\newcommand允许",
 	"UndefinedColorModel": "色彩模块“$1”未定义",
 	"ModelArg1": "$1模块的色彩值需要三个数字",
 	"InvalidDecimalNumber": "无效十进制数",
@@ -68,5 +70,6 @@
 	"SequentialParam": "$1的参数必须顺序标号",
 	"MissingReplacementString": "$1的定义缺少替换字符串",
 	"MismatchUseDef": "$1的使用不符合其定义",
+	"RunawayArgument": "$1的参数失控了么？",
 	"NoClosingDelim": "无法找到用于结束的分隔符$1"
 }
