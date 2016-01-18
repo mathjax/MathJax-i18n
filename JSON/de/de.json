@@ -1,17 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"pkra"
+			"pkra",
+			"Predatorix"
 		]
 	},
-	"MathProcessingError": "Mathe Verarbeitungsfehler",
-	"MathError": "Mathe Fehler",
+	"MathProcessingError": "Fehler bei der Verarbeitung des mathematischen Ausdrucks",
+	"MathError": "Fehler im mathematischen Ausdruck",
 	"LoadFile": "Lade $1",
-	"Loading": "Laden",
+	"Loading": "Lade",
 	"LoadFailed": "Datei konnte nicht geladen werden: $1",
-	"ProcessMath": "Mathe verarbeiten: $1%",
-	"Processing": "Verarbeiten",
-	"TypesetMath": "Mathe wird gesetzt: $1%",
-	"Typesetting": "Setzen",
+	"ProcessMath": "Verarbeite mathematischen Ausdruck: $1%",
+	"Processing": "Verarbeite",
+	"TypesetMath": "mathematischer Ausdruck wird gesetzt: $1%",
+	"Typesetting": "Formelsatz",
 	"MathJaxNotSupported": "Ihr Webbrowser unterstützt MathJax nicht"
 }

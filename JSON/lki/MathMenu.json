@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hosseinblue"
+			"Hosseinblue",
+			"Lakzon"
 		]
 	},
 	"Show": "نمایش ریاضیات به عنوان",
@@ -15,7 +16,7 @@
 	"TeX": "تک",
 	"StarMath": "StarMath",
 	"Maple": "Maple",
-	"ContentMathML": "MathML محتوا",
+	"ContentMathML": "MathML نۆم جِک(محتوا)",
 	"OpenMath": "OpenMath",
 	"texHints": "نمایش نکته‌های تک در MathML",
 	"Settings": "تنظیمات ریاضیات",
@@ -36,7 +37,7 @@
 	"MenuEvents": "رویدادهای منو",
 	"MouseEvents": "رویدادهای موشواره",
 	"MenuAndMouse": "رویدادهای موشواره و منو",
-	"FontPrefs": "ترجیحات قلم",
+	"FontPrefs": "تمارزووەل(ترجیحات)فوونت",
 	"ForHTMLCSS": "برای اچ‌تی‌ام‌ال-سی‌اس‌اس:",
 	"Auto": "خودکار",
 	"TeXLocal": "تک (محلی)",
