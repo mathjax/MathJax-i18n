@@ -1,17 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dimension10"
+			"Dimension10",
+			"Vikashegde"
 		]
 	},
-	"MathProcessingError": "ಗಣಿತ ಪ್ರತಿಕ್ರಿಯ ಮಾದುದಲ್ಲಿ ತ್ರುಟಿ",
-	"MathError": "ಗಣಿತದಲ್ಲಿ ತ್ರುಟಿ",
-	"LoadFile": "$1 ಲೋಡ್ ಆಗುತ ಉಂಟು",
-	"Loading": "ಲೋಡ್ ಆಗುತ ಉಂಟು",
+	"MathProcessingError": "ಗಣಿತ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ದೋಷ",
+	"MathError": "ಗಣಿತ ದೋಷ",
+	"LoadFile": "$1 ಲೋಡ್ ಆಗುತ್ತಿದೆ",
+	"Loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ",
 	"LoadFailed": "$1 ಫೈಲ್ ಲೋಡ್ ಆಗಲಿಲ್ಲ",
-	"ProcessMath": "ಗಣಿತ ಪ್ರತಿಕ್ರೀಯೆ ಆಗುತ ಉಂಟು: $1%",
-	"Processing": "ಪ್ರತಿಕ್ರೀಯೆ ಆಗುತ ಉಂಟು",
-	"TypesetMath": "ಗಣಿತ ಬರಿದು ಹೊಗುತ ಉಂಟು: $1%",
-	"Typesetting": "ಗಣಿತ ಬರಿದು ಹೊಗುತ ಉಂಟು",
-	"MathJaxNotSupported": "ನಿಮ್ಮ ಬ್ರೌಸರ್ ಮಥ್ಜಕ್ಷ್ ಅನ್ನು ಬಿದುದಿಲ್ಲ."
+	"ProcessMath": "ಗಣಿತ ಪ್ರಕ್ರಿಯೆ ಆಗುತ್ತಿದೆ: $1%",
+	"Processing": "ಪ್ರಕ್ರಿಯೆ ಆಗುತ್ತಿದೆ",
+	"TypesetMath": "ಗಣಿತ ಟೈಪ್‍ಸೆಟ್ಟಿಂಗ್: $1%",
+	"Typesetting": "ಟೈಪ್‍ಸೆಟ್ಟಿಂಗ್",
+	"MathJaxNotSupported": "ನಿಮ್ಮ ಬ್ರೌಸರ್ MathJaxಅನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ"
 }
