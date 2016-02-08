@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"helder"
+			"helder",
+			"Rodrigo codignoli"
 		]
 	},
 	"Help": "Ajuda do MathJax",
-	"MathJax": "*MathJax* é uma biblioteca em JavaScript que permite aos autores a inclusão de conteúdo matemático em suas páginas web. Como um renderizador, você não precisa fazer qualquer coisa para que isso ocorra.",
+	"MathJax": "*MathJax* é uma biblioteca em JavaScript que permite aos autores a inclusão de conteúdo matemático em suas páginas web. Como um renderizador, você não precisa fazer nada para que isso ocorra.",
 	"Browsers": "*Navegadores*: O MathJax funciona em todos os navegadores modernos incluindo IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ e a maioria dos navegadores para dispositivos móveis.",
 	"Menu": "*Menu de Fórmulas*: O MathJax acrescenta um menu de contexto às equações. Clique com o botão direito ou pressione CTRL ao clicar em qualquer fórmula matemática para acessar o menu.",
 	"ShowMath": "*Mostrar Fórmulas Como* permite que visualize o código da fórmula para copiar e colar (como MathML ou em seu formato original).",

@@ -5,7 +5,8 @@
 			"helder",
 			"Mordecaista",
 			"Amgauna",
-			"He7d3r"
+			"He7d3r",
+			"Rodrigo codignoli"
 		]
 	},
 	"Show": "Mostrar Fórmulas Como",
@@ -64,13 +65,13 @@
 	"localTeXfonts": "usando fontes TeX locais",
 	"webTeXfonts": "usando fontes TeX da web",
 	"imagefonts": "usando fontes feitas com imagens",
-	"localSTIXfonts": "usando fontes STIX",
+	"localSTIXfonts": "usando fontes STIX locais",
 	"webSVGfonts": "usando fontes SVG da web",
 	"genericfonts": "usando fontes unicode genéricas",
-	"wofforotffonts": "fontes woff ou otf",
-	"eotffonts": "fontes eot",
-	"svgfonts": "fontes svg",
-	"WebkitNativeMMLWarning": "Não parece haver suporte nativo ao MathML em seu navegador, então a mudança para MathML pode tornar ilegíveis as fórmulas matemáticas da página.",
+	"wofforotffonts": "fontes WOFF ou OTF",
+	"eotffonts": "fontes EOT",
+	"svgfonts": "fontes SVG",
+	"WebkitNativeMMLWarning": "Parece que seu navegador não oferece suporte nativo ao MathML, então a mudança para a saída do MathML pode tornar ilegíveis as fórmulas matemáticas da página.",
 	"MSIENativeMMLWarning": "O Internet Explorer requer o plugin MathPlayer para processar MathML.",
 	"OperaNativeMMLWarning": "O suporte ao MathML no Opera é limitado, então a mudança para MathML pode piorar a renderização de algumas expressões.",
 	"SafariNativeMMLWarning": "O suporte ao MathML nativo do seu navegador não implementa todos os recursos usados pelo MathJax, então algumas expressões podem não ser exibidas adequadamente.",
@@ -85,7 +86,7 @@
 	"PercentScale": "A escala deve ser uma porcentagem (por exemplo, 120%)",
 	"IE8warning": "Isto desabilitará o menu MathJax e os recursos de zoom, mas você poderá usar Alt-Clique em uma expressão para obter o menu MathJax em vez disso.\n\nRealmente alterar as configurações do MathPlayer?",
 	"IE9warning": "O menu de contexto do MathJax será desabilitado, mas você pode usar Alt-Clique em uma expressão para obter o menu MathJax em vez disso.",
-	"NoOriginalForm": "Sem uma forma original disponível",
+	"NoOriginalForm": "Sem formulario original disponível",
 	"Close": "Fechar",
 	"EqSource": "Fonte da Equação do MathJax"
 }

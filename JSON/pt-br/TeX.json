@@ -73,7 +73,7 @@
 	"MissingCS": "$1 deve ser seguido por uma sequência de controle",
 	"CantUseHash2": "Uso ilegal de # em um modelo para $1",
 	"SequentialParam": "Os parâmetros para $1 devem ser numerados sequencialmente",
-	"MissingReplacementString": "Faltou a string de substituição para a definição de $1",
+	"MissingReplacementString": "Faltou a linha de substituição para a definição de $1",
 	"MismatchUseDef": "O uso de $1 não está de acordo com sua definição",
 	"RunawayArgument": "Argumento extra para $1?",
 	"NoClosingDelim": "Não foi encontrado um delimitador de fechamento para $1"
