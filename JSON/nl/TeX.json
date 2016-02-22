@@ -23,7 +23,7 @@
 	"DoubleExponent": "Dubbele exponent: gebruik accolades om te verduidelijken",
 	"DoubleSubscripts": "Dubbele subschriften: gebruik accolades om te verduidelijken",
 	"DoubleExponentPrime": "Priem veroorzaakt een dubbele exponent: Gebruik accolades om te verduidelijken.",
-	"CantUseHash1": "U kunt 'macro parameter karakter #' niet gebruiken in mathmodus",
+	"CantUseHash1": "U kunt 'macroparameterteken #' niet gebruiken in mathmodus",
 	"MisplacedMiddle": "$1 moet zich tussen \\left en \\right bevinden",
 	"MisplacedLimits": "$1 is alleen toegestaan op bewerkingstekens",
 	"MisplacedMoveRoot": "$1 kan alleen voorkomen in een root",
