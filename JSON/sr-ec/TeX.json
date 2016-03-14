@@ -1,0 +1,36 @@
+{
+	"@metadata": {
+		"authors": [
+			"Perevod16"
+		]
+	},
+	"ExtraOpenMissingClose": "Додатне открывающую браће или довољно затварања коврџавом браце",
+	"ExtraCloseMissingOpen": "Додатне затварања коврџавом браце или недостаје отворена браће заграда",
+	"MissingLeftExtraRight": "Недостаје \\left или екстра \\right",
+	"MissingScript": "Недостаје натпис или суперскрипту аргумент",
+	"ExtraLeftMissingRight": "Екстра \\left или несталих \\right",
+	"Misplaced": "Загубљен $1",
+	"MissingOpenForSub": "Недостаје отворена браће заграда за подстрочного",
+	"MissingOpenForSup": "Недостаје отворена браће заграда за натпис",
+	"AmbiguousUseOf": "Двосмислена употреба $1",
+	"EnvBadEnd": "\\begin{$1} завршио \\end{$2}",
+	"EnvMissingEnd": "Недостаје \\end{$1}",
+	"MissingBoxFor": "Недостаје кутија за $1",
+	"MissingCloseBrace": "Довољно затварања коврџавом браце",
+	"UndefinedControlSequence": "Неодређени контроле низу $1",
+	"DoubleExponent": "Двоструки излагачи: користите витичасте заграде за појашњења",
+	"DoubleSubscripts": "Дупле доњи индекси: користите витичасте заграде за појашњења",
+	"DoubleExponentPrime": "Премијер доводи до двоструког экспоненте: користите витичасте заграде за појашњења",
+	"CantUseHash1": "Не можете да користите 'макро аспект лика #' у математичком режиму",
+	"MisplacedMiddle": "$1 мора бити у оквиру \\left и \\right",
+	"MisplacedLimits": "$1 дозвољено само за оператере",
+	"MisplacedMoveRoot": "$1 може да се појави само у root",
+	"MultipleCommand": "Више од $1",
+	"IntegerArg": "Аргумент $1 мора бити цео број",
+	"NotMathMLToken": "$1-То није маркер елемента",
+	"InvalidMathMLAttr": "Неисправан атрибут за MathML: $1",
+	"UnknownAttrForElement": "$1 није препознат као атрибут $2",
+	"MaxMacroSub1": "Коришћење MathJax максимална замена макроа. достижете броја; овде рекурзивни позив макроа?",
+	"MaxMacroSub2": "Коришћење MathJax максималним супституција достижете броја; да ли постоји рекурзивне LaTeX средине?",
+	"MissingArgFor": "Недостаје аргумент за $1"
+}
