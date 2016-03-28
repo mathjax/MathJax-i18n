@@ -3,7 +3,8 @@
 		"authors": [
 			"Ty221",
 			"piotrdomagalski",
-			"Chrumps"
+			"Chrumps",
+			"Mateon1"
 		]
 	},
 	"ExtraOpenMissingClose": "Nadmiarowy nawias otwierający lub brakujący nawias zamykający",
@@ -14,16 +15,16 @@
 	"Misplaced": "Źle umiejscowiony $1",
 	"MissingOpenForSub": "Brakujący nawias otwierający dla indeksu dolnego",
 	"MissingOpenForSup": "Brakujący nawias otwierający dla indeksu górnego",
-	"AmbiguousUseOf": "Nierozpoznane użycie $1",
+	"AmbiguousUseOf": "Niejednoznaczne użycie $1",
 	"EnvBadEnd": "\\begin{$1} został zakończony \\end{$2}",
-	"EnvMissingEnd": "Brakuje \\end{$1}",
-	"MissingBoxFor": "Brakuje pudełka (box) dla $1",
-	"MissingCloseBrace": "Brakuje nawiasu zamykającego",
+	"EnvMissingEnd": "Brakujące \\end{$1}",
+	"MissingBoxFor": "Brakujące pudełko (box) dla $1",
+	"MissingCloseBrace": "Brakujący nawias zamykający",
 	"UndefinedControlSequence": "Nieznana komenda sterująca $1",
 	"DoubleExponent": "Podwójna potęga: użyj nawiasów, aby uniknąć niejednoznaczności",
 	"DoubleSubscripts": "Podwójny indeks: użyj nawiasów, aby uniknąć niejednoznaczności",
 	"DoubleExponentPrime": "Znak ' oznacza podwójny wykładnik: użyj nawiasów, aby uniknąć niejednoznaczności",
-	"CantUseHash1": "Nie możesz używać znaku # w trybie matematycznym",
+	"CantUseHash1": "Nie możesz używać znaku parametru makra # w trybie matematycznym",
 	"MisplacedMiddle": "$1 musi być pomiędzy \\left i \\right",
 	"MisplacedLimits": "$1 jest dozwolony tylko dla operatorów",
 	"MisplacedMoveRoot": "$1 może pojawić się tylko w ramach korzenia (root)",
