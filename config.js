@@ -615,7 +615,7 @@ exports.languages = {
     }
   },
   "pt": {
-    menuTitle: "portugusê", // Portuguese
+    menuTitle: "português", // Portuguese
     remap: "pt-br",
     plural: function (n) {
       if (n === 1) {return 1} // one
