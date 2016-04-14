@@ -3,7 +3,8 @@
 		"authors": [
 			"Hzy980512",
 			"Liuxinyu970226",
-			"Qiyue2001"
+			"Qiyue2001",
+			"Hudafu"
 		]
 	},
 	"Show": "数式显示形式",
@@ -18,7 +19,7 @@
 	"StarMath": "StarMath",
 	"Maple": "枫叶",
 	"ContentMathML": "MathML内容",
-	"OpenMath": "开源数学",
+	"OpenMath": "OpenMath",
 	"texHints": "在MathML中显示TeX提示",
 	"Settings": "数学设置",
 	"ZoomTrigger": "缩放触发",
