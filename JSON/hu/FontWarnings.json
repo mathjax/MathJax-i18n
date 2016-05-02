@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Máté"
+		]
+	},
+	"webFont": "A MathJax webalapú betűképeket használ, hogy megjelenítse az ezen az oldalon található képleteket. Ezek letöltése időbe telik, így az oldal betöltése gyorsabban történne, ha a matematikai betűképeket közvetlenül telepítenéd a rendszered fontmappájába.",
+	"imageFonts": "A MathJax a képfontjait használja helyi vagy webalapú betűképek helyett. Emiatt a szokottnál lassabban töltődik be, és a képletek nyomtatáskor nem biztos, hogy a legnagyobb felbontásban lesznek kinyomtatva.",
+	"noFonts": "A MathJax nem talál betűképet a képletek megjelenítéséhez, és a képfontok is elérhetetlenek, így helyettük általános Unicode-karaktereket használ abban a reményben, hogy a böngésző képes lesz megjeleníteni őket. Némely karakter lehet, hogy nem megfelelően vagy egyáltalán nem fog megjelenni.",
+	"webFonts": "A legtöbb modern böngésző engedélyezi a betűképek letöltését az internetről. A böngésződ frissítése a legújabb verzióra (vagy lecserélése) javíthat az ezen az oldalon található képletek minőségén."
+}

@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Máté",
+			"ViDam"
+		]
+	},
+	"ExtraOpenMissingClose": "Túl sok nyitó, vagy hiányzó bezáró zárójel",
+	"ExtraCloseMissingOpen": "Túl sok bezáró, vagy hiányzó nyitó zárójel",
+	"MissingLeftExtraRight": "Hiányzó \\left vagy túl sok \\right",
+	"MissingScript": "Hiányzó felső vagy alsó index argumentum",
+	"ExtraLeftMissingRight": "Túl sok \\left vagy hiányzó \\right",
+	"Misplaced": "Rosszul helyen lévő $1",
+	"MissingOpenForSub": "Hiányzó nyitó zárójel az alsó index kifejezésében",
+	"MissingOpenForSup": "Hiányzó nyitó zárójel az felső index kifejezésében",
+	"AmbiguousUseOf": "$1 használata nem egyértelmű",
+	"EnvBadEnd": "\\begin{$1} befejezése \\end{$2}",
+	"EnvMissingEnd": "Hiányzó \\end{$1}",
+	"MissingCloseBrace": "Hiányzó bezáró zárójel",
+	"DoubleExponent": "Kettős hatvány: használj kapcsos zárójelet az egyértelműsítéshez",
+	"DoubleSubscripts": "Kettős alsó index: használj kapcsos zárójelet az egyértelműsítéshez",
+	"CantUseHash1": "A '# makróparaméter-karakter' nem használható matematikai módban",
+	"MisplacedMiddle": "$1 -nek \\left és \\right között kell lennie",
+	"MisplacedLimits": "$1 csak operátorokon használható",
+	"MisplacedMoveRoot": "$1 csak gyökben jelenhet meg",
+	"MultipleCommand": "Több $1",
+	"IntegerArg": "$1 argumentumának egésznek kell lennie",
+	"NotMathMLToken": "$1 nem tokenelem",
+	"InvalidMathMLAttr": "Érvénytelen MathML attribútum: $1",
+	"InvalidDecimalNumber": "Érvénytelen tizedestört",
+	"InvalidNumber": "Érvénytelen szám",
+	"NoClosingChar": "Záró $1 hiányzik"
+}
