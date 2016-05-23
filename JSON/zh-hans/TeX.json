@@ -37,6 +37,7 @@
 	"MaxMacroSub2": "已超出MathJax的最高替代次数；难道存在循环LaTeX环境？",
 	"MissingArgFor": "与$1相关的参数缺失",
 	"ExtraAlignTab": "\\cases 文本中有额外的参数制表符",
+	"BracketMustBeDimension": "$1的括号参数必须是一个尺寸",
 	"InvalidEnv": "无效的环境名称“$1”",
 	"UnknownEnv": "未知的环境变量'$1'",
 	"ExtraCloseLooking": "寻找 $1 时发现一个额外的右大括号",
