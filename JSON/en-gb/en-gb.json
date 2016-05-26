@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andibing"
+		]
+	},
+	"MathProcessingError": "Maths processing error",
+	"MathError": "Maths error",
+	"LoadFile": "Loading $1",
+	"Loading": "Loading",
+	"LoadFailed": "File failed to load: $1",
+	"ProcessMath": "Processing maths: $1%",
+	"Processing": "Processing",
+	"TypesetMath": "Typesetting maths: $1%",
+	"Typesetting": "Typesetting",
+	"MathJaxNotSupported": "Your browser does not support MathJax"
+}
