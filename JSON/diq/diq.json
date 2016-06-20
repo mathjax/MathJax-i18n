@@ -2,12 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Gorizon",
-			"Mirzali"
+			"Mirzali",
+			"Kumkumuk"
 		]
 	},
 	"MathError": "Xetaya matematiki",
 	"LoadFile": "$1 Bar keri",
 	"Loading": "Bar beno",
 	"LoadFailed": "Dosyay bar nebi: $1",
-	"ProcessMath": "Matematik neqış kerden: $1%"
+	"ProcessMath": "Matematik neqış kerden: $1%",
+	"Processing": "Karêno...",
+	"Typesetting": "Eyarê tewri"
 }
