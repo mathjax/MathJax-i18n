@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Waldir"
+			"Waldir",
+			"Vitorvicentevalente"
 		]
 	},
 	"ExtraOpenMissingClose": "Chaveta de abertura a mais ou chaveta de fecho a menos",
@@ -21,13 +22,13 @@
 	"DoubleExponent": "Expoente duplo: use chavetas para clarificar",
 	"DoubleSubscripts": "Subscrito duplo: use chavetas para clarificar",
 	"DoubleExponentPrime": "É ambíguo a que diz respeito a plica (′): use chavetas para clarificar",
-	"CantUseHash1": "Você não pode usar o caractere # que indica um parâmetro de macro no modo matemático",
+	"CantUseHash1": "Não pode usar o carácter # que indica um parâmetro de macro no modo matemático",
 	"MisplacedMiddle": "$1 deve estar entre \\left e \\right",
 	"MisplacedLimits": "$1 só é permitido em operadores",
 	"MisplacedMoveRoot": "$1 só pode ser usado dentro de uma raiz",
 	"MultipleCommand": "Repetição de $1",
 	"IntegerArg": "O argumento de $1 deve ser um inteiro",
-	"NotMathMLToken": "$1 não é um elemento de token válido",
+	"NotMathMLToken": "$1 não é um elemento de chave",
 	"InvalidMathMLAttr": "Atributo MathML inválido: $1",
 	"UnknownAttrForElement": "$1 não é um atributo reconhecido para $2",
 	"MaxMacroSub1": "Foi excedido o máximo de substituições de macros do MathJax; há alguma chamada a uma macro recursiva?",

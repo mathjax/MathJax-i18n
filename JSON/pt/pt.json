@@ -3,7 +3,8 @@
 		"authors": [
 			"Helder.wiki",
 			"Waldir",
-			"He7d3r"
+			"He7d3r",
+			"Vitorvicentevalente"
 		]
 	},
 	"MathProcessingError": "Erro no processamento das fórmulas",
@@ -11,9 +12,9 @@
 	"LoadFile": "A carregar $1",
 	"Loading": "A carregar",
 	"LoadFailed": "O ficheiro não pode ser carregado: $1",
-	"ProcessMath": "Processando fórmula: $1%",
-	"Processing": "Processando",
-	"TypesetMath": "Formatando fórmulas: $1%",
-	"Typesetting": "Formatando",
+	"ProcessMath": "A processar fórmula: $1%",
+	"Processing": "A processar",
+	"TypesetMath": "A formatar fórmulas: $1%",
+	"Typesetting": "A formatar",
 	"MathJaxNotSupported": "O seu navegador não suporta MathJax"
 }

@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andibing",
+			"Shirayuki"
+		]
+	},
+	"ExtraOpenMissingClose": "Extra open brace or missing close brace",
+	"ExtraCloseMissingOpen": "Extra close brace or missing open brace",
+	"MissingLeftExtraRight": "Missing \\left or extra \\right",
+	"MissingScript": "Missing superscript or subscript argument",
+	"ExtraLeftMissingRight": "Extra \\left or missing \\right",
+	"Misplaced": "Misplaced $1",
+	"MissingOpenForSub": "Missing open brace for subscript",
+	"MissingOpenForSup": "Missing open brace for superscript",
+	"AmbiguousUseOf": "Ambiguous use of $1",
+	"EnvBadEnd": "\\begin{$1} ended with \\end{$2}",
+	"EnvMissingEnd": "Missing \\end{$1}",
+	"MissingBoxFor": "Missing box for $1",
+	"MissingCloseBrace": "Missing close brace",
+	"UndefinedControlSequence": "Undefined control sequence $1",
+	"DoubleExponent": "Double exponent: use braces to clarify",
+	"DoubleSubscripts": "Double subscripts: use braces to clarify",
+	"DoubleExponentPrime": "Prime causes double exponent: Use braces to clarify",
+	"CantUseHash1": "You cannot use 'macro parameter character #' in maths mode",
+	"MisplacedMiddle": "$1 must be within \\left and \\right",
+	"MisplacedLimits": "$1 is allowed only on operators",
+	"MisplacedMoveRoot": "$1 can appear only within a root",
+	"MultipleCommand": "Multiple $1",
+	"IntegerArg": "The argument to $1 must be an integer",
+	"UnknownAttrForElement": "$1 is not a recognised attribute for $2",
+	"MissingOrUnrecognizedDelim": "Missing or unrecognised delimiter for $1",
+	"InvalidBBoxProperty": "'$1' does not look like a colour, a padding dimension, or a style",
+	"UndefinedColorModel": "Colour model '$1' not defined",
+	"ModelArg1": "Colour values for the $1 model require 3 numbers",
+	"ModelArg2": "Colour values for the $1 model must be between $2 and $3"
+}
