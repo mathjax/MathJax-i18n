@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"Ykhwong"
 		]
 	},
 	"MathProcessingError": "수식 처리 오류",
 	"MathError": "수식 오류",
-	"LoadFile": "$1(을)를 불러오는 중",
+	"LoadFile": "$1을(를) 불러오는 중",
 	"Loading": "불러오는 중",
 	"LoadFailed": "파일을 불러올 수 없습니다: $1",
 	"ProcessMath": "수식 처리 중: $1%",
