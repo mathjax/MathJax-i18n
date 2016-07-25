@@ -16,7 +16,7 @@
 	"Misplaced": "$1의 위치가 잘못되었습니다",
 	"MissingOpenForSub": "아래 첨자의 여는 괄호가 없습니다",
 	"MissingOpenForSup": "위 첨자의 여는 괄호가 없습니다",
-	"EnvBadEnd": "\\begin{$1}이 \\end{$2}로 끝납니다",
+	"EnvBadEnd": "\\begin{$1}이 \\end{$2}(으)로 끝납니다",
 	"EnvMissingEnd": "\\end{$1}이 빠졌습니다",
 	"MissingBoxFor": "$1 박스를 찾을 수 없습니다.",
 	"MissingCloseBrace": "닫는 괄호가 없습니다",

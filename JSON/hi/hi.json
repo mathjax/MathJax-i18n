@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sfic"
+		]
+	},
+	"MathError": "गणित त्रुटि",
+	"LoadFile": "लोड हो रहा $1",
+	"Loading": "लोड हो रहा",
+	"MathJaxNotSupported": "आपका ब्राउज़र मैथजैक्स समर्थन नहीं करता है"
+}
