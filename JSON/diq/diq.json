@@ -6,11 +6,14 @@
 			"Kumkumuk"
 		]
 	},
+	"MathProcessingError": "Xıraba karê matematiki",
 	"MathError": "Xetaya matematiki",
 	"LoadFile": "$1 Bar keri",
 	"Loading": "Bar beno",
 	"LoadFailed": "Dosyay bar nebi: $1",
 	"ProcessMath": "Matematik neqış kerden: $1%",
 	"Processing": "Karêno...",
-	"Typesetting": "Eyarê tewri"
+	"TypesetMath": "Tewrê eyarê matematiki:$1",
+	"Typesetting": "Eyarê tewri",
+	"MathJaxNotSupported": "Rovıtera şıma MathJax'i nêgurweyne na"
 }
