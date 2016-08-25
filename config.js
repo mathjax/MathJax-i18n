@@ -17,7 +17,7 @@
  *
  */
 
-exports.version = "2.6.0-beta"
+exports.version = "2.7.0-beta"
 
 // ********** List of languages **********
 //
@@ -262,15 +262,15 @@ exports.languages = {
       return String(n).replace(".", ","); // replace dot by comma
     }
   },
-  // "diq": {
-  //   menuTitle: "Zazaki",
-  //   plural: function(n) {
-  //     return 1; // other
-  //   },
-  //   number: function(n) {
-  //     return n;
-  //   }
-  // },
+  "diq": {
+    menuTitle: "Zazaki",
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
   // "el": {
   //   menuTitle: "Ελληνικά", // Greek
   //   plural: function(n) {
