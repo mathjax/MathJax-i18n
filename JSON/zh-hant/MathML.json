@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"BadMglyph": "不正確的mglyph：$1",
+	"BadMglyphFont": "錯誤字型：$1",
+	"MathPlayer": "MathJax沒有辦法設置MathPlayer。\n\n如果MathPlayer未被安裝，您需要先安裝此套件。\n否則您的安全設置內容可能會阻礙ActiveX控制方面的運作。若是IE瀏覽器點選選單裡的「工具」中的「網際網路選項」後再選擇「安全性」，然後按下「自訂層級」按鍵。檢查關於「執行ActiveX控制項」和「二進位和指令碼行為」的設定是否開啟。\n\n目前您所看到的是錯誤訊息而非數學公式排版問題",
+	"CantCreateXMLParser": "MathJax無法建立一個用於MathML的XML解析。\n\n檢查「以Script程式操控安全標示的ActiveX 控制項」設定是否開啟（若是IE瀏覽器點選選單裡的「工具」中的「網際網路選項」後再選擇「安全性」，然後按下「自訂層級」按鍵來找尋）。",
+	"UnknownNodeType": "不明的節點類型：$1",
+	"UnexpectedTextNode": "非預期的文字節點：$1",
+	"ErrorParsingMathML": "解析MathML出錯",
+	"ParsingError": "解析MathML出錯： $1",
+	"MathMLSingleElement": "MathML必須以單一元素構成",
+	"MathMLRootElement": "MathML必須由<math>元素構成，而非$1"
+}

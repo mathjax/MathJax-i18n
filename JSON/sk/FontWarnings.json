@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"TomášPolonec"
+		]
+	},
+	"webFont": "MathJax používa k zobrazeniu matematiky na tejto stránke webové písma. Tým trvá stiahnutie nejakú dobu, takže stránka by sa vykreslila rýchlejšie, ak by ste si tieto matematické písma nainštalovali priamo do systémovej zložky písiem.",
+	"imageFonts": "MathJax používa namiesto miestnych alebo webových písiem obrázkové písmo. Preto bude vykresľovanie pomalšie ako je obvyklé a pri tlači na Vašej tlačiarni možno nebude matematika vykreslená v najlepšom rozlíšení.",
+	"noFonts": "MathJax nedokáže nájsť písmo, ktorým by vykreslil matematiku, a obrázkové písma nie sú k dispozícii, takže sa bude používať bežné znaky Unicode v nádeji, že ich váš prehliadač dokáže zobraziť. Niektoré znaky sa možno nezobrazia správne alebo dokonca vôbec.",
+	"webFonts": "Väčšina moderných prehliadačov umožňuje stiahnutie písiem cez web. Aktualizácia na novšiu verziu prehliadača (alebo zmena prehliadača) by mohla zlepšiť zobrazenie matematiky na tejto stránke.",
+	"fonts": "MathJax môže používať buď [písma STIX]($1) alebo [MathJaxové TeXové písma]($2). Stiahnite a nainštalujte si jedny z nich, aby ste si MathJax užili lepšie.",
+	"STIXPage": "Tato stránka je vytvorená na použitie s [písmami STIX]($1). Stiahnite a nainštalujte si tieto písma, aby ste si lepšie užili MathJax.",
+	"TeXPage": "Tato stránka je vytvorená na použitie s [MathJaxovými TeXovými písmy]($1). Pre lepšie využívanie MathJaxu si stiahnite a nainštalujte tieto písma."
+}

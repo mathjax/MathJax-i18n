@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"LoadWebFont": "網頁字型$1載入中",
+	"CantLoadWebFont": "無法載入網頁字型$1",
+	"FirefoxCantLoadWebFont": "Firefox瀏覽器無法從遠端主機載入網頁字型",
+	"CantFindFontUsing": "無法找到使用$1的有效字型",
+	"WebFontsNotAvailable": "網頁字型無法使用。改用圖像字型取代"
+}

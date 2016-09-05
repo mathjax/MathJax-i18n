@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikulas1",
+			"TomášPolonec"
+		]
+	},
+	"MathProcessingError": "Chyba spracovania matematiky",
+	"MathError": "Chyba matematiky",
+	"LoadFile": "Načítava sa $1",
+	"Loading": "Načítavam",
+	"LoadFailed": "Nepodarilo sa načítať súbor: $1",
+	"ProcessMath": "Spracuje sa matematika: $1 %",
+	"Processing": "Spracúvam",
+	"TypesetMath": "Sádzanie matematiky: $1 %",
+	"Typesetting": "Sádzanie",
+	"MathJaxNotSupported": "Váš prehliadač nepodporuje MathJax"
+}

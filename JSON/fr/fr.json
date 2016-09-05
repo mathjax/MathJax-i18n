@@ -17,5 +17,5 @@
 	"Processing": "Traitement en cours",
 	"TypesetMath": "Composition des formules: $1%",
 	"Typesetting": "Composition",
-	"MathJaxNotSupported": "Votre navigateur ne supporte pas MathJax"
+	"MathJaxNotSupported": "Votre navigateur ne prend pas en charge MathJax"
 }

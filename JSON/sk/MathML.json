@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"TomášPolonec"
+		]
+	},
+	"BadMglyph": "Chybný mglyph: $1",
+	"BadMglyphFont": "Nevhodné písmo: $1",
+	"MathPlayer": "MathJax nedokázal spustiť MathPlayer.\n\nAk nie je MathPlayer nainštalovaný, budete si ho musieť najprv nainštalovať.\nInak možno spustenie ovládacích prvkov ActiveX bráni vaše bezpečnostné\nnastavenie. Kliknite v ponuke Nástroje na položku Možnosti Internetu,\nvyberte záložku Zabezpečenie a kliknite na tlačidlo Vlastná úroveň.\nSkontrolujte, či sú povolené možnosti „Spúšťať ovládacie prvky ActiveX“\na „Chovanie skriptov a binárnych súborov“.\n\nMomentálne uvidíte miesto vysádzanej matematiky chybové hlásenia.",
+	"CantCreateXMLParser": "MathJax nemôže vytvoriť syntaktický analyzátor XML pre MathML.\nSkontrolujte, či máte povolené nastavenie „Skriptovať ovládacie\nprvky ActiveX označené ako bezpečné“ (v ponuke Nástroje\nkliknite na položku Možnosti Internetu, vyberte záložku\nZabezpečenie a kliknite na tlačidlo Vlastná úroveň).\n\nMathJax nebude môcť spracovávať rovnice v MathML",
+	"UnknownNodeType": "Neznámy typ uzla: $1",
+	"UnexpectedTextNode": "Neočakávaný textový uzol: $1",
+	"ErrorParsingMathML": "Chyba pri analýze MathML",
+	"ParsingError": "Chyba pri analýze MathML: $1",
+	"MathMLSingleElement": "MathML musí byť tvorené jediným elementom",
+	"MathMLRootElement": "MathML musí byť tvorené elementom <math>, nie $1"
+}

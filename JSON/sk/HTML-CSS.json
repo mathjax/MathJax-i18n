@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"TomášPolonec"
+		]
+	},
+	"LoadWebFont": "Načítava sa webový font $1",
+	"CantLoadWebFont": "Nepodarilo sa načítať webový font $1",
+	"FirefoxCantLoadWebFont": "Firefox nedokáže načítať webové fonty zo vzdialeného hostiteľa",
+	"CantFindFontUsing": "Nepodarilo sa nájsť platný font pomocou $1",
+	"WebFontsNotAvailable": "Webové fonty nie sú k dispozícii. Namiesto toho sú použité obrázkové fonty."
+}

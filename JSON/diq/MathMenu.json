@@ -8,8 +8,8 @@
 			"Gırd"
 		]
 	},
-	"Show": "Matematiki ya bıasne",
-	"MathMLcode": "MathML kode",
+	"Show": "Zey tebirê matematikêni bımocne",
+	"MathMLcode": "MathML kod",
 	"OriginalMathML": "Original MathML",
 	"TeXCommands": "Direktifê TeXi",
 	"AsciiMathInput": "Dekerdışê AsciiMathML",
@@ -36,7 +36,7 @@
 	"Shift": "Shift",
 	"ZoomFactor": "Faktora zoomi",
 	"Renderer": "Matematik vıraştoğ",
-	"MenuEvents": "Hedisey menuy",
+	"MenuEvents": "Hediseyê menuyi",
 	"MouseEvents": "Faaliyetê meriy",
 	"MenuAndMouse": "Faaliyetê meriy u menuy",
 	"FontPrefs": "Tercihé qelem",
