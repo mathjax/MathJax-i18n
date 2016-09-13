@@ -4,14 +4,14 @@
 			"Aivaras"
 		]
 	},
-	"Help": "„MathJax“ žinynas",
+	"Help": "Žinynas",
 	"MathJax": "*MathJax* – tai „JavaScript“ biblioteka, leidžianti autoriams tinklalapiuose rašyti matematikos ženklus. Skaitytojams papildomų veiksmų atlikti nereikia.",
 	"Browsers": "*Naršyklės*: „MathJax“ veikia visose dabartinėse naršyklėje, įskaitant „IE“ 6+, „Firefox“ 3+, „Chrome“ 0.2+, „Safari“ 2+, „Opera“ 9.6+ ir daugumą mobiliųjų naršyklių.",
-	"Menu": "*Matematikos meniu*: „MathJax“ įdiegtas kontekstinis lygčių meniu. Meniu atverčiamas dešiniuoju pelės klavišu spustelėjus arba nuspaudus Vald ir spustelėjus matematinį ženklą.",
-	"ShowMath": "Pasirinkus *Rodyti matematiką kaip*, kopijuojama ir įklijuojama formulės šaltinio žymėjimo sintaksė („MathML“ forma arba pradine forma).",
+	"Menu": "*Matematikos meniu*: „MathJax“ įdiegtas kontekstinis lygčių meniu. Meniu atverčiamas spustelėjus dešiniuoju pelės klavišu arba nuspaudus Vald ir spustelėjus matematikos ženklą.",
+	"ShowMath": "*Rodiniu* peržiūrima ir kopijuojama formulės šaltinio žymėjimo sintaksė („MathML“ arba pradiniu formatu).",
 	"Settings": "*Nuostatomis* valdomos „MathJax“ ypatybės, pavyzdžiui, matematikos ženklų dydis arba lygčių vaizdavimo mechanizmas.",
 	"Language": "*Kalba* nustatoma „MathJax“ meniu ir įspėjamųjų pranešimų kalba.",
-	"Zoom": "*Matematikos mastelis*: patiriant nepatogumų skaitant lygtis, „MathJax“ galima didinti lygties rodinį.",
-	"Accessibilty": "*Pritaikymas neįgaliesiems*: „MathJax“ savaime prisitaiko prie ekrano skaityklių, kad matematika būtų prieinama ir silpnaregiams.",
-	"Fonts": "*Šriftai*: „MathJax“ vartoja naudotojo kompiuteryje įdiegtus šriftus, jei šie yra tinkami; kitu atveju – tinkle saugomus šriftus. Nors ir nėra būtini, naudotojo kompiuteryje įdiegti šriftai greitina ženklų rinkimą. Siūloma įsidiegti [„STIX“ šriftus]($1)."
+	"Zoom": "*Masteliu* didinamas lygties rodinys.",
+	"Accessibilty": "*Pritaikymas neįgaliesiems*: „MathJax“ prisitaiko prie ekrano skaityklių, kad matematikos tekstas būtų įskaitomas silpnaregiams.",
+	"Fonts": "*Šriftai*: „MathJax“ telkiasi naudotojo kompiuteryje įdiegtus šriftus, jei šie yra tinkami; kitu atveju – tinkle saugomus šriftus. Naudotojo kompiuteryje įdiegti šriftai, nors ir nebūtini, greitina ženklų rinkimą. Patariama įdiegti [„STIX“ šriftus]($1)."
 }
