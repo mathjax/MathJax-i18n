@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aivaras"
+			"Aivaras",
+			"Eitvys200"
 		]
 	},
-	"Help": "Žinynas",
-	"MathJax": "*„MathJax“* – tai „JavaScript“ biblioteka, leidžianti autoriams tinklalapiuose rašyti matematikos ženklus. Skaitytojams papildomų veiksmų atlikti nereikia.",
+	"Help": "MathJax Pagalba",
+	"MathJax": "*„MathJax“* – tai „JavaScript“ biblioteka, leidžianti autoriams tinklalapiuose rašyti matematikos tekstą. Skaitytojams papildomų veiksmų atlikti nereikia.",
 	"Browsers": "*Naršyklės*: „MathJax“ veikia visose dabartinėse naršyklėje, įskaitant „IE“ 6+, „Firefox“ 3+, „Chrome“ 0.2+, „Safari“ 2+, „Opera“ 9.6+ ir daugumą mobiliųjų naršyklių.",
 	"Menu": "*Matematikos meniu*: „MathJax“ įdiegtas kontekstinis lygčių meniu. Meniu atverčiamas spustelėjus dešiniuoju pelės klavišu arba nuspaudus Vald ir spustelėjus matematikos ženklą.",
 	"ShowMath": "*Rodiniu* peržiūrima ir kopijuojama formulės šaltinio žymėjimo sintaksė („MathML“ arba pradiniu formatu).",
