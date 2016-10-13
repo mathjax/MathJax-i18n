@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"ديفيد"
+		]
+	},
+	"BadMglyph": "mglyph سيئة: $1",
+	"BadMglyphFont": "خط سيء: $1",
+	"UnknownNodeType": "نوع عقده غير معروف: $1",
+	"UnexpectedTextNode": "عقده غير متوقعة: $1",
+	"ErrorParsingMathML": "حدث خطأ أثناء تحليل MathML",
+	"ParsingError": "حدث خطأ أثناء تحليل MathML: $1",
+	"MathMLSingleElement": "MathML يجب أن تتكون من عنصر واحد",
+	"MathMLRootElement": "MathML يجب أن تتكون من <math>عنصر، لا $1"
+}

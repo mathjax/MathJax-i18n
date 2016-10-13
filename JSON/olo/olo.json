@@ -9,5 +9,7 @@
 	"MathError": "Matemuattine haireh",
 	"LoadFile": "Ladavus $1",
 	"Loading": "Ladavus kesken",
-	"LoadFailed": "Ei suannuh ladata failua $1"
+	"LoadFailed": "Ei suannuh ladata failua $1",
+	"ProcessMath": "Käzitelläh matematiekkua: $1",
+	"Processing": "Käzitelläh"
 }
