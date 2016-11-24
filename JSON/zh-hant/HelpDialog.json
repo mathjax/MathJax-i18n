@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Kly",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"LNDDYL"
 		]
 	},
-	"Help": "MathJax 説明",
+	"Help": "MathJax 說明",
 	"MathJax": "*MathJax*是一個能讓網頁開發者在他們網頁裡顯示出數學公式的JavaScript函式庫。\n作為網頁的瀏覽者，您不需要執行任何動作便可觀看該效果。",
 	"Browsers": "*瀏覽器*： MathJax 在所有較新型的瀏覽器上皆可正常運作，包括IE6以上、Firefox 3以上、Chrome 0.2以上、Safari 2以上、和Opera 9.6以上版本以及多數行動裝置瀏覽器。",
 	"Menu": "*數學選單*: MathJax在方程式裡添加快捷選單。在任何數學公式裡按下滑鼠右鍵或同時按下Ctrl鍵與滑鼠左鍵即可進入選單。",
