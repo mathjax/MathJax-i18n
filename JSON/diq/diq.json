@@ -3,11 +3,12 @@
 		"authors": [
 			"Gorizon",
 			"Mirzali",
-			"Kumkumuk"
+			"Kumkumuk",
+			"Gırd"
 		]
 	},
 	"MathProcessingError": "Xıraba karê matematiki",
-	"MathError": "Xetaya matematiki",
+	"MathError": "Xetay matematiki",
 	"LoadFile": "$1 Bar keri",
 	"Loading": "Bar beno",
 	"LoadFailed": "Dosyay bar nebi: $1",
