@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"LoadWebFont": "Laster webskrifttypen $1",
+	"CantLoadWebFont": "Kunne ikke laste webskrifttypen $1",
+	"FirefoxCantLoadWebFont": "Firefox kan ikke laste webskrifttyper fra en ekstern vert",
+	"CantFindFontUsing": "Kan ikke finne en gyldig skrifttype ved hjelp av $1",
+	"WebFontsNotAvailable": "Webskrifttyper ikke tilgjengelig. Bruker bildeskrifttyper i stedet"
+}
