@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gambollar",
+			"Mirzali"
+		]
+	},
+	"LoadWebFont": "Web font $1 bar beno",
+	"CantLoadWebFont": "Fontê webê $1'i bar nêbı"
+}
