@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gwenn-Ael"
+			"Gwenn-Ael",
+			"Fulup"
 		]
 	},
-	"webFont": "MathJax a implij ar fontoù web evit diskwel ar jedadoù war ar bajenn-mañ. Pell eo ar re-se o pellgargañ ha diskwelet e vefe buanoc'h ma vefe stailhfec'h fontoù jedoniezh war-eeun e teuliad fontoù ho reizhiad.",
+	"webFont": "MathJax a implij ar fontoù web evit diskwel ar jedadoù war ar bajenn-mañ. Pell eo ar re-se o pellgargañ ha diskwelet e vefe buanoc'h ma stailhfec'h fontoù jedoniezh war-eeun e teuliad fontoù ho reizhiad.",
+	"imageFonts": "Ober a ra MathJax gant skeudennoù font kentoc'h eget gant fontoù web pe fontoù lec'hel. Gant se e teu an traoù gorrekoc'h war-wel ha marteze ne vo ket ar jedadoù evit bezañ moullet diouzh pizhder klokañ ho moullerez.",
 	"noFonts": "N'hall ket MathJax lec'hiañ ur polis evit diskwel e jedadoù, ha dihegerz eo ar fontoù skeudenn. Ret eo implijout arouezennoù Unicode neuze. Emichañs e c'hallo ho merdeer diskwel anezho. Ne c'hallo ket arouezennoù zo bezañ diskwelet mat, tamm ebet zoken.",
 	"webFonts": "GAnt an darn vrasañ eus ar merdeerioù arnevez e c'haller pellgargañ fontoù adalek ar web. Hizivaat ho merdeer (pe cheñch merdeer) a c'hallfe gwellaat kalite ar jedadoù war ar bajenn-mañ.",
 	"fonts": "Gallout a ra MathJax implijout pe ar fontoù [STIX]($1) pe ar fontoù [MathJax TeX]($2); Pellgargit ha stailhit unan eus fontoù-se evit gwellaat ho skiant-prenet gant MathJax.",
