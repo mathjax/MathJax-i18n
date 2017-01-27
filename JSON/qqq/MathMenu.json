@@ -88,5 +88,9 @@
 	"IE9warning": "This this the alert message displayed for when the user chooses to let MathPlayer control the contextual menu (IE9)",
 	"NoOriginalForm": "This is the alert box displayed when there are missing source formats for {{Msg-mathjax|Mathmenu-Show}}; see also {{Msg-mathjax|Mathmenu-Original}}.",
 	"Close": "Closing button in the 'Show math as' window.\n{{Identical|Close}}",
-	"EqSource": "This is the title of the 'Show math as' button.\n\nUsed in the <code><nowiki><title></nowiki></code> tag of the new window."
+	"EqSource": "This is the title of the 'Show math as' button.\n\nUsed in the <code><nowiki><title></nowiki></code> tag of the new window.",
+	"CloseDialog": "Text alternative for the closing button of the 'About MathJax' pop-up.",
+	"FastPreview": "A checkbox activating two-passrendering with a faster, rougher preview being rendered by the PreviewHTML output.",
+	"AssistiveMML": "A checkbox that activates an extension providing invisible but accessible MathML source alongside the rendering.",
+	"InTabOrder": "A checkbox to indicate whether MathJax adds a tabindex attribute (with value '0') to its output."
 }
