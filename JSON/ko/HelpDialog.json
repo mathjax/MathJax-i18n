@@ -3,7 +3,8 @@
 		"authors": [
 			"Alex00728",
 			"Hwangjy9",
-			"HDNua"
+			"HDNua",
+			"Ykhwong"
 		]
 	},
 	"Help": "MathJax 도움말",
@@ -11,5 +12,6 @@
 	"Browsers": "*브라우저*: MathJax는 IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+를 포함하는 모든 최신 브라우저와 대부분의 모바일 브라우저에서 작동합니다.",
 	"Menu": "*수식 메뉴*: MathJax는 방정식에 컨텍스트 메뉴를 덧붙입니다. 메뉴에 접근하려면 아무 수식을 왼쪽 클릭하거나 오른쪽 클릭하세요.",
 	"Language": "*Language* 메뉴에서 MathJax가 메뉴와 경고 메시지로써 사용하는 언어를 선택할 수 있습니다.",
-	"Zoom": "*수식 확대*: 방정식을 읽는 데 어려움이 있다면, MathJax에서 방정식을 더 잘 볼 수 있도록 식을 크게 만들 수 있습니다."
+	"Zoom": "*수식 확대*: 방정식을 읽는 데 어려움이 있다면, MathJax에서 방정식을 더 잘 볼 수 있도록 식을 크게 만들 수 있습니다.",
+	"CloseDialog": "도움말 대화 상자 닫기"
 }

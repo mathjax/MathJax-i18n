@@ -85,5 +85,7 @@
 	"IE9warning": "MathJax kontextuella meny kommer att vara inaktiverade, men du kan Alt-Klicka på ett uttryck för att få MathJax-menyn istället.",
 	"NoOriginalForm": "Inget ursprungligt format tillgängligt",
 	"Close": "Stäng",
-	"EqSource": "MathJax ekvationskälla"
+	"EqSource": "MathJax ekvationskälla",
+	"FastPreview": "Snabb förhandsvisning",
+	"InTabOrder": "Inkludera i flikordning"
 }

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lokal Profil"
+			"Lokal Profil",
+			"WikiPhoenix"
 		]
 	},
 	"Help": "MathJax-hjälp",
@@ -13,5 +14,6 @@
 	"Language": "*Språk* låter dig välja språket som MathJax ska använda för sina menyer och varningsmeddelanden.",
 	"Zoom": "*Matematik zoom*: Om du har svårt att läsa en ekvation, kan MathJax förstora den för att hjälpa dig se den bättre.",
 	"Accessibilty": "*Tillgänglighet*: MathJax fungerar automatiskt med skärmläsare för att göra matematik tillgänglig för synskadade.",
-	"Fonts": "*Typsnitt*: MathJax kommer att använda vissa matematiska teckensnitt om de är installerade på din dator; annars använder den webb-baserade teckensnitt. Även om det inte krävs, kommer lokalt installerade teckensnitt att påskynda typsättningen. Vi föreslår installation av [STIX-typsnitt]($1)."
+	"Fonts": "*Typsnitt*: MathJax kommer att använda vissa matematiska teckensnitt om de är installerade på din dator; annars använder den webb-baserade teckensnitt. Även om det inte krävs, kommer lokalt installerade teckensnitt att påskynda typsättningen. Vi föreslår installation av [STIX-typsnitt]($1).",
+	"CloseDialog": "Stäng hjälpdialogen"
 }

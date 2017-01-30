@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Alvaro Vidal-Abarca",
-			"Jaumeortola"
+			"Jaumeortola",
+			"Toniher"
 		]
 	},
 	"Help": "Ajuda MathJax",
@@ -14,5 +15,6 @@
 	"Language": "*Idioma* us permet seleccionar l'idioma emprat per MathJax en els seus menús i missatges d'advertència.",
 	"Zoom": "*Zoom*: Si teniu dificultats a l'hora de llegir una equació, MathJax pot ampliar-la per ajudar-vos a veure-la millor.",
 	"Accessibilty": "*Accessibilitat*: MathJax funciona automàticament amb lectors de pantalla, per a fer les expressions matemàtiques accessibles a aquells que tenen dificultats de visió.",
-	"Fonts": "*Fonts*: MathJax usa algunes fonts matemàtiques si estan instal·lades al vostre ordinador; si no les hi troba, usarà fonts basades en la web. Encara que no és necessari, si instal·leu les fonts localment, aixòi ajudarà a què la composició de la pàgina sigui més ràpida. Us suggerim que instal·leu les [fonts STIX]($1)."
+	"Fonts": "*Fonts*: MathJax usa algunes fonts matemàtiques si estan instal·lades al vostre ordinador; si no les hi troba, usarà fonts basades en la web. Encara que no és necessari, si instal·leu les fonts localment, aixòi ajudarà a què la composició de la pàgina sigui més ràpida. Us suggerim que instal·leu les [fonts STIX]($1).",
+	"CloseDialog": "Tanca el diàleg d'ajuda"
 }

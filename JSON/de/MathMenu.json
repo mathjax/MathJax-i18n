@@ -87,5 +87,9 @@
 	"IE9warning": "Das MathJax-Kontextmenü wird deaktiviert, aber du kannst bei einem Ausdruck während des Mausklicks die Alt-Taste gedrückt halten, um stattdessen das MathJax-Menü zu erhalten.",
 	"NoOriginalForm": "Keine Originalformel verfügbar",
 	"Close": "Schließen",
-	"EqSource": "MathJax-Gleichungsquelle"
+	"EqSource": "MathJax-Gleichungsquelle",
+	"CloseAboutDialog": "Dialog „Über MathJax“ schließen",
+	"FastPreview": "Schnelle Vorschau",
+	"AssistiveMML": "Assistives MathML",
+	"InTabOrder": "In Reiterreihenfolge einschließen"
 }

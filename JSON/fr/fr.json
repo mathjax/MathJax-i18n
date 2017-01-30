@@ -5,7 +5,8 @@
 			"Sherbrooke",
 			"Urhixidur",
 			"fred",
-			"Yzelf"
+			"Yzelf",
+			"Gomoko"
 		]
 	},
 	"MathProcessingError": "Erreur de traitement de la formule mathématique",
@@ -17,5 +18,6 @@
 	"Processing": "Traitement en cours",
 	"TypesetMath": "Composition des formules: $1%",
 	"Typesetting": "Composition",
-	"MathJaxNotSupported": "Votre navigateur ne prend pas en charge MathJax"
+	"MathJaxNotSupported": "Votre navigateur ne prend pas en charge MathJax",
+	"ErrorTips": "Conseils de débogage : utiliser %1, inspecter %2 dans la console du navigateur"
 }

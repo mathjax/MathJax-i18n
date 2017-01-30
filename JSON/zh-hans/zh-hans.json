@@ -13,5 +13,6 @@
 	"Processing": "处理中",
 	"TypesetMath": "排版数学：$1%",
 	"Typesetting": "排版",
-	"MathJaxNotSupported": "您的浏览器暂不支持MathJax"
+	"MathJaxNotSupported": "您的浏览器暂不支持MathJax",
+	"ErrorTips": "调试提示：使用%1，在浏览器控制台中检查%2"
 }

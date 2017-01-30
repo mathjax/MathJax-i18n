@@ -86,5 +86,9 @@
 	"IE9warning": "MathJax快捷菜单将关闭，但您可以按Alt并点击表达式来呼出菜单。",
 	"NoOriginalForm": "没有可用的原始形式",
 	"Close": "关闭",
-	"EqSource": "MathJax 方程源"
+	"EqSource": "MathJax 方程源",
+	"CloseAboutDialog": "关闭有关MathJax对话",
+	"FastPreview": "快速预览",
+	"AssistiveMML": "辅助MathML",
+	"InTabOrder": "包含在标签顺序中"
 }

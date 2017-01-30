@@ -17,5 +17,6 @@
 	"Language": "*Langue* vous laisse sélectionner la langue utilisée par MathJax pour ses menus et ses messages d’avertissement.",
 	"Zoom": "*Zoom des maths*: Si vous avez des difficultés à lire une équation, MathJax peut l’agrandir pour vous aider à mieux la voir.",
 	"Accessibilty": "*Accessibilité*: MathJax travaillera automatiquement avec les lecteurs d’écran pour rendre les mathématiques accessibles aux malvoyants.",
-	"Fonts": "*Polices*: MathJax utilisera certaines polices mathématiques si elles sont installées sur votre ordinateur ; sinon, il utilisera les polices trouvées sur le web. Bien que ce ne soit pas obligatoire, des polices installées localement accéléreront la composition. Nous vous suggérons d’installer les [polices STIX]($1)."
+	"Fonts": "*Polices*: MathJax utilisera certaines polices mathématiques si elles sont installées sur votre ordinateur ; sinon, il utilisera les polices trouvées sur le web. Bien que ce ne soit pas obligatoire, des polices installées localement accéléreront la composition. Nous vous suggérons d’installer les [polices STIX]($1).",
+	"CloseDialog": "Fermer la boîte de dialogue d’aide"
 }

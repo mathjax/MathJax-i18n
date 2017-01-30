@@ -83,5 +83,9 @@
 	"IE9warning": "Контекстното мени на MathJax ќе биде исклучено, но можете да направите Alt-стисок на изразот за да го добиете менито.",
 	"NoOriginalForm": "Нема изворен облик на располагање",
 	"Close": "Затвори",
-	"EqSource": "Извор на равенките на MathJax"
+	"EqSource": "Извор на равенките на MathJax",
+	"CloseAboutDialog": "Затвори го дијалогот за MathJax",
+	"FastPreview": "Брз преглед",
+	"AssistiveMML": "Помошен MathML",
+	"InTabOrder": "Вклучи во редоследот на јазичиња"
 }

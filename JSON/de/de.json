@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"pkra",
-			"Predatorix"
+			"Predatorix",
+			"Metalhead64"
 		]
 	},
 	"MathProcessingError": "Fehler bei der Verarbeitung des mathematischen Ausdrucks",
@@ -14,5 +15,6 @@
 	"Processing": "Verarbeite",
 	"TypesetMath": "mathematischer Ausdruck wird gesetzt: $1%",
 	"Typesetting": "Formelsatz",
-	"MathJaxNotSupported": "Ihr Webbrowser unterstützt MathJax nicht"
+	"MathJaxNotSupported": "Ihr Webbrowser unterstützt MathJax nicht",
+	"ErrorTips": "Fehlerbehebungs-Tipps: Verwende %1, prüfe %2 in der Browserkonsole"
 }

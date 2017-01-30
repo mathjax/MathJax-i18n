@@ -14,5 +14,6 @@
 	"Language": "*Sprache* lässt dir die Sprache auswählen, die von MathJax für die Menüs und Warnmeldungen verwendet wird.",
 	"Zoom": "*Zoom*: Wenn du beim Lesen einer Gleichung Schwierigkeiten hast, kann MathJax sie vergrößern, damit du sie besser sehen kannst.",
 	"Accessibilty": "*Barrierefreiheit*: MathJax funktioniert automatisch mit Screenreadern, um die Inhalte für Sehbehinderte verfügbar zu machen.",
-	"Fonts": "*Schriftarten*: MathJax verwendet bestimmte Schriften, wenn sie auf deinem Computer installiert sind. Anderenfalls werden webbasierte Schriften verwendet. Obwohl das nicht erforderlich ist, beschleunigen lokal installierte Schriften die Schriftsetzung. Wir empfehlen die Installation der [STIX-Schriften]($1)."
+	"Fonts": "*Schriftarten*: MathJax verwendet bestimmte Schriften, wenn sie auf deinem Computer installiert sind. Anderenfalls werden webbasierte Schriften verwendet. Obwohl das nicht erforderlich ist, beschleunigen lokal installierte Schriften die Schriftsetzung. Wir empfehlen die Installation der [STIX-Schriften]($1).",
+	"CloseDialog": "Hilfedialog schließen"
 }

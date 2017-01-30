@@ -90,5 +90,9 @@
 	"IE9warning": "Le menu contextuel MathJax sera désactivé, mais à la place, vous pouvez Alt-cliquer sur une expression pour obtenir le menu MathJax.",
 	"NoOriginalForm": "Aucun format d’origine disponible",
 	"Close": "Fermer",
-	"EqSource": "Source de l’équation MathJax"
+	"EqSource": "Source de l’équation MathJax",
+	"CloseAboutDialog": "Fermer la boîte de dialogue À propos de MathJax",
+	"FastPreview": "Aperçu rapide",
+	"AssistiveMML": "MathML auxiliaire",
+	"InTabOrder": "Inclure dans l’ordre des onglets"
 }

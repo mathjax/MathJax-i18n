@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Alvaro Vidal-Abarca",
-			"Jaumeortola"
+			"Jaumeortola",
+			"Toniher"
 		]
 	},
 	"Show": "Mostra fórmules com a",
@@ -84,5 +85,8 @@
 	"IE9warning": "El menú contextual de MathJax es desactivarà, però podeu fer Alt-clic sobre una expressió per mostrar el menú MathJax.",
 	"NoOriginalForm": "No s'ha trobat cap forma original",
 	"Close": "Tanca",
-	"EqSource": "Codi font d'equació MathJax"
+	"EqSource": "Codi font d'equació MathJax",
+	"CloseAboutDialog": "Tanca el diàleg de quant al MathJax",
+	"FastPreview": "Vista prèvia ràpida",
+	"InTabOrder": "Inclou en l'ordre de pestanyes"
 }

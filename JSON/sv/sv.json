@@ -14,5 +14,6 @@
 	"Processing": "Bearbetar",
 	"TypesetMath": "Typsätter matematik: $1%",
 	"Typesetting": "Typsättning",
-	"MathJaxNotSupported": "Din webbläsare stöder inte MathJax"
+	"MathJaxNotSupported": "Din webbläsare stöder inte MathJax",
+	"ErrorTips": "Felsökningstips: använd %1, inspektera %2 i webbläsarkonsolen"
 }

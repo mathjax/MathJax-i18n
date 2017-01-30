@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
-			"LNDDYL"
+			"LNDDYL",
+			"Kly"
 		]
 	},
 	"MathProcessingError": "數學處理錯誤",
@@ -14,5 +15,6 @@
 	"Processing": "處理",
 	"TypesetMath": "排版數學：$1%",
 	"Typesetting": "排版",
-	"MathJaxNotSupported": "您的瀏覽器不支援MathJax"
+	"MathJaxNotSupported": "您的瀏覽器不支援MathJax",
+	"ErrorTips": "除錯提示：使用%1，在瀏覽器控制台檢查%2"
 }
