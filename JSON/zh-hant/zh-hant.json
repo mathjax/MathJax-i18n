@@ -3,7 +3,8 @@
 		"authors": [
 			"Liuxinyu970226",
 			"LNDDYL",
-			"Kly"
+			"Kly",
+			"Learnerq"
 		]
 	},
 	"MathProcessingError": "數學處理錯誤",
@@ -12,7 +13,7 @@
 	"Loading": "載入中…",
 	"LoadFailed": "無法載入檔案：$1",
 	"ProcessMath": "處理數學：$1%",
-	"Processing": "處理",
+	"Processing": "處理中",
 	"TypesetMath": "排版數學：$1%",
 	"Typesetting": "排版",
 	"MathJaxNotSupported": "您的瀏覽器不支援MathJax",

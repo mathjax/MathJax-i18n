@@ -4,7 +4,8 @@
 			"Cwlin0416",
 			"Kly",
 			"LNDDYL",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Learnerq"
 		]
 	},
 	"Show": "顯示數學形式",
@@ -25,7 +26,7 @@
 	"ZoomTrigger": "縮放觸發",
 	"Hover": "游標覆蓋",
 	"Click": "點選",
-	"DoubleClick": "按兩下",
+	"DoubleClick": "雙擊",
 	"NoZoom": "關閉縮放",
 	"TriggerRequires": "觸發需求：",
 	"Option": "選項",

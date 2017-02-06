@@ -3,7 +3,8 @@
 		"authors": [
 			"Fitoschido",
 			"Ovruni",
-			"VegaDark"
+			"VegaDark",
+			"Macofe"
 		]
 	},
 	"Show": "Mostrar las fórmulas como",
@@ -85,5 +86,6 @@
 	"IE9warning": "El menú contextual de MathJax será desactivado, pero puedes pulsar Alt-Clic en una expresión para obtener el menú MathJax en su lugar.",
 	"NoOriginalForm": "La forma original no está disponible",
 	"Close": "Cerrar",
-	"EqSource": "Código de la ecuación de MathJax"
+	"EqSource": "Código de la ecuación de MathJax",
+	"FastPreview": "Vista previa rápida"
 }

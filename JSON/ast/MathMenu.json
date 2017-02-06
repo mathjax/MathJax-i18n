@@ -83,5 +83,9 @@
 	"IE9warning": "El menú contestual de MathJax tará desactiváu, pero pue facer Alt-Clic nuna espresión pa ver el menú MathJax.",
 	"NoOriginalForm": "Nun ta disponible denguna forma orixinal",
 	"Close": "Zarrar",
-	"EqSource": "Códigu fonte d'ecuación MathJax"
+	"EqSource": "Códigu fonte d'ecuación MathJax",
+	"CloseAboutDialog": "Zarrar el diálogu de tocante a MathJax",
+	"FastPreview": "Vista previa rápida",
+	"AssistiveMML": "Asistencia MathML",
+	"InTabOrder": "Incluir nel orde de llingüetes"
 }

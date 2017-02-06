@@ -6,7 +6,9 @@
 			"Mordecaista",
 			"Amgauna",
 			"He7d3r",
-			"Rodrigo codignoli"
+			"Rodrigo codignoli",
+			"Eduardo Addad de Oliveira",
+			"HenriqueCrang"
 		]
 	},
 	"Show": "Mostrar Fórmulas Como",
@@ -88,5 +90,9 @@
 	"IE9warning": "O menu de contexto do MathJax será desabilitado, mas você pode usar Alt-Clique em uma expressão para obter o menu MathJax em vez disso.",
 	"NoOriginalForm": "Sem formulario original disponível",
 	"Close": "Fechar",
-	"EqSource": "Fonte da Equação do MathJax"
+	"EqSource": "Fonte da Equação do MathJax",
+	"CloseAboutDialog": "Fechar caixa sobre MathJax",
+	"FastPreview": "Pré-visualização rápida",
+	"AssistiveMML": "MAthML assistiva",
+	"InTabOrder": "Incluir na ordem da guia"
 }

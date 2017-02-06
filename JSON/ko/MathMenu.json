@@ -84,5 +84,6 @@
 	"NoOriginalForm": "원래 양식을 찾을 수 없습니다",
 	"Close": "닫기",
 	"EqSource": "MathJax 수식 자료",
-	"CloseAboutDialog": "MathJax 정보 대화 상자 닫기"
+	"CloseAboutDialog": "MathJax 정보 대화 상자 닫기",
+	"FastPreview": "고속 미리 보기"
 }
