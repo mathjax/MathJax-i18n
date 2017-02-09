@@ -83,5 +83,9 @@
 	"IE9warning": "Trình đơn ngữ cảnh MathJax sẽ bị vô hiệu, nhưng bạn có thể bấm giữ Alt và nhấn chuột vào một biểu thức để mở trình đơn MathJax thay thế.",
 	"NoOriginalForm": "Hình thức gốc không có sẵn",
 	"Close": "Đóng",
-	"EqSource": "Mã nguồn Công thức MathJax"
+	"EqSource": "Mã nguồn Công thức MathJax",
+	"CloseAboutDialog": "Đóng hộp thoại giới thiệu về MathJax",
+	"FastPreview": "Xem trước nhanh",
+	"AssistiveMML": "MathML trợ năng",
+	"InTabOrder": "Bao gồm trong thứ tự Tab"
 }

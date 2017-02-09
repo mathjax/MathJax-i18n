@@ -13,5 +13,6 @@
 	"Language": "*Ngôn ngữ* cho phép lựa chọn ngôn ngữ cho các trình đơn và thông điệp trong MathJax.",
 	"Zoom": "*Phóng to*: Nếu bạn cảm thấy khó đọc một phương trình, MathJax có thể phóng to nó để giúp bạn thấy rõ hơn.",
 	"Accessibilty": "*Trợ năng*: MathJax tự động tác động với các trình đọc màn hình để giúp người mù lòa truy cập toán học.",
-	"Fonts": "*Phông chữ*: MathJax sử dụng một số phông chữ toán học nếu được cài đặt trên máy của bạn; nếu không, nó tải các phông chữ Web. Bạn có thể (nhưng không cần phải) cài đặt các phông chữ vào máy để tăng tốc độ sắp chữ. Chúng tôi khuyến khích cài đặt các [phông chữ STIX]($1)."
+	"Fonts": "*Phông chữ*: MathJax sử dụng một số phông chữ toán học nếu được cài đặt trên máy của bạn; nếu không, nó tải các phông chữ Web. Bạn có thể (nhưng không cần phải) cài đặt các phông chữ vào máy để tăng tốc độ sắp chữ. Chúng tôi khuyến khích cài đặt các [phông chữ STIX]($1).",
+	"CloseDialog": "Đóng hộp thoại trợ giúp"
 }

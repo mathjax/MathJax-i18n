@@ -13,5 +13,6 @@
 	"Processing": "Đang xử lý",
 	"TypesetMath": "Đang xếp chữ toán: $1%",
 	"Typesetting": "Đang xếp chữ",
-	"MathJaxNotSupported": "Trình duyệt của bạn không hỗ trợ MathJax"
+	"MathJaxNotSupported": "Trình duyệt của bạn không hỗ trợ MathJax",
+	"ErrorTips": "Mẹo vặt gỡ lỗi: sử dụng %1, kiểm tra %2 trong bảng điều khiển của trình duyệt"
 }

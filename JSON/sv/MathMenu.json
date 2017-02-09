@@ -86,6 +86,7 @@
 	"NoOriginalForm": "Inget ursprungligt format tillgängligt",
 	"Close": "Stäng",
 	"EqSource": "MathJax ekvationskälla",
+	"CloseAboutDialog": "Stäng dialogen \"Om MathJax\"",
 	"FastPreview": "Snabb förhandsvisning",
 	"InTabOrder": "Inkludera i flikordning"
 }
