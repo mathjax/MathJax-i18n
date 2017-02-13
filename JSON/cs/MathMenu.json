@@ -84,5 +84,9 @@
 	"IE9warning": "Tímto vypnete kontextové menu MathJaxu, ale budete si ho moci zobrazit pomocí Alt+kliknutí na rovnici.",
 	"NoOriginalForm": "Původní podoba není dostupná",
 	"Close": "Zavřít",
-	"EqSource": "Zdroj rovnice MathJax"
+	"EqSource": "Zdroj rovnice MathJax",
+	"CloseAboutDialog": "Zavřít okno o MathJaxu",
+	"FastPreview": "Rychlý náhled",
+	"AssistiveMML": "Asistivní MathML",
+	"InTabOrder": "Zařadit do posloupnosti tabulátoru"
 }

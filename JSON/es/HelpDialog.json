@@ -15,5 +15,6 @@
 	"Language": "*Idioma* permite seleccionar el idioma utilizado por MathJax para sus menús y mensajes de advertencia.",
 	"Zoom": "*Zoom*: Si estás teniendo dificultad para leer una ecuación, MathJax puede ampliarla para ayudarte a verla mejor.",
 	"Accessibilty": "*Accesibilidad*: MathJax funcionará automáticamente con los lectores de pantalla para hacer accesible a las personas con discapacidad visual.",
-	"Fonts": "*Tipos de letra*: MathJax utiliza determinados tipos de letra matemáticas si están instalados en tu ordenador. De lo contrario, utilizará tipos de letra en web. Aunque no es necesario, los tipos de letra instalados localmente aumentará la velocidad de composición tipográfica. Sugerimos instalar los tipos de letra [STIX]($1)."
+	"Fonts": "*Tipos de letra*: MathJax utiliza determinados tipos de letra matemáticas si están instalados en tu ordenador. De lo contrario, utilizará tipos de letra en web. Aunque no es necesario, los tipos de letra instalados localmente aumentará la velocidad de composición tipográfica. Sugerimos instalar los tipos de letra [STIX]($1).",
+	"CloseDialog": "Cerrar el diálogo de ayuda"
 }

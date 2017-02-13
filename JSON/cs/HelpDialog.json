@@ -14,5 +14,6 @@
 	"Language": "*Jazyk* vám umožní zvolit si jazyk používaný MathJaxem pro menu a chybová hlášení.",
 	"Zoom": "*Matematický zoom*: Pokud vám dělá problémy čtení rovnice, Mathjax vám umožní ji zvětšit, abyste ji lépe viděli.",
 	"Accessibilty": "*Přístupnost*: MathJax automaticky funguje s čtečkami obrazovky, aby matematiku zpřístupnil zrakově postiženým.",
-	"Fonts": "*Písma*: MathJax bude používat jistá matematická písma, pokud je máte na počítači nainstalované; v opačném případě použije písma webová. Přestože to není nutné, lokálně nainstalovaná písma urychlí sazbu. Doporučujeme nainstalovat [písma STIX]($1)."
+	"Fonts": "*Písma*: MathJax bude používat jistá matematická písma, pokud je máte na počítači nainstalované; v opačném případě použije písma webová. Přestože to není nutné, lokálně nainstalovaná písma urychlí sazbu. Doporučujeme nainstalovat [písma STIX]($1).",
+	"CloseDialog": "Zavřít okno s nápovědou"
 }

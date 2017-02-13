@@ -13,5 +13,6 @@
 	"Processing": "Zpracovává se",
 	"TypesetMath": "Sází se matematika: $1 %",
 	"Typesetting": "Sází se",
-	"MathJaxNotSupported": "Váš prohlížeč nepodporuje MathJax"
+	"MathJaxNotSupported": "Váš prohlížeč nepodporuje MathJax",
+	"ErrorTips": "Tipy pro ladění: použijte %1, prozkoumejte %2 v konzoli prohlížeče"
 }
