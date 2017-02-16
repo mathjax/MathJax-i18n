@@ -6,7 +6,9 @@
 			"Hwangjy9",
 			"Leehoy",
 			"Yearning",
-			"아라"
+			"아라",
+			"SeoJeongHo",
+			"Ykhwong"
 		]
 	},
 	"ExtraOpenMissingClose": "닫히지 않은 여는 괄호가 있습니다.",
@@ -20,6 +22,7 @@
 	"EnvMissingEnd": "\\end{$1}이 빠졌습니다",
 	"MissingBoxFor": "$1 박스를 찾을 수 없습니다.",
 	"MissingCloseBrace": "닫는 괄호가 없습니다",
+	"UndefinedControlSequence": "정의되지 않은 컨트롤 시퀀스 $1",
 	"DoubleExponent": "이중 지수: 명확성을 위해 괄호를 사용하세요",
 	"DoubleSubscripts": "이중 아래 첨자: 명확성을 위해 괄호를 사용하세요",
 	"MisplacedMiddle": "$1은 \\left와 \\right 사이에 있어야 합니다",
@@ -32,6 +35,7 @@
 	"UnknownEnv": "알 수 없는 환경 '$1'",
 	"ExtraCloseLooking": "$1을 찾는 도중에 여분의 닫는 중괄호가 발견되었습니다.",
 	"MissingCloseBracket": "$1의 인자에 대해 닫는 ']' 기호를 찾을 수 없습니다.",
+	"MathNotTerminated": "텍스트 상자에서 수식이 완성되지 않았습니다",
 	"CommandNotAllowedInEnv": "$1은 $2 환경에서 허용되지 않습니다",
 	"MultipleLabel": "'$1' label이 중복으로 정의되었습니다.",
 	"CommandAtTheBeginingOfLine": "$1은 줄의 처음에 와야 합니다.",
@@ -43,5 +47,7 @@
 	"NoClosingChar": "닫는 괄호 $1를 찾을 수 없습니다",
 	"IllegalControlSequenceName": "$1에 대한 제어 시퀀스 이름이 잘못되었습니다",
 	"IllegalParamNumber": "$1에 지정된 변수 수가 잘못되었습니다",
-	"CantUseHash2": "$1에 대한 템플릿에 #의 사용이 잘못되었습니다"
+	"MissingCS": "$1 앞에 컨트롤 시퀀스가 와야 합니다",
+	"CantUseHash2": "$1에 대한 템플릿에 #의 사용이 잘못되었습니다",
+	"MismatchUseDef": "$1의 사용이 그것의 정의와 일치하지 않습니다"
 }
