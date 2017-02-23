@@ -12,5 +12,6 @@
 	"Loading": "লোড হচ্ছে",
 	"LoadFailed": "ফাইল লোড হতে ব্যর্থ: $1",
 	"ProcessMath": "অংক প্রক্রিয়া চলছে:$1%",
-	"Processing": "প্রক্রিয়া চলছে"
+	"Processing": "প্রক্রিয়া চলছে",
+	"MathJaxNotSupported": "আপনার ব্রাউজার MathJax সমর্থন করে না"
 }

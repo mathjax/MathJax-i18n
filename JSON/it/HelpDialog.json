@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"nivit"
+			"nivit",
+			"Beta16"
 		]
 	},
 	"Help": "Aiuto su MathJax",
@@ -13,5 +14,6 @@
 	"Language": "*Lingua* ti permette di selezionare la lingua usata da MathJax nei propri menu e nei messaggi d'avviso.",
 	"Zoom": "*Zoom formula*: se hai difficoltá nella lettura di un'equazione, MathJax può ingrandirla per permetterti di vederla meglio.",
 	"Accessibilty": "*Accessibilitá*: MathJax funzionerá automaticamente con gli screen reader per rendere le formule accessibili a chi ha problemi di vista.",
-	"Fonts": "*Font*: MathJax userá certi tipi di font se presenti sul tuo computer; altrimenti usera i web font. Sebbene non sia richiesto, font installati sul proprio computer velocizzeranno l'esecuzione di MathJax. Ti suggeriamo di installare se puoi gli [STIX font]($1)."
+	"Fonts": "*Font*: MathJax userá certi tipi di font se presenti sul tuo computer; altrimenti usera i web font. Sebbene non sia richiesto, font installati sul proprio computer velocizzeranno l'esecuzione di MathJax. Ti suggeriamo di installare se puoi gli [STIX font]($1).",
+	"CloseDialog": "Chiudi finestra di aiuto"
 }

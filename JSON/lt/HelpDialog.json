@@ -14,5 +14,6 @@
 	"Language": "*Kalba* nustatoma „MathJax“ meniu ir įspėjamųjų pranešimų kalba.",
 	"Zoom": "*Masteliu* didinamas lygties rodinys.",
 	"Accessibilty": "*Pritaikymas neįgaliesiems*: „MathJax“ prisitaiko prie ekrano skaityklių, kad matematikos tekstas būtų įskaitomas silpnaregiams.",
-	"Fonts": "*Šriftai*: „MathJax“ telkiasi naudotojo kompiuteryje įdiegtus šriftus, jei šie yra tinkami; kitu atveju – tinkle saugomus šriftus. Naudotojo kompiuteryje įdiegti šriftai, nors ir nebūtini, greitina ženklų rinkimą. Patariama įdiegti [„STIX“ šriftus]($1)."
+	"Fonts": "*Šriftai*: „MathJax“ telkiasi naudotojo kompiuteryje įdiegtus šriftus, jei šie yra tinkami; kitu atveju – tinkle saugomus šriftus. Naudotojo kompiuteryje įdiegti šriftai, nors ir nebūtini, greitina ženklų rinkimą. Patariama įdiegti [„STIX“ šriftus]($1).",
+	"CloseDialog": "Nutraukti žinyno dialogą"
 }

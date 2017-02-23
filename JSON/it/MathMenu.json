@@ -84,5 +84,7 @@
 	"IE9warning": "Il menu contestuale di MathJax verrá disabilitato, ma puoi sempre premere Alt-Click sopra una formula per accedervi comunque.",
 	"NoOriginalForm": "Modulo originale non disponibile",
 	"Close": "Chiudi",
-	"EqSource": "Codice sorgente formula MathJax"
+	"EqSource": "Codice sorgente formula MathJax",
+	"CloseAboutDialog": "Chiudi finestra di informazioni su MathJax",
+	"FastPreview": "Anteprima veloce"
 }
