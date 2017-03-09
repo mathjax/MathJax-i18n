@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fohanno"
+			"Fohanno",
+			"Gwenn-Ael"
 		]
 	},
 	"MathProcessingError": "Fazi o tretañ ar formulenn",
@@ -13,5 +14,6 @@
 	"Processing": "O tretañ",
 	"TypesetMath": "Aozañ formulennoù : $1%",
 	"Typesetting": "Aozañ",
-	"MathJaxNotSupported": "Ne c'hall ket ho merdeer ober gant MathJax"
+	"MathJaxNotSupported": "Ne c'hall ket ho merdeer ober gant MathJax",
+	"ErrorTips": "Alioù dizreinañ : implijout %1, ensellet %2, e letrin ar merdeer"
 }

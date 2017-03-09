@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Mikulas1",
-			"TomášPolonec"
+			"TomášPolonec",
+			"Lexected"
 		]
 	},
 	"MathProcessingError": "Chyba spracovania matematiky",
@@ -14,5 +15,6 @@
 	"Processing": "Spracúvam",
 	"TypesetMath": "Sádzanie matematiky: $1 %",
 	"Typesetting": "Sádzanie",
-	"MathJaxNotSupported": "Váš prehliadač nepodporuje MathJax"
+	"MathJaxNotSupported": "Váš prehliadač nepodporuje MathJax",
+	"ErrorTips": "Tipy k ladeniu: použite %1, prehliadajte %2 v konzole prehliadača"
 }

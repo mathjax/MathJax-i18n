@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"TomášPolonec"
+			"TomášPolonec",
+			"Lexected"
 		]
 	},
 	"ExtraOpenMissingClose": "Prebytočná otvárajúca alebo uzavieracia zátvorka",
@@ -35,7 +36,7 @@
 	"MissingArgFor": "Chýba argument pre $1",
 	"ExtraAlignTab": "Prebytočný vyrovnávací tabulátor v texte \\cases",
 	"BracketMustBeDimension": "Zátvorkový argument pre $1 musí byť rozmer",
-	"InvalidEnv": "Neplatné meno prostredia „$1“",
+	"InvalidEnv": "Neplatná premenná prostredia „$1“",
 	"UnknownEnv": "Neznáme prostredie „$1“",
 	"ExtraCloseLooking": "Prebytočná uzavieracia zátvorka, zatiaľ čo bolo očakávané $1",
 	"MissingCloseBracket": "Pri argumente pre $1 nebola nájdená uzavieracia „]“",

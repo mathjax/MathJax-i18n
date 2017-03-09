@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"TomášPolonec"
+			"TomášPolonec",
+			"Lexected"
 		]
 	},
 	"Help": "Pomoc k MathJaxu",
@@ -13,5 +14,6 @@
 	"Language": "*Jazyk* vám umožní zvoliť si jazyk používaný MathJaxem pre menu a chybové hlásenia.",
 	"Zoom": "*Matematický zoom*: Ak vám čítanie rovnice robí problémy, Mathjax Vám umožní ich zväčšiť, aby ste ju lepšie videli.",
 	"Accessibilty": "*Dostupnosť*: MathJax automaticky funguje s čítačkami obrazovky, aby matematiku sprístupnil zrakovo postihnutým.",
-	"Fonts": "*Písma*: MathJax bude používať isté matematické písma, ak ich máte v počítači nainštalované; v opačnom prípade použije písma webové. Napriek tomu, že to nie je nutné, lokálne nainštalované písma urýchlia sádzanie. Odporúčame nainštalovať [písma STIX]($1)."
+	"Fonts": "*Písma*: MathJax bude používať isté matematické písma, ak ich máte v počítači nainštalované; v opačnom prípade použije písma webové. Napriek tomu, že to nie je nutné, lokálne nainštalované písma urýchlia sádzanie. Odporúčame nainštalovať [písma STIX]($1).",
+	"CloseDialog": "Zavriť okno s nápovedou"
 }

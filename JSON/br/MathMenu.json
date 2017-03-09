@@ -72,5 +72,8 @@
 	"IE9warning": "Diweredekaet e vo al lañser kemperzhel MathJax, met en e flas e c'hallot klikañ war ur bomm o terc'hel da bouezañ war ar bouton Alt evit kaout al lañser MathJax.",
 	"NoOriginalForm": "N'haller kaout furmad orin ebet",
 	"Close": "Serriñ",
-	"EqSource": "Tarzh kevatalenn MathJax"
+	"EqSource": "Tarzh kevatalenn MathJax",
+	"CloseAboutDialog": "Serriñ ar voest kendivizout A-zivout MathJax",
+	"FastPreview": "Dalberzh prim",
+	"InTabOrder": "Enlakaat an urzh an ivinelloù"
 }
