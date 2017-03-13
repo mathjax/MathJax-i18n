@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Okras",
-			"Volkov"
+			"Volkov",
+			"Nitch"
 		]
 	},
 	"MathProcessingError": "Ошибка математической обработки",
@@ -14,5 +15,6 @@
 	"Processing": "Обработка",
 	"TypesetMath": "Вёрстка математики: $1%",
 	"Typesetting": "Вёрстка",
-	"MathJaxNotSupported": "Ваш браузер не поддерживает MathJax"
+	"MathJaxNotSupported": "Ваш браузер не поддерживает MathJax",
+	"ErrorTips": "Советы по отладке: используйте %1, изучите %2 в консоли браузера"
 }

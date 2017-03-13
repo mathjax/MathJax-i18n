@@ -3,7 +3,8 @@
 		"authors": [
 			"Alex Mashin",
 			"Okras",
-			"Kareyac"
+			"Kareyac",
+			"Nitch"
 		]
 	},
 	"Show": "Показать код формулы в виде:",
@@ -86,5 +87,8 @@
 	"NoOriginalForm": "Нет исходного кода",
 	"Close": "Закрыть",
 	"EqSource": "Исходный код формулы",
-	"FastPreview": "Быстрый Просмотр"
+	"CloseAboutDialog": "Закрыть диалог \"О программе\"",
+	"FastPreview": "Быстрый Просмотр",
+	"AssistiveMML": "Вспомогательный MathML",
+	"InTabOrder": "Включать в порядке табуляции"
 }
