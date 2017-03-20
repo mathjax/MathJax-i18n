@@ -13,5 +13,6 @@
 	"Processing": "עיבוד",
 	"TypesetMath": "סדַר נוסחאות: $1%",
 	"Typesetting": "סדַר",
-	"MathJaxNotSupported": "הדפדפן שלך אינו תומך ב־MathJax"
+	"MathJaxNotSupported": "הדפדפן שלך אינו תומך ב־MathJax",
+	"ErrorTips": "עצות לתיקון שגיאות: השתמשו ב־%1, בדקו את %2 במסוף הדפדפן"
 }
