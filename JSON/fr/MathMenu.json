@@ -8,14 +8,15 @@
 			"Sherbrooke",
 			"Urhixidur",
 			"fred",
-			"Wladek92"
+			"Wladek92",
+			"Frigory"
 		]
 	},
 	"Show": "Afficher sous forme",
 	"MathMLcode": "Code MathML",
 	"OriginalMathML": "MathML d’origine",
 	"TeXCommands": "Commandes TeX",
-	"AsciiMathInput": "entrée AsciiMathML",
+	"AsciiMathInput": "Entrée AsciiMathML",
 	"Original": "Format d’origine",
 	"ErrorMessage": "Message d’erreur",
 	"Annotation": "Annotation",

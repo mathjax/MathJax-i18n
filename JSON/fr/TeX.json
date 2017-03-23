@@ -9,7 +9,8 @@
 			"Yann.fauche",
 			"Gomoko",
 			"Yzelf",
-			"Wladek92"
+			"Wladek92",
+			"Frigory"
 		]
 	},
 	"ExtraOpenMissingClose": "Accolade ouvrante superflue ou accolade fermante manquante",
@@ -79,7 +80,7 @@
 	"MissingCS": "$1 doit être suivi d'une séquence de contrôle",
 	"CantUseHash2": "Usage du caractère # non autorisé dans le modèle pour la séquence de contrôle $1",
 	"SequentialParam": "Les paramètres de la séquence de contrôle $1 doivent être énumérés de façon séquentielle",
-	"MissingReplacementString": "Chaine de caractère de remplacement manquante pour la définition $1",
+	"MissingReplacementString": "Texte de remplacement manquant pour la définition $1",
 	"MismatchUseDef": "L’utilisation de la commande $1 ne correspond pas à sa définition",
 	"RunawayArgument": "Argument non terminé pour la commande $1?",
 	"NoClosingDelim": "Impossible de trouver le délimiteur fermant pour la commande $1"
