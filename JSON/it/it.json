@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"nivit"
+			"nivit",
+			"Beta16"
 		]
 	},
 	"MathProcessingError": "Errore elaborazione della formula",
@@ -13,5 +14,6 @@
 	"Processing": "Elaborazione in corso",
 	"TypesetMath": "Composizione della formula: $1%",
 	"Typesetting": "Composizione",
-	"MathJaxNotSupported": "Il tuo browser non supporta MathJax"
+	"MathJaxNotSupported": "Il tuo browser non supporta MathJax",
+	"ErrorTips": "Suggerimenti per il debug: utilizza %1, ispeziona %2 nella console del browser"
 }
