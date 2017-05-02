@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"LoadWebFont": "$1 web testu iturria kargatzen",
+	"CantLoadWebFont": "Ezin izan da $1 web testu iturria kargatu"
+}

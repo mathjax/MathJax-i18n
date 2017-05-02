@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"MathMLcode": "MathML kodea",
+	"OriginalMathML": "Jatorrizko MathML",
+	"TeXCommands": "TeX komandoak",
+	"TeX": "TeX",
+	"StarMath": "StarMath",
+	"Maple": "Maple",
+	"OpenMath": "OpenMath",
+	"Option": "Aukera",
+	"Alt": "Alt",
+	"Control": "Ctrl",
+	"Shift": "Shift",
+	"ForHTMLCSS": "HTML-CSSrako:",
+	"TeXLocal": "TeX (lokala)",
+	"TeXWeb": "TeX (web)",
+	"TeXImage": "TeX (irudia)",
+	"STIXLocal": "STIX (lokala)",
+	"STIXWeb": "STIX (web)",
+	"AsanaMathWeb": "Asana Math (web)",
+	"GyrePagellaWeb": "Gyre Pagella (web)",
+	"GyreTermesWeb": "Gyre Termes (web)",
+	"LatinModernWeb": "Latin Modern (web)",
+	"NeoEulerWeb": "Neo Euler (web)",
+	"ContextMenu": "Testuinguruko menua",
+	"Locale": "Hizkuntza",
+	"LoadLocale": "Kargatu URLtik ...",
+	"About": "MathJax-i buruz",
+	"wofforotffonts": "WOFF edo OTF letra-motak",
+	"eotffonts": "EOT letra-motak",
+	"svgfonts": "SVG letra-motak",
+	"Close": "Itxi",
+	"FastPreview": "Aurrebista azkarra"
+}
