@@ -15,5 +15,6 @@
 	"Processing": "Bezig met verwerken",
 	"TypesetMath": "Berekening aan het opmaken: $1%",
 	"Typesetting": "Opmaken",
-	"MathJaxNotSupported": "Uw browser ondersteunt MathJax niet"
+	"MathJaxNotSupported": "Uw browser ondersteunt MathJax niet",
+	"ErrorTips": "Debugtips: gebruik %1, inspecteer %2 in de console van de browser"
 }
