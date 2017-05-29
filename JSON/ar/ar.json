@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Claw eg"
+			"Claw eg",
+			"Mido"
 		]
 	},
 	"MathProcessingError": "خطأ معالجة رياضية",
 	"MathError": "خطأ رياضي",
 	"LoadFile": "تحميل $1",
-	"Loading": "جاري التحميل",
+	"Loading": "جارٍ التحميل",
 	"LoadFailed": "فشل تحميل الملف: $1",
 	"ProcessMath": "عملية رياضية: $1%",
 	"Processing": "معالجة",

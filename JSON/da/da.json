@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Overlaet"
+			"Overlaet",
+			"Peter Alberti"
 		]
 	},
 	"MathProcessingError": "Fejl under bearbejdning af matematik",
@@ -14,5 +15,6 @@
 	"Processing": "Bearbejder",
 	"TypesetMath": "Opsætter matematik: $1%",
 	"Typesetting": "Opsætter",
-	"MathJaxNotSupported": "Din browser understøtter ikke MathJax"
+	"MathJaxNotSupported": "Din browser understøtter ikke MathJax",
+	"ErrorTips": "Tips til fejlsøgning: brug %1, inspicer %2 i browserkonsollen"
 }
