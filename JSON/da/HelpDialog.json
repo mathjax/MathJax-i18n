@@ -3,7 +3,8 @@
 		"authors": [
 			"Christian List",
 			"Overlaet",
-			"Peter Alberti"
+			"Peter Alberti",
+			"BoBrandt"
 		]
 	},
 	"Help": "MathJax hjælp",
@@ -16,5 +17,5 @@
 	"Zoom": "*Matematik zoom*: Hvis du har svært ved at læse en ligning, kan MathJax forstørre den for at hjælpe dig med at se den bedre.",
 	"Accessibilty": "*Tilgængelighed*: MathJax vil automatisk arbejde med skærmlæsere for at gøre matematik tilgængeligt for synshæmmede.",
 	"Fonts": "*Skrifttyper*: MathJax vil bruge visse matematiske skrifttyper, hvis de er installeret på computeren. ellers vil det bruge web-baserede skrifttyper. Selvom det ikke er påkrævet, vil lokalt installerede skrifttyper fremskynde opsætningen. Vi foreslår at installere [STIX fonts]($1).",
-	"CloseDialog": "Luk hjælpevindue"
+	"CloseDialog": "Luk hjælpedialogen"
 }

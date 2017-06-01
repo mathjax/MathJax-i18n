@@ -83,5 +83,9 @@
 	"IE9warning": "תפריט ההקשר של MathJax יכובה, אבל אפשר לעשות לחיצה עם Alt על ביטוח כדי לקבל את תפריט MathJax.",
 	"NoOriginalForm": "הצורה המקורית אינה זמינה",
 	"Close": "סגירה",
-	"EqSource": "מקור המשוואה של MathJax"
+	"EqSource": "מקור המשוואה של MathJax",
+	"CloseAboutDialog": "סגירת חלון דו־שיח אודות MathJax",
+	"FastPreview": "תצוגה מקדימה מהירה",
+	"AssistiveMML": "MathML נגיש",
+	"InTabOrder": "לכלול בסדר הטאבים"
 }
