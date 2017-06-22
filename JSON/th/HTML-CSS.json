@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"TMo3289"
+		]
+	},
+	"LoadWebFont": "กำลังโหลดแบบอักษรเว็บ $1",
+	"CantLoadWebFont": "ไม่สามารถโหลดแบบอักษรเว็บ $1",
+	"FirefoxCantLoadWebFont": "Firefox ไม่สามารถโหลดแบบอักษรเว็บจากโฮสต์ระยะไกลได้",
+	"CantFindFontUsing": "ไม่สามารถค้นหาแบบอักษรที่ถูกต้องโดยใช้ $1",
+	"WebFontsNotAvailable": "ไม่พบแบบอักษรเว็บ จะใช้แบบอักษรรูปภาพแทน"
+}
