@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"piotrdomagalski",
-			"Ty221"
+			"Ty221",
+			"InternerowyGołąb"
 		]
 	},
 	"MathProcessingError": "Błąd podczas przetwarzania wzorów matematycznych",
@@ -14,5 +15,6 @@
 	"Processing": "Przetwarzam",
 	"TypesetMath": "Przetwarzam wzory matematyczne: $1%",
 	"Typesetting": "Przetwarzam",
-	"MathJaxNotSupported": "Twoja przeglądarka nie obsługuje MathJax"
+	"MathJaxNotSupported": "Twoja przeglądarka nie obsługuje MathJax",
+	"ErrorTips": "Porady debugowania: użyj %1, sprawdź %2 w konsoli przeglądarki."
 }

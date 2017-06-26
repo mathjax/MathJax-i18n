@@ -3,7 +3,8 @@
 		"authors": [
 			"Ty221",
 			"piotrdomagalski",
-			"WTM"
+			"WTM",
+			"InternerowyGołąb"
 		]
 	},
 	"Show": "Pokaż wzory jako",
@@ -85,5 +86,9 @@
 	"IE9warning": "Menu kontekstowe MathJax zostanie wyłączone, ale możesz kliknąć z Altem na wzór, aby otworzyć menu.",
 	"NoOriginalForm": "Brak wzorów w oryginalnej postaci",
 	"Close": "Zamknij",
-	"EqSource": "Źródło wzoru MathJax"
+	"EqSource": "Źródło wzoru MathJax",
+	"CloseAboutDialog": "Zamknij okno o MathJax",
+	"FastPreview": "Szybki podgląd strony",
+	"AssistiveMML": "Asystujący MathML",
+	"InTabOrder": "Zawarty w kolejności stron"
 }

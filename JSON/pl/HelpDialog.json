@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"piotrdomagalski"
+			"piotrdomagalski",
+			"InternerowyGołąb"
 		]
 	},
 	"Help": "Pomoc MathJax",
@@ -13,5 +14,6 @@
 	"Language": "*Język* pozwala wybrać język, w jakim wyświetlane jest menu oraz komunikaty o błędach.",
 	"Zoom": "*Powiększanie*: Jeżeli masz problem z odczytaniem wzoru, MathJax może zwiększyć wielkość liter, aby łatwiej było go odczytać.",
 	"Accessibilty": "*Dostępność*: MathJax działa automatycznie z czytnikami ekranowymi, aby wzory matematyczne były dostępne dla niedowidzących.",
-	"Fonts": "*Czcionki*: MathJax użyje czcionek matematycznych zainstalowanych w Twoim systemie. Jeżeli ich nie masz, to użyje czcionek Web. Nie jest to wymagane, ale lokalnie dostępne czcionki przyspieszą działanie MathJax. Sugerujemy zainstalowanie czcionek [STIX]($1)."
+	"Fonts": "*Czcionki*: MathJax użyje czcionek matematycznych zainstalowanych w Twoim systemie. Jeżeli ich nie masz, to użyje czcionek Web. Nie jest to wymagane, ale lokalnie dostępne czcionki przyspieszą działanie MathJax. Sugerujemy zainstalowanie czcionek [STIX]($1).",
+	"CloseDialog": "Zamknij okno pomocy"
 }
