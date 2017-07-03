@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andriykopanytsia"
+			"Andriykopanytsia",
+			"Piramidion"
 		]
 	},
 	"MathProcessingError": "Помилка обробки математики",
@@ -13,5 +14,6 @@
 	"Processing": "Обробка...",
 	"TypesetMath": "Верстка математики: $1%",
 	"Typesetting": "Верстка",
-	"MathJaxNotSupported": "Ваш браузер не підтримує MathJax"
+	"MathJaxNotSupported": "Ваш браузер не підтримує MathJax",
+	"ErrorTips": "Підказки щодо зневадження: використовуйте %1, дослідіть %2 у консолі браузера"
 }

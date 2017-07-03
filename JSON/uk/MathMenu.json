@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andriykopanytsia"
+			"Andriykopanytsia",
+			"Piramidion"
 		]
 	},
 	"Show": "Показувати математику як",
@@ -83,5 +84,9 @@
 	"IE9warning": "MathJax контекстне меню відключено, але ви можете натиснути ALT під час кліків миші для отриманя MathJax меню.",
 	"NoOriginalForm": "Не доступна оригінальна форма",
 	"Close": "Закрити",
-	"EqSource": "Джерело рівняння MathJax"
+	"EqSource": "Джерело рівняння MathJax",
+	"CloseAboutDialog": "Закрити діалог про MathJax",
+	"FastPreview": "Швидкий попередній перегляд",
+	"AssistiveMML": "Допоміжний MathML",
+	"InTabOrder": "Включити в порядок вкладок"
 }
