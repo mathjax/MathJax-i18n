@@ -3,7 +3,8 @@
 		"authors": [
 			"Alvaro Vidal-Abarca",
 			"Jaumeortola",
-			"Toniher"
+			"Toniher",
+			"Ssola"
 		]
 	},
 	"Show": "Mostra fórmules com a",
@@ -88,5 +89,6 @@
 	"EqSource": "Codi font d'equació MathJax",
 	"CloseAboutDialog": "Tanca el diàleg de quant al MathJax",
 	"FastPreview": "Vista prèvia ràpida",
+	"AssistiveMML": "MathML auxiliar",
 	"InTabOrder": "Inclou en l'ordre de pestanyes"
 }

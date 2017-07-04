@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alvaro Vidal-Abarca"
+			"Alvaro Vidal-Abarca",
+			"Ssola"
 		]
 	},
 	"MathProcessingError": "Error en processament d'expressió matemàtica",
@@ -13,5 +14,6 @@
 	"Processing": "Processant",
 	"TypesetMath": "Formatejant expressió: $1%",
 	"Typesetting": "Formatejant",
-	"MathJaxNotSupported": "El vostre navegador no suporta MathJax"
+	"MathJaxNotSupported": "El vostre navegador no suporta MathJax",
+	"ErrorTips": "Consells de depuració: utilitzeu %1, inspeccioneu %2 a la consola del navegador"
 }

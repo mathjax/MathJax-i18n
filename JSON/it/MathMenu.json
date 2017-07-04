@@ -86,5 +86,7 @@
 	"Close": "Chiudi",
 	"EqSource": "Codice sorgente formula MathJax",
 	"CloseAboutDialog": "Chiudi finestra di informazioni su MathJax",
-	"FastPreview": "Anteprima veloce"
+	"FastPreview": "Anteprima veloce",
+	"AssistiveMML": "MathML ausiliario",
+	"InTabOrder": "Includi nell'ordine di tabulazione"
 }
