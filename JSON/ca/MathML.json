@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alvaro Vidal-Abarca"
+			"Alvaro Vidal-Abarca",
+			"Ssola"
 		]
 	},
 	"BadMglyph": "Mglyph incorrecte: $1",
 	"BadMglyphFont": "Font incorrecta: $1",
-	"MathPlayer": "MathJax no ha pogut configurar MathPlayer.\n\nSi MathPlayer no està instal·lat, necessiteu instal·lar-lo prèviament. Altrament, pot ser que la vostra configuració de seguretat estigui bloquejant l'execució de controls ActiveX. Useu el menú Opcions d'Internet dins el menú Eines i seleccioneu la pestanya Seguretat, i llavors premeu el botó Nivell Personalitzat. Assegureu-vos que les configuracions per 'Executar Controls ActiveX' i 'Comportaments binari i script' estan activades.\n\nDe moment veureu missatges d'error en comptes de fórmules matemàtiques.",
+	"MathPlayer": "MathJax no ha pogut configurar MathPlayer.\n\nSi MathPlayer no està instal·lat, necessiteu instal·lar-lo prèviament. Altrament, pot ser que la vostra configuració de seguretat estigui blocant l'execució de controls ActiveX. Useu el menú Opcions d'Internet dins el menú Eines i seleccioneu la pestanya Seguretat, i llavors premeu el botó Nivell Personalitzat. Assegureu-vos que les configuracions per 'Executar Controls ActiveX' i 'Comportaments binari i script' estan activades.\n\nDe moment veureu missatges d'error en comptes de fórmules matemàtiques.",
 	"CantCreateXMLParser": "MathJax no pot crear un analitzador XML per MathML. Comproveu que la configuració de seguretat 'Controls de script ActiveX marcats segurs per scripting' està marcada (aneu a l'opció Opcions d'Internet dins el menú Eines, i seleccioneu el panell de Seguretat; després, cliqueu el botó Nivell Personalitzat per activar aquesta configuració).\n\nLes equacions MathML no podran ser processades per MathJax",
 	"UnknownNodeType": "Tipus de node desconegut: $1",
 	"UnexpectedTextNode": "Node de text inesperat: $1",
