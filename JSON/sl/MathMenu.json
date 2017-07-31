@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Eleassar",
-			"Dbc334"
+			"Dbc334",
+			"HairyFotr"
 		]
 	},
 	"Show": "Prikaži matematiko kot",
@@ -84,5 +85,6 @@
 	"IE9warning": "Kontekstni meni MathJax bo izklopljen, namesto tega pa lahko s klikom izraza ob držanju tipke Alt prikličete meni MathJax.",
 	"NoOriginalForm": "Na razpolago ni nobena izvorna oblika",
 	"Close": "Zapri",
-	"EqSource": "Vir enačbe MathJax"
+	"EqSource": "Vir enačbe MathJax",
+	"FastPreview": "Hitri predogled"
 }

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arifpedia"
+		]
+	},
+	"MathProcessingError": "Kesalahan pemrosesan matematika",
+	"MathError": "Kesalahan matematika",
+	"LoadFile": "Memuat $1",
+	"Loading": "Memuat",
+	"LoadFailed": "Berkas gagal dimuat: $1",
+	"ProcessMath": "Memroses matematika: $1%",
+	"Processing": "Memroses",
+	"TypesetMath": "Sedang mengatur huruf matematika: $1%",
+	"Typesetting": "Mengatur huruf",
+	"MathJaxNotSupported": "Browser Anda tidak mendukung MathJax"
+}
