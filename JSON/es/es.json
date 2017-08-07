@@ -3,7 +3,8 @@
 		"authors": [
 			"Fitoschido",
 			"Julian leonardo paez",
-			"Ovruni"
+			"Ovruni",
+			"Luisangelrg"
 		]
 	},
 	"MathProcessingError": "Error de procesamiento de matemáticas",
@@ -15,5 +16,6 @@
 	"Processing": "Procesando",
 	"TypesetMath": "Composición tipográfica en curso: $1 %",
 	"Typesetting": "Composición tipográfica",
-	"MathJaxNotSupported": "El navegador no admite MathJax"
+	"MathJaxNotSupported": "El navegador no admite MathJax",
+	"ErrorTips": "Consejos de depuración: utilice %1, inspeccione %2 en la consola del navegador"
 }

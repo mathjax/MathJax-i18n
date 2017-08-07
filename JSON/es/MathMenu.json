@@ -4,7 +4,8 @@
 			"Fitoschido",
 			"Ovruni",
 			"VegaDark",
-			"Macofe"
+			"Macofe",
+			"Luisangelrg"
 		]
 	},
 	"Show": "Mostrar las fórmulas como",
@@ -88,5 +89,7 @@
 	"Close": "Cerrar",
 	"EqSource": "Código de la ecuación de MathJax",
 	"CloseAboutDialog": "Cerrar el diálogo de acerca de MathJax",
-	"FastPreview": "Vista previa rápida"
+	"FastPreview": "Vista previa rápida",
+	"AssistiveMML": "Asistente MathML",
+	"InTabOrder": "Incluir en el Orden de Pestañas"
 }
