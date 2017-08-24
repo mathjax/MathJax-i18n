@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Saraiki"
+		]
+	},
+	"LoadWebFont": "ویب فونٹ $1 لوڈ تھیندا پئے",
+	"CantLoadWebFont": "ویب فونٹ $1 لوڈ نی تھی سڳا"
+}
