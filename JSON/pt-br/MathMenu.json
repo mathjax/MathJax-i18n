@@ -8,7 +8,8 @@
 			"He7d3r",
 			"Rodrigo codignoli",
 			"Eduardo Addad de Oliveira",
-			"HenriqueCrang"
+			"HenriqueCrang",
+			"Fitoschido"
 		]
 	},
 	"Show": "Mostrar Fórmulas Como",
@@ -93,6 +94,6 @@
 	"EqSource": "Fonte da Equação do MathJax",
 	"CloseAboutDialog": "Fechar caixa sobre MathJax",
 	"FastPreview": "Pré-visualização rápida",
-	"AssistiveMML": "MAthML assistiva",
+	"AssistiveMML": "MathML assistiva",
 	"InTabOrder": "Incluir na ordem da guia"
 }
