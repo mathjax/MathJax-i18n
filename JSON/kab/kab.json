@@ -1,13 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mezgoug"
+			"Mezgoug",
+			"Belkacem77"
 		]
 	},
 	"MathProcessingError": "Anezri n tiddi n teftart tuskant",
 	"MathError": "Anezri di teftart tuskant",
 	"LoadFile": "Aεemmeṛ n $1",
 	"Loading": "Aεemmeṛ",
+	"LoadFailed": "Afaylu yegguma ad d-yali: $1",
 	"ProcessMath": "Amsektay n tusnakt : $1%",
 	"Processing": "Attan di tiddi ...",
 	"TypesetMath": "Tasuddest n teftarin",
