@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ebraminio"
+			"Ebraminio",
+			"Reza1615"
 		]
 	},
 	"MathProcessingError": "خطای پردازش ریاضی",
@@ -13,5 +14,6 @@
 	"Processing": "پردازش",
 	"TypesetMath": "حروف‌چینی ریاضی: $1٪",
 	"Typesetting": "حروف‌چینی",
-	"MathJaxNotSupported": "مرورگر شما از MathJax پشتیبانی نمی‌کند"
+	"MathJaxNotSupported": "مرورگر شما از MathJax پشتیبانی نمی‌کند",
+	"ErrorTips": "ترفندهای رفع خطا: استفاده از %1، به جای %2 در کنسول مرورگر"
 }

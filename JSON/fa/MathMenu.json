@@ -85,5 +85,9 @@
 	"IE9warning": "منوی متنی MathJax غیرفعال خواهد شد ولی شما می‌تواند با Alt-Click بر روی عبارت منوی MathJax را بدست بیاورید.",
 	"NoOriginalForm": "حالت اولبه موجود نیست",
 	"Close": "بستن",
-	"EqSource": "منبع معادلهٔ MathJax"
+	"EqSource": "منبع معادلهٔ MathJax",
+	"CloseAboutDialog": "بستن پنجرهٔ دربارهٔ MathJax",
+	"FastPreview": "پیش‌نمایش سریع",
+	"AssistiveMML": "MathML کمکی",
+	"InTabOrder": "شامل ترتیب زبانه"
 }
