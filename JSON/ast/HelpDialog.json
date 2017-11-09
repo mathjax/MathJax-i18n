@@ -11,7 +11,7 @@
 	"ShowMath": "*Ver fórmula como* permite ver el códigu de marques de la fórmula pa que pueda copiase y apegase (como MathML o nel so formatu orixinal).",
 	"Settings": "*Configuración* permite controlar diverses carauterístiques de MathJax, como'l tamañu de les fórmules, ya'l mecanismu que s'usa pa ver les ecuaciones.",
 	"Language": "*Llingua* permite seleicionar la llingua qu'usa MathJax pa los menús y mensaxes d'avisu.",
-	"Zoom": "*Zoom de fórmula*: Si tien dificultaes pa lleer una ecuación, MathJax pue ampliala p'ayuda-y a que la vea meyor.",
+	"Zoom": "*Zoom de fórmula*: Si tienes dificultá pa lleer una ecuación, MathJax puede ampliala p'ayudate a vela meyor.",
 	"Accessibilty": "*Accesibilidá*: MathJax funciona automáticamente con llectores de pantalla pa facer les espresiones matemátiques accesibles a les persones con problemes de visión.",
 	"Fonts": "*Tipografía*: MathJax usa ciertes fontes matemátiques si tan instalaes nel ordenador; d'otra manera, usará fontes basaes na web. Anque nun ye necesario, si tien les fontes instalaes de mou llocal ayudará a componer la páxina más rápidamente. Suxerimos qu'instale les [fontes STIX]($1).",
 	"CloseDialog": "Zarrar el diálogu d'ayuda"
