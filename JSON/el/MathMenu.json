@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Evropi",
+			"Nikosgranturismogt"
+		]
+	},
+	"Show": "Εμφάνιση μαθηματικών ως",
+	"MathMLcode": "Κώδικας MathML",
+	"OriginalMathML": "Πρωτότυπο MathML",
+	"TeXCommands": "Εντολές TeX",
+	"AsciiMathInput": "Εισαγωγή AsciiMathML",
+	"Original": "Πρωτότυπη μορφή",
+	"ErrorMessage": "Μηνύμα σφάλματος",
+	"Annotation": "Σημείωση",
+	"TeX": "TeX",
+	"StarMath": "StarMath",
+	"Maple": "Maple",
+	"ContentMathML": "Περιεχόμενο MathML",
+	"OpenMath": "OpenMath",
+	"texHints": "Εμφάνιση στοιχείων TeX στο MathML",
+	"Settings": "Ρυθμίσεις μαθηματικών",
+	"Click": "Κλικ",
+	"DoubleClick": "Διπλό κλικ",
+	"NoZoom": "Χωρίς μεγέθυνση",
+	"Option": "Option",
+	"Alt": "Alt",
+	"Command": "Command",
+	"Control": "Control",
+	"Shift": "Shift",
+	"FontPrefs": "Προτιμήσεις γραμματοσειράς",
+	"ForHTMLCSS": "Για HTML-CSS:",
+	"Locale": "Γλώσσα",
+	"About": "Σχετικά με το MathJax",
+	"Help": "Βοήθεια MathJax",
+	"wofforotffonts": "Γραμματοσειρές WOFF ή OTF",
+	"eotffonts": "Γραμματοσειρές EOT",
+	"svgfonts": "Γραμματοσειρές SVG",
+	"Close": "Κλείσιμο"
+}
