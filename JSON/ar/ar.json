@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Claw eg",
-			"Mido"
+			"Mido",
+			"ديفيد"
 		]
 	},
 	"MathProcessingError": "خطأ معالجة رياضية",
@@ -14,5 +15,6 @@
 	"Processing": "معالجة",
 	"TypesetMath": "تنضيد رياضي: $1%",
 	"Typesetting": "تنضيد",
-	"MathJaxNotSupported": "متصفحك لا يدعم ماثجاكس"
+	"MathJaxNotSupported": "متصفحك لا يدعم ماثجاكس",
+	"ErrorTips": "نصائح تصحيح الأخطاء: استخدم 1٪، واضبط 2٪ في وحدة تحكم المتصفح"
 }
