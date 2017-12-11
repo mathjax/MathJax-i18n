@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"MathProcessingError": "Matteprosesseringsfeil",
+	"MathError": "Mattefeil",
+	"LoadFile": "Laster $1",
+	"Loading": "Laster",
+	"LoadFailed": "Filen kunne ikke lastes: $1",
+	"ProcessMath": "Prosesserer matte: $1%",
+	"Processing": "Prosesserer",
+	"TypesetMath": "Typesetter matte: $1%",
+	"Typesetting": "Typesetter",
+	"MathJaxNotSupported": "Nettleseren din støtter ikke MathJax",
+	"ErrorTips": "Feilsøkingstips: bruk %1, inspiser %2 i nettleserkonsollen"
+}
