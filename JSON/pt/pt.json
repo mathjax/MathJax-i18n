@@ -4,7 +4,8 @@
 			"Helder.wiki",
 			"Waldir",
 			"He7d3r",
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"MokaAkashiyaPT"
 		]
 	},
 	"MathProcessingError": "Erro no processamento das fórmulas",
@@ -16,5 +17,6 @@
 	"Processing": "A processar",
 	"TypesetMath": "A formatar fórmulas: $1%",
 	"Typesetting": "A formatar",
-	"MathJaxNotSupported": "O seu navegador não suporta MathJax"
+	"MathJaxNotSupported": "O seu navegador não suporta MathJax",
+	"ErrorTips": "Conselhos de depuração: utilize %1, para inspecionar %2 na consola do navegador"
 }

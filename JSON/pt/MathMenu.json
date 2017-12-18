@@ -3,7 +3,8 @@
 		"authors": [
 			"Waldir",
 			"Giro720",
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"MokaAkashiyaPT"
 		]
 	},
 	"Show": "Mostrar fórmulas como",
@@ -85,5 +86,9 @@
 	"IE9warning": "O menu de contexto do MathJax será desabilitado, mas pode usar Alt-Clique numa expressão para obter o menu MathJax em vez disso.",
 	"NoOriginalForm": "Sem uma forma original disponível",
 	"Close": "Fechar",
-	"EqSource": "Código de equação MathJax"
+	"EqSource": "Código de equação MathJax",
+	"CloseAboutDialog": "Fechar caixa sobre MathJax",
+	"FastPreview": "Antevisão rápida",
+	"AssistiveMML": "MathML auxiliar",
+	"InTabOrder": "Incluir na ordem do separador"
 }
