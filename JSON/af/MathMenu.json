@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fwolff"
+		]
+	},
+	"Show": "Wys wiskunde as",
+	"MathMLcode": "MathML-kode",
+	"OriginalMathML": "Oorspronklike MathML",
+	"TeXCommands": "TeX-bevele",
+	"AsciiMathInput": "AsciiMathML-toevoer",
+	"Original": "Oorspronklike vorm",
+	"ErrorMessage": "Foutboodskap",
+	"Annotation": "Annotasie",
+	"TeX": "TeX",
+	"StarMath": "StarMath",
+	"Maple": "Maple",
+	"texHints": "Wys TeX-wenke in MathML",
+	"Settings": "Wiskunde-instellings",
+	"Browser": "Blaaier",
+	"Locale": "Taal",
+	"LoadLocale": "Laai vanaf URL ...",
+	"About": "Oor MathJax",
+	"Help": "MathJax-hulp",
+	"localTeXfonts": "gebruik tans plaaslike TeX-lettertipes",
+	"webTeXfonts": "gebruik tans TeX-font van die web",
+	"imagefonts": "gebruik prentjie-fonte",
+	"Close": "Sluit"
+}

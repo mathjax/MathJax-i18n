@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Baloch Afghanistan"
+		]
+	},
+	"TeX": "تک",
+	"StarMath": "StarMath",
+	"Maple": "Maple",
+	"ContentMathML": "MathML محتوا",
+	"OpenMath": "OpenMath",
+	"Settings": "ریاضی تنظیمات",
+	"Click": "کلیک",
+	"Option": "تنظیمات",
+	"Alt": "دگرساز",
+	"Command": "دستور داتین",
+	"Control": "مهار کورتین",
+	"Shift": "بدل کورتین",
+	"ForHTMLCSS": "په اچ‌تی‌ام‌ال-سی‌اس‌اس:",
+	"Auto": "اوتوماتیک",
+	"TeXLocal": "تک (محلی)",
+	"TeXWeb": "تک (وب)",
+	"TeXImage": "تک (اکس)",
+	"STIXLocal": "STIX (محلی)",
+	"STIXWeb": "STIX (وب‌سایت)",
+	"GyrePagellaWeb": "گری پاگلا (وب‌سایت)",
+	"GyreTermesWeb": "گیر ترمز (وب‌سایت)",
+	"LatinModernWeb": "مدرنین لاتی (وب‌سایت)",
+	"NeoEulerWeb": "نئو اویلر (وب‌سایت)",
+	"ContextMenu": "متنی ئین مینو",
+	"Browser": "بروزیر",
+	"Locale": "زبان"
+}

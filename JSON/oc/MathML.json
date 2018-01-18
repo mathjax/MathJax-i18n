@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"BadMglyph": "Element mglyph incorrècte : $1",
+	"BadMglyphFont": "Poliça invalida : $1",
+	"MathMLSingleElement": "MathML deu èsser format d’un element unic"
+}

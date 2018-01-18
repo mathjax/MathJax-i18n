@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"ExtraOpenMissingClose": "Acolada dobrenta mancanta o acolada tampanta pas esperada",
+	"MissingLeftExtraRight": "Comanda \\left mancanta o comanda \\right pas esperada",
+	"Misplaced": "Marrida posicion per la comanda $1",
+	"EnvBadEnd": "\\begin{$1} s'es acabt per un \\end{$2}",
+	"EnvMissingEnd": "\\end{$1} mancant",
+	"CantUseHash1": "Podètz pas utilizar lo caractèr #, indicant un paramètre de macro, dins lo mòde matematic",
+	"MisplacedMiddle": "La comanda $1 deu èsser entre \\left e \\right",
+	"MultipleCommand": "Usatge multiple de la comanda $1",
+	"IntegerArg": "L’argument de la comanda $1 deu èsser un entièr",
+	"MissingArgFor": "Argument mancant per la comanda $1",
+	"BracketMustBeDimension": "L'argument entre croquets de la comanda $1 deu èsser una dimension",
+	"CommandAtTheBeginingOfLine": "La comanda $1 deu èsser plaçada en començament de linha",
+	"PositiveIntegerArg": "L'argument de la comanda $1 deu èsser un entièr positiu",
+	"InvalidDecimalNumber": "Nombre decimal invalid",
+	"InvalidNumber": "Nombre invalid",
+	"NewextarrowArg1": "Lo primièr argument de la comanda $1 deu èsser lo nom d'una sequéncia de contraròtle",
+	"NewextarrowArg2": "Lo segond argument de la comanda $1 deu èsser dos entièrs separats per una virgula",
+	"NewextarrowArg3": "Lo tresen argument de la comanda $1 deu èsser la valor d’un caractèr unicode",
+	"MissingCS": "$1 deu èsser seguit d'una sequéncia de contraròtle"
+}

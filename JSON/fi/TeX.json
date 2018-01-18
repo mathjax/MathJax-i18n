@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nike"
+		]
+	},
+	"ExtraOpenMissingClose": "Ylimääräinen avaava aaltosulje tai puuttuva sulkeva aaltosulje",
+	"ExtraCloseMissingOpen": "Ylimääräinen sulkeva aaltosulje tai puuttuva avaava aaltosulje",
+	"MissingLeftExtraRight": "Puuttuva \\left tai ylimääräinen \\right",
+	"MissingScript": "Ylä- tai alaindeksin argumentti puuttuu",
+	"ExtraLeftMissingRight": "Ylämääräinen \\left tai puuttuva \\right",
+	"Misplaced": "”$1” on väärässä paikassa",
+	"MissingOpenForSub": "Alaindeksin avaava aaltosulje puuttuu",
+	"MissingOpenForSup": "Yläindeksin avaava aaltosulje puuttuu",
+	"AmbiguousUseOf": "Moniselitteinen ilmaisu $1",
+	"EnvBadEnd": "\\begin{$1} avasi osion, jonka \\end{$2} päätti",
+	"EnvMissingEnd": "Puuttuva \\end{$1}",
+	"MissingCloseBrace": "Sulkeva aaltosulje puuttuu",
+	"UndefinedControlSequence": "Määrittelemätön ohjaussekvenssi $1",
+	"DoubleExponent": "Kaksoiseksponentti: selkeytä aaltosulkeilla",
+	"DoubleSubscripts": "Kaksoisalaindeksi: selkeytä aaltosulkeilla",
+	"UnknownEnv": "Tuntematon ympäristö: $1",
+	"InvalidDecimalNumber": "Virheellinen desimaaliluku",
+	"ModelArg2": "$1-väriarvo on oltava arvojen $2 ja $3 välillä",
+	"InvalidNumber": "Virheellinen numero",
+	"NewextarrowArg1": "Ensimmäinen argumentti komennolle $1 on oltava ohjaussekvenssin nimi",
+	"NewextarrowArg2": "Toinen argumentti komennolle $1 on oltava kaksi pilkulle erotettua kokonaislukua",
+	"NewextarrowArg3": "Kolmas argumentti komennolle $1 on oltava Unicode-merkin numero",
+	"NoClosingChar": "Sulkevaa $1-sulkua ei löytynyt",
+	"IllegalControlSequenceName": "Virheellinen ohjaussekvenssin nimi komennolle $1"
+}

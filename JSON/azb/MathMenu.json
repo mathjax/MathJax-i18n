@@ -1,0 +1,36 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alp Er Tunqa"
+		]
+	},
+	"Original": "اوْرجینال حالت",
+	"ErrorMessage": "خطا پیامی",
+	"Annotation": "نوْت",
+	"StarMath": "StarMath",
+	"OpenMath": "OpenMath",
+	"Settings": "ریاضی تنظیملری",
+	"Click": "کلیک",
+	"DoubleClick": "دبل-کلیک",
+	"NoZoom": "بؤیوتمه سیز",
+	"Option": "سئچمه",
+	"Alt": "آلت",
+	"Command": "دستور",
+	"Control": "کونترول",
+	"Shift": "شیفت",
+	"Auto": "اوْتوماتیک",
+	"TeXLocal": "تک (یئرلی)",
+	"TeXWeb": "تک (وب‌سایت)",
+	"TeXImage": "تک (عکس)",
+	"STIXLocal": "STIX (یئرلی)",
+	"STIXWeb": "STIX (وب‌سایت)",
+	"AsanaMathWeb": "آسانا ریاضی (وب‌سایت)",
+	"GyrePagellaWeb": "گری پاگلا (وب‌سایت)",
+	"GyreTermesWeb": "گیر ترمز (وب‌سایت)",
+	"LatinModernWeb": "لاتین مودرن (وب‌سایت)",
+	"NeoEulerWeb": "نئو اویلر (وب‌سایت)",
+	"ContextMenu": "متنی منو",
+	"Browser": "براوزر",
+	"Locale": "دیل",
+	"Close": "باغلا"
+}

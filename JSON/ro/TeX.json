@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Strainu"
+		]
+	},
+	"ExtraOpenMissingClose": "Prea multe acolade deschise sau acoladă închisă lipsă",
+	"ExtraCloseMissingOpen": "Prea multe acolade închise sau acoladă deschisă lipsă",
+	"MissingLeftExtraRight": "Lipsește un \\left sau există un \\right în plus",
+	"ExtraLeftMissingRight": "Lipsește un \\right sau există un \\left în plus",
+	"Misplaced": "$1 plasat greșit",
+	"AmbiguousUseOf": "Folosire ambiguă a $1",
+	"EnvBadEnd": "\\begin{$1} terminat cu \\end{$2}",
+	"EnvMissingEnd": "Lipsește \\end{$1}",
+	"MissingCloseBrace": "Lipsește o acoladă închisă",
+	"UndefinedControlSequence": "Secvență nedefinită $1",
+	"DoubleExponent": "Exponent dublu: folosiți acolade pentru a clarifica",
+	"MisplacedMiddle": "$1 trebuie plasat între \\left și \\right",
+	"MisplacedLimits": "$1 este permis numai asupra operatorilor",
+	"MultipleCommand": "Mai multe $1",
+	"IntegerArg": "Argumentul pasat lui $1 trebuie să fie un număr întreg",
+	"InvalidMathMLAttr": "Atribut MathML invalid: $1",
+	"UnknownAttrForElement": "$1 nu este recunoscut ca atribut pentru $2",
+	"MissingArgFor": "Lipsește un argument pentru $1",
+	"TokenNotFoundForCommand": "Nu pot găsi $1 pentru $2",
+	"MultipleBBoxProperty": "$1 specificat de două ori în $2",
+	"InvalidDecimalNumber": "Număr zecimal invalid",
+	"InvalidNumber": "Număr invalid"
+}

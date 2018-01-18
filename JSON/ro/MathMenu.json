@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Strainu"
+		]
+	},
+	"MathMLcode": "Cod MathML",
+	"ErrorMessage": "Mesaj de eroare",
+	"Annotation": "Adnotare",
+	"TeX": "TeX",
+	"StarMath": "StarMath",
+	"Maple": "Maple",
+	"ContentMathML": "Conținut MathML",
+	"OpenMath": "OpenMath",
+	"texHints": "Arată sugestii pentru TeX în MathML",
+	"Alt": "Alt",
+	"Control": "Control",
+	"Shift": "Shift",
+	"Auto": "Auto",
+	"TeXLocal": "TeX (local)",
+	"TeXWeb": "TeX (web)",
+	"TeXImage": "TeX (imagine)",
+	"STIXLocal": "STIX (local)",
+	"STIXWeb": "STIX (web)",
+	"ContextMenu": "Meniul contextual",
+	"Browser": "Browser",
+	"Locale": "Limbă",
+	"LoadLocale": "Încarcă din URL...",
+	"About": "Despre MathJax",
+	"Help": "Ajutor despre MathJax",
+	"wofforotffonts": "Fonturi WOFF sau OTF",
+	"svgfonts": "Fonturi SVG",
+	"Close": "Închide"
+}
