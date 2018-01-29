@@ -3,14 +3,15 @@
 		"authors": [
 			"Milicevic01",
 			"Perevod16",
-			"Obsuser"
+			"Obsuser",
+			"Acamicamacaraca"
 		]
 	},
 	"MathProcessingError": "Математичку обраду грешке",
 	"MathError": "Математичке грешке",
-	"LoadFile": "Учитавам $1",
-	"Loading": "Учитавање",
-	"LoadFailed": "Учитавање датотеке $1 није успело",
+	"LoadFile": "Учитавам $1...",
+	"Loading": "Учитавам...",
+	"LoadFailed": "Нисам успео да учитам датотеку $1",
 	"ProcessMath": "Обрада математике: $1%",
 	"Processing": "Обрада",
 	"TypesetMath": "Распоред математика: $1%",

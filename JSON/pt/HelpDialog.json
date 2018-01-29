@@ -14,7 +14,7 @@
 	"Browsers": "*Navegadores*: O MathJax funciona em todos os navegadores modernos incluindo IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ e a maioria dos navegadores para dispositivos móveis.",
 	"Menu": "*Menu de Fórmulas*: O MathJax acrescenta um menu de contexto às equações. Clique com o botão direito ou pressione CTRL ao clicar em qualquer fórmula matemática para aceder ao menu.",
 	"ShowMath": "*Mostrar fórmulas como* permite que visualize o código da fórmula para copiar e colar (como MathML ou no seu formato original).",
-	"Settings": "*Configurações* oferecem o controle sobre os recursos do MathJax, tais como o tamanho das fórmulas, e o mecanismo utilizado para exibir equações.",
+	"Settings": "As *Configurações* oferecem o controlo sobre as funcionalidades do MathJax, tais como o tamanho das fórmulas, e o mecanismo utilizado para mostrar equações.",
 	"Language": "*Idioma* permite que escolha o idioma que o MathJax utiliza nos seus menus e mensagens de aviso.",
 	"Zoom": "*Zoom nas Fórmulas*: Se você tem dificuldade para ler uma equação, o MathJax pode ampliá-la para ajudá-lo a visualizá-la melhor.",
 	"Accessibilty": "*Acessibilidade*: O MathJax funcionará automaticamente em leitores de ecrã para tornar as fórmulas matemáticas acessíveis aos que possuem problemas de visão.",
