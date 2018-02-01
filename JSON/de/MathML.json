@@ -3,10 +3,11 @@
 		"authors": [
 			"Metalhead64",
 			"pkra",
-			"Predatorix"
+			"Predatorix",
+			"Debenben"
 		]
 	},
-	"BadMglyph": "ungültige mglyph: $1",
+	"BadMglyph": "Ungültige Mglyph: $1",
 	"BadMglyphFont": "Ungültige Schriftart: $1",
 	"MathPlayer": "MathJax konnte MathPlayer nicht einrichten.\n\nFalls MathPlayer nicht installiert ist, musst du ihn zuerst installieren.\nAnderenfalls verhindern deine Sicherheitseinstellungen, dass\nActiveX-Steuerelemente ausgeführt werden können. Verwende die\nInternetoptionen unter dem Werkzeugmenü und wähle die Registerkarte\n„Sicherheit“. Klicke dann auf „Stufe anpassen“. Überprüfe, ob die\nEinstellungen für „ActiveX-Steuerelemente ausführen“ und „Binär- und\nSkriptverhalten“ aktiviert sind.\n\nDerzeit wirst du Fehlermeldungen sehen anstatt gesetzte Inhalte.",
 	"CantCreateXMLParser": "MathJax konnte keinen XML-Parser für MathML erstellen.\nÜberprüfe, ob die Sicherheitseinstellung\n„ActiveX-Steuerelemente ausführen, die für Skripting\nsicher sind“ aktiviert ist (verwende zur Überprüfung\ndie Internetoptionen im Werkzeugmenü, wähle die\nRegisterkarte „Sicherheit“ und klicke auf „Stufe\nanpassen“).\n\nMathML-Gleichungen können von MathJax nicht\nverarbeitet werden.",

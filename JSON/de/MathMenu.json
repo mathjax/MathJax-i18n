@@ -5,7 +5,8 @@
 			"Metalhead64",
 			"pkra",
 			"Purodha",
-			"Predatorix"
+			"Predatorix",
+			"Debenben"
 		]
 	},
 	"Show": "Zeige mathematischen Ausdruck als",
@@ -90,6 +91,6 @@
 	"EqSource": "MathJax-Gleichungsquelle",
 	"CloseAboutDialog": "Dialog „Über MathJax“ schließen",
 	"FastPreview": "Schnelle Vorschau",
-	"AssistiveMML": "Assistives MathML",
+	"AssistiveMML": "Unterstützendes MathML",
 	"InTabOrder": "In Reiterreihenfolge einschließen"
 }
