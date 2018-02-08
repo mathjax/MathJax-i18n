@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Uzdil"
+		]
+	},
+	"MathError": "ماتېماتىكلىق خاتالىق",
+	"LoadFile": "$1 ئوقۇلىۋاتىدۇ",
+	"Loading": "يۈكلەۋاتىدۇ",
+	"Processing": "بىر تەرەپ قىلىنىۋاتىدۇ",
+	"Typesetting": "بەت تىزىش",
+	"MathJaxNotSupported": "توركۆرگۈچىڭىز ۋاقتىنچە MathJax نى قوللىمايدۇ"
+}
