@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pyscowicz"
+		]
+	},
+	"LoadWebFont": "Ladataan web-fonttia $1",
+	"CantLoadWebFont": "Ei voida ladata web-fonttia $1",
+	"FirefoxCantLoadWebFont": "Firefox ei pysty lataamaan web-fonttia etäisännältä"
+}
