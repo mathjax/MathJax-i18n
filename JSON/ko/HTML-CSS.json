@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Banwol",
-			"Alex00728"
+			"Alex00728",
+			"Garam"
 		]
 	},
 	"LoadWebFont": "$1 웹폰트를 불러오고 있습니다...",
 	"CantLoadWebFont": "$1 웹폰트를 불러올 수 없습니다",
 	"FirefoxCantLoadWebFont": "파이어폭스는 원격 호스트로부터 웹 폰트를 불러올 수 없습니다.",
 	"CantFindFontUsing": "$1를 사용한 유효한 폰트를 찾을 수 없습니다.",
-	"WebFontsNotAvailable": "웹 폰트 사용이 불가합니다. 이미지 폰트를 대신 사용합니다."
+	"WebFontsNotAvailable": "웹 글꼴의 사용이 불가합니다. 영상 글꼴을 대신 사용합니다."
 }
