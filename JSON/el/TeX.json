@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Glavkos",
+			"Nikosgranturismogt"
+		]
+	},
+	"ExtraLeftMissingRight": "Έξτρα \\left ή λείπουν \\right",
+	"AmbiguousUseOf": "Αμφιλεγόμενη χρήση της $1",
+	"EnvBadEnd": "\\begin{$1} έληξε με \\end{$2}",
+	"EnvMissingEnd": "Λείπει \\end{$1}",
+	"MissingBoxFor": "Λείπει πλαίσιο για $1",
+	"MissingCloseBrace": "Λείπει άγκιστρο κλεισίματος",
+	"DoubleExponent": "Διπλός εκθέτης: χρησιμοποιήστε άγκιστρα για να διασάφηση",
+	"MisplacedMiddle": "$1 πρέπει να είναι μεταξύ \\left και \\right",
+	"MisplacedLimits": "το $1 επιτρέπεται μόνο σε λειτουργούς",
+	"MisplacedMoveRoot": "το $1 μπορεί να εμφανιστεί μόνο εντός μιας ρίζας",
+	"MultipleCommand": "Πολλαπλό $1",
+	"UnknownEnv": "Άγνωστο περιβάλλον '$1'",
+	"CommandNotAllowedInEnv": "Το $1 δεν επιτρέπεται στο περιβάλλον $2",
+	"MultipleLabel": "Η ετικέτα '$1' έχει οριστεί πολλαπλώς",
+	"CommandAtTheBeginingOfLine": "Το $1 πρέπει να έρχεται στην αρχή της γραμμής",
+	"BadMathStyleFor": "Κακό μαθηματικό στυλ για $1",
+	"PositiveIntegerArg": "Το όρισμα για το $1 πρέπει να είναι ένας θετικός ακέραιος",
+	"UndefinedColorModel": "Το μοντέλο χρώματος '$1' δεν ορίζεται",
+	"ModelArg1": "Οι τιμές χρωμάτων για το μοντέλο $1 απαιτούν 3 αριθμούς",
+	"InvalidNumber": "Μη έγκυρος αριθμός"
+}
