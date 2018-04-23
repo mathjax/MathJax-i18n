@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"아라",
-			"Ykhwong"
+			"Ykhwong",
+			"Revi"
 		]
 	},
 	"MathProcessingError": "수식 처리 오류",
@@ -14,5 +15,6 @@
 	"Processing": "처리 중",
 	"TypesetMath": "수식 조판 중: $1%",
 	"Typesetting": "조판 중",
-	"MathJaxNotSupported": "사용하는 브라우저는 MathJax를 지원하지 않습니다"
+	"MathJaxNotSupported": "사용하는 브라우저는 MathJax를 지원하지 않습니다",
+	"ErrorTips": "디버깅 팁: 브라우저 콘솔에서 %1 로 %2 를 조사하세요."
 }
