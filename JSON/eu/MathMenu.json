@@ -1,20 +1,34 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"Theklan"
 		]
 	},
 	"MathMLcode": "MathML kodea",
 	"OriginalMathML": "Jatorrizko MathML",
 	"TeXCommands": "TeX komandoak",
+	"AsciiMathInput": "AsciiMathML sarrera",
+	"Original": "Jatorrizko forma",
+	"ErrorMessage": "Errore-mezuak",
+	"Annotation": "Anotazioa",
 	"TeX": "TeX",
 	"StarMath": "StarMath",
 	"Maple": "Maple",
+	"ContentMathML": "MathML Edukia",
 	"OpenMath": "OpenMath",
+	"Settings": "Math hobespenak",
+	"Hover": "Sagua gainetik pasa",
+	"Click": "Klik",
+	"DoubleClick": "Klik bikoitza",
+	"NoZoom": "Zoomik ez",
+	"TriggerRequires": "Akbitaziorako behar dena:",
 	"Option": "Aukera",
 	"Alt": "Alt",
+	"Command": "Agindua",
 	"Control": "Ctrl",
 	"Shift": "Shift",
+	"ZoomFactor": "Zoom faktorea",
 	"ForHTMLCSS": "HTML-CSSrako:",
 	"TeXLocal": "TeX (lokala)",
 	"TeXWeb": "TeX (web)",

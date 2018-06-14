@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"Theklan"
 		]
 	},
+	"MathProcessingError": "Matematika prozesamendu akatsa",
+	"MathError": "Matematika akatsa",
 	"LoadFile": "$1 kargatzen",
 	"Loading": "Kargatzen",
 	"Processing": "Prozesatzen",
