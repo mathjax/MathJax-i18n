@@ -5,8 +5,8 @@
 		]
 	},
 	"LoadWebFont": "Cargando la tipografía web $1",
-	"CantLoadWebFont": "Non pue cargase la tipografía web $1",
-	"FirefoxCantLoadWebFont": "Firefox nun pue cargar les tipografíes web dende un sirvidor remotu",
-	"CantFindFontUsing": "Nun se pue atopar una tipografía válida usando $1",
+	"CantLoadWebFont": "Non pudo cargase la tipografía web $1",
+	"FirefoxCantLoadWebFont": "Firefox nun puede cargar les tipografíes web dende un sirvidor remotu",
+	"CantFindFontUsing": "Nun pudo atopase una tipografía válida usando $1",
 	"WebFontsNotAvailable": "Les tipografíes web nun tan disponibles. Usando les tipografíes d'imaxe nel so llugar"
 }
