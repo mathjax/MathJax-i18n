@@ -1,18 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minh Nguyen"
+			"Minh Nguyen",
+			"Leducthn"
 		]
 	},
-	"MathProcessingError": "Lỗi xử lý toán",
+	"MathProcessingError": "Lỗi xử lý công thức toán",
 	"MathError": "Lỗi toán",
 	"LoadFile": "Đang tải $1",
 	"Loading": "Đang tải",
 	"LoadFailed": "Thất bại khi tải tập tin: $1",
-	"ProcessMath": "Đang xử lý toán: $1%",
+	"ProcessMath": "Đang xử lý công thức toán: $1%",
 	"Processing": "Đang xử lý",
-	"TypesetMath": "Đang xếp chữ toán: $1%",
-	"Typesetting": "Đang xếp chữ",
+	"TypesetMath": "Đang chuyển đổi công thức toán: $1%",
+	"Typesetting": "Đang chuyển đổi",
 	"MathJaxNotSupported": "Trình duyệt của bạn không hỗ trợ MathJax",
 	"ErrorTips": "Mẹo vặt gỡ lỗi: sử dụng %1, kiểm tra %2 trong bảng điều khiển của trình duyệt"
 }

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dr Lotus Black"
+		]
+	},
+	"MathProcessingError": "သင်္ချာတွက်ချက်ခြင်း အမှား",
+	"LoadFile": "ဝန်ဆွဲတင်နေသည် $1",
+	"Loading": "ဝန်ဆွဲတင်နေသည်",
+	"Processing": "လုပ်ဆောင်နေသည်"
+}
