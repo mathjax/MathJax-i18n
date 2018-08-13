@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Gulpin"
 		]
 	},
 	"MathProcessingError": "数式処理エラー",
@@ -13,5 +14,6 @@
 	"Processing": "処理中",
 	"TypesetMath": "数式を組版中: $1%",
 	"Typesetting": "組版中",
-	"MathJaxNotSupported": "ご使用中のブラウザーは MathJax に対応していません"
+	"MathJaxNotSupported": "ご使用中のブラウザーは MathJax に対応していません",
+	"ErrorTips": "デバッグのヒント：%1を使用し、ブラウザのコンソールで%2を検査する"
 }

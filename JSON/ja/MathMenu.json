@@ -3,7 +3,8 @@
 		"authors": [
 			"Fryed-peach",
 			"Shirayuki",
-			"아라"
+			"아라",
+			"Gulpin"
 		]
 	},
 	"Show": "数式を次の形式で表示",
@@ -85,5 +86,9 @@
 	"IE9warning": "MathJax のコンテキスト メニューが無効になりますが、代わりに数式を Alt+クリックすると MathJax のメニューを使用できます。",
 	"NoOriginalForm": "元の形式が見つかりません",
 	"Close": "閉じる",
-	"EqSource": "MathJax 数式のソース"
+	"EqSource": "MathJax 数式のソース",
+	"CloseAboutDialog": "「MathJaxについて」を閉じる",
+	"FastPreview": "簡易プレビューを利用",
+	"AssistiveMML": "補助にMathMLを利用",
+	"InTabOrder": "タブ順を含める"
 }
