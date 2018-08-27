@@ -1,23 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ebraminio"
+			"Ebraminio",
+			"Jafari"
 		]
 	},
 	"ExtraOpenMissingClose": "آکولاد باز اضافی یا فقدان آکولاد بسته",
-	"ExtraCloseMissingOpen": "آکولاد بستهٔ اضافه یا فقدان آکولاد باز",
+	"ExtraCloseMissingOpen": "آکولاد بسته اضافه یا فقدان آکولاد باز",
 	"MissingLeftExtraRight": "فقدان ‎\\left یا ‎\\right اضافی",
 	"MissingScript": "فقدان نشانوند بالامتن یا زیرمتن",
 	"ExtraLeftMissingRight": "‎\\left اضافی یا فقدان ‎\\right",
 	"Misplaced": "$1 نابجا",
 	"MissingOpenForSub": "فقدان آکولاد باز برای زیرمتن",
 	"MissingOpenForSup": "آکولاد باز گم‌شده برای بالامتن",
-	"AmbiguousUseOf": "استفادهٔ مبهم از ‎$1",
+	"AmbiguousUseOf": "استفاده مبهم از ‎$1",
 	"EnvBadEnd": "‎\\begin{$1}‎ پایان‌یافته با ‎\\end{$2}‎",
 	"EnvMissingEnd": "‎\\end{$1}‎ گم‌شده",
-	"MissingBoxFor": "جعبهٔ گم‌شده برای $1",
-	"MissingCloseBrace": "آکولاد بستهٔ مفقود",
-	"UndefinedControlSequence": "دنبالهٔ کنترل تعریف‌نشدهٔ $1",
+	"MissingBoxFor": "جعبه گم‌شده برای $1",
+	"MissingCloseBrace": "آکولاد بسته مفقود",
+	"UndefinedControlSequence": "دنباله کنترل تعریف‌نشده $1",
 	"DoubleExponent": "توان دوم: از آکولاد برای روشن‌سازی استفاده کنید",
 	"DoubleSubscripts": "زیرمتن دوم: از آکولاد برای روشن‌سازی استفاده کنید",
 	"DoubleExponentPrime": "توان دو موجب توان مضاعف شد: از آکولاد برای روشن‌سازی استفاده کنید",

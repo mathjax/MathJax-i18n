@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Ebraminio",
-			"Reza1615"
+			"Reza1615",
+			"Jafari"
 		]
 	},
 	"MathProcessingError": "خطای پردازش ریاضی",
-	"MathError": "حطای ریاضی",
+	"MathError": "خطای ریاضی",
 	"LoadFile": "بارگیری $1",
 	"Loading": "بارگیری",
 	"LoadFailed": "خطا در بارگیری پرونده: $1",
