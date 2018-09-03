@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Philipp"
+			"Philipp",
+			"StanProg"
 		]
 	},
-	"Show": "Покажи като",
+	"Show": "Показване на кода на формулата като",
 	"MathMLcode": "MathML код",
 	"OriginalMathML": "Оригиналният MathML код",
 	"TeXCommands": "TeX команди",
