@@ -5,15 +5,15 @@
 			"Vikashegde"
 		]
 	},
-	"MathProcessingError": "ಗಣಿತ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ದೋಷ",
+	"MathProcessingError": "ಗಣಿತ ಸರಿ ಆಗಿ ಕಾಣುತ ಇಲ್ಲ",
 	"MathError": "ಗಣಿತ ದೋಷ",
 	"LoadFile": "$1 ಲೋಡ್ ಆಗುತ್ತಿದೆ",
 	"Loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ",
 	"LoadFailed": "$1 ಫೈಲ್ ಲೋಡ್ ಆಗಲಿಲ್ಲ",
 	"ProcessMath": "ಗಣಿತ ಪ್ರಕ್ರಿಯೆ ಆಗುತ್ತಿದೆ: $1%",
 	"Processing": "ಪ್ರಕ್ರಿಯೆ ಆಗುತ್ತಿದೆ",
-	"TypesetMath": "ಗಣಿತ ಟೈಪ್‍ಸೆಟ್ಟಿಂಗ್: $1%",
-	"Typesetting": "ಟೈಪ್‍ಸೆಟ್ಟಿಂಗ್",
-	"MathJaxNotSupported": "ನಿಮ್ಮ ಬ್ರೌಸರ್ MathJaxಅನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ",
+	"TypesetMath": "ಗಣಿತ ಬರಿತ್ತಿದೇವೆ: $1%",
+	"Typesetting": "ಬರಿಯುದು",
+	"MathJaxNotSupported": "ನಿಮ್ಮ ಬ್ರೌಸರ್ಗೆ ಮಾತ್ ಝಕ್ಷ್ ಅರ್ಥ ಆಗುದಿಲ್ಲ",
 	"ErrorTips": "ದಿಬೂಜಿ ಮಾಡಲಿಕ್ಕೆ ಸಾಲಾಹಗಳು: %1 ವನ್ನು ಉಪಯೋಗ ಮಾಡಿ, %2 ವನ್ನು ಬ್ರೌಸರ್ ಕನ್ಸೋಲ್ ಅಲ್ಲಿ ಪರಿಶಿಸಲಿ."
 }
