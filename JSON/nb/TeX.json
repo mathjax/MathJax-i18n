@@ -1,20 +1,31 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"Event"
 		]
 	},
+	"ExtraOpenMissingClose": "En venstre klammeparentes for mange eller en høyre klammeparentes for få",
+	"ExtraCloseMissingOpen": "Det mangler et argument for potens eller indeks",
 	"MissingLeftExtraRight": "Manglende \\left eller ekstra \\right",
+	"MissingScript": "Det mangler et argument for eksponent eller indeks",
 	"ExtraLeftMissingRight": "Ekstra \\left eller manglende \\right",
 	"Misplaced": "Feilplassert $1",
+	"MissingOpenForSub": "For få venstre klammeparenteser",
+	"MissingOpenForSup": "For få venstre klammeparenteser for eksponent",
 	"AmbiguousUseOf": "Tvetydig bruk av $1",
 	"EnvBadEnd": "\\begin{$1} avsluttet med \\end{$2}",
 	"EnvMissingEnd": "Manglende \\end{$1}",
 	"MissingBoxFor": "Manglende boks for $1",
+	"MissingCloseBrace": "For få høyre klammeparenteser",
 	"UndefinedControlSequence": "Udefinert kontrollsekvens $1",
 	"DoubleExponent": "Dobbel eksponent: bruk krøllparenteser for å tydeliggjøre",
+	"DoubleSubscripts": "Doble indekser: Bruk klammeparenteser for å tydeliggjøre",
+	"DoubleExponentPrime": "Apostrof gir dobbelt eksponent. Bruk klammeparenteser for å tydeliggjøre",
+	"CantUseHash1": "Du kan ikke bruke 'makroparameter-tegnet #' i matematikk-modus",
 	"MisplacedMiddle": "$1 må være mellom \\left og \\right",
 	"MisplacedLimits": "$1 tillates bare på operatorer",
+	"MisplacedMoveRoot": "$1 kan bare brukes innenfor et rot-uttrykk",
 	"MultipleCommand": "Flere $1",
 	"IntegerArg": "Argumentet til $1 må være et heltall",
 	"InvalidMathMLAttr": "Ugyldig MathML-attributt: $1",
