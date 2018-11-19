@@ -1,0 +1,14 @@
+{
+	"@metadata": [],
+	"MathProcessingError": "Matematičku obradu greške",
+	"MathError": "Matematičke greške",
+	"LoadFile": "Učitavam $1...",
+	"Loading": "Učitavam...",
+	"LoadFailed": "Nisam uspeo da učitam datoteku $1",
+	"ProcessMath": "Obrada matematike: $1%",
+	"Processing": "Obrada",
+	"TypesetMath": "Raspored matematika: $1%",
+	"Typesetting": "Raspored",
+	"MathJaxNotSupported": "Vaš veb pregledač ne podržava MathJax",
+	"ErrorTips": "Saveti za debagovanje: koristiti %1, proveriti %2 u konzoli pregledača"
+}
