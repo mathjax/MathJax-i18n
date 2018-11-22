@@ -3,7 +3,8 @@
 		"authors": [
 			"pkra",
 			"Predatorix",
-			"Metalhead64"
+			"Metalhead64",
+			"Debenben"
 		]
 	},
 	"MathProcessingError": "Fehler bei der Verarbeitung des mathematischen Ausdrucks",
@@ -11,9 +12,9 @@
 	"LoadFile": "Lade $1",
 	"Loading": "Lade",
 	"LoadFailed": "Datei konnte nicht geladen werden: $1",
-	"ProcessMath": "Verarbeite mathematischen Ausdruck: $1%",
+	"ProcessMath": "Verarbeite mathematische Ausdrücke: $1%",
 	"Processing": "Verarbeite",
-	"TypesetMath": "mathematischer Ausdruck wird gesetzt: $1%",
+	"TypesetMath": "Mathematische Ausdrücke werden gesetzt: $1%",
 	"Typesetting": "Formelsatz",
 	"MathJaxNotSupported": "Ihr Webbrowser unterstützt MathJax nicht",
 	"ErrorTips": "Fehlerbehebungs-Tipps: Verwende %1, prüfe %2 in der Browserkonsole"
