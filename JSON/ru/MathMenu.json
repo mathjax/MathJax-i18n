@@ -87,8 +87,8 @@
 	"NoOriginalForm": "Нет исходного кода",
 	"Close": "Закрыть",
 	"EqSource": "Исходный код формулы",
-	"CloseAboutDialog": "Закрыть диалог \"О программе\"",
-	"FastPreview": "Быстрый Просмотр",
+	"CloseAboutDialog": "Закрыть диалог «О программе»",
+	"FastPreview": "Быстрый просмотр",
 	"AssistiveMML": "Вспомогательный MathML",
-	"InTabOrder": "Включать в порядке табуляции"
+	"InTabOrder": "Включить в порядок табуляции"
 }

@@ -3,11 +3,12 @@
 		"authors": [
 			"Okras",
 			"Volkov",
-			"Nitch"
+			"Nitch",
+			"Alex Mashin"
 		]
 	},
-	"MathProcessingError": "Ошибка математической обработки",
-	"MathError": "Математическая ошибка",
+	"MathProcessingError": "Ошибка при обработке формулы",
+	"MathError": "Ошибка при обработке формулы",
 	"LoadFile": "Загрузка $1",
 	"Loading": "Загрузка",
 	"LoadFailed": "Не удалось загрузить: $1",
