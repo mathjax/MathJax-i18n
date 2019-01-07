@@ -1,11 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sfic"
+			"Sfic",
+			"Gopalindians"
 		]
 	},
+	"MathProcessingError": "गणित प्रसंस्करण त्रुटि",
 	"MathError": "गणित त्रुटि",
 	"LoadFile": "लोड हो रहा $1",
 	"Loading": "लोड हो रहा",
-	"MathJaxNotSupported": "आपका ब्राउज़र मैथजैक्स समर्थन नहीं करता है"
+	"LoadFailed": "फ़ाइल लोड करने में विफल: $1",
+	"ProcessMath": "प्रसंस्करण गणित: $1%",
+	"Processing": "काम किया जा रहा है",
+	"TypesetMath": "टाइपसेटिंग गणित: $1%",
+	"Typesetting": "अक्षर-योजना",
+	"MathJaxNotSupported": "आपका ब्राउज़र मैथजैक्स समर्थन नहीं करता है",
+	"ErrorTips": "डीबग युक्तियाँ: %1 का उपयोग करें, ब्राउज़र कंसोल में %2 का निरीक्षण करें"
 }
