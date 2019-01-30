@@ -4,11 +4,11 @@
 			"Aivaras"
 		]
 	},
-	"webFont": "Šiame tinklalapyje matematikos tekstą „MathJax“ rodo tinkle saugomais šriftais, kuriems įkelti reikia laiko. Teksto rinkimą galima greitinti, matematikos šriftus įdiegus naudotojo kompiuteryje.",
-	"imageFonts": "„MathJax“ taiko paveikslinius, o ne vietinius arba tinkle saugomus šriftus. Matematikos tekstas vaizduojamas lėčiau, o spausdinant netenkama raiškos.",
-	"noFonts": "Neradusi matematikos tekstui skirtų šriftų, „MathJax“ taiko bendruosius unikodo rašmenis. Kai kurie rašmenys gali būti darkomi arba visai nerodomi.",
+	"webFont": "Šiame tinklalapyje matematikos tekstą MathJax rodo tinkle saugomais šriftais, kuriems įkelti reikia laiko. Teksto rinkimą galima greitinti, matematikos šriftus įdiegus naudotojo kompiuteryje.",
+	"imageFonts": "MathJax taiko paveikslinius, o ne vietinius arba tinkle saugomus šriftus. Matematikos tekstas vaizduojamas lėčiau, o spausdinant netenkama raiškos.",
+	"noFonts": "Neradusi matematikos tekstui skirtų šriftų, MathJax taiko bendruosius unikodo rašmenis. Kai kurie rašmenys gali būti darkomi arba visai nerodomi.",
 	"webFonts": "Dauguma dabartinių naršyklių leidžia gauti šriftus iš tinklo. Tikėtina, kad atnaujinus naršyklės laidą arba esamą naršyklę pakeitus kita, tinklalapyje gerėtų matematikos teksto vaizdavimas.",
-	"fonts": "„MathJax“ gali taikyti [STIX fonts]($1) arba [MathJax TeX fonts]($2). Įdiegus vieną iš minėtų alternatyvų, gerės „MathJax“ veikimas.",
-	"STIXPage": "Tinklalapyje numatyti [STIX fonts]($1). Įdiegus minėtus šriftus, gerės „MathJax“ veikimas.",
-	"TeXPage": "Tinklalapyje numatyti [MathJax TeX fonts]($1).  Įdiegus minėtus šriftus, gerės „MathJax“ veikimas."
+	"fonts": "MathJax gali taikyti [STIX fonts]($1) arba [MathJax TeX fonts]($2). Įdiegus vieną iš minėtų alternatyvų, gerės MathJax veikimas.",
+	"STIXPage": "Tinklalapyje numatyti [STIX fonts]($1). Įdiegus minėtus šriftus, gerės MathJax veikimas.",
+	"TeXPage": "Tinklalapyje numatyti [MathJax TeX fonts]($1).  Įdiegus minėtus šriftus, gerės MathJax veikimas."
 }

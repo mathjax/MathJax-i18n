@@ -7,11 +7,11 @@
 	"BadMglyph": "Netinkamas matematikos glifas: $1",
 	"BadMglyphFont": "Netinkamas šriftas: $1",
 	"MathPlayer": "„MathJax“ nepavyko nustatyti „MathPlayer“.\n\nJei „MathPlayer“ dar neįdiegtas, būtina tai padaryti. Kitaip saugumo nuostatos neleis veikti „ActiveX“ valdikliams. Adresu Priemonių meniu > Interneto nuostatos > Saugumo kortelė paspaudę „Naudotojo lygį“, patikrinkite, ar įjungtos nuostatos „Paleisti ActiveX valdikius“ bei „Dvejetainės ir scenarijų veiklos“.\n\nPriešingu atveju vietoj matematikos ženklų bus rodomi klaidų pranešimai.",
-	"CantCreateXMLParser": "„MathJax“ nepavyksta sukurti „MathML“ XML analizatoriaus. Patikrinkite, ar įjungta saugumo nuostata „Scenarijų ActiveX valdikliai pažymėti kaip saugūs scenarijams vykdyti“ (Priemonių meniu > Interneto nuostatos > Naudotojo lygis).\n\n„MathJax“ neapdoros „MathML“ lygčių.",
+	"CantCreateXMLParser": "MathJax nepavyksta sukurti MathML XML analizatoriaus. Patikrinkite, ar įjungta saugumo nuostata „Scenarijų ActiveX valdikliai pažymėti kaip saugūs scenarijams vykdyti“ (Priemonių meniu > Interneto nuostatos > Naudotojo lygis).\n\nMathJax nedoros MathML lygčių.",
 	"UnknownNodeType": "Nežinoma mazgo atmaina: $1",
 	"UnexpectedTextNode": "Netikėtas teksto mazgas: $1",
-	"ErrorParsingMathML": "Klaida nagrinėjant „MathML“",
-	"ParsingError": "Klaida nagrinėjant „MathML“: $1",
-	"MathMLSingleElement": "„MathML“ formuotinas vienu dėmeniu",
-	"MathMLRootElement": "„MathML“ formuotinas <math> dėmeniu, o ne $1"
+	"ErrorParsingMathML": "Klaida nagrinėjant MathML",
+	"ParsingError": "Klaida nagrinėjant MathML: $1",
+	"MathMLSingleElement": "MathML formuotinas vienu dėmeniu",
+	"MathMLRootElement": "MathML formuotinas <math> dėmeniu, o ne $1"
 }
