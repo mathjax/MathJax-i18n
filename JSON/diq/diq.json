@@ -16,5 +16,6 @@
 	"Processing": "Domneno",
 	"TypesetMath": "Tewrê eyarê matematiki:$1",
 	"Typesetting": "Eyarê tewri",
-	"MathJaxNotSupported": "Rovıtera şıma MathJax'i nêgurweyne na"
+	"MathJaxNotSupported": "Rovıtera şıma MathJax'i nêgurweyne na",
+	"ErrorTips": "Tewrê xetaya pêravetışi: konsolê cıgeyroği de %1 gureniyeno %2 kontrol beno"
 }
