@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eleassar"
+			"Eleassar",
+			"Yerpo"
 		]
 	},
 	"MathProcessingError": "Napaka pri obdelavi matematike",
@@ -13,5 +14,6 @@
 	"Processing": "Obdelujem",
 	"TypesetMath": "Stavljenje matematike: $1%",
 	"Typesetting": "Stavljenje",
-	"MathJaxNotSupported": "Vaš brskalnik ne podpira MathJax"
+	"MathJaxNotSupported": "Vaš brskalnik ne podpira MathJax",
+	"ErrorTips": "Nasveti za razhroščevanje: uporabite %1, preverite %2 v konzoli brskalnika"
 }

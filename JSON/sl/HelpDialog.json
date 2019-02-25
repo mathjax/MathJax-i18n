@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eleassar"
+			"Eleassar",
+			"Yerpo"
 		]
 	},
 	"Help": "Pomoč za MathJax",
@@ -13,5 +14,6 @@
 	"Language": "*Jezik* vam omogoča izbrati jezik, ki naj ga MathJax uporablja za svoje menije in opozorilna sporočila.",
 	"Zoom": "*Math Zoom*: če imate težave pri branju enačbe, jo lahko MathJax poveča, da jo boste bolje videli.",
 	"Accessibilty": "*Dostopnost*: MathJax samodejno deluje z bralniki zaslona in omogoča dostop do matematike tudi slepim in slabovidnim.",
-	"Fonts": "*Pisave*: MathJax bo uporabljal nekatere matematične pisave, če so nameščene na računalniku, sicer pa pisave s spleta. Čeprav niso nujne, bodo lokalno nameščene pisave pospešile prikaz. Predlagamo namestitev [pisav STIX]($1)."
+	"Fonts": "*Pisave*: MathJax bo uporabljal nekatere matematične pisave, če so nameščene na računalniku, sicer pa pisave s spleta. Čeprav niso nujne, bodo lokalno nameščene pisave pospešile prikaz. Predlagamo namestitev [pisav STIX]($1).",
+	"CloseDialog": "Zapri prikazno okno za pomoč"
 }

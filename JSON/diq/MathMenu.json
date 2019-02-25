@@ -29,7 +29,7 @@
 	"DoubleClick": "Dırey-tıknayış",
 	"NoZoom": "Zoom mek",
 	"TriggerRequires": "İcabê Triggeri:",
-	"Option": "Weçinegi",
+	"Option": "Weçinıtek",
 	"Alt": "Bın",
 	"Command": "Komuta",
 	"Control": "Qontrol",
@@ -68,6 +68,6 @@
 	"eotffonts": "EOT fonti",
 	"svgfonts": "SVG fonti",
 	"NoOriginalForm": "Original form mewcud niyo",
-	"Close": "Racnê",
+	"Close": "Kip ke",
 	"EqSource": "Denklema çıme ya MathJax'i"
 }

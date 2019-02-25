@@ -3,7 +3,8 @@
 		"authors": [
 			"Eleassar",
 			"Dbc334",
-			"HairyFotr"
+			"HairyFotr",
+			"Yerpo"
 		]
 	},
 	"Show": "Prikaži matematiko kot",
@@ -86,5 +87,6 @@
 	"NoOriginalForm": "Na razpolago ni nobena izvorna oblika",
 	"Close": "Zapri",
 	"EqSource": "Vir enačbe MathJax",
+	"CloseAboutDialog": "Zapri prikazno okno o MathJaxu",
 	"FastPreview": "Hitri predogled"
 }
