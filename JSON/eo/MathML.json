@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"BadMglyph": "Ne uzebla mglyph: $1",
+	"BadMglyphFont": "Ne uzebla tiparo: $1",
+	"ErrorParsingMathML": "Eraro dum sintaksanalizo de MathML",
+	"ParsingError": "Eraro dum sintaksanalizo de MathML: $1",
+	"MathMLSingleElement": "MathML devas formiĝi per unu elemento",
+	"MathMLRootElement": "MathML devas formiĝi per elemento <math>, ne $1"
+}

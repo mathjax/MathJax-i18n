@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"webFont": "MathJax estas uzanta retajn tiparojn por montri la matematikaĵojn en ĉi-paĝo. Iom da tempo necesas elŝuti tiujn. La paĝo montriĝus pli rapide se vi instalis matematikajn tiparojn rekte en la tipara dosierujo de via sistemo.",
+	"webFonts": "Plejparto de modernaj TTT-legiloj permesas elŝuton de tiparoj tra la reto. Ĝisdatigi vian TTT-legilon al pli aktuala versio (aŭ ŝanĝi TTT-legilojn) povas plibonigi la kvaliton de la matematikaĵo sur ĉi tiu paĝo.",
+	"fonts": "MathJax povas uzi aŭ [la tiparojn STIX]($1) aŭ la [tiparojn MathJax TeX]($2). Elŝutu kaj instalu unu el tiuj tiparoj por plibonigi vian sperto kun MathJax.",
+	"STIXPage": "Jen retpaĝo fasonita per la [tiparoj STIX]($1). Elŝutu kaj instalu tiujn tiparojn por plibonigi vian sperto kun MathJax.",
+	"TeXPage": "Jen retpaĝo fasonita per la [tiparoj MathJax TeX]($1). Elŝutu kaj instalu tiujn tiparojn por plibonigi vian sperto kun MathJax."
+}

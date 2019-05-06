@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"Help": "Helpo pri MathJax",
+	"MathJax": "*MathJax* estas JavaScript-biblioteko kiu ebligas aŭtorojn inkluzivi matematikaĵojn en retpaĝoj. Kiel leganto, vi ne devas fari ion por legi.",
+	"Browsers": "*TTT-legiloj*: MathJax funkcias en ĉiuj modernaj TTT-legiloj, inkluzive de IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ kaj plejparto da poŝtelefonaj TTT-legiloj.",
+	"Fonts": "*Tiparoj*: MathJax uzas iujn matematikajn tiparojn se ili estas instalitaj sur via komputilo; alie, ĝi uzas retajn tiparojn. Kvankam ne postulataj, loke instalitaj tiparoj rapidigas kompostadon. Ni sugestas instali la [tiparojn STIX]($1).",
+	"CloseDialog": "Fermi helpan dialogon"
+}

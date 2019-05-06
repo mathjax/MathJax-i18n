@@ -1,14 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Umbert'"
+			"Umbert'",
+			"Mirin"
 		]
 	},
+	"MathProcessingError": "Eraro dum prilaborado de matematikaĵo",
+	"MathError": "Eraro pri Mathematikaĵo",
+	"LoadFile": "Ŝarganta dosieron $1",
 	"Loading": "Ŝargado",
 	"LoadFailed": "Ŝargado de dosiero malsukcesis: $1",
 	"ProcessMath": "Prilaborado de formulo: $1 %",
 	"Processing": "Prilaborado",
 	"TypesetMath": "Kompostado de formulo: $1 %",
 	"Typesetting": "Kompostado",
-	"MathJaxNotSupported": "Via krozilo ne subtenas Mathjax."
+	"MathJaxNotSupported": "Via krozilo ne subtenas Mathjax.",
+	"ErrorTips": "Konsiletoj pri erarserĉado: uzu %1, inspektu %2 en la TTT-legila konzolo"
 }

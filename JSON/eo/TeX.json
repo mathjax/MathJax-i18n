@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin",
+			"Umbert'"
+		]
+	},
+	"ExtraOpenMissingClose": "Tro malferma vosta krampo, aŭ manka ferma vosta krampo",
+	"ExtraCloseMissingOpen": "Troa ferma vosta krampo aŭ manka malferma vosta krampo",
+	"MissingLeftExtraRight": "Mankas \\left aŭ troas \\right",
+	"MissingScript": "Mankas argumento de supra aŭ malsupra indico",
+	"ExtraLeftMissingRight": "Troa \\left aŭ mankanta \\right",
+	"Misplaced": "Mise enmetita $1",
+	"AmbiguousUseOf": "Ambigua uzo de $1",
+	"EnvBadEnd": "\\begin{$1} finiĝis per \\end{$2}",
+	"EnvMissingEnd": "Mankanta \\end{$1}",
+	"MissingCloseBrace": "Fermanta krampo mankas",
+	"UndefinedControlSequence": "Ne difinita komandosinsekvo $1",
+	"DoubleExponent": "Duobla supra indico: klarigu per krampoj",
+	"DoubleSubscripts": "Duobla malsupra indico: klarigu per krampoj",
+	"MultipleCommand": "Pluraj $1",
+	"InvalidMathMLAttr": "Ne valida MathML-atributo: $1",
+	"MultipleLabel": "Etikedo '$1' plurfoje difinita",
+	"BadMathStyleFor": "Malbona mathematika stilo por $1",
+	"PositiveIntegerArg": "Argumento al $1 devas esti pozitiva entjero",
+	"MultipleBBoxProperty": "$1 estis specifita dufoje en $2",
+	"ExtraEndMissingBegin": "Troa $1 aŭ mankanta \\begingroup",
+	"UndefinedColorModel": "Kolormodelo '$1' ne estas difinita",
+	"InvalidDecimalNumber": "Ne valida decimala frakcio",
+	"InvalidNumber": "Ne valida nombro",
+	"NoClosingChar": "Ne povis trovi fermantan $1"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"LoadWebFont": "Ŝarganta rettiparon $1",
+	"CantLoadWebFont": "Ne povis ŝargi rettiparon $1",
+	"FirefoxCantLoadWebFont": "Firefox ne povas ŝargi retajn tiparojn el fora gastiganto.",
+	"CantFindFontUsing": "Ne povis trovi validan tiparon el $1",
+	"WebFontsNotAvailable": "Rettiparoj ne disponeblas; anstataŭigante per bildaj tiparoj"
+}
