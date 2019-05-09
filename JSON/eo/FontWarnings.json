@@ -5,6 +5,8 @@
 		]
 	},
 	"webFont": "MathJax estas uzanta retajn tiparojn por montri la matematikaĵojn en ĉi-paĝo. Iom da tempo necesas elŝuti tiujn. La paĝo montriĝus pli rapide se vi instalis matematikajn tiparojn rekte en la tipara dosierujo de via sistemo.",
+	"imageFonts": "MathJax estas uzanta sian bildajn tiparojn, ne lokajn aŭ retajn tiparojn. Tio malrapidigos la prezentadon, kaj la matematikaĵo eble ne presiĝos je la plej alta distingivo de via presilo.",
+	"noFonts": "MathJax ne trovis tiparon por montri matematikaĵon, kaj bildaj tiparoj ne disponas. Tial ĝi uzas ĝeneralajn Unikodajn skribsignojn, esperante ke via TTT-legilo montros ilin. Kelkaj skribsignoj eble malĝuste montriĝos aŭ ne montriĝos.",
 	"webFonts": "Plejparto de modernaj TTT-legiloj permesas elŝuton de tiparoj tra la reto. Ĝisdatigi vian TTT-legilon al pli aktuala versio (aŭ ŝanĝi TTT-legilojn) povas plibonigi la kvaliton de la matematikaĵo sur ĉi tiu paĝo.",
 	"fonts": "MathJax povas uzi aŭ [la tiparojn STIX]($1) aŭ la [tiparojn MathJax TeX]($2). Elŝutu kaj instalu unu el tiuj tiparoj por plibonigi vian sperto kun MathJax.",
 	"STIXPage": "Jen retpaĝo fasonita per la [tiparoj STIX]($1). Elŝutu kaj instalu tiujn tiparojn por plibonigi vian sperto kun MathJax.",
