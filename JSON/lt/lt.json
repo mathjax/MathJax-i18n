@@ -3,7 +3,8 @@
 		"authors": [
 			"Mantak111",
 			"Eitvys200",
-			"Aivaras"
+			"Aivaras",
+			"Naktis"
 		]
 	},
 	"MathProcessingError": "Matematikos apdorojimo klaida",
@@ -15,5 +16,6 @@
 	"Processing": "Apdorojama",
 	"TypesetMath": "Renkami matematikos ženklai: $1%",
 	"Typesetting": "Ženklų rinkimas",
-	"MathJaxNotSupported": "Jūsų naršyklė MathJax nenumato"
+	"MathJaxNotSupported": "Jūsų naršyklė MathJax nenumato",
+	"ErrorTips": "Derinimo patarimai: naudokite %1, patikrinkite %2 naršyklės konsolėje"
 }

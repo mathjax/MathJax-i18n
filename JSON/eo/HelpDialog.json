@@ -7,6 +7,12 @@
 	"Help": "Helpo pri MathJax",
 	"MathJax": "*MathJax* estas JavaScript-biblioteko kiu ebligas aŭtorojn inkluzivi matematikaĵojn en retpaĝoj. Kiel leganto, vi ne devas fari ion por legi.",
 	"Browsers": "*TTT-legiloj*: MathJax funkcias en ĉiuj modernaj TTT-legiloj, inkluzive de IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ kaj plejparto da poŝtelefonaj TTT-legiloj.",
+	"Menu": "*Matematiko-menuo*: MathJax aldonas kuntekstan menuon al ekvacioj. Dekstre alklaku, aŭ maldekstre alklaku kun stirklavo, por vidi la menuon.",
+	"ShowMath": "*Prezenti matematikaĵon kiel* ebligas vin vidi la fontokodon de la formulo por kopiado & algluado (kiel MathML aŭ kiel originala dosieraranĝo)",
+	"Settings": "*Agordoj* ebligas vin agordi la trajtojn de MathJax, ekz. la grando de la matematikaĵo kaj la mekanismo por prezenti la ekvaciojn.",
+	"Language": "*Lingvo* ebligas vin elekti la lingvon uzata de MathJax en menuoj kaj averto-mesaĝoj.",
+	"Zoom": "*Pligrandigo de matematikaĵo*: Se estas malfacila je vi legi ekvacion, MathJax povas pligrandigi ĝin por faciligi la legadon.",
+	"Accessibilty": "*Alireblo*: MathJax aŭtomate funkcias kune kun ekranlegiloj por alirebligi matematikon al tiuj kun limigita vidpovo.",
 	"Fonts": "*Tiparoj*: MathJax uzas iujn matematikajn tiparojn se ili estas instalitaj sur via komputilo; alie, ĝi uzas retajn tiparojn. Kvankam ne postulataj, loke instalitaj tiparoj rapidigas kompostadon. Ni sugestas instali la [tiparojn STIX]($1).",
 	"CloseDialog": "Fermi helpan dialogon"
 }
