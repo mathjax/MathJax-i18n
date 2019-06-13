@@ -5,7 +5,9 @@
 		]
 	},
 	"MathProcessingError": "သင်္ချာတွက်ချက်ခြင်း အမှား",
+	"MathError": "သင်္ချာ အမှား",
 	"LoadFile": "ဝန်ဆွဲတင်နေသည် $1",
 	"Loading": "ဝန်ဆွဲတင်နေသည်",
-	"Processing": "လုပ်ဆောင်နေသည်"
+	"Processing": "လုပ်ဆောင်နေသည်",
+	"MathJaxNotSupported": "သင်၏ ဘရောက်ဆာသည် MathJax ကို မထောက်ပံ့ထားပါ"
 }
