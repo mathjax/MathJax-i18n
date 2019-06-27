@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hosseinblue"
+			"Hosseinblue",
+			"FarsiNevis"
 		]
 	},
 	"ExtraOpenMissingClose": "آکولاد باز اضافی یا فقدان آکولاد بسته",
@@ -31,7 +32,7 @@
 	"InvalidMathMLAttr": "ویژگی نامعتبر MathML: $1",
 	"UnknownAttrForElement": "$1 یک ویژگی شناخته‌شده برای $2 نیست",
 	"MaxMacroSub1": "از بیشینهٔ شمار جایگزینی ماکروهای MathJax عبور شده‌است؛ آیا یک فراخوانی بازگشتی وجود دارد؟",
-	"MaxMacroSub2": "از شمار بیشینهٔ تعداد جایگزینی MathJax عبور شده‌است؛ آیا یک محیط لیتک بازشتگی موجود است؟",
+	"MaxMacroSub2": "از بیشینهٔ شمار جایگزینی ماکروهای MathJax عبور شده‌است؛ آیا یک محیط LaTeX بازگشتی موجود است؟",
 	"MissingArgFor": "نشانوند گم‌شده برای $1",
 	"ExtraAlignTab": "برگهٔ چینش اضافی در متن ‎\\cases",
 	"BracketMustBeDimension": "آرگومان آکولاد ‎$1 می‌بایست یک بعد باشد",
