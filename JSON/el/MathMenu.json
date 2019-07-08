@@ -20,6 +20,7 @@
 	"OpenMath": "OpenMath",
 	"texHints": "Εμφάνιση στοιχείων TeX στο MathML",
 	"Settings": "Ρυθμίσεις μαθηματικών",
+	"ZoomTrigger": "Έναυσμα μεγέθυνσης",
 	"Click": "Κλικ",
 	"DoubleClick": "Διπλό κλικ",
 	"NoZoom": "Χωρίς μεγέθυνση",
@@ -28,6 +29,8 @@
 	"Command": "Command",
 	"Control": "Control",
 	"Shift": "Shift",
+	"ZoomFactor": "Βαθμός μεγέθυνσης",
+	"Renderer": "Απόδοση μαθηματικών",
 	"FontPrefs": "Προτιμήσεις γραμματοσειράς",
 	"ForHTMLCSS": "Για HTML-CSS:",
 	"Auto": "Αυτόματο",
@@ -43,10 +46,13 @@
 	"NeoEulerWeb": "Neo Euler (ιστός)",
 	"Browser": "Περιηγητής",
 	"Locale": "Γλώσσα",
+	"LoadLocale": "Φόρτωση από URL ...",
 	"About": "Σχετικά με το MathJax",
 	"Help": "Βοήθεια MathJax",
 	"wofforotffonts": "Γραμματοσειρές WOFF ή OTF",
 	"eotffonts": "Γραμματοσειρές EOT",
 	"svgfonts": "Γραμματοσειρές SVG",
-	"Close": "Κλείσιμο"
+	"Close": "Κλείσιμο",
+	"FastPreview": "Γρήγορη Προεπισκόπιση",
+	"AssistiveMML": "Βοηθητικό MathML"
 }
