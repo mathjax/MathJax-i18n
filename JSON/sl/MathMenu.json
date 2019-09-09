@@ -4,7 +4,8 @@
 			"Eleassar",
 			"Dbc334",
 			"HairyFotr",
-			"Yerpo"
+			"Yerpo",
+			"P̲̳l̳eo"
 		]
 	},
 	"Show": "Prikaži matematiko kot",
@@ -88,5 +89,7 @@
 	"Close": "Zapri",
 	"EqSource": "Vir enačbe MathJax",
 	"CloseAboutDialog": "Zapri prikazno okno o MathJaxu",
-	"FastPreview": "Hitri predogled"
+	"FastPreview": "Hitri predogled",
+	"AssistiveMML": "Pomožni MathML",
+	"InTabOrder": "Vključi v vrstni red zavihkov"
 }
