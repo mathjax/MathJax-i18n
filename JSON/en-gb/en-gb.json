@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andibing"
+			"Andibing",
+			"Cblair91"
 		]
 	},
 	"MathProcessingError": "Maths processing error",
@@ -13,5 +14,6 @@
 	"Processing": "Processing",
 	"TypesetMath": "Typesetting maths: $1%",
 	"Typesetting": "Typesetting",
-	"MathJaxNotSupported": "Your browser does not support MathJax"
+	"MathJaxNotSupported": "Your browser does not support MathJax",
+	"ErrorTips": "Debugging tips: use %1, inspect %2 in the browser console"
 }
