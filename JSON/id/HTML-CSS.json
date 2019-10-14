@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Budidarmulyana"
+		]
+	},
+	"LoadWebFont": "Memuat font web $1",
+	"CantLoadWebFont": "Tidak dapat memuat font web $1",
+	"FirefoxCantLoadWebFont": "Firefox tidak dapat memuat font web dari host jarak jauh",
+	"CantFindFontUsing": "Tidak dapat menemukan font yang valid menggunakan $1",
+	"WebFontsNotAvailable": "Font web tidak tersedia. Sebaliknya, gunakan font gambar"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Budidarmulyana"
+		]
+	},
+	"Help": "Bantuan MathJax",
+	"MathJax": "*MathJax* adalah perpustakaan JavaScript yang memungkinkan penulis halaman untuk memasukkan matematika ke dalam halaman web mereka. Sebagai pembaca, Anda tidak perlu melakukan apa pun untuk mewujudkannya.",
+	"Browsers": "*Browser*: MathJax bekerja dengan semua browser modern termasuk IE6 +, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ dan sebagian besar browser mobile.",
+	"Menu": "*Menu Matematika*: MathJax menambahkan menu kontekstual ke persamaan. Klik kanan atau Ctrl-klik pada matematika apa saja untuk mengakses menu.",
+	"ShowMath": "*Tampilkan matematika sebagai* memungkinkan Anda untuk melihat markup sumber rumus untuk copy dan paste (sebagai MathML atau dalam format aslinya).",
+	"Settings": "*Pengaturan* memberi Anda kendali atas fitur MathJax, seperti ukuran matematika, dan mekanisme yang digunakan untuk menampilkan persamaan.",
+	"Language": "*Bahasa* memungkinkan Anda memilih bahasa yang digunakan oleh MathJax untuk menu dan pesan peringatannya.",
+	"Zoom": "*Pembesaran Matematika*: Jika Anda kesulitan membaca persamaan, MathJax dapat memperbesarnya untuk membantu Anda melihatnya lebih baik.",
+	"Accessibilty": "*Aksesibilitas*: MathJax akan secara otomatis bekerja dengan pembaca layar untuk membuat matematika dapat diakses oleh tunanetra.",
+	"Fonts": "*Font*: MathJax akan menggunakan font matematika tertentu jika diinstal pada komputer Anda; jika tidak, itu akan menggunakan font berbasis web. Meskipun tidak diperlukan, font yang dipasang secara lokal akan mempercepat pengaturan huruf. Kami menyarankan untuk menginstal [font STIX]($1).",
+	"CloseDialog": "Tutup dialog bantuan"
+}
