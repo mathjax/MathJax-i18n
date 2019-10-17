@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Grkn gll"
+		]
+	},
+	"webFont": "MathJax, matematiği bu sayfada görüntülemek için web tabanlı yazı tiplerini kullanıyor. Bunların indirilmesi zaman alır, bu nedenle matematik fontlarını doğrudan sisteminizin font klasörüne yüklediyseniz sayfa daha hızlı hale gelir.",
+	"imageFonts": "MathJax, yerel veya web tabanlı yazı tipleri yerine resim yazı tiplerini kullanıyor. Bu işlem siteyi normalden daha yavaş hale getirir ve matematik, yazıcınızın tam çözünürlüğünde yazdırılamayabilir."
+}

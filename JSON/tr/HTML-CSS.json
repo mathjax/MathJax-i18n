@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Grkn gll"
+		]
+	},
+	"LoadWebFont": "$1 web fontu yükleniyor",
+	"CantLoadWebFont": "$1 web fontu yüklenemiyor",
+	"FirefoxCantLoadWebFont": "Firefox web fontlarını uzak sunucudan yükleyemiyor",
+	"WebFontsNotAvailable": "Web fontları mevcut değil. Bunun yerine resim yazı tiplerini kullanın."
+}

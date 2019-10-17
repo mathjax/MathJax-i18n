@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Meelo",
-			"McAang"
+			"McAang",
+			"Grkn gll"
 		]
 	},
 	"MathProcessingError": "Matematik işleme hatası",
@@ -11,5 +12,6 @@
 	"Loading": "Yükleniyor",
 	"LoadFailed": "Dosya yüklenemedi: $1",
 	"ProcessMath": "Matematik işleme: %$1",
+	"Processing": "İşleniyor...",
 	"MathJaxNotSupported": "Tarayıcınız MathJax'i desteklemiyor"
 }

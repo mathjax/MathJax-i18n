@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Trockya"
+			"Trockya",
+			"Grkn gll"
 		]
 	},
 	"Help": "MathJax Yardım",
 	"Language": "*Dil* MathJax tarafından menülerinde ve uyarı iletilerinde kullanılan dili seçmenizi sağlar.",
-	"Zoom": "*Math zum*: Eğer bir eşitliği okumakta zorluk çekiyorsanız, MathJax daha iyi görmenize yardımcı olmak için eşitliği büyütebilir."
+	"Zoom": "*Math zum*: Eğer bir eşitliği okumakta zorluk çekiyorsanız, MathJax daha iyi görmenize yardımcı olmak için eşitliği büyütebilir.",
+	"CloseDialog": "Yardım iletişim kutusunu kapat"
 }
