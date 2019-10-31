@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"BadMglyph": "Kötü mglif: $1",
+	"BadMglyphFont": "Kötü yazı tipi: $1",
+	"MathPlayer": "MathJax, MathPlayer programını kuramadı.\n\nMathPlayer kurulu değilse, önce onu yüklemeniz gerekir.\nAksi takdirde, güvenlik ayarlarınız ActiveX’i engelliyor olabilir.\nçalışan kontrol eder. Altındaki İnternet Seçenekleri öğesini kullanın.\nAraçlar menüsünü seçin ve Güvenlik sekmesini seçin, ardından\nözel Seviye düğmesi. İçin ayarların kontrol edilmesini sağlayın.\n'ActiveX Denetimlerini Çalıştır' ve 'İkili ve komut dosyası davranışları'\netkin.\n\nŞu anda yerine hata mesajları göreceksiniz\ndizgi matematiği",
+	"CantCreateXMLParser": "MathJax, MathML için bir XML ayrıştırıcı oluşturamaz. Şunu kontrol et\n'Script ActiveX denetimleri, komut dosyası için güvenli olarak işaretlendi'\nayar etkin (Araçlar’daki İnternet Seçenekleri\nmenüsünü seçin ve Güvenlik panelini seçin, ardından Özel Düzey'e basın\nbunu kontrol etmek içindir)\n\nMathML denklemleri MathJax tarafından işlenemez",
+	"UnknownNodeType": "Bilinmeyen düğüm tipi: $1",
+	"UnexpectedTextNode": "Beklenmeyen metin düğümü: $1",
+	"ErrorParsingMathML": "MathML ayrıştırılırken hata oluştu",
+	"ParsingError": "MathML ayrıştırılırken hata oluştu: $1",
+	"MathMLSingleElement": "MathML, tek bir eleman tarafından oluşturulmalıdır",
+	"MathMLRootElement": "MathML $1 değil bir <math> öğesi tarafından oluşturulmalıdır"
+}

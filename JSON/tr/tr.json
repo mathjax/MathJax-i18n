@@ -3,7 +3,8 @@
 		"authors": [
 			"Meelo",
 			"McAang",
-			"Grkn gll"
+			"Grkn gll",
+			"BaRaN6161 TURK"
 		]
 	},
 	"MathProcessingError": "Matematik işleme hatası",
@@ -13,5 +14,8 @@
 	"LoadFailed": "Dosya yüklenemedi: $1",
 	"ProcessMath": "Matematik işleme: %$1",
 	"Processing": "İşleniyor...",
-	"MathJaxNotSupported": "Tarayıcınız MathJax'i desteklemiyor"
+	"TypesetMath": "Dizgi matematik: $1%",
+	"Typesetting": "Dizgi",
+	"MathJaxNotSupported": "Tarayıcınız MathJax'i desteklemiyor",
+	"ErrorTips": "Hata ayıklama ipuçları: %1 kullanın, tarayıcı konsolunda %2'yi kontrol edin"
 }

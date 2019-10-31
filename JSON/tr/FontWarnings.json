@@ -1,9 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Grkn gll"
+			"Grkn gll",
+			"BaRaN6161 TURK"
 		]
 	},
 	"webFont": "MathJax, matematiği bu sayfada görüntülemek için web tabanlı yazı tiplerini kullanıyor. Bunların indirilmesi zaman alır, bu nedenle matematik fontlarını doğrudan sisteminizin font klasörüne yüklediyseniz sayfa daha hızlı hale gelir.",
-	"imageFonts": "MathJax, yerel veya web tabanlı yazı tipleri yerine resim yazı tiplerini kullanıyor. Bu işlem siteyi normalden daha yavaş hale getirir ve matematik, yazıcınızın tam çözünürlüğünde yazdırılamayabilir."
+	"imageFonts": "MathJax, yerel veya web tabanlı yazı tipleri yerine resim yazı tiplerini kullanıyor. Bu işlem siteyi normalden daha yavaş hale getirir ve matematik, yazıcınızın tam çözünürlüğünde yazdırılamayabilir.",
+	"noFonts": "MathJax matematiğini görüntülemek için kullanılacak bir fontu bulamıyor ve resim fontları mevcut değil, bu yüzden tarayıcınızın bunları gösterebileceğini umarak genel Unicode karakterleri üzerine düşüyor. Bazı karakterler düzgün görünmeyebilir veya büyük olasılıkla hiç görünmeyebilir.",
+	"webFonts": "Çoğu modern tarayıcı fontların web üzerinden indirilmesine izin verir. Tarayıcınızın daha yeni bir sürümüne (veya tarayıcıları değiştirmek) güncellemek, bu sayfadaki matematiğin kalitesini artırabilir.",
+	"fonts": "MathJax, [STIX fontları]($1) veya [MathJax TeX fontları]($2) kullanabilir. MathJax deneyiminizi geliştirmek için bu fontlardan birini indirin ve yükleyin.",
+	"STIXPage": "Bu sayfa [STIX fontları]($1) kullanmak üzere tasarlanmıştır. MathJax deneyiminizi geliştirmek için bu fontları indirin ve yükleyin.",
+	"TeXPage": "Bu sayfa [MathJax TeX fontları]($1) kullanmak için tasarlanmıştır. MathJax deneyiminizi geliştirmek için bu fontları indirin ve yükleyin."
 }
