@@ -6,7 +6,8 @@
 			"Urhixidur",
 			"fred",
 			"Yzelf",
-			"Gomoko"
+			"Gomoko",
+			"Verdy p"
 		]
 	},
 	"MathProcessingError": "Erreur de traitement de la formule mathématique",
@@ -14,10 +15,10 @@
 	"LoadFile": "Chargement de $1",
 	"Loading": "Chargement",
 	"LoadFailed": "Échec du chargement de $1",
-	"ProcessMath": "Traitement des formules : $1 %",
+	"ProcessMath": "Traitement en cours des formules mathématiques : $1 %",
 	"Processing": "Traitement en cours",
-	"TypesetMath": "Composition des formules: $1%",
-	"Typesetting": "Composition",
+	"TypesetMath": "Composition en cours des formules : $1 %",
+	"Typesetting": "Composition en cours",
 	"MathJaxNotSupported": "Votre navigateur ne prend pas en charge MathJax",
-	"ErrorTips": "Conseils de débogage : utiliser %1, inspecter %2 dans la console du navigateur"
+	"ErrorTips": "Conseils de débogage : utiliser %1, inspecter %2 dans la console du navigateur"
 }
