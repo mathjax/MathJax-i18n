@@ -9,13 +9,13 @@
 	},
 	"MathProcessingError": "Matematik işleme hatası",
 	"MathError": "Matematik hatası",
-	"LoadFile": "$1 Yükleniyor",
+	"LoadFile": "$1 yükleniyor",
 	"Loading": "Yükleniyor",
 	"LoadFailed": "Dosya yüklenemedi: $1",
-	"ProcessMath": "Matematik işleme: %$1",
+	"ProcessMath": "Matematik işleniyor: %$1",
 	"Processing": "İşleniyor...",
-	"TypesetMath": "Dizgi matematik: $1%",
-	"Typesetting": "Dizgi",
+	"TypesetMath": "Matematik türü ayarlanıyor: %$1",
+	"Typesetting": "Tür ayarlarnıyor",
 	"MathJaxNotSupported": "Tarayıcınız MathJax'i desteklemiyor",
 	"ErrorTips": "Hata ayıklama ipuçları: %1 kullanın, tarayıcı konsolunda %2'yi kontrol edin"
 }

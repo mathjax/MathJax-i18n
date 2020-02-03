@@ -13,7 +13,7 @@
 	"ShowMath": "*Matematiği* olarak göster, formülü kopyala ve yapıştır için kaynak işaretlemesini görüntülemenizi sağlar (MathML veya orijinal biçiminde).",
 	"Settings": "*Ayarlar*, MathJax'ın matematiğin boyutu ve denklemleri görüntülemek için kullanılan mekanizma gibi özelliklerini kontrol etmenizi sağlar.",
 	"Language": "*Dil* MathJax tarafından menülerinde ve uyarı iletilerinde kullanılan dili seçmenizi sağlar.",
-	"Zoom": "*Math zum*: Eğer bir eşitliği okumakta zorluk çekiyorsanız, MathJax daha iyi görmenize yardımcı olmak için eşitliği büyütebilir.",
+	"Zoom": "*Math yakınlığı*: Eğer bir eşitliği okumakta zorluk çekiyorsanız, MathJax daha iyi görmenize yardımcı olmak için eşitliği büyütebilir.",
 	"Accessibilty": "*Erişilebilirlik*: MathJax, matematiği görme engelli tarafından erişilebilir hale getirmek için otomatik olarak ekran okuyucularla çalışacaktır.",
 	"Fonts": "*Yazı Tipleri*: MathJax bilgisayarınıza yüklüyse belirli matematik yazı tiplerini kullanır; Aksi takdirde, web tabanlı yazı tiplerini kullanır. Zorunlu olmamakla birlikte, yerel olarak yüklenen yazı tipleri dizgiyi hızlandırır. [STIX Yazı tiplerini]($1) yüklemenizi öneririz.",
 	"CloseDialog": "Yardım iletişim kutusunu kapat"
