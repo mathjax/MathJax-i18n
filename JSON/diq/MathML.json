@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"1917 Ekim Devrimi",
+			"Mirzali"
+		]
+	},
+	"BadMglyph": "Mglypho xırabe: $1",
+	"BadMglyphFont": "Tipê nuşteyê xırabeyi: $1",
+	"MathMLSingleElement": "MathML, lazımo ke tek eleman vırazo."
+}
