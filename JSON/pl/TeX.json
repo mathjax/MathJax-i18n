@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ty221",
-			"piotrdomagalski",
 			"Chrumps",
-			"Mateon1"
+			"Mateon1",
+			"Ty221",
+			"piotrdomagalski"
 		]
 	},
 	"ExtraOpenMissingClose": "Nadmiarowy nawias otwierający lub brakujący nawias zamykający",

@@ -2,11 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Fohanno",
+			"Fulup",
 			"Gwenn-Ael"
 		]
 	},
 	"BadMglyph": "mglyph fall : $1",
 	"BadMglyphFont": "Font fall : $1",
+	"MathPlayer": "N'eo ket bet gouest MathJax da gefluniañ MathPlayer.\n\nMa n'eo ket staliet MathPlayer, ret eo deoc'h en ober da gentañ.\nA-hend-all e c'hallo bezañ miret ouzh kontrolloù ActiveX da vont en-dro gant hoc'h arventennoù surentez. Grit gant an elfenn Dibarzhioù Internet el lañser Ostilhoù ha diuzit an ivinell Surentez, goude-se gwaskañ war ar bouton Live personelaet. Gwiriit emañ gweredekaet mat an arventennoù evit 'Seveniñ kontrolloù ActiveX', hag 'Emzalc'hioù skript ha binarel'.\n\nEvit poent e welot ar c'hemennadennoù fazi e-lec'h an testennoù matematik",
+	"CantCreateXMLParser": "Ne c'hall ket MathJax krouiñ un dielfenner XML evit MathML. Gwiriit eo gweredekaet mat an arventenn surentez 'kontrolloù Script ActiveX merket aotreet evit enrollañ' (ober gant an elfenn Dibarzhioù Internet en ostilhoù al lañser ha diuzañ ar banell surentez, goude-se gwaskañ war ar bouton Live personelaat evit gwiriañ an traoù).\n\nNe c'hallo ket ar c'hevatalennoù MathML bezañ kemeret e kont gant MathJax",
 	"UnknownNodeType": "Seurt skoulm dianav : $1",
 	"UnexpectedTextNode": "Skoulm testenn dic'hortoz : $1",
 	"ErrorParsingMathML": "Fazi o tielfennañ MathML",

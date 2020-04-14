@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Fohanno",
+			"Fulup",
 			"Gwenn-Ael"
 		]
 	},
@@ -31,6 +32,8 @@
 	"NotMathMLToken": "N'eo ket an elfenn $1 un elfenn MathML elfennel",
 	"InvalidMathMLAttr": "Doareenn MathML direizh : $1",
 	"UnknownAttrForElement": "Dianav eo an doareenn $1 d'an elfenn $2",
+	"MaxMacroSub1": "Aet oc'h en tu all d'an niver a vakroioù erlec'hiañ aotreet ; hag ur galv makro rekursivel zo ?",
+	"MaxMacroSub2": "Aet oc'h en tu all d'an niver brasañ a vakroioù erlec'hiañ aotreet gant MathJax ; hag un endro LaTeX rekursivel zo ?",
 	"MissingArgFor": "Arguzenn diank evit $1",
 	"ExtraAlignTab": "Arouezenn steudañ '&' dic'hortoz evit testenn an urzh /cases",
 	"BracketMustBeDimension": "An argutezenn etre krochedoù an urzh $1 a rank bezañ ur vent",
@@ -43,6 +46,7 @@
 	"TokenNotFoundForCommand": "N'eus ket bet gallet kavout $1 evit $2",
 	"MathNotTerminated": "Formulenn diechu er voest testenn",
 	"IllegalMacroParam": "N'eo ket aotreet an arventenn dave makro",
+	"MaxBufferSize": "Aet oc'h en tu all da vent diabarzh brasañ golver MathJax ; Hag ur galv makro rekursivel zo ?",
 	"CommandNotAllowedInEnv": "$1 n'eo ket aotreet en endro $2",
 	"MultipleLabel": "Label '$1' termenet meur a wech",
 	"CommandAtTheBeginingOfLine": "$1 a rank bezañ e deroù al linenn",
@@ -68,6 +72,7 @@
 	"IllegalParamNumber": "Niver direizh a arventennoù evit an urzh $1",
 	"MissingCS": "$1 a rank bezañ heuliet gant ur sekañs kontrollañ",
 	"CantUseHash2": "Implij direizh eus # er patrom evit $1",
+	"SequentialParam": "Ret eo d'an arventennoù evit $1 bezañ niveret en ur mod sekañsel",
 	"MissingReplacementString": "Ar chadennad arouezennoù erlec'hiañ a vank evit an termenadur $1.",
 	"MismatchUseDef": "An implij eus $1 ne glot ket gant an termenadur anezhañ",
 	"RunawayArgument": "Arguzenn diechu evit $1 ?",

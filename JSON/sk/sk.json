@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Lexected",
 			"Mikulas1",
-			"TomášPolonec",
-			"Lexected"
+			"TomášPolonec"
 		]
 	},
 	"MathProcessingError": "Chyba spracovania matematiky",

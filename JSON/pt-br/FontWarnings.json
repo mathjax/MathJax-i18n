@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"helder",
 			"Amgauna",
-			"Tuliouel"
+			"Tuliouel",
+			"helder"
 		]
 	},
 	"webFont": "O MathJax está utilizando fontes baseadas em web para exibir as fórmulas matemáticas desta página. O download delas leva algum tempo, então a página seria renderizada mais rapidamente se você instalasse as fontes para matemática diretamente na pasta de fontes do seu sistema.",

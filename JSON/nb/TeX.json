@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jon Harald Søby",
-			"Event"
+			"Event",
+			"Jon Harald Søby"
 		]
 	},
 	"ExtraOpenMissingClose": "En venstre klammeparentes for mange eller en høyre klammeparentes for få",

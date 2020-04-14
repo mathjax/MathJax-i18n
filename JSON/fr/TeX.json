@@ -1,17 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
+			"Frigory",
+			"Gomoko",
 			"Jean-Frédéric",
 			"Rastus Vernon",
 			"Sherbrooke",
 			"Urhixidur",
-			"fred",
-			"Yann.fauche",
-			"Gomoko",
-			"Yzelf",
+			"Verdy p",
 			"Wladek92",
-			"Frigory",
-			"Verdy p"
+			"Yann.fauche",
+			"Yzelf",
+			"fred"
 		]
 	},
 	"ExtraOpenMissingClose": "Accolade ouvrante superflue ou accolade fermante manquante",

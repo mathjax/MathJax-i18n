@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras",
-			"Volkov",
+			"Alex Mashin",
 			"Nitch",
-			"Alex Mashin"
+			"Okras",
+			"Volkov"
 		]
 	},
 	"MathProcessingError": "Ошибка при обработке формулы",

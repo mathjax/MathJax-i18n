@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Moorooboorai",
-			"Sjoerddebruin",
-			"Siebrand"
+			"Siebrand",
+			"Sjoerddebruin"
 		]
 	},
 	"ExtraOpenMissingClose": "Overtollige openende accolade of ontbrekende afsluitende accolade",

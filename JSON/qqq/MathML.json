@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Dimension10",
+			"Lokal Profil",
 			"Shirayuki",
-			"fred",
-			"Lokal Profil"
+			"fred"
 		]
 	},
 	"BadMglyph": "This error is displayed when processing a MathML mglyph element with a bad URL. Parameters:\n* $1 - the value of the src attribute",

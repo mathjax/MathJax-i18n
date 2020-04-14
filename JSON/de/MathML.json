@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Debenben",
 			"Metalhead64",
-			"pkra",
 			"Predatorix",
-			"Debenben"
+			"pkra"
 		]
 	},
 	"BadMglyph": "Ungültige Mglyph: $1",

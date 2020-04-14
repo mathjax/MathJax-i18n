@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"MathProcessingError": "Matematičku obradu greške",
 	"MathError": "Matematičke greške",
 	"LoadFile": "Učitavam $1...",

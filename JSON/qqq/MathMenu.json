@@ -2,13 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Dimension10",
+			"Jhertel",
+			"Liuxinyu970226",
 			"Mormegil",
 			"Shirayuki",
-			"fred",
 			"Waldir",
-			"Liuxinyu970226",
-			"Jhertel",
-			"Waldyrious"
+			"Waldyrious",
+			"fred"
 		]
 	},
 	"Show": "'Show math as' menu item. MathJax uses 'Math' as a distinct UI choice. Please translate it literally whenever possible.\n\nFollowed by the following menu subitems:\n* {{msg-mathjax|Mathmenu-MathMLcode}}\n* {{msg-mathjax|Mathmenu-Original}}\n* {{msg-mathjax|Mathmenu-Annotation}}\n* {{msg-mathjax|Mathmenu-texHints}} - checkbox label",

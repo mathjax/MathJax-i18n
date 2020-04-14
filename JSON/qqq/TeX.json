@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Shirayuki",
-			"fred",
 			"Waldir",
-			"Waldyrious"
+			"Waldyrious",
+			"fred"
 		]
 	},
 	"ExtraOpenMissingClose": "This appears in TeX expressions when open and close braces do not match e.g. <code>\\( { \\)</code>\n\nSee also:\n* {{msg-mathjax|Tex-ExtraCloseMissingOpen}}",

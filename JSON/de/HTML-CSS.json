@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Metalhead64",
-			"pkra",
-			"Predatorix"
+			"Predatorix",
+			"pkra"
 		]
 	},
 	"LoadWebFont": "Lade Webfont $1",

@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"helder",
 			"!Silent",
-			"Rodrigo codignoli"
+			"Rodrigo codignoli",
+			"helder"
 		]
 	},
 	"ExtraOpenMissingClose": "Sobrou uma chave de abertura ou faltou uma de fechamento",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"ExtraOpenMissingClose": "Dodatne otkrыvaющuю braće ili dovoljno zatvaranja kovrdžavom brace",
 	"ExtraCloseMissingOpen": "Dodatne zatvaranja kovrdžavom brace ili nedostaje otvorena braće zagrada",
 	"MissingLeftExtraRight": "Nedostaje \\left ili ekstra \\right",

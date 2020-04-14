@@ -2,10 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Alawatthe",
-			"Metalhead64",
-			"pkra",
 			"Debenben",
-			"Predatorix"
+			"Metalhead64",
+			"Predatorix",
+			"pkra"
 		]
 	},
 	"ExtraOpenMissingClose": "Zusätzliche öffnende, oder fehlende schließende Klammer",

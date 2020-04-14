@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Fohanno",
+			"Fulup",
 			"Gwenn-Ael"
 		]
 	},
@@ -21,6 +22,7 @@
 	"texHints": "Diskwel ar skoazelloù Tex e MathML",
 	"Settings": "Arventennoù ar matematikoù",
 	"ZoomTrigger": "Distegner Zoum",
+	"Hover": "Tremen al logodenn war-c'horre",
 	"Click": "Klikañ",
 	"DoubleClick": "Daouglikañ",
 	"NoZoom": "Zoum ebet",
@@ -31,6 +33,7 @@
 	"Control": "Kontroll",
 	"Shift": "Pennlizherenn",
 	"ZoomFactor": "Feur zoum",
+	"Renderer": "Prosesor formulennoù",
 	"MPHandles": "Lezel MathPlayer da verañ :",
 	"MenuEvents": "Darvoudoù lañser",
 	"MouseEvents": "Darvoudoù logodenn",
@@ -51,6 +54,7 @@
 	"ContextMenu": "Lañser kemperzhel",
 	"Browser": "Merdeer",
 	"Scale": "Lakaat an holl jedadoù hervez ar skeuliad...",
+	"Discoverable": "Lakaat da skediñ pa dremen al logodenn war-c'horre",
 	"Locale": "Yezh",
 	"LoadLocale": "Kargañ diwar an URL ...",
 	"About": "Diwar-benn MathJax",
@@ -64,8 +68,17 @@
 	"wofforotffonts": "fontoù woff pe otf",
 	"eotffonts": "fontoù eot",
 	"svgfonts": "Fontoù svg",
+	"WebkitNativeMMLWarning": "Evit doare n'eo ket skoret MathML gant ho merdeer ent emgefre ; neuze ma cheñchit evit un ezvont MathML e c'hallo bezañ dilennus ar matematikoù war ar bajenn-man",
+	"MSIENativeMMLWarning": "Rekis eo da Internet Explorer kaout an adveziant MathPlayer evit gallout seveniñ un ezvont MathML.",
+	"OperaNativeMMLWarning": "Skor Opera evit MathML zo darnel hepken. Ma cheñchit evit un ezvont MathML e c'hallo bezañ dister daskor jedadoù zo.",
+	"SafariNativeMMLWarning": "N'eo ket emplementet an holl arc'hwelioù implijet gant MathJax gant ho merdeer MathML genidik. Gant se e vo dister daskor jedadoù zo moarvat.",
+	"FirefoxNativeMMLWarning": "N'eo ket emplementet an holl arc'hwelioù implijet gant MathJax gant ho merdeer MathML genidik. Gant se e vo dister daskor jedadoù zo moarvat.",
+	"MSIESVGWarning": "Ne oa ket emplementet SVG en Internet Explorer a-raok IE9 ha neuze n'emañ ket e IE8 pe er stummoù koshoc'h c'hoazh. Ma cheñchit evit kaout un ezvont SVG n'en em ziskouezo ket ar matematikoù en un doare prop.",
 	"LoadURL": "Kargañ roadennoù treiñ eus an URL-mañ :",
+	"BadURL": "Dleout a rafe an URL bezañ ur restr JavaScript termenet ganti roadennoù treiñ MathJax. Dleout a rafe anvioù ar restroù JavaScript klotañ o astenn gant '.js'",
 	"BadData": "C'hwitet eo pellgardadur ar roadennoù treiñ adalek $1",
+	"SwitchAnyway": "Tremen d'an daskor forzh penaos ?\n\n(Gwaskañ war MAT EO evit cheñch, war NULLAÑ evit kenderc'hel gant an daskor zo bremañ)",
+	"ScaleMath": "Lakaat an holl formulennoù matematik diouzh ar skeul (e-keñver an destenn tro-dro) dre",
 	"NonZeroScale": "Ne zlefe ket ar skeuliad bezañ par da zero",
 	"PercentScale": "Ar skeuliad a zlefe bezañ un dregantad (da skouer, 120 %)",
 	"IE8warning": "Se a ziweredekay al lañser hag ar arc'hwelioù zoumañ. En o flas avat e c'halli klikañ war ur bomm en ur bouezañ war ar bouton Alt\n evit kaout al lañser MathjAX.",
@@ -75,5 +88,6 @@
 	"EqSource": "Tarzh kevatalenn MathJax",
 	"CloseAboutDialog": "Serriñ ar voest kendivizout A-zivout MathJax",
 	"FastPreview": "Dalberzh prim",
+	"AssistiveMML": "Skoazeller MathML",
 	"InTabOrder": "Enlakaat an urzh an ivinelloù"
 }

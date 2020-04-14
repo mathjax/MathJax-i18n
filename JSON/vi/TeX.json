@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minh Nguyen",
-			"Datanhlg"
+			"Datanhlg",
+			"Minh Nguyen"
 		]
 	},
 	"ExtraOpenMissingClose": "Dấu ngoặc mở còn dư hoặc dấu ngoặc đóng bị thiếu",
