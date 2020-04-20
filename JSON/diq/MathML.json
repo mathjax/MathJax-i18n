@@ -7,5 +7,9 @@
 	},
 	"BadMglyph": "Mglypho xırabe: $1",
 	"BadMglyphFont": "Tipê nuşteyê xırabeyi: $1",
+	"UnknownNodeType": "Nêzaniyaya babeta gırey : $1",
+	"UnexpectedTextNode": "Nêpawıyaye gırey metini:$1",
+	"ErrorParsingMathML": "MathML abırnayış de xeta veciyê",
+	"ParsingError": "MathML abırnayışi de xeta veciyê: $1",
 	"MathMLSingleElement": "MathML, lazımo ke tek eleman vırazo."
 }
