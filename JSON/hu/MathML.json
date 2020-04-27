@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"MeskoBalazs"
+		]
+	},
+	"BadMglyph": "Hibás mglyph: $1",
+	"BadMglyphFont": "Hibás betűkészlet: $1",
+	"MathPlayer": "A MathJax nem tudta beállítani a MathPlayert.\n\nHa a MathPlayer nincs telepítve, akkor telepíteni kell.\nKülönben a biztonsági beállítások megakadályozhatják az \nActiveX-vezérlők futtatását. Használja az Internetbeállítások\nelemet az Eszközök menü alatt, és nyomja meg az Egyéni szint\ngombot. Győződjön meg róla, hogy az „ActiveX-vezérlők és\nbeépülő modulok futtatása” és a „Bináris és parancsprogramokkal\nszabályozott viselkedések” engedélyezve vannak.\n\nJelenleg szedett képletek helyett csak hibaüzeneteket fog látni.",
+	"CantCreateXMLParser": "A MathJax nem tud XML-értelmezőt létrehozni a MathML-hez.\nGyőződjön meg róla, hogy a „Biztonságosként megjelölt ActiveX-\nvezérlők futtatása” biztonsági beállítás engedélyezve van\n(használja az Internetbeállítások elemet az Eszközök menüben, és\nválassza a Biztonság panelt, majd nyomja meg az Egyéni szint\ngombot, és jelölje ezt be).\n\nA MathML egyenleteket a MathJax nem fogja tudni feldolgozni.",
+	"UnknownNodeType": "Ismeretlen csomóponttípus: $1",
+	"UnexpectedTextNode": "Váratlan szövegcsomópont: $1",
+	"ErrorParsingMathML": "Hiba a MathML értelmezésekor",
+	"ParsingError": "Hiba a MathML értelmezésekor: $1",
+	"MathMLSingleElement": "A MathML-nek egyetlen elemből kell állnia",
+	"MathMLRootElement": "A MathML-nek <math> elemből kell állnia, nem ebből: $1"
+}

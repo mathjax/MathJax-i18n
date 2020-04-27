@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"MeskoBalazs"
+		]
+	},
+	"Help": "MathJax Súgó",
+	"MathJax": "A *MathJax* egy JavaScript programkönyvtár, amellyel az oldalak szerzői képleteket szúrhatnak be a weboldalaikba. Olvasóként ehhez semmit sem kell tennie.",
+	"Browsers": "*Böngészők*: A MathJax működik az összes modern böngészővel: IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+, és a legtöbb mobilböngészővel is.",
+	"Menu": "*Képlet menü*: A MathJax hozzáad egy helyi menüt az egyenletekhez. Kattintson jobb gombbal, vagy Ctrl és bal gombbal a menü eléréséhez.",
+	"ShowMath": "A *Képlet megjelenítése másként* lehetővé teszi, hogy megtekintse a képlet forráskódját, hogy másolhassa és beillessze (MathML-ként vagy eredeti formátumban).",
+	"Settings": "A *Beállítások* irányítást adnak a MathJax funkció felett, például a képletek mérete vagy a megjelenítés módja állítható be.",
+	"Language": "A *Nyelv* segítségével kiválaszthatja a MathJax által, a menükhöz és figyelmeztető üzenetekhez használt nyelvet.",
+	"Zoom": "*Képlet nagyítása*: Ha nehezen tud elolvasni egy egyenletet, akkor a MathJax fel tudja nagyítani, hogy jobban lássa.",
+	"Accessibilty": "*Akadálymentesítés*: A MathJax automatikusan együttműködik a képernyőolvasókkal, hogy akadálymentesebbé tegye a képleteket a látáskorlátozottak számára.",
+	"Fonts": "*Betűkészletek*: A MathJax bizonyos matematikai betűkészleteket használ, ha azok telepítve vannak a számítógépére; egyébként pedig webes betűkészleteket. Bár nem szükségesek, a helyben telepített betűkészletek gyorsítják a szöveg szedését. Javasoljuk a [STIX betűkészletek]($1) telepítését.",
+	"CloseDialog": "Súgó párbeszédablak bezárása"
+}

@@ -1,11 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"MeskoBalazs",
 			"Máté"
 		]
 	},
-	"webFont": "A MathJax webalapú betűképeket használ, hogy megjelenítse az ezen az oldalon található képleteket. Ezek letöltése időbe telik, így az oldal betöltése gyorsabban történne, ha a matematikai betűképeket közvetlenül telepítenéd a rendszered fontmappájába.",
-	"imageFonts": "A MathJax a képfontjait használja helyi vagy webalapú betűképek helyett. Emiatt a szokottnál lassabban töltődik be, és a képletek nyomtatáskor nem biztos, hogy a legnagyobb felbontásban lesznek kinyomtatva.",
-	"noFonts": "A MathJax nem talál betűképet a képletek megjelenítéséhez, és a képfontok is elérhetetlenek, így helyettük általános Unicode-karaktereket használ abban a reményben, hogy a böngésző képes lesz megjeleníteni őket. Némely karakter lehet, hogy nem megfelelően vagy egyáltalán nem fog megjelenni.",
-	"webFonts": "A legtöbb modern böngésző engedélyezi a betűképek letöltését az internetről. A böngésződ frissítése a legújabb verzióra (vagy lecserélése) javíthat az ezen az oldalon található képletek minőségén."
+	"webFont": "A MathJax webalapú betűkészleteket használ, hogy megjelenítse az ezen az oldalon található képleteket. Ezek letöltése időbe telik, így az oldal betöltése gyorsabb lenne, ha a matematikai betűkészleteket telepítené a rendszere betűkészlet-mappájába.",
+	"imageFonts": "A MathJax a saját betűkészleteit használja a helyi vagy webalapú betűkészletek helyett. Emiatt a szokottnál lassabban töltődik be, és a képletek nyomtatáskor nem biztos, hogy a legnagyobb felbontásban lesznek kinyomtatva.",
+	"noFonts": "A MathJax nem talál betűkészletet a képletek megjelenítéséhez, és a képalapú betűkészletek sem érhetők el, így helyettük általános Unicode-karaktereket használ abban a reményben, hogy a böngésző képes lesz megjeleníteni őket. Némely karakter lehet, hogy nem megfelelően vagy egyáltalán nem fog megjelenni.",
+	"webFonts": "A legtöbb modern böngésző engedélyezi a betűkészletek letöltését az internetről. A böngészője frissítése a legújabb verzióra (vagy a böngészőcsere) javíthat az oldalon található képletek minőségén.",
+	"fonts": "A MathJax [STIX]($1) vagy [MathJax TeX]($2) betűkészleteket tud használni. Töltse le és telepítse az egyiküket, hogy jobbá tegye az élményét a MathJaxszal.",
+	"STIXPage": "Ez az oldal [STIX betűkészletekkel]($1) történő használatra lett tervezve. Töltse le és telepítse ezeket, hogy jobbá tegye az élményét a MathJaxszal.",
+	"TeXPage": "Ez az oldal [MathJax Tex betűkészletekkel]($1) történő használatra lett tervezve. Töltse le és telepítse ezeket, hogy jobbá tegye az élményét a MathJaxszal."
 }

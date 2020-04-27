@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"1917 Ekim Devrimi",
 			"Gorizon",
 			"Gırd",
 			"Kumkumuk",
@@ -36,6 +37,7 @@
 	"Shift": "Shift",
 	"ZoomFactor": "Faktora zoomi",
 	"Renderer": "Matematik vıraştoğ",
+	"MPHandles": "İdareyê MathPlayer rê mısade bıdên:",
 	"MenuEvents": "Hediseyê menuyi",
 	"MouseEvents": "Faaliyetê meriy",
 	"MenuAndMouse": "Faaliyetê meriy u menuy",
@@ -54,6 +56,7 @@
 	"NeoEulerWeb": "Neo Euler (Web)",
 	"ContextMenu": "Kontextmenü",
 	"Browser": "Browser",
+	"Scale": "Sencaniya matematiki pêro...",
 	"Locale": "Zıwan",
 	"LoadLocale": "URL ra bar beno...",
 	"About": "Heqdé MathJax",

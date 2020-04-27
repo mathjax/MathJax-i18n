@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"MeskoBalazs"
+		]
+	},
+	"LoadWebFont": "$1 webes betűkészlet betöltése",
+	"CantLoadWebFont": "A(z) $1 webes betűkészlet nem tölthető be",
+	"FirefoxCantLoadWebFont": "A Firefox nem tudja betölteni a webes betűkészleteket a távoli kiszolgálóról",
+	"CantFindFontUsing": "Nem található érvényes betűkészlet a(z) $1 használatával",
+	"WebFontsNotAvailable": "Nem érhető el webes betűkészletek. Képalapú betűkészletek lesznek használva"
+}

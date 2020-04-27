@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"MeskoBalazs",
 			"ViDam"
 		]
 	},
@@ -13,5 +14,6 @@
 	"Processing": "Feldolgozás",
 	"TypesetMath": "Matematikai betűszedés: $1%",
 	"Typesetting": "Betűszedés",
-	"MathJaxNotSupported": "A böngésződ nem támogatja a MathJaxot"
+	"MathJaxNotSupported": "A böngészője nem támogatja a MathJaxot.",
+	"ErrorTips": "Hibakeresési tippek: használja ezt: %1, vizsgálja meg a böngészőkonzolban: %2"
 }
