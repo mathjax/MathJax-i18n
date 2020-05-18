@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hgarg"
+		]
+	},
+	"BadMglyph": "गलत mglyph: $1",
+	"BadMglyphFont": "गलत फौंट: $1",
+	"ErrorParsingMathML": "मैथएमएल पद व्याख्या में त्रुटि",
+	"ParsingError": "मैथएमएल पद व्याख्या में त्रुटि: $1",
+	"MathMLSingleElement": "मैथएमएल एक अवयव से ही बनना चाहिये",
+	"MathMLRootElement": "मैथएमएल एक <math> अवयव से ही बनना चाहिये, ना कि $1"
+}

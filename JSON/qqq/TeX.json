@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hgarg",
 			"Shirayuki",
 			"Waldir",
 			"Waldyrious",
@@ -36,7 +37,7 @@
 	"MaxMacroSub1": "MathJax limits the number of macro substitutions to prevent infinite loops.\n\nFor example, this error may happen with <code>\\newcommand{\\a}{\\a} \\a</code>",
 	"MaxMacroSub2": "MathJax limits the number of nested environments to prevent infinite loops.\n\nFor example, this error may happen with <code>\\newenvironment{a}{\\begin{a}}{\\end{a}} \\begin{a}\\end{a}</code>",
 	"MissingArgFor": "This happens when an argument is missing e.g. <code>\\frac{a}</code>. Parameters:\n* $1 - the command name e.g. <code>\\frac</code>",
-	"ExtraAlignTab": "{{doc-important|Do not translate <code>\\cases</code>; it is a TeX command.}}\nThis happens when <code>\\cases</code> has two many columns e.g. <code>\\cases{a & b & c}</code>",
+	"ExtraAlignTab": "{{doc-important|Do not translate <code>\\cases</code>; it is a TeX command.}}\nThis happens when <code>\\cases</code> has too many columns e.g. <code>\\cases{a & b & c}</code>",
 	"BracketMustBeDimension": "This happens when a bracket argument of an item is not a dimension e.g. <code>\\begin{array} x \\\\[INVALID] y \\end{array}</code>.\n\nParameters:\n* $1 - e.g. <code>\\</code>",
 	"InvalidEnv": "This happens with invalid environment name e.g. <code>\\begin{_INVALID_} \\end{_INVALID_}</code> where underscores are forbidden.\n\nParameters:\n* $1 - the environment name e.g. <code>_INVALID_</code>",
 	"UnknownEnv": "This happens when an unknown environment is used e.g. <code>\\begin{UNKNOWN} \\end{UNKNOWN}</code>.\n\nParameters:\n* $1 - the environment name e.g. <code>UNKNOWN</code>",

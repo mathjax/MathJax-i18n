@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hgarg"
+		]
+	},
+	"LoadWebFont": "वैब फौंट $1 लोड किया जा रहा है",
+	"CantLoadWebFont": "वैब फौंट $1 नहीं लोड हो पाया",
+	"FirefoxCantLoadWebFont": "फायरफौक्स दूसरे कंप्यूटर से वैब फौंट्स नहीं लोड कर सका",
+	"CantFindFontUsing": "$1 से मान्य फौंट नहीं मिला",
+	"WebFontsNotAvailable": "वैब फौंट उपलब्ध नहीं हैं। प्रतिबिंब फौंट उपयोग में लिये जायेंगे।"
+}
