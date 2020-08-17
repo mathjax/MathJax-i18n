@@ -57,6 +57,7 @@
 	"ContextMenu": "Kontextmenü",
 	"Browser": "Browser",
 	"Scale": "Sencaniya matematiki pêro...",
+	"Discoverable": "Qalın belı kerê",
 	"Locale": "Zıwan",
 	"LoadLocale": "URL ra bar beno...",
 	"About": "Heqdé MathJax",
@@ -70,8 +71,13 @@
 	"wofforotffonts": "Fontê WOFF yana OTF",
 	"eotffonts": "EOT fonti",
 	"svgfonts": "SVG fonti",
+	"LoadURL": "No URL ra datay açarnayışi bar kerê:",
+	"NonZeroScale": "Sencek sıfır nêbeno",
+	"PercentScale": "Sencek seyi ra bo (mesela %120)",
 	"NoOriginalForm": "Original form mewcud niyo",
 	"Close": "Kip ke",
 	"EqSource": "Denklema çıme ya MathJax'i",
-	"FastPreview": "Verqayto herbi"
+	"FastPreview": "Verqayto herbi",
+	"AssistiveMML": "Mabêndar MathML",
+	"InTabOrder": "Rêza tabi miyan ke"
 }

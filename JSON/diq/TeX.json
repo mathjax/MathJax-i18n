@@ -42,11 +42,18 @@
 	"MissingCloseBracket": "Serva argumanê $1 racnayışê ']' nêvineya",
 	"MissingDimOrUnits": "Ebatı kemi ya serva $1 pêhesnayışi",
 	"TokenNotFoundForCommand": "Serva $2, $1 nevineyau",
+	"MathNotTerminated": "Matematik, dora metini de qedineyê",
 	"IllegalMacroParam": "İllegal çımey parametrey makroy",
+	"CommandNotAllowedInEnv": "$1 ortam de $2'i re icazet nêdano",
 	"MultipleLabel": "Etiketê '$1' zafın şınasyayo",
 	"CommandAtTheBeginingOfLine": "Serey satır rê wa $1 bêro",
+	"IllegalAlign": "$1 ya xırab hizaya xeti",
 	"BadMathStyleFor": "Serva $1 ar terzê matematiki",
+	"PositiveIntegerArg": "Argumanê $1 wa ju amara pozitif bo",
+	"ErroneousNestingEq": "Vıraştıkanê Denklemi xırab cayan biyê",
+	"MultipleBBoxProperty": "$1, $2'i miyan de dı fıni belı biya.",
 	"UndefinedColorModel": "'$1' modelê rengê nêşınasiya",
 	"InvalidDecimalNumber": "Kesırın nımre nêvineya",
-	"InvalidNumber": "Numreyo nêvêrde"
+	"InvalidNumber": "Numreyo nêvêrde",
+	"NoClosingChar": "$1 racnayış nêvineya"
 }
