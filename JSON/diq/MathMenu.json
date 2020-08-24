@@ -72,11 +72,13 @@
 	"eotffonts": "EOT fonti",
 	"svgfonts": "SVG fonti",
 	"LoadURL": "No URL ra datay açarnayışi bar kerê:",
+	"BadData": "Melumatê açarnayışi bar nêbiyê :$1",
 	"NonZeroScale": "Sencek sıfır nêbeno",
 	"PercentScale": "Sencek seyi ra bo (mesela %120)",
 	"NoOriginalForm": "Original form mewcud niyo",
 	"Close": "Kip ke",
 	"EqSource": "Denklema çıme ya MathJax'i",
+	"CloseAboutDialog": "Heqa diyalogê MathJagi bıqefılne",
 	"FastPreview": "Verqayto herbi",
 	"AssistiveMML": "Mabêndar MathML",
 	"InTabOrder": "Rêza tabi miyan ke"
