@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
+			"CmplstofB",
 			"Gulpin",
 			"Shirayuki"
 		]
 	},
 	"MathProcessingError": "数式処理エラー",
-	"MathError": "数式エラー",
+	"MathError": "誤った数式",
 	"LoadFile": "$1 を読み込み中",
 	"Loading": "読み込み中",
-	"LoadFailed": "ファイルを読み込めませんでした: $1",
+	"LoadFailed": "ファイルの読み込みに失敗しました: $1",
 	"ProcessMath": "数式を処理中: $1%",
 	"Processing": "処理中",
 	"TypesetMath": "数式を組版中: $1%",

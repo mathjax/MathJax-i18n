@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mohsin Ali"
+		]
+	},
+	"LoadWebFont": "ৱেব ফ'ণ্ট $1 ল'ড হৈ আছে",
+	"CantLoadWebFont": "ৱেব ফ'ণ্ট $1 ল'ড কৰিব পৰা নাই",
+	"FirefoxCantLoadWebFont": "Firefox-এ দূৰৱৰ্তী হ'ষ্টৰ পৰা ৱেব ফ'ণ্ট ল'ড কৰিব নোৱাৰে",
+	"CantFindFontUsing": "$1 ব্যৱহাৰ কৰা বৈধ ফ'ণ্ট বিচাৰিব পৰা নাই",
+	"WebFontsNotAvailable": "ৱেব ফ'ণ্ট উপলব্ধ নহয়। ইয়াৰ পৰিৱৰ্তে ছবি ফ'ণ্ট ব্যৱহাৰ কৰি থকা হৈছে"
+}

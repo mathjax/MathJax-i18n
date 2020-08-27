@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mohsin Ali"
+		]
+	},
+	"MathError": "গণিত ত্ৰুটি",
+	"LoadFile": "$1 ল'ড হৈ আছে",
+	"Loading": "ল'ড হৈ আছে",
+	"LoadFailed": "ফাইল ল'ড হোৱাত বিফল হ'ল: $1"
+}
