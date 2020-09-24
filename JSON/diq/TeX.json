@@ -52,8 +52,14 @@
 	"PositiveIntegerArg": "Argumanê $1 wa ju amara pozitif bo",
 	"ErroneousNestingEq": "Vıraştıkanê Denklemi xırab cayan biyê",
 	"MultipleBBoxProperty": "$1, $2'i miyan de dı fıni belı biya.",
+	"InvalidBBoxProperty": "'$1' zey yew reng, ebatê pıriyeyi ya na zey stili nêaseno",
+	"ExtraEndMissingBegin": "Vêşêri $1 ya zi kemi \\begingroup",
+	"GlobalNotFollowedBy": "$1, \\let, \\def ya zi terefê \\newcommand ra teqib nêbeno",
 	"UndefinedColorModel": "'$1' modelê rengê nêşınasiya",
+	"ModelArg1": "Ercê rengê modelê $1 gani 3 amari bê",
 	"InvalidDecimalNumber": "Kesırın nımre nêvineya",
+	"ModelArg2": "Ercê rengê modelê $1 wa $2 u $3 bo",
 	"InvalidNumber": "Numreyo nêvêrde",
-	"NoClosingChar": "$1 racnayış nêvineya"
+	"NoClosingChar": "$1 racnayış nêvineya",
+	"RunawayArgument": "Seba $1 argumano remane?"
 }

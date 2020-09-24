@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"1917 Ekim Devrimi",
 			"Gambollar",
 			"Mirzali"
 		]
 	},
 	"LoadWebFont": "Web font $1 bar beno",
-	"CantLoadWebFont": "Fontê webê $1'i bar nêbı"
+	"CantLoadWebFont": "Fontê webê $1'i bar nêbı",
+	"FirefoxCantLoadWebFont": "Firefox fontanê webi nêşeno serverê duri ra bar kero"
 }
