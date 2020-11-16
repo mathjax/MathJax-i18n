@@ -8,5 +8,7 @@
 	},
 	"LoadWebFont": "Web font $1 bar beno",
 	"CantLoadWebFont": "Fontê webê $1'i bar nêbı",
-	"FirefoxCantLoadWebFont": "Firefox fontanê webi nêşeno serverê duri ra bar kero"
+	"FirefoxCantLoadWebFont": "Firefox fontanê webi nêşeno serverê duri ra bar kero",
+	"CantFindFontUsing": "Pê karnayışê $1 ya ravêrde yew terzê nuştışi nêvineya",
+	"WebFontsNotAvailable": "Fontê webi çıniyê. Heruna ney tipe nuştışê resımi bıgureyne"
 }

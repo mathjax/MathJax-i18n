@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Kiranmayee",
-			"Ravichandra"
+			"Ravichandra",
+			"Srisaila"
 		]
 	},
 	"MathProcessingError": "గణిత గణాంక పద్ధతిలో తప్పింది",
@@ -10,6 +11,9 @@
 	"LoadFile": "$1 లోడు చేస్తున్నాం",
 	"Loading": "లోడవుతోంది",
 	"LoadFailed": "దస్త్రము లొడు అవ్వలేదు:$1",
+	"ProcessMath": "జరుగుతున్న గణిత ప్రక్రియ: $1%",
 	"Processing": "విశ్లేషిస్తోంది",
+	"TypesetMath": "గణిత అచ్చుకూర్పు: $1%",
+	"Typesetting": "అచ్చుకూర్పు",
 	"MathJaxNotSupported": "మీ విహరిణి మ్యాధ్ జాక్స్ ను సమర్ధించదు"
 }

@@ -73,6 +73,7 @@
 	"svgfonts": "SVG fonti",
 	"LoadURL": "No URL ra datay açarnayışi bar kerê:",
 	"BadData": "Melumatê açarnayışi bar nêbiyê :$1",
+	"ScaleMath": "Matematiki pêro (gorey metinê dormey) bısenc",
 	"NonZeroScale": "Sencek sıfır nêbeno",
 	"PercentScale": "Sencek seyi ra bo (mesela %120)",
 	"NoOriginalForm": "Original form mewcud niyo",
