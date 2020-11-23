@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Nintendofan885",
 			"Shirayuki",
 			"fred"
 		]
@@ -15,5 +16,5 @@
 	"TypesetMath": "This appears in the MathJax message box during the layout process of converting the internal format to the output format.\n\nParameters:\n* $1 - a percentage",
 	"Typesetting": "This appears in the MathJax message box during the layout process of converting the internal format to the output format when the messageStyle configuration option is set to 'simple'.\n\nIt will be followed by growing sequence of dots to show the progress.",
 	"MathJaxNotSupported": "This appears in the MathJax message box when MathJax determines the browser does not have adequate features.",
-	"ErrorTips": "Debugging tips that appear in 'Show Math As' pop-ups if a rendering error occured."
+	"ErrorTips": "Debugging tips that appear in 'Show Math As' pop-ups if a rendering error occurred."
 }
