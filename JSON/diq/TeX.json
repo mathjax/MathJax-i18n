@@ -24,6 +24,7 @@
 	"UndefinedControlSequence": "Nêşınasyaye rêza kontrolê $1",
 	"DoubleExponent": "Dı qatıno: serva net kerdışi vuritın abırnoğ bıkarnê",
 	"DoubleSubscripts": "Dı qatıno: serva net kerdışi re parantez bıkarnê",
+	"DoubleExponentPrime": "Esas sebebi dılet serıni: net kerdışi rê abırnoğanê buriyına bıgureynê",
 	"CantUseHash1": "Modê natematik de 'karakterê makro parametre  #' nêkariyeno",
 	"MisplacedMiddle": "$1 \\left u \\right wa tede de bo.",
 	"MisplacedLimits": "$1 teyna operatoran dê mısade deyeno",
