@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"1917 Ekim Devrimi"
+		]
+	},
+	"fonts": "MathJax, [Fontanê STIX ]($1) yana [Fontanê MathJax TeX ]($2) gureyniyenê. Cerbiya MathJax xo ravêrberdışi re nê fontan ra jewi rone u bar kerê",
+	"STIXPage": "Ne per, [Fontanê STIX ]($1) gore dizayn biya. Cerbiya MathJax xo ravêrberdışi re nê fontan ra jewi rone u bar kerê",
+	"TeXPage": "Ne per qandê [Fontanê MathJax TeX ]($1) dizayn biya. Cerbiya MathJax xo ravêrberdışi re nê fontan ra jewi rone u bar kerê"
+}
