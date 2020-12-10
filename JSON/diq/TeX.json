@@ -70,5 +70,6 @@
 	"SequentialParam": "Qandê $1 gani parametrey rêzeyêna numre bıbê",
 	"MissingReplacementString": "Qandê şınasnayışê $1 rêza yedek kemiya",
 	"MismatchUseDef": "Gurenayışê $1 şınasnayışiya pênino",
-	"RunawayArgument": "Seba $1 argumano remane?"
+	"RunawayArgument": "Seba $1 argumano remane?",
+	"NoClosingDelim": "Qandê $1 sinordaro nêvineyêno."
 }
