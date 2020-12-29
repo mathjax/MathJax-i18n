@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Alvaro Vidal-Abarca",
-			"Hiperpobla"
+			"Hiperpobla",
+			"Mguix"
 		]
 	},
 	"ExtraOpenMissingClose": "Sobra una clau d'apertura o falta una clau de tancament",
@@ -28,15 +29,15 @@
 	"MisplacedMoveRoot": "$1 només pot aparèixer a dins d'una arrel",
 	"MultipleCommand": "$1 múltiples",
 	"IntegerArg": "L'argument de $1 ha de ser enter",
-	"NotMathMLToken": "$1 no és un element de token",
-	"InvalidMathMLAttr": "Atribut MathML invàlid: $1",
+	"NotMathMLToken": "$1 no és un element lèxic",
+	"InvalidMathMLAttr": "Atribut MathML no vàlid: $1",
 	"UnknownAttrForElement": "$1 no és un atribut vàlid per $2",
 	"MaxMacroSub1": "S'ha sobrepassat el nombre màxim de substitucions en una macro MathJax; hi ha una crida de macro recursiva?",
 	"MaxMacroSub2": "El comptador màxim de substitucions de MathJax s'ha sobrepassat; hi ha un entorn de LaTeX recursiu?",
 	"MissingArgFor": "Falta argument per $1",
 	"ExtraAlignTab": "Marca d'alineació extra en text \\cases",
 	"BracketMustBeDimension": "Argument de claudàtor per $1 ha de ser una dimensió",
-	"InvalidEnv": "Nom d'entorn invàlid '$1'",
+	"InvalidEnv": "Nom d'entorn no vàlid '$1'",
 	"UnknownEnv": "Entorn desconegut '$1'",
 	"ExtraCloseLooking": "Clau de tancament extra mentre es buscava $1",
 	"MissingCloseBracket": "No s'ha pogut trobar ']' de tancament per argument de $1",
@@ -62,7 +63,7 @@
 	"ModelArg1": "Valors de color pel model $1 requereixen 3 números",
 	"InvalidDecimalNumber": "Número decimal incorrecte",
 	"ModelArg2": "Valors de color pel model $1 han d'estar entre $2 i $3",
-	"InvalidNumber": "Número invàlid",
+	"InvalidNumber": "Nombre no vàlid",
 	"NewextarrowArg1": "El primer argument per $1 ha de ser un nom de seqüència de control",
 	"NewextarrowArg2": "El segon argument per $1 ha de ser dos enters separats per una coma",
 	"NewextarrowArg3": "El tercer argument per $1 ha de ser un número de caràcter Unicode",

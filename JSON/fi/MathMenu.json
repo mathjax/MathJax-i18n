@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Maantietäjä",
 			"Nike",
 			"Silvonen"
 		]
 	},
+	"Show": "Näytä matematiikka muodossa",
 	"MathMLcode": "MathML-koodi",
 	"OriginalMathML": "Alkuperäinen MathML",
 	"TeXCommands": "TeX-komennot",

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Maantietäjä",
 			"Nike"
 		]
 	},
@@ -20,6 +21,9 @@
 	"DoubleExponent": "Kaksoiseksponentti: selkeytä aaltosulkeilla",
 	"DoubleSubscripts": "Kaksoisalaindeksi: selkeytä aaltosulkeilla",
 	"UnknownEnv": "Tuntematon ympäristö: $1",
+	"MathNotTerminated": "Matematiikkaa ei ole lopetettu tekstikentässä",
+	"IllegalMacroParam": "Laiton makroparametriviite",
+	"MaxBufferSize": "MathJaxin sisäinen puskurikoko ylitetty; onko rekursiivinen makrokutsu?",
 	"InvalidDecimalNumber": "Virheellinen desimaaliluku",
 	"ModelArg2": "$1-väriarvo on oltava arvojen $2 ja $3 välillä",
 	"InvalidNumber": "Virheellinen numero",
