@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Guherto"
+		]
+	},
+	"LoadWebFont": "Fonta webê ya $1 tê barkirin",
+	"CantLoadWebFont": "Fonta webê ya $1 nikarê werê barkirin",
+	"FirefoxCantLoadWebFont": "Firefox nikarê fontên webê ji malpereke dî bar bikê",
+	"CantFindFontUsing": "Fontek nehate dîtin bi $1",
+	"WebFontsNotAvailable": "Fontên webê nînin. Fontên sûretî bi kar bêne"
+}

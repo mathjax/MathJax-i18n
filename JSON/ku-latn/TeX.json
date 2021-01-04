@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Guherto"
+		]
+	},
+	"MissingLeftExtraRight": "\"\\left\"a kêm yan jî \"\\right\"a zêde",
+	"ExtraLeftMissingRight": "\"\\left\"a zêde yan jî \"\\right\"a kêm",
+	"Misplaced": "$1 li cihê xelet",
+	"AmbiguousUseOf": "Bikaranîna $1 ku karê xelet werê fêmkirin",
+	"EnvMissingEnd": "\\end{$1} nîne",
+	"MissingBoxFor": "Qutî ji bonî $1 nîne",
+	"MultipleCommand": "Bêhtir ji yek $1",
+	"TokenNotFoundForCommand": "$1 nikarîbû ji bonî $2 werê dîtin",
+	"BadMathStyleFor": "Şiklê matematîkê yê xirab ji bonî $1",
+	"MultipleBBoxProperty": "$1 do caran di $2 de heye",
+	"ExtraEndMissingBegin": "\"$1\"a zêde yan jî \"\\begingroup\"a kêm",
+	"GlobalNotFollowedBy": "$1 ne berî \\let, \\def yan jî \\newcommand",
+	"UndefinedColorModel": "Şiklê rengê yê '$1' nîne",
+	"ModelArg1": "Ji bonî şiklê rengê yê $1 3 hejmar hewce ye",
+	"InvalidDecimalNumber": "Hejmara bixeletî",
+	"ModelArg2": "Rengên bi şiklê $1 divê di neqeba $2 û $3 de bin",
+	"InvalidNumber": "Hejmara bixeletî",
+	"NoClosingChar": "\"$1\"a girtinê nehate dîtin",
+	"CantUseHash2": "Bikaranîna # ya nehiştî di şablona ji bonî $1"
+}

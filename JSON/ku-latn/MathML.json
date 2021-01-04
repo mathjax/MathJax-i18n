@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Guherto"
+		]
+	},
+	"BadMglyph": "Mglypha xirab: $1",
+	"BadMglyphFont": "Fonta xirab: $1",
+	"ErrorParsingMathML": "MathML nikarîbû werê xwendin",
+	"ParsingError": "MathML nikarîbû werê xwendin: $1"
+}

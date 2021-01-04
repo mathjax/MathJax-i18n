@@ -2,11 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Bikarhêner",
-			"George Animal"
+			"George Animal",
+			"Guherto"
 		]
 	},
+	"MathProcessingError": "Xeletiya xwendina matematîkê",
 	"MathError": "Xeletîya matematîkê",
 	"LoadFile": "$1 tê barkirin",
 	"Loading": "Tê barkirin",
-	"LoadFailed": "Pel bar nebûː $1"
+	"LoadFailed": "Pel bar nebûː $1",
+	"ProcessMath": "Matematîk tê xwendin: $1%",
+	"Processing": "Tê xwendin",
+	"MathJaxNotSupported": "Geroka te ya webê bi MathJaxê re naşuxulê"
 }
