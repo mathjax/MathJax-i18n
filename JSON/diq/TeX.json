@@ -65,6 +65,7 @@
 	"InvalidNumber": "Numreyo nêvêrde",
 	"NoClosingChar": "$1 racnayış nêvineya",
 	"IllegalControlSequenceName": "Qandê $1 xırab namey rêza kontroli",
+	"IllegalParamNumber": "$1 ya belı bıyaye amorê parametreyanê xıraban",
 	"MissingCS": "$1 gani ju rêza kontroli wa taqib kero.",
 	"CantUseHash2": "Qandê $1 xırab gureynayışê şablonê # yi",
 	"SequentialParam": "Qandê $1 gani parametrey rêzeyêna numre bıbê",
