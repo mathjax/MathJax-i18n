@@ -8,5 +8,5 @@
 	"CantLoadWebFont": "Spletne pisave $1 ni mogoče naložiti",
 	"FirefoxCantLoadWebFont": "Firefox ne more naložiti spletnih pisav na oddaljenem gostitelju.",
 	"CantFindFontUsing": "Z uporabo $1 ne morem najti veljavne pisave.",
-	"WebFontsNotAvailable": "Web-Fonts niso na razpolago. Namesto njih uporabljam slikovne pisave."
+	"WebFontsNotAvailable": "Web-Fonts niso na voljo. Namesto njih uporabljam slikovne pisave."
 }

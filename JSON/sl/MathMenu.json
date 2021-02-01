@@ -85,7 +85,7 @@
 	"PercentScale": "Merilo naj bo odstotek (npr. 120%)",
 	"IE8warning": "To onemogoči meni MathJax in možnosti zumiranja, vendar pa lahko namesto tega kliknete izraz ob držanju tipke Alt, s čimer se prikaže meni MathJax.",
 	"IE9warning": "Kontekstni meni MathJax bo izklopljen, namesto tega pa lahko s klikom izraza ob držanju tipke Alt prikličete meni MathJax.",
-	"NoOriginalForm": "Na razpolago ni nobena izvorna oblika",
+	"NoOriginalForm": "Na voljo ni nobena izvorna oblika",
 	"Close": "Zapri",
 	"EqSource": "Vir enačbe MathJax",
 	"CloseAboutDialog": "Zapri prikazno okno o MathJaxu",
