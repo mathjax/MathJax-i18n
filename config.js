@@ -17,7 +17,7 @@
  *
  */
 
-exports.version = "2.7.0-beta"
+exports.version = "2.7.2"
 
 // ********** List of languages **********
 //
@@ -92,21 +92,21 @@ exports.languages = {
   //     return n;
   //   }
   // },
-  // "ar": {
-  //   menuTitle: "العربية", // Arabic
-  //   fontDirection: "rtl",
-  //   plural: function(n) {
-  //     if (n === 0) return 1; // zero
-  //     if (n === 1) return 2; // one
-  //     if (n === 2) return 3; // two
-  //     if (3 <= n % 100 && n % 100 <= 10) return 4; // few
-  //     if (11 <= n % 100 && n % 100 <= 99) return 5; // many
-  //     return 6; // other
-  //   },
-  //   number: function(n) {
-  //     return String(n).replace("/([0-9])/g", "\\U066$1").replace(".", "\\U066B");
-  //   }
-  // },
+  "ar": {
+    menuTitle: "العربية", // Arabic
+    fontDirection: "rtl",
+    plural: function(n) {
+      if (n === 0) return 1; // zero
+      if (n === 1) return 2; // one
+      if (n === 2) return 3; // two
+      if (3 <= n % 100 && n % 100 <= 10) return 4; // few
+      if (11 <= n % 100 && n % 100 <= 99) return 5; // many
+      return 6; // other
+    },
+    number: function(n) {
+      return String(n).replace("/([0-9])/g", "\\U066$1").replace(".", "\\U066B");
+    }
+  },
   "ast": {
     menuTitle: "asturianu", // Asturian
     plural: function(n) {
@@ -663,6 +663,17 @@ exports.languages = {
       return n;
     }
   },
+  "sk": {
+    menuTitle: "slovenčina", // Slovak
+    plural: function(n) {
+      if (n === 1) {return 1} // one
+      if (n === 2 || n === 3 || n === 4) {return 2} // two--four
+      return 3; // other
+    },
+    number: function(n) {
+      return String(n).replace(".", ","); // replace dot by comma
+    }
+  },
   "sl": {
     menuTitle: "slovenščina", // Slovenian
     plural: function(n) {
@@ -693,6 +704,15 @@ exports.languages = {
     },
     number: function(n) {
       return n;
+    }
+  },
+  "th": {
+    menuTitle: "ไทย", // Thai
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n
     }
   },
   "tr": {
@@ -733,18 +753,17 @@ exports.languages = {
     number: function(n) {
       return n;
     }
+  },
+  "zh-hant": {
+    menuTitle: "汉语", // Traditional Chinese
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
   }
 };
-//   "zh-hant": {
-//     menuTitle: "汉语", // Traditional Chinese
-//     plural: function(n) {
-//       return 1; // other
-//     },
-//     number: function(n) {
-//       return n;
-//     }
-//   }
-// };
 
 // ********** List of localization domains **********
 exports.domains = [
