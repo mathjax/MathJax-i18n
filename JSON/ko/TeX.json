@@ -39,6 +39,7 @@
 	"MultipleCommand": "$1이 중복되었습니다",
 	"IntegerArg": "$1에 대한 인자는 정수여야 합니다.",
 	"NotMathMLToken": "$1은(는) 토큰 요소가 아닙니다",
+	"InvalidMathMLAttr": "유효하지 않은 MathML 속성: $1",
 	"UnknownAttrForElement": "$1은 $2에 부합하지 않는 요소임",
 	"MissingArgFor": "$1 인자를 찾을 수 없습니다.",
 	"InvalidEnv": "올바르지 않은 환경 이름 '$1'",
