@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck",
+			"Renessaince"
+		]
+	},
+	"MathProcessingError": "Памылка апрацоўкі матэматыкі",
+	"LoadFailed": "Не атрымалася загрузіць файл: $1",
+	"ProcessMath": "Апрацоўка матэматыкі: $1",
+	"Processing": "Апрацоўка"
+}
