@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Moorooboorai",
 			"Siebrand",
 			"Sjoerddebruin"
@@ -32,8 +33,8 @@
 	"NotMathMLToken": "$1 is geen symboolelement",
 	"InvalidMathMLAttr": "Ongeldige MathML-eigenschap: $1",
 	"UnknownAttrForElement": "$1 is geen bekende eigenschap voor $2",
-	"MaxMacroSub1": "Het MathJax maximale aantal macrovervangingen is overschreden; is er een recursieve macro-aanroep?",
-	"MaxMacroSub2": "Het MathJax maximale aantal macrovervangingen is overschreden; is er een recursieve LaTeX-omgeving?",
+	"MaxMacroSub1": "Het maximumaantal macrovervangingen in MathJax  is overschreden; is er een recursieve macro-aanroep?",
+	"MaxMacroSub2": "Het maximumaantal vervangingen in MathJax is overschreden; is er een recursieve LaTeX-omgeving?",
 	"MissingArgFor": "Ontbrekend argument voor $1",
 	"ExtraAlignTab": "Overtollige uitlijningtab in \\cases-tekst",
 	"BracketMustBeDimension": "Rechte haak argument voor $1 moet een dimensie zijn",

@@ -13,5 +13,6 @@
 	"Processing": "Tractamento",
 	"TypesetMath": "Compone formulas: $1%",
 	"Typesetting": "Composition",
-	"MathJaxNotSupported": "Vostre navigator non supporta MathJax"
+	"MathJaxNotSupported": "Vostre navigator non supporta MathJax",
+	"ErrorTips": "Avisos de depuration: usa %1, inspecta %2 in le consola del navigator"
 }
