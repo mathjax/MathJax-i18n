@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"Pippinu",
 			"Sarvaturi"
 		]
@@ -84,5 +85,6 @@
 	"IE9warning": "Veni disattivatu lu menù cuntistuali di MathJax, chi pirò si pò sempri gràpiri cliccannu supra ê sprissioni tinennu carcatu Alt.",
 	"NoOriginalForm": "Nudda forma origginali è dispunìbbili",
 	"Close": "Chiudi",
-	"EqSource": "Surgenti dâ fòrmula MathJax"
+	"EqSource": "Surgenti dâ fòrmula MathJax",
+	"FastPreview": "Antiprima viloci"
 }
