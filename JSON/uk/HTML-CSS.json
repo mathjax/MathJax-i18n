@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andriykopanytsia"
+			"Andriykopanytsia",
+			"DDPAT"
 		]
 	},
 	"LoadWebFont": "Завантаження веб шрифтів $1",
 	"CantLoadWebFont": "Не вдалося завантажити веб шрифт $1",
 	"FirefoxCantLoadWebFont": "Firefox не може завантажити веб шрифти з віддаленого хосту",
 	"CantFindFontUsing": "Не вдалося знайти правильний шрифт за допомогою $1",
-	"WebFontsNotAvailable": "Веб-шрифти недоступні. Слід використовувати шрифти -зображення."
+	"WebFontsNotAvailable": "Веб-шрифти недоступні. Слід використовувати шрифти-зображення."
 }
