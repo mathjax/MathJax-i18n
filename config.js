@@ -733,18 +733,18 @@ exports.languages = {
     number: function(n) {
       return n;
     }
+  },
+  "zh-hant": {
+    menuTitle: "正體中文", // Traditional Chinese
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
   }
 };
-//   "zh-hant": {
-//     menuTitle: "汉语", // Traditional Chinese
-//     plural: function(n) {
-//       return 1; // other
-//     },
-//     number: function(n) {
-//       return n;
-//     }
-//   }
-// };
+
 
 // ********** List of localization domains **********
 exports.domains = [
