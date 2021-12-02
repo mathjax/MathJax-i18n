@@ -726,7 +726,7 @@ exports.languages = {
     }
   },
   "zh-hans": {
-    menuTitle: "中文（简体）", // Simplified Chinese
+    menuTitle: "简体中文", // Simplified Chinese
     plural: function(n) {
       return 1; // other
     },
