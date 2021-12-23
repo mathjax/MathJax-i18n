@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"Pippinu",
 			"Sarvaturi"
 		]
@@ -14,5 +15,6 @@
 	"Language": "*Lingua* pirmetti di scègghiri la lingua adupirata di MathJax pî sò menù e pî sò missaggî d'avvisu.",
 	"Zoom": "*Zoom dî fòrmuli*: si veni diffìcili a lèggiri na fòrmula, MathJax la pò fari cchiù granni pi fàrila vìdiri megghiu.",
 	"Accessibilty": "*Accissibbilità*: MathJax funziona autumaticamenti chî littura di schermu pi rènniri li fòrmuli matimàtichi accissìbbili a cu havi prubblemi di vista.",
-	"Fonts": "*Tipi di caràttiri*: MathJax adòpira certi tipi di caràttiri matimàtici quannu l'attrova istallati ntô computer; sinnò, adòpira tipi di caràttiri scarricati di Internet. Nun servi pi forza aviri li tipi di caràttiri istallati lucalmenti, però renni la mpagginazzioni cchiù viloci. Nui cunzigghiamu di istallari li [tipi di caràttiri STIX]($1)."
+	"Fonts": "*Tipi di caràttiri*: MathJax adòpira certi tipi di caràttiri matimàtici quannu l'attrova istallati ntô computer; sinnò, adòpira tipi di caràttiri scarricati di Internet. Nun servi pi forza aviri li tipi di caràttiri istallati lucalmenti, però renni la mpagginazzioni cchiù viloci. Nui cunzigghiamu di istallari li [tipi di caràttiri STIX]($1).",
+	"CloseDialog": "Chiudi finestra d'aiutu"
 }
