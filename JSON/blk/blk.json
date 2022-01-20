@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khun Kt"
+		]
+	},
+	"MathProcessingError": "တွက်နပ်သင်္ချာအမာႏ",
+	"MathError": "သင်္ချာအမာႏ",
+	"LoadFile": "အဝ်ႏဒင်ႏထင်ႏ $1",
+	"Loading": "အဝ်ႏဒင်ႏထင်ႏ"
+}
