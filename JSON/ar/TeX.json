@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"FiberAhmed",
 			"Haytham morsy",
 			"Meno25",
 			"ديفيد"
@@ -51,7 +52,7 @@
 	"MultipleLabel": "تحديد مضاعف لتسمية '$1'",
 	"CommandAtTheBeginingOfLine": "يجب أن يأتي $1 في بداية السطر",
 	"IllegalAlign": "محاذاة غير قانونية محددة في $1",
-	"BadMathStyleFor": "نمط رياضي سيء ل$1",
+	"BadMathStyleFor": "نمط رياضي سيئ ل$1",
 	"PositiveIntegerArg": "يجب أن تكون الحجة إلى $1 عددا صحيحا موجبا",
 	"ErroneousNestingEq": "تعشيش خاطئ لهياكل المعادلة",
 	"MultlineRowsOneCol": "الصفوف ضمن بيئة $1 يجب أن تحتوي على عمود واحد بالضبط",
