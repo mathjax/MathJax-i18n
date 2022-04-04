@@ -4,6 +4,7 @@
 			"Glavkos",
 			"NikosLikomitros",
 			"Nikosgranturismogt",
+			"Norhorn",
 			"Vivi-riga"
 		]
 	},
@@ -41,7 +42,7 @@
 	"InvalidEnv": "Μη έγκυρο όνομα περιβάλλοντος '$1'",
 	"UnknownEnv": "Άγνωστο περιβάλλον '$1'",
 	"ExtraCloseLooking": "Πλεονάζον κλείσιμο αγκύλης αναζητώντας το $1",
-	"MissingCloseBracket": "Δεν βρέθηκε το κλείσιμο του ']' για το όρισμα του $1",
+	"MissingCloseBracket": "Δε βρέθηκε το κλείσιμο του ']' για το όρισμα του $1",
 	"MissingOrUnrecognizedDelim": "Λείπει ή δεν αναγνωρίζεται οριοθέτης για το $1",
 	"MissingDimOrUnits": "Λείπει η διάσταση ή οι μονάδες της για το $1",
 	"TokenNotFoundForCommand": "Δεν ήταν δυνατή η εύρεση του $1 για το $2",
