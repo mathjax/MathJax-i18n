@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Alirezaaa",
+			"Beginneruser",
 			"Ebraminio",
 			"Reza1615"
 		]
@@ -43,7 +44,7 @@
 	"Auto": "خودکار",
 	"TeXLocal": "تک (محلی)",
 	"TeXWeb": "تک (وب)",
-	"TeXImage": "تک (نگاره)",
+	"TeXImage": "تک (تصویر)",
 	"STIXLocal": "STIX (محلی)",
 	"STIXWeb": "STIX (وب‌سایت)",
 	"AsanaMathWeb": "ریاضی آسانا (وب‌سایت)",
