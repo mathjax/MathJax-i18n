@@ -12,7 +12,7 @@
 	"Help": "Aide MathJax",
 	"MathJax": "*MathJax* est une bibliothèque JavaScript qui permet aux auteurs de pages d’inclure des mathématiques dans leurs pages web. En tant que lecteur, vous n’avez rien besoin de faire pour que cela fonctionne.",
 	"Browsers": "*Navigateurs* : MathJax fonctionne avec tous les navigateurs modernes y compris Internet Explorer 6, Firefox 3, Chrome 0.2, Safari 2, Opera 9.6 et leurs versions supérieures, ainsi que la plupart des navigateurs pour mobiles et tablettes.",
-	"Menu": "*Menu math* : MathJax ajoute un menu contextuel aux équations. Cliquez-droit ou Ctrl-cliquez sur n’importe quelle formule mathématique pour accéder au menu.",
+	"Menu": "*Menu math* : MathJax ajoute un menu contextuel aux équations. Clic-droit ou Ctrl + Clic sur n’importe quelle formule mathématique pour accéder au menu.",
 	"ShowMath": "*Afficher la formule comme* vous permet d’afficher le balisage source de la formule pour la copier-coller (au format  MathML ou dans son format d’origine).",
 	"Settings": "*Paramètres* vous donne le contrôle sur les fonctionnalités de MathJax, comme la taille de rendu des formules et le mécanisme utilisé pour afficher les équations.",
 	"Language": "*Langue* vous permet de sélectionner la langue utilisée par MathJax pour ses menus et ses messages d’avertissement.",
