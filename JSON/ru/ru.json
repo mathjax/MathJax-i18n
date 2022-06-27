@@ -4,6 +4,7 @@
 			"Alex Mashin",
 			"Nitch",
 			"Okras",
+			"Pacha Tchernof",
 			"Volkov"
 		]
 	},
@@ -13,7 +14,7 @@
 	"Loading": "Загрузка",
 	"LoadFailed": "Не удалось загрузить: $1",
 	"ProcessMath": "Обработка математики: $1%",
-	"Processing": "Обработка",
+	"Processing": "Обрабатывается",
 	"TypesetMath": "Вёрстка математики: $1%",
 	"Typesetting": "Вёрстка",
 	"MathJaxNotSupported": "Ваш браузер не поддерживает MathJax",
