@@ -3,6 +3,7 @@
 		"authors": [
 			"Abijeet Patro",
 			"Hgarg",
+			"Saurmandal",
 			"Sfic"
 		]
 	},
@@ -39,7 +40,7 @@
 	"MouseEvents": "माउस घटनाएं",
 	"MenuAndMouse": "माउस और प्रसूची घटनाएं",
 	"FontPrefs": "फौंट पसंद",
-	"ForHTMLCSS": "एचटीएमएल-सीएसएस के लिये:",
+	"ForHTMLCSS": "HTML-CSS के लिए:",
 	"Auto": "स्वत:",
 	"TeXLocal": "टैक (स्थानीय)",
 	"TeXWeb": "टैक (वैब)",
