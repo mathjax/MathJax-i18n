@@ -3,6 +3,7 @@
 		"authors": [
 			"Hudafu",
 			"Hzy980512",
+			"Lakejason0",
 			"Liuxinyu970226",
 			"Qiyue2001"
 		]
@@ -57,7 +58,7 @@
 	"Scale": "缩放所有数学...",
 	"Discoverable": "悬停亮点",
 	"Locale": "语言",
-	"LoadLocale": "从URL载入...",
+	"LoadLocale": "从URL加载…",
 	"About": "关于MathJax",
 	"Help": "MathJax帮助",
 	"localTeXfonts": "使用本地TeX字体",
