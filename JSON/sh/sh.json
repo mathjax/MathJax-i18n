@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"MathProcessingError": "Greška matematičke obrade",
+	"LoadFile": "Učitavanje $1",
+	"Loading": "Učitavanje",
+	"LoadFailed": "Datoteka nije bila učitana: $1",
+	"ProcessMath": "Obrada matematike: $1%",
+	"Processing": "Obrada",
+	"TypesetMath": "Raspored matematika: $1%",
+	"Typesetting": "Raspored",
+	"MathJaxNotSupported": "Vaš veb pregledač ne podržava MathJax"
+}
