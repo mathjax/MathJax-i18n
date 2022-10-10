@@ -83,7 +83,7 @@
 	"ScaleMath": "Umeri vso matematiko (v primerjavi z okolišnim besedilom) z",
 	"NonZeroScale": "Merilo ne sme biti nič",
 	"PercentScale": "Merilo naj bo odstotek (npr. 120%)",
-	"IE8warning": "To onemogoči meni MathJax in možnosti zumiranja, vendar pa lahko namesto tega kliknete izraz ob držanju tipke Alt, s čimer se prikaže meni MathJax.",
+	"IE8warning": "To onemogoči meni MathJax in možnosti zumiranja, vendar lahko namesto tega ob držanju tipke Alt kliknete izraz, s čimer se prikaže meni MathJax.\n\nŽelite res spremeniti nastavitve MathPlayer?",
 	"IE9warning": "Kontekstni meni MathJax bo izklopljen, namesto tega pa lahko s klikom izraza ob držanju tipke Alt prikličete meni MathJax.",
 	"NoOriginalForm": "Na voljo ni nobena izvorna oblika",
 	"Close": "Zapri",
