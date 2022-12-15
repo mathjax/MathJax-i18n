@@ -3,7 +3,8 @@
 		"authors": [
 			"Arthur2e5",
 			"Kly",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"捍粵者"
 		]
 	},
 	"ExtraOpenMissingClose": "多餘的左括弧或缺少右括弧",
@@ -28,7 +29,7 @@
 	"MisplacedLimits": "$1僅允許用在運算式上",
 	"MisplacedMoveRoot": "$1僅能在帶有root字元下呈現",
 	"MultipleCommand": "多個 $1",
-	"IntegerArg": "參數$1必須是個整數",
+	"IntegerArg": "參數$1必須是整數",
 	"NotMathMLToken": "$1不是一個標示元素",
 	"InvalidMathMLAttr": "無效MathML屬性： $1",
 	"UnknownAttrForElement": "$1在$2不是可辨識屬性",
@@ -52,7 +53,7 @@
 	"CommandAtTheBeginingOfLine": "$1必須位在行列的開頭",
 	"IllegalAlign": "在$1有不正確指定辨識方式",
 	"BadMathStyleFor": "$1的數學表示內容錯誤",
-	"PositiveIntegerArg": "參數$1必須是個正整數",
+	"PositiveIntegerArg": "參數$1必須是正整數",
 	"ErroneousNestingEq": "錯誤的方程式嵌套結構",
 	"MultlineRowsOneCol": "在$1環境裡的行列必須只有一欄",
 	"MultipleBBoxProperty": "$1在$2被指定兩次",
@@ -76,5 +77,5 @@
 	"MissingReplacementString": "$1的定義缺少替代字串",
 	"MismatchUseDef": "$1的使用不符合定義",
 	"RunawayArgument": "有用於$1的參數不見了？",
-	"NoClosingDelim": "在$1無法找到結束符號"
+	"NoClosingDelim": "找不到$1的結束符"
 }

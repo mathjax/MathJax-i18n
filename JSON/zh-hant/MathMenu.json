@@ -5,7 +5,8 @@
 			"Kly",
 			"LNDDYL",
 			"Learnerq",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"捍粵者"
 		]
 	},
 	"Show": "顯示數學形式",
@@ -79,7 +80,7 @@
 	"LoadURL": "從此URL載入轉換資料：",
 	"BadURL": "URL應該是個定義MathJax轉換資料的JavaScript檔案。JavaScript檔案名稱結尾應為「.js」。",
 	"BadData": "從$1載入轉換資料出錯",
-	"SwitchAnyway": "一定要切換呈現方式？\n\n（點擊OK進行切換，點擊取消繼續以目前方式呈現）",
+	"SwitchAnyway": "一定要切換呈現方式？\n\n（點擊OK切換，點擊取消繼續以目前方式呈現）",
 	"ScaleMath": "縮放所有數學公式（與圍繞的文字做對比）依",
 	"NonZeroScale": "比例不應為零",
 	"PercentScale": "比例應為百分比格式（例如120%）",
