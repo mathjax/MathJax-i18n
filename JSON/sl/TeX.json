@@ -47,7 +47,7 @@
 	"IllegalMacroParam": "Nedovoljen makroparameter",
 	"MaxBufferSize": "Presežena velikost notranjega medpomnilnika MathJax; ali obstaja rekurzivni makroklic?",
 	"CommandNotAllowedInEnv": "$1 v okolju $2 ni dovoljen",
-	"MultipleLabel": "Večkratno definirana oznaka '$1'",
+	"MultipleLabel": "Večkratno opredeljena oznaka »$1«",
 	"CommandAtTheBeginingOfLine": "$1 mora priti na začetek vrstice",
 	"IllegalAlign": "V $1 je določena nedovoljena poravnava.",
 	"BadMathStyleFor": "Neveljaven matematični slog argumenta $1",
