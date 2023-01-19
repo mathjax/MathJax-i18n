@@ -42,5 +42,6 @@
 	"MissingOrUnrecognizedDelim": "Delimitator mancante o non recognoscite pro $1",
 	"MissingDimOrUnits": "Dimension o unitates mancante pro $1",
 	"TokenNotFoundForCommand": "Non poteva trovar $1 pro $2",
-	"MathNotTerminated": "Formula non terminate in quadro de texto"
+	"MathNotTerminated": "Formula non terminate in quadro de texto",
+	"IllegalMacroParam": "Referentia de parametro de macro non valide"
 }
