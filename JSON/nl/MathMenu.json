@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Moorooboorai",
 			"Siebrand",
 			"Sjoerddebruin",
@@ -86,7 +87,7 @@
 	"IE9warning": "Het context menu van MathJax wordt uitgeschakeld, maar u kunt in plaats daarvan door Alt-klikken op een expressie het MathJax menu weergeven.",
 	"NoOriginalForm": "Geen oorspronkelijke vorm beschikbaar",
 	"Close": "Sluiten",
-	"EqSource": "MathJax Vergelijking Bron",
+	"EqSource": "Broncode MathJax-vergelijking",
 	"CloseAboutDialog": "Over Mathjax sluiten",
 	"FastPreview": "Snell voorvertoning",
 	"AssistiveMML": "Assistieve MathML",

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"LoadWebFont": "Se carga le typo de litteras web $1",
+	"CantLoadWebFont": "Non pote cargar le typo de litteras web $1",
+	"FirefoxCantLoadWebFont": "Firefox non pote cargar typos de litteras web de un servitor remote",
+	"CantFindFontUsing": "Non pote trovar un typo de litteras valide usante $1",
+	"WebFontsNotAvailable": "Le typos de litteras web non es disponibile. Es usate typos de litteras de imagines in lor loco."
+}

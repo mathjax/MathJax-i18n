@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"BadMglyph": "Mal mglyph: $1",
+	"BadMglyphFont": "Mal typo de litteras: $1",
+	"MathPlayer": "MathJax non poteva configurar MathPlayer.\n\nSi MathPlayer non es installate, tu debe installar lo primo. Alteremente, tu configurationes de securitate pote impedir que le controlos ActiveX functiona. Usa le option \"Internet Options\" sub le menu \"Tools\" e selige le scheda \"Security\", postea preme le button \"Custom Level\". Verifica que le parametros pro \"Run ActiveX Controls\" e \"Binary and script behaviors\" es activate.\n\nActualmente tu videra messages de error in loco de formulas mathematic.",
+	"CantCreateXMLParser": "MathJax non pote crear un analysator de syntaxe XML pro MathML. Verifica que le parametro de securitate \"Script ActiveX controls marked safe for scripting\" es activate (usa le option \"Internet Options\" sub le menu \"Tools\" e selige le pannello \"Security\", postea preme le button \"Custom Level\" pro verificar isto).\n\nEquationes MathML non potera esser processate per MathJax.",
+	"UnknownNodeType": "Typo de nodo incognite: $1",
+	"UnexpectedTextNode": "Nodo de texto inexpectate: $1",
+	"ErrorParsingMathML": "Error durante le analyse syntactic de MathML",
+	"ParsingError": "Error durante le analyse syntactic de MathML: $1",
+	"MathMLSingleElement": "MathML debe esser formate per un sol elemento",
+	"MathMLRootElement": "MathML debe esser formate per un elemento <math>, non $1"
+}

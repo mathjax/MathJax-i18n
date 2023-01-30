@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Hgarg",
+			"McDutchie",
 			"Shirayuki",
 			"Waldir",
 			"Waldyrious",
@@ -77,6 +78,6 @@
 	"SequentialParam": "This appears in TeX definitions when parameters are not numbered sequentially e.g. <code>\\def\\mycommand#2#1</code>.\n\nParameters:\n* $1 - the command name e.g. <code>\\def</code>",
 	"MissingReplacementString": "This appears in TeX definitions when you don't specify a replacement string e.g. <code>\\def\\mycommand</code>.\n\nParameters:\n* $1 - the command name e.g. <code>\\def</code>",
 	"MismatchUseDef": "This appears in TeX definitions when a TeX command does not match its definition e.g. <code>\\( \\def\\mycommand[#1]#2[#3]{#1+#2+#3} \\mycommand{a}{b}[c] \\)</code>.\n\nParameters:\n* $1 - the command name e.g. <code>\\mycommand</code>",
-	"RunawayArgument": "This appears in TeX definitions when a TeX command does not match its definition e.g. <code>\\( \\def\\mycommand[#1][#2]#3{#1+#2+#3} \\mycommand[a]{b} \\)</code>.\n\nParameters:\n* $1 - the command name e.g. <code>\\mycommand</code>",
+	"RunawayArgument": "This appears in TeX definitions when a TeX command does not match its definition e.g. <code>\\( \\def\\mycommand[#1][#2]#3{#1+#2+#3} \\mycommand[a]{b} \\)</code>.\n\nA ''runaway argument'' is usually caused by a missing closing brace.\n\nParameters:\n* $1 - the command name e.g. <code>\\mycommand</code>",
 	"NoClosingDelim": "This appears in TeX expressions when a <code>\\verb</code> command is not closed e.g. <code>\\( \\verb?... \\)</code> is missing a closing question mark.\n\nParameters:\n* $1 - the command name"
 }

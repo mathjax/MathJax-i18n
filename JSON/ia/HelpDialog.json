@@ -13,5 +13,6 @@
 	"Language": "*Lingua* permitte seliger le lingua usate per MathJax pro su menus e messages de aviso.",
 	"Zoom": "*Math Zoom*: Si vos ha difficultate a leger un equation, MathJax pote aggrandir lo pro facilitar le lectura.",
 	"Accessibilty": "*Accessibilitate*: MathJax functiona automaticamente con lectores de schermo pro render le formulas accessibile al personas qui vide mal.",
-	"Fonts": "*Typos de litteras*: MathJax usa certe typos de litteras mathematic si illos es installate in vostre computator; si non, illo usa typos de litteras obtenite per le web. Ben que non obligatori, le typos de litteras installate localmente rendera le composition plus rapide. Nos suggere installar le [typos de litteras STIX]($1)."
+	"Fonts": "*Typos de litteras*: MathJax usa certe typos de litteras mathematic si illos es installate in vostre computator; si non, illo usa typos de litteras obtenite per le web. Ben que non obligatori, le typos de litteras installate localmente rendera le composition plus rapide. Nos suggere installar le [typos de litteras STIX]($1).",
+	"CloseDialog": "Clauder le dialogo de adjuta"
 }
