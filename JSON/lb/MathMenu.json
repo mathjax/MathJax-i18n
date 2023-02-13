@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
-	"MathMLcode": "MathML Code",
+	"MathMLcode": "MathML-Code",
 	"OriginalMathML": "Original MathML",
 	"Original": "Original Formulaire",
 	"ErrorMessage": "Feelermessage",
