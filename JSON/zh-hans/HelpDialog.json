@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Hzy980512",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Winston Sung"
 		]
 	},
 	"Help": "MathJax帮助",
@@ -15,5 +16,5 @@
 	"Zoom": "*数式缩放*：如果您浏览等式时遇到困难，MathJax可以将其放大来使您获得更好的体验。",
 	"Accessibilty": "*辅助功能*：MathJax会自动与访问者交互使视觉障碍者理解数式更加容易。",
 	"Fonts": "*字体*：MathJax将会使用您电脑上安装的某些数式字体来显示数式；如果没有安装的话，它将使用网络上的字体。虽然并非必要，但是将这些字体安装到本地能加速数式的显示。我们建议您安装[STIX fonts]($1)。",
-	"CloseDialog": "关闭帮助对话"
+	"CloseDialog": "关闭帮助对话框"
 }
