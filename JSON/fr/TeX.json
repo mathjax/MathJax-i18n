@@ -58,7 +58,7 @@
 	"CommandNotAllowedInEnv": "La commande $1 n’est pas autorisée dans l’environnement $2",
 	"MultipleLabel": "Multiple définition de l’étiquette « $1 »",
 	"CommandAtTheBeginingOfLine": "La commande $1 doit être placée en début de ligne",
-	"IllegalAlign": "Alignement non autorisé pour la commande $1",
+	"IllegalAlign": "Cadrage incorrect pour la commande $1",
 	"BadMathStyleFor": "Style mathématique non valide pour la commande $1",
 	"PositiveIntegerArg": "L’argument de la commande $1 doit être un entier positif",
 	"ErroneousNestingEq": "Imbrication incorrecte des structures d’équations",
