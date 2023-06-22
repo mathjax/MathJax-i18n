@@ -4,6 +4,7 @@
 			"Alex00728",
 			"Hwangjy9",
 			"Ykhwong",
+			"그냥기여자",
 			"아라"
 		]
 	},
@@ -85,5 +86,6 @@
 	"Close": "닫기",
 	"EqSource": "MathJax 수식 자료",
 	"CloseAboutDialog": "MathJax 정보 대화 상자 닫기",
-	"FastPreview": "고속 미리 보기"
+	"FastPreview": "고속 미리 보기",
+	"AssistiveMML": "MathML 보조"
 }
