@@ -13,5 +13,6 @@
 	"Processing": "Procesando",
 	"TypesetMath": "Compoñendo as fórmulas: $1%",
 	"Typesetting": "Compoñendo",
-	"MathJaxNotSupported": "O seu navegador non soporta MathJax"
+	"MathJaxNotSupported": "O teu navegador non soporta MathJax",
+	"ErrorTips": "Consellos para depurar: usa %1, inspecciona %2 na consola do navegador"
 }
