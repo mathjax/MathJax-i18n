@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Dimension10",
 			"Jhertel",
 			"Liuxinyu970226",
@@ -32,7 +33,7 @@
 	"DoubleClick": "This menu option from {{msg-mathjax|Mathmenu-ZoomTrigger}} indicates that the zoom is triggered when one double-clicks on a formula.",
 	"NoZoom": "This menu option from {{msg-mathjax|Mathmenu-ZoomTrigger}} indicates that the zoom is never triggered.",
 	"TriggerRequires": "This menu text from {{msg-mathjax|Mathmenu-ZoomTrigger}} describes if the ZoomTrigger requires additional keys.\n\nThe label is followed by the following menu items:\n* {{msg-mathjax|Mathmenu-Option}} - checkbox label, for Mac\n* {{msg-mathjax|Mathmenu-Alt}} - checkbox label, for Windows\n* {{msg-mathjax|Mathmenu-Command}} - checkbox label, for Mac\n* {{msg-mathjax|Mathmenu-Control}} - checkbox label, for non-Mac\n* {{msg-mathjax|Mathmenu-Shift}} - checkbox label",
-	"Option": "This menu option from {{msg-mathjax|Mathmenu-ZoomTrigger}} indicates that the OPTION key is needed (Apple-style).\n{{Identical|Options}}",
+	"Option": "{{optional}}\n\nThis menu option from {{msg-mathjax|Mathmenu-ZoomTrigger}} indicates that the [[:w:en:Option key|Option key]] is needed (Apple-style).\n\n'''Translate this only if this key is labeled differently on physical Mac keyboards in your language.'''\n{{Identical|Options}}",
 	"Alt": "This menu option from {{msg-mathjax|Mathmenu-ZoomTrigger}} indicates that the ALT key is needed (Windows-style)",
 	"Command": "This menu option from {{msg-mathjax|Mathmenu-ZoomTrigger}} indicates that the COMMAND key is needed (Apple-style).\n{{Identical|Command}}",
 	"Control": "This menu option from {{msg-mathjax|Mathmenu-ZoomTrigger}} indicates that the CONTROL key is needed\n\n\"Control key\" is also known as \"Ctrl key\".",
