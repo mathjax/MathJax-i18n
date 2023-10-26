@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xuacu"
+			"Xuacu",
+			"YoaR"
 		]
 	},
 	"Show": "Ver les fórmules como",
@@ -75,7 +76,7 @@
 	"LoadURL": "Cargar los datos de traducción d'esta URL:",
 	"BadURL": "La URL tendría de ser pa un ficheru JavaScript que define los datos de traducción de MathJax. Los nomes de los ficheros JavaScript tendríen d'acabar en '.js'",
 	"BadData": "Nun pudieron cargase los datos de traducción de $1",
-	"SwitchAnyway": "¿Cambiar la representación de toles maneres?\n\n(Calque Aceutar pa cambiar, Encaboxar pa siguir cola representación actual)",
+	"SwitchAnyway": "¿Cambiar la representación de toles maneres?\n\n(Calque Aceutar pa cambiar, Zarrar pa siguir cola representación actual)",
 	"ScaleMath": "Ampliar toles fórmules (en comparancia col testu d'alredor) nun",
 	"NonZeroScale": "La escala nun tien de ser cero",
 	"PercentScale": "La escala tien de ser un porcentaxe (por exemplu 120%)",
