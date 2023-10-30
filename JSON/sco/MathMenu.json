@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"AmaryllisGardener",
+			"CiphriusKane",
 			"John Reid",
 			"Pkra"
 		]
@@ -57,7 +58,7 @@
 	"Discoverable": "Heilicht oan hover",
 	"Locale": "Leid",
 	"LoadLocale": "Laid fae URL ...",
-	"About": "Aneat MathJax",
+	"About": "Anent MathJax",
 	"Help": "MathJax heelp",
 	"localTeXfonts": "uisin local TeX fonts",
 	"webTeXfonts": "uisin wab TeX font",
