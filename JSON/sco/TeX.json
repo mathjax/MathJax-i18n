@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"CiphriusKane",
 			"John Reid",
 			"Pkra"
 		]
@@ -16,7 +17,7 @@
 	"AmbiguousUseOf": "Ambeeguous uise o $1",
 	"EnvBadEnd": "\\begin{$1} ended wi \\end{$2}",
 	"EnvMissingEnd": "Missin \\end{$1}",
-	"MissingBoxFor": "Missin kist fer $1",
+	"MissingBoxFor": "Missin box fur $1",
 	"MissingCloseBrace": "Missin claise bracket",
 	"UndefinedControlSequence": "Ondefined control sequence $1",
 	"DoubleExponent": "Dooble exponent: uise brackets tae clarifie",
@@ -24,8 +25,8 @@
 	"DoubleExponentPrime": "Prime causes dooble exponent: Uise brackets tae clarifie",
 	"CantUseHash1": "Ye canna uise 'macro parameter chairacter #' in maths mode",
 	"MisplacedMiddle": "$1 mau be wiin \\left n \\right",
-	"MisplacedLimits": "$1 is yinlie permited oan operaters",
-	"MisplacedMoveRoot": "$1 can yinlie appear wiin ae ruit",
+	"MisplacedLimits": "$1 is alloued anely on operators",
+	"MisplacedMoveRoot": "$1 can kythe anely athin ae ruit",
 	"MultipleCommand": "Multiple $1",
 	"IntegerArg": "The aurgument til $1 mau be aen integer",
 	"NotMathMLToken": "$1 isna ae token element",
@@ -43,7 +44,7 @@
 	"MissingOrUnrecognizedDelim": "Missin or onrecognized delimiter fer $1",
 	"MissingDimOrUnits": "Missin dimension or its units fer $1",
 	"TokenNotFoundForCommand": "Coudna fynd $1 fer $2",
-	"MathNotTerminated": "Maths no terminated in tex kist",
+	"MathNotTerminated": "Maths nae terminatit in tex field",
 	"IllegalMacroParam": "Onlegal macro parameter reference",
 	"MaxBufferSize": "MathJax internal buffer size exceeded; is thaur ae recursive macro caw?",
 	"CommandNotAllowedInEnv": "$1 no permited in $2 environment",
