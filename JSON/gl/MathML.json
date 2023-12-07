@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"BadMglyph": "Mglyph incorrecto: $1",
+	"BadMglyphFont": "Tipo de letra incorrecto: $1",
+	"MathPlayer": "MathJax non puido configurar MathPlayer.\n\nSe MathPlayer non está instalado, cómpre instalalo primeiro.\nEn caso contrario, a túa configuración de seguranza pode estar impedindo\nque se executen os controis ActiveX. Usa o elemento \"Opcións de Internet\" no menú\n\"Ferramentas\", selecciona a lapela \"Seguridade\" e, a continuación, preme o botón\n\"Nivel personalizado\". Comproba que as configuracións\n\"Executar controis ActiveX\" e \"Comportamentos de códigos binarios e de escrituras\"\nestean activadas.\n\nActualmente verás mensaxes de erro en lugar de\nfórmulas matemáticas",
+	"CantCreateXMLParser": "MathJax non pode crear un analizador XML para MathML. Comproba que\na configuración de seguridade \"Controis ActiveX de escrituras marcadas como seguras para a creación de escrituras\" estea activada (utiliza o elemento \"Opcións de Internet\" no menú \"Ferramentas\", selecciona o panel \"Seguridade\" e, a continuación, prema no botón \"Nivel personalizado\" para activar esa configuración).\n\nMathJax non poderá procesar as ecuacións de MathML",
+	"UnknownNodeType": "Tipo de nodo descoñecido: $1",
+	"UnexpectedTextNode": "Nodo de texto inesperado: $1",
+	"ErrorParsingMathML": "Erro ao analizar a sintaxe MathML",
+	"ParsingError": "Erro ao analizar a sintaxe MathML: $1",
+	"MathMLSingleElement": "MathML debe estar formado por un único elemento",
+	"MathMLRootElement": "MathML debe estar formado por un elemento <math>, non $1"
+}
