@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"webFont": "MathJax está a usar fontes baseadas na web para mostrar as fórmulas matemáticas desta páxina. As fontes toman un tempo en se descargaren, polo que a páxina ha renderizar máis rápido se instalas as fontes matemáticas directamente no cartafol de fontes do teu sistema.",
+	"imageFonts": "MathJax está a usar as súas fontes de imaxe en lugar de fontes locais ou baseadas na web. Isto ha renderizarse máis lento do habitual e é posible que as fórmulas matemáticas non se impriman coa resolución completa da túa impresora.",
+	"noFonts": "MathJax non pode localizar unha fonte para mostrar as fórmulas matemáticas e as fontes de imaxe non están dispoñibles, polo que está a recorrer aos caracteres xenéricos Unicode coa esperanza de que o teu navegador poida mostralas. É posible que algúns caracteres non se amosen correctamente ou que non se amosen en absoluto.",
+	"webFonts": "A maioría dos navegadores modernos permite a descarga de fontes na web. A actualización a unha versión máis recente do teu navegador (ou o cambio de navegador) podería mellorar a calidade das fórmulas matemáticas desta páxina.",
+	"fonts": "MathJax pode usar os [tipos de letra STIX]($1) ou os [tipos de letra MathJax TeX]($2). Descarga e instala unha desas fontes para mellorar a túa experiencia con MathJax.",
+	"STIXPage": "Esta páxina está deseñada para usar os [tipos de letra STIX]($1). Descarga e instala esas fontes para mellorar a túa experiencia con MathJax.",
+	"TeXPage": "Esta páxina está deseñada para usar os [tipos de letra MathJax TeX]($1). Descarga e instala esas fontes para mellorar a túa experiencia con MathJax."
+}
