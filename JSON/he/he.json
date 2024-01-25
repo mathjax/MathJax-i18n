@@ -4,8 +4,8 @@
 			"Amire80"
 		]
 	},
-	"MathProcessingError": "שגיאה בעיבוד נוסחה",
-	"MathError": "שגיאה בנוסחה",
+	"MathProcessingError": "שגיאה בעיבוד הנוסחה",
+	"MathError": "שגיאת נוסחה",
 	"LoadFile": "טעינת $1",
 	"Loading": "טעינה",
 	"LoadFailed": "הקובץ לא נטען: $1",
