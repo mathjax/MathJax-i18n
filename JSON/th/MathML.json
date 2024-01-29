@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ekminarin",
 			"TMo3289"
 		]
 	},
 	"BadMglyph": "mglyph ผิดพลาด: $1",
 	"BadMglyphFont": "แบบอักษรผิดพลาด: $1",
 	"MathPlayer": "MathJax ไม่สามารถตั้งค่า MathPlayer ได้\n\nถ้าท่านไม่ได้ติดตั้ง MathPlayer ขอให้ดำเนินการก่อน\nมิฉะนั้นการตั้งค่าความปลอดภัยจะกีดกันมิให้ตัวควบคุม ActiveX\nทำงานได้ เข้าไปที่เมนู Tools แล้วเลือก Internet Options จากนั้นเลือก\nแท็บ Security แล้วเลือก Custom Level ก่อนจะทำเครื่องหมายถูกที่\n'Run ActiveX Controls' และ 'Binary and script behaviors'\n\nณ ขณะนี้ท่านจะเห็นข้อความผิดพลาดแทนที่จะเป็นสมการคณิตศาสตร์",
-	"CantCreateXMLParser": "MathJax ไม่สามารถสร้างตัวแบ่งและอ่าน XML สำหรับใช้ใน MathML โปรดตรวจสอบว่า\nการตั้งค่าความปลอดภัย 'Script ActiveX controls marked safe for scripting'\nถูกเปิดอยู่ (เข้าไปที่เมนู Tools เลือก Internet Options จากนั้นไปที่แท็บ Security \nแล้วเลือก Custom Level เพื่อดำเนินการต่อไป).\n\nสมการ MathML จะไม่สามารถถูกประมวลผลได้โดย MathJax",
+	"CantCreateXMLParser": "MathJax ไม่สามารถสร้างตัวแบ่งและอ่าน XML สำหรับใช้ใน MathML โปรดตรวจสอบว่า\nการตั้งค่าความปลอดภัย 'Script ActiveX controls marked safe for scripting'\nถูกเปิดอยู่ (เข้าไปที่เมนู Tools เลือก Internet Options จากนั้นไปที่แท็บ Security \nแล้วเลือก Custom Level เพื่อดำเนินการต่อไป)\n\nสมการ MathML จะไม่สามารถถูกประมวลผลได้โดย MathJax",
 	"UnknownNodeType": "ชนิดโหนดไม่ทราบ: $1",
 	"UnexpectedTextNode": "โหนดข้อความที่ไม่รู้จัก: $1",
 	"ErrorParsingMathML": "การแบ่งตอนและอ่านคำสั่ง (parsing) MathML ผิดพลาด",
