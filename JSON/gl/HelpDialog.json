@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"Help": "Axuda de MathJax",
+	"MathJax": "*MathJax* é unha biblioteca de JavaScript que permite aos autores das páxinas incluír fórmulas matemáticas nas súas páxinas web. Como lector, non necesitas facer nada para que funcione.",
+	"Browsers": "*Navegadores:* MathJax funciona con todos os navegadores modernos, incluíndo IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ e a maioría dos navegadores móbiles.",
+	"Menu": "*Menú de matemáticas:* MathJax engade un menú contextual ás ecuacións. Fai clic co botón dereito ou preme Ctrl e fai clic en calquera fórmula matemática para acceder ao menú.",
+	"ShowMath": "*Amosar as fórmulas como* permíteche ver o código fonte da fórmula para copiar e pegar (como MathML ou no seu formato orixinal).",
+	"Settings": "*Configuración* ofréceche control sobre as funcións de MathJax, como o tamaño das fórmulas matemáticas e o mecanismo utilizado para mostrar as ecuacións.",
+	"Language": "*Lingua* permíteche seleccionar o idioma utilizado por MathJax nos seus menús e as mensaxes de aviso.",
+	"Zoom": "*Zoom:* Se tes dificultades para ler unha ecuación, MathJax pode ampliala para axudarche a vela mellor.",
+	"Accessibilty": "*Accesibilidade:* MathJax funcionará automaticamente con lectores de pantalla para que as fórmulas matemáticas sexan accesibles para persoas con discapacidade visual.",
+	"Fonts": "*Tipos de letra:* MathJax usará certas fontes matemáticas se están instaladas no teu ordenador; en caso contrario, utilizará fontes baseadas na web. Aínda que non é necesario, as fontes instaladas localmente acelerarán a composición. Suxerimos que instales os [tipos de letra STIX]($1).",
+	"CloseDialog": "Pechar o diálogo de axuda"
+}
