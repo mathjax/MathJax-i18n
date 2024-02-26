@@ -8,7 +8,7 @@
 	"Help": "Pomoč za MathJax",
 	"MathJax": "*MathJax* je javaskriptna knjižnica, ki ustvarjalcem spletnih strani omogoča vključitev matematike. Kot bralec ne potrebujete ničesar, da bi se to zgodilo.",
 	"Browsers": "*Brskalniki*: MathJax deluje v vseh sodobnih brskalnikih, vključno z IE6+, Firefoxom 3+, Chromeom 0.2+, Safarijem 2+, Opero 9.6+, in v večini mobilnih brskalnikov.",
-	"Menu": "*Meni enačb*: MathJax k enačbam doda kontekstni meni. Za dostop do menija matematiko desno kliknite ali jo kliknite ob držanju tipke CTRL.",
+	"Menu": "*Meni enačb*: MathJax k enačbam doda kontekstni meni. Za dostop do menija desno kliknite matematiko ali jo kliknite ob držanju tipke CTRL.",
 	"ShowMath": "*Prikaži matematiko kot* vam omogoča prikaz izvornega označevanja formule za kopiranje in lepljenje (kot MathML ali v izvorni obliki).",
 	"Settings": "*Nastavitve* vam dajo nadzor nad možnostmi MathJaxa, kot so velikost matematike in mehanizem za prikaz enačb.",
 	"Language": "*Jezik* vam omogoča izbrati jezik, ki naj ga MathJax uporablja za svoje menije in opozorilna sporočila.",
