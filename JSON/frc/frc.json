@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cinebeunice"
+		]
+	},
+	"MathProcessingError": "Erreur de traitement de la formule mathématique",
+	"MathError": "Erreur dans la formule mathématique",
+	"LoadFile": "Chargement en cours de $1",
+	"Loading": "Chargement en cours"
+}
