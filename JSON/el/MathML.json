@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dimitris131",
 			"Evropi",
 			"Vivi-riga"
 		]
@@ -14,5 +15,5 @@
 	"ErrorParsingMathML": "Σφάλμα κατά την ανάλυση της MathML",
 	"ParsingError": "Σφάλμα κατά την ανάλυση της MathML: $1",
 	"MathMLSingleElement": "Η MathML πρέπει να σχηματίζεται από ένα μόνο στοιχείο",
-	"MathMLRootElement": "Η MathML πρέπει να ξεκινά από ένα <math> στοιχείο, όχι από $1"
+	"MathMLRootElement": "Η MathML πρέπει να ξεκινά από ένα στοιχείο <math>, όχι από $1"
 }
