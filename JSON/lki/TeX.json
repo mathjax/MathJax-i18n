@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ebraminio",
 			"FarsiNevis",
 			"Hosseinblue"
 		]
@@ -31,8 +32,8 @@
 	"NotMathMLToken": "$1 یک عنصر نشان نیست",
 	"InvalidMathMLAttr": "ویژگی نامعتبر MathML: $1",
 	"UnknownAttrForElement": "$1 یک ویژگی شناخته‌شده برای $2 نیست",
-	"MaxMacroSub1": "از بیشینهٔ شمار جایگزینی ماکروهای MathJax عبور شده‌است؛ آیا یک فراخوانی بازگشتی وجود دارد؟",
-	"MaxMacroSub2": "از بیشینهٔ شمار جایگزینی ماکروهای MathJax عبور شده‌است؛ آیا یک محیط LaTeX بازگشتی موجود است؟",
+	"MaxMacroSub1": "از بیشینهٔ شمار جایگزینی ماکروهای MathJax عبور شده است؛ آیا یک فراخوانی بازگشتی وجود دارد؟",
+	"MaxMacroSub2": "از بیشینهٔ شمار جایگزینی ماکروهای MathJax عبور شده است؛ آیا یک محیط LaTeX بازگشتی موجود است؟",
 	"MissingArgFor": "نشانوند گم‌شده برای $1",
 	"ExtraAlignTab": "برگهٔ چینش اضافی در متن ‎\\cases",
 	"BracketMustBeDimension": "آرگومان آکولاد ‎$1 می‌بایست یک بعد باشد",
@@ -57,8 +58,8 @@
 	"MultipleBBoxProperty": "$1 دوبار در ‎$2 تعریف شده‌است",
 	"InvalidBBoxProperty": "'$1' به نظر یک رنگ، اندازهٔ بالشتک یا سبک به نظر نمی‌رسد",
 	"ExtraEndMissingBegin": "‎$1 اضافی یا \\begingroup گم‌شده",
-	"GlobalNotFollowedBy": "‎$1 به دنبال ‎\\let، ‎\\def یا ‎\\newcommand نیامده‌است",
-	"UndefinedColorModel": "مدل رنگی '$1' تعریف نشده‌است",
+	"GlobalNotFollowedBy": "‎$1 به دنبال ‎\\let، ‎\\def یا ‎\\newcommand نیامده است",
+	"UndefinedColorModel": "مدل رنگی '$1' تعریف نشده است",
 	"ModelArg1": "مقادیر رنگی برای مدل $1 نیازمند ۳ عدد است",
 	"InvalidDecimalNumber": "عدد اعشاری نامعتبر",
 	"ModelArg2": "مقادیر رنگی برای مدل $1 می‌بایست بین $2 و $3 باشد",
