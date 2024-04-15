@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Mirin",
+			"Robin van der Vliet",
 			"Umbert'"
 		]
 	},
 	"MathProcessingError": "Eraro dum prilaborado de matematikaĵo",
-	"MathError": "Eraro pri Mathematikaĵo",
-	"LoadFile": "Ŝarganta dosieron $1",
+	"MathError": "Eraro pri matematikaĵo",
+	"LoadFile": "Ŝargado de dosiero $1",
 	"Loading": "Ŝargado",
 	"LoadFailed": "Ŝargado de dosiero malsukcesis: $1",
 	"ProcessMath": "Prilaborado de formulo: $1 %",
