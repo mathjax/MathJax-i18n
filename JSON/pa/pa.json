@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Cabal",
 			"Tow"
 		]
 	},
-	"MathError": "ਗਣਿਤ ਗਲਤੀ",
+	"MathError": "ਗਣਿਤ ਗ਼ਲਤੀ",
 	"LoadFile": "$1 ਲੱਦਿਆ ਜਾ ਰਿਹਾ ਹੈ",
 	"Loading": "ਲੱਦ ਰਿਹਾ ਹੈ",
 	"LoadFailed": "ਫਾਈਲ ਲੱਦੀ ਨਹੀਂ ਗਈ: $1"
