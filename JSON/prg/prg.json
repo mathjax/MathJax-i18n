@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nērtiks Jōrgesuns"
+		]
+	},
+	"MathProcessingError": "Blānda prei matemātiskas izlilīsenes perteikāsnan",
+	"MathError": "Blānda en matemātiskasmu izbilīsenin",
+	"LoadFile": "Kraūne di $1",
+	"Loading": "Kraūne di",
+	"LoadFailed": "Ni izpallā di kraūtun: $1",
+	"ProcessMath": "Izbilīsenes perteikasnā: $1%",
+	"Processing": "Perteikāi di",
+	"TypesetMath": "Matemātiskas izbilīsenis pastāne ensadīntan: $1%"
+}
