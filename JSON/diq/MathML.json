@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"1917 Ekim Devrimi",
+			"GolyatGeri",
 			"Mirzali"
 		]
 	},
@@ -11,5 +12,6 @@
 	"UnexpectedTextNode": "Nêpawıyaye gırey metini:$1",
 	"ErrorParsingMathML": "MathML abırnayış de xeta veciyê",
 	"ParsingError": "MathML abırnayışi de xeta veciyê: $1",
-	"MathMLSingleElement": "MathML, lazımo ke tek eleman vırazo."
+	"MathMLSingleElement": "MathML, lazımo ke tek eleman vırazo.",
+	"MathMLRootElement": "MathML $1 niyo bê terefê <math> yew obceyi ra gani vıraziyo"
 }

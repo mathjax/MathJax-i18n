@@ -3,6 +3,7 @@
 		"authors": [
 			"1917 Ekim Devrimi",
 			"Gambollar",
+			"GolyatGeri",
 			"Gorizon",
 			"Kumkumuk",
 			"Mirzali"
@@ -34,6 +35,7 @@
 	"NotMathMLToken": "$1 yew şınastey obceyi niyo",
 	"InvalidMathMLAttr": "Xırab xısusên MathML : $1",
 	"UnknownAttrForElement": "$1, serva  $2 şınasiyaye yew xısus niyo.",
+	"MaxMacroSub1": "MathJax kamera ikameyê maksimum makro verdi ra; xas anawe biyaye vendayışo makroy est a?",
 	"MissingArgFor": "Serva $1 argumano kemiy",
 	"ExtraAlignTab": "Metinê \\cases de ekstra taba hizay",
 	"BracketMustBeDimension": "$1 argumanê parantezi gani ebad bo",
@@ -63,6 +65,7 @@
 	"InvalidDecimalNumber": "Kesırın nımre nêvineya",
 	"ModelArg2": "Ercê rengê modelê $1 wa $2 u $3 bo",
 	"InvalidNumber": "Numreyo nêvêrde",
+	"NewextarrowArg1": "Veror arguman gani $1 yew namey reza gruba kontroli bo",
 	"NoClosingChar": "$1 racnayış nêvineya",
 	"IllegalControlSequenceName": "Qandê $1 xırab namey rêza kontroli",
 	"IllegalParamNumber": "$1 ra amarê parametreyanê xırabınanê arezekerdeyan",

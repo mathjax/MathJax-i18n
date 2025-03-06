@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"1917 Ekim Devrimi",
+			"GolyatGeri",
 			"Mirzali"
 		]
 	},
 	"Help": "Peştia MathJaxi",
+	"Browsers": "*Browseri*: MathJax, IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ u zeder browseran piya modern browserana piya gureyeno.",
 	"Language": "*Zıwan* terefê MathJax'i ra seba menuyan u mesacanê tembeyan ra weçinıtışê zıwanê gurenayışi heşar keno.",
 	"Zoom": "*Math Zoom*: Ek şıma wanayışi dı çetıney ancenê se, MathJax deha weş işiga vinayışi keno gırd.",
 	"CloseDialog": "Pheştiya diyalogi racıne"
