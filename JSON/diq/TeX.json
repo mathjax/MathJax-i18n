@@ -36,6 +36,7 @@
 	"InvalidMathMLAttr": "Xırab xısusên MathML : $1",
 	"UnknownAttrForElement": "$1, serva  $2 şınasiyaye yew xısus niyo.",
 	"MaxMacroSub1": "MathJax kamera ikameyê maksimum makro verdi ra; xas anawe biyaye vendayışo makroy est a?",
+	"MaxMacroSub2": "MathJax kamera ikameyê maksimum makro verdi ra; xas anawe biyaye vendayışo LateX est a?",
 	"MissingArgFor": "Serva $1 argumano kemiy",
 	"ExtraAlignTab": "Metinê \\cases de ekstra taba hizay",
 	"BracketMustBeDimension": "$1 argumanê parantezi gani ebad bo",
