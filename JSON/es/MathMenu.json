@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dgstranz",
 			"Fitoschido",
 			"Luisangelrg",
 			"Macofe",
@@ -24,7 +25,7 @@
 	"texHints": "Mostrar sugerencias TeX en MathML",
 	"Settings": "Configuración matemática",
 	"ZoomTrigger": "Activar zoom",
-	"Hover": "Apuntar con el ratón",
+	"Hover": "Pasar el cursor por encima",
 	"Click": "Pulsación del ratón",
 	"DoubleClick": "Pulsación doble del ratón",
 	"NoZoom": "Sin ampliación",
