@@ -3,6 +3,7 @@
 		"authors": [
 			"Aftab1995",
 			"Aftabuzzaman",
+			"Nokib Sarkar",
 			"Tauhid16",
 			"আফতাবুজ্জামান"
 		]
@@ -14,5 +15,8 @@
 	"LoadFailed": "ফাইল লোড হতে ব্যর্থ: $1",
 	"ProcessMath": "অংক প্রক্রিয়া চলছে:$1%",
 	"Processing": "প্রক্রিয়া চলছে",
-	"MathJaxNotSupported": "আপনার ব্রাউজার MathJax সমর্থন করে না"
+	"TypesetMath": "টাইপসেটিং গণিত: $1 %",
+	"Typesetting": "টাইপসেটিং",
+	"MathJaxNotSupported": "আপনার ব্রাউজার MathJax সমর্থন করে না।",
+	"ErrorTips": "ডিবাগিং টিপস: ব্রাউজার কনসোলে %1 ব্যবহার করুন, %2 পরিদর্শন করুন"
 }
