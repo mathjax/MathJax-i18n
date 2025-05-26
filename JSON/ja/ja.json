@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"CmplstofB",
+			"Foomin10",
 			"Gulpin",
 			"Shirayuki"
 		]
@@ -16,5 +17,5 @@
 	"TypesetMath": "数式を組版中: $1%",
 	"Typesetting": "組版中",
 	"MathJaxNotSupported": "ご使用中のブラウザーは MathJax に対応していません",
-	"ErrorTips": "デバッグのヒント：%1を使用し、ブラウザのコンソールで%2を検査する"
+	"ErrorTips": "デバッグのヒント: %1 を使用し、ブラウザのコンソールで %2 を検査する"
 }
