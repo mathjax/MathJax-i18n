@@ -76,7 +76,7 @@
 	"LoadURL": "Kargañ roadennoù treiñ eus an URL-mañ :",
 	"BadURL": "Dleout a rafe an URL bezañ ur restr JavaScript termenet ganti roadennoù treiñ MathJax. Dleout a rafe anvioù ar restroù JavaScript klotañ o astenn gant '.js'",
 	"BadData": "C'hwitet eo pellgardadur ar roadennoù treiñ adalek $1",
-	"SwitchAnyway": "Tremen d'an daskor forzh penaos ?\n\n(Gwaskañ war MAT EO evit cheñch, war NULLAÑ evit kenderc'hel gant an daskor zo bremañ)",
+	"SwitchAnyway": "Tremen d'an daskor forzh penaos ?\n\n(Pouezañ war MAT EO evit cheñch, war NULLAÑ evit kenderc'hel gant ar gwel a-vremañ)",
 	"ScaleMath": "Lakaat an holl formulennoù matematik diouzh ar skeul (e-keñver an destenn tro-dro) dre",
 	"NonZeroScale": "Ne zlefe ket ar skeuliad bezañ par da zero",
 	"PercentScale": "Ar skeuliad a zlefe bezañ un dregantad (da skouer, 120 %)",
