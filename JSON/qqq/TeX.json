@@ -3,6 +3,7 @@
 		"authors": [
 			"Hgarg",
 			"McDutchie",
+			"SaldırganSincap",
 			"Shirayuki",
 			"Waldir",
 			"Waldyrious",
@@ -24,7 +25,7 @@
 	"MissingCloseBrace": "This appears in TeX expressions when a close brace is missing e.g. <code>\\( \\array{ \\)</code>",
 	"UndefinedControlSequence": "This appears in TeX expressions when an undefined control sequence is used. Parameters:\n* $1 - the name of the TeX command",
 	"DoubleExponent": "This appears in TeX expressions when an ambiguous double exponent is used e.g. <code>x^3^2</code> should be <code>x^{3^2}</code> or <code>{x^3}^2</code>.\n\nSee also:\n* {{msg-mathjax|Tex-DoubleSubscripts}}",
-	"DoubleSubscripts": "This appears in TeX expressions when an ambiguous double subscripts is used e.g. <code>x_3_2</code> should be <code>x_{3_2}</code> or <code>{x_3}_2<code>.\n\nSee also:\n* {{msg-mathjax|Tex-DoubleExponent}}",
+	"DoubleSubscripts": "This appears in TeX expressions when an ambiguous double subscripts is used e.g. <code>x_3_2</code> should be <code>x_{3_2}</code> or <code>{x_3}_2</code>.\n\nSee also:\n* {{msg-mathjax|Tex-DoubleExponent}}",
 	"DoubleExponentPrime": "This appears in TeX expressions when an ambiguous double exponent is caused by a prime e.g. <code>x^a'</code> should be <code>{x^a}'</code> or <code>x^{a'}</code>",
 	"CantUseHash1": "This appears in TeX expressions when the macro parameter character '#' is used in math mode e.g. <code>\\( # \\)</code>",
 	"MisplacedMiddle": "{{doc-important|Do not translate <code>\\left</code> and <code>\\right</code>; they are TeX commands.}}\nThis appears in TeX expressions when the <code>middle</code> command is used outside <code>\\left ... \\right</code> e.g. <code>\\( \\middle| \\)</code>",
