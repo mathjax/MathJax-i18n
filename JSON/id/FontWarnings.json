@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Budidarmulyana"
+			"Budidarmulyana",
+			"Penyuwangi"
 		]
 	},
 	"webFont": "MathJax menggunakan font berbasis web untuk menampilkan matematika di halaman ini. Ini membutuhkan waktu untuk diunduh, sehingga halaman akan merender lebih cepat jika Anda menginstal font matematika langsung di folder font sistem Anda.",
-	"imageFonts": "MathJax menggunakan font gambarnya daripada font lokal atau berbasis web. Ini akan membuat lebih lambat dari biasanya, dan matematika mungkin tidak mencetak pada resolusi penuh printer Anda.",
+	"imageFonts": "MathJax menggunakan fon gambarnya daripada fon lokal atau fon berbasis web. Ini akan membuat lebih lambat dari biasanya, dan matematika mungkin tidak mencetak pada resolusi penuh mesin cetak Anda.",
 	"noFonts": "MathJax tidak dapat menemukan font yang digunakan untuk menampilkan matematika, dan font gambar tidak tersedia, sehingga jatuh kembali pada karakter Unicode generik dengan harapan browser Anda akan dapat menampilkannya. Beberapa karakter mungkin tidak muncul dengan benar, atau mungkin tidak sama sekali.",
 	"webFonts": "Sebagian besar browser modern memungkinkan font diunduh melalui web. Memperbarui ke versi yang lebih baru dari browser Anda (atau mengubah browser) dapat meningkatkan kualitas matematika di halaman ini.",
 	"fonts": "MathJax dapat menggunakan [font STIX]($1) atau [font MathJax TeX]($2). Unduh dan pasang salah satu font tersebut untuk meningkatkan pengalaman MathJax Anda.",

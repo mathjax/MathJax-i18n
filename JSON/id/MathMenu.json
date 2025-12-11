@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Budidarmulyana"
+			"Budidarmulyana",
+			"Penyuwangi"
 		]
 	},
 	"Show": "Tampilkan matematika sebagai",
@@ -38,10 +39,10 @@
 	"FontPrefs": "Preferensi font",
 	"ForHTMLCSS": "Untuk HTML-CSS:",
 	"Auto": "Otomatis",
-	"TeXLocal": "TeX (lokal)",
+	"TeXLocal": "TeX (setempat)",
 	"TeXWeb": "TeX (web)",
 	"TeXImage": "TeX (gambar)",
-	"STIXLocal": "STIX (lokal)",
+	"STIXLocal": "STIX (setempat)",
 	"STIXWeb": "STIX (web)",
 	"AsanaMathWeb": "Asana Math (web)",
 	"GyrePagellaWeb": "Gyre Pagella (web)",
@@ -56,10 +57,10 @@
 	"LoadLocale": "Muat dari URL ...",
 	"About": "Tentang MathJax",
 	"Help": "Bantuan MathJax",
-	"localTeXfonts": "menggunakan font TeX lokal",
+	"localTeXfonts": "menggunakan fon TeX setempat",
 	"webTeXfonts": "menggunakan font TeX web",
 	"imagefonts": "menggunakan font Gambar",
-	"localSTIXfonts": "menggunakan font STIX lokal",
+	"localSTIXfonts": "menggunakan fon STIX setempat",
 	"webSVGfonts": "menggunakan font web SVG",
 	"genericfonts": "menggunakan font Unicode generik",
 	"wofforotffonts": "font WOFF atau OTF",
