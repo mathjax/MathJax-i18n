@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Arifpedia",
-			"Budidarmulyana"
+			"Budidarmulyana",
+			"Penyuwangi"
 		]
 	},
 	"MathProcessingError": "Kesalahan pemrosesan matematika",
@@ -14,6 +15,6 @@
 	"Processing": "Memroses",
 	"TypesetMath": "Sedang mengatur huruf matematika: $1%",
 	"Typesetting": "Mengatur huruf",
-	"MathJaxNotSupported": "Browser Anda tidak mendukung MathJax",
-	"ErrorTips": "Kiat debug: gunakan %1, periksa %2 di konsol browser"
+	"MathJaxNotSupported": "Peramban Anda tidak mendukung MathJax",
+	"ErrorTips": "Kiat pengawakutuan: gunakan %1, periksa %2 di konsol peramban"
 }

@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Budidarmulyana"
+			"Budidarmulyana",
+			"Penyuwangi"
 		]
 	},
 	"Help": "Bantuan MathJax",
 	"MathJax": "*MathJax* adalah perpustakaan JavaScript yang memungkinkan penulis halaman untuk memasukkan matematika ke dalam halaman web mereka. Sebagai pembaca, Anda tidak perlu melakukan apa pun untuk mewujudkannya.",
-	"Browsers": "*Browser*: MathJax bekerja dengan semua browser modern termasuk IE6 +, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ dan sebagian besar browser mobile.",
+	"Browsers": "*Peramban*: MathJax bekerja dengan semua peramban modern termasuk IE6 +, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ dan sebagian besar peramban seluler.",
 	"Menu": "*Menu Matematika*: MathJax menambahkan menu kontekstual ke persamaan. Klik kanan atau Ctrl-klik pada matematika apa saja untuk mengakses menu.",
 	"ShowMath": "*Tampilkan matematika sebagai* memungkinkan Anda untuk melihat markup sumber rumus untuk copy dan paste (sebagai MathML atau dalam format aslinya).",
 	"Settings": "*Pengaturan* memberi Anda kendali atas fitur MathJax, seperti ukuran matematika, dan mekanisme yang digunakan untuk menampilkan persamaan.",
