@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Budidarmulyana"
+			"Budidarmulyana",
+			"Penyuwangi"
 		]
 	},
 	"BadMglyph": "mglyph buruk: $1",
@@ -9,7 +10,7 @@
 	"MathPlayer": "MathJax tidak dapat mengatur MathPlayer.\n\nJika MathPlayer tidak diinstal, Anda harus menginstalnya terlebih dahulu.\nJika tidak, pengaturan keamanan Anda mungkin mencegah ActiveX kontrol dari berjalan. Gunakan item Opsi Internet di bawah menu Tools dan pilih tab Security, lalu tekan\nTombol Tingkat Kustom. Periksa pengaturan untuk 'Jalankan Kontrol ActiveX', dan 'Perilaku biner dan skrip'\ndiaktifkan.\n\nSaat ini Anda akan melihat pesan kesalahan daripada\nmengeset matematika",
 	"CantCreateXMLParser": "MathJax tidak bisa membuat parser XML untuk MathML. Periksa itu kontrol 'Script ActiveX ditandai aman untuk scripting'\npengaturan diaktifkan (gunakan item Opsi Internet di Alat\nmenu, dan pilih panel Keamanan, lalu tekan Tingkat Kustom\ntombol untuk memeriksa ini).\n\nPersamaan MathML tidak akan dapat diproses oleh MathJax",
 	"UnknownNodeType": "Jenis simpul tidak dikenal: $1",
-	"UnexpectedTextNode": "Node teks yang tidak terduga: $1",
+	"UnexpectedTextNode": "Simpul teks tak terduga: $1",
 	"ErrorParsingMathML": "Kesalahan saat menguraikan MathML",
 	"ParsingError": "Kesalahan saat menguraikan MathML: $1",
 	"MathMLSingleElement": "MathML harus dibentuk oleh satu elemen",
