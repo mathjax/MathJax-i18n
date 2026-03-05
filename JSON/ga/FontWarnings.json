@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"webFont": "Tá clónna gréasánbhunaithe á n-úsáid ag MathJax chun an mhatamaitic ar an leathanach seo a thaispeáint. Tógann sé tamall iad seo a íoslódáil, mar sin rindreálfadh an leathanach níos tapúla dá mba rud é go ndéanfá clónna matamaitice a shuiteáil go díreach i bhfillteán clónna do chórais.",
+	"imageFonts": "Tá clónna íomhá á n-úsáid ag MathJax seachas clónna áitiúla nó gréasánbhunaithe. Beidh sé seo níos moille ná mar is gnách, agus b'fhéidir nach bpriontálfaidh an mhatamaitic ag réiteach iomlán do phrintéara.",
+	"noFonts": "Ní féidir le MathJax cló a aimsiú le húsáid chun a mhatamaitic a thaispeáint, agus níl clónna íomhá ar fáil, mar sin tá sé ag brath ar charachtair Unicode cineálacha le súil go mbeidh do bhrabhsálaí in ann iad a thaispeáint. Seans nach mbeidh roinnt carachtar le feiceáil i gceart, nó b'fhéidir nach mbeidh siad le feiceáil ar chor ar bith.",
+	"webFonts": "Ceadaíonn formhór na mbrabhsálaithe nua-aimseartha clónna a íoslódáil ar an ngréasán. D’fhéadfadh feabhas a chur ar cháilíocht na matamaitice ar an leathanach seo má úsáideann tú leagan níos déanaí de do bhrabhsálaí (nó má athraíonn tú brabhsálaí).",
+	"fonts": "Is féidir le MathJax na [clónna STIX]($1) nó na [clónna MathJax TeX]($2) a úsáid. Íoslódáil agus suiteáil ceann de na clónna sin chun feabhas a chur ar do thaithí MathJax.",
+	"STIXPage": "Tá an leathanach seo deartha chun na [clónna STIX]($1) a úsáid. Íoslódáil agus suiteáil na clónna sin chun feabhas a chur ar do thaithí MathJax.",
+	"TeXPage": "Tá an leathanach seo deartha chun [clónna MathJax TeX]($1) a úsáid. Íoslódáil agus suiteáil na clónna sin chun feabhas a chur ar do thaithí MathJax."
+}

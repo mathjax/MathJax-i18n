@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"BadMglyph": "Droch-mglyph: $1",
+	"BadMglyphFont": "Drochchló: $1",
+	"MathPlayer": "Ní raibh MathJax in ann MathPlayer a chur ar bun.\n\nMura bhfuil MathPlayer suiteáilte, ní mór duit é a shuiteáil ar dtús.\nSeachas sin, d'fhéadfadh do shocruithe slándála a bheith ag cosc ​​ar rialuithe ActiveX ó rith. Úsáid an mhír Roghanna Idirlín faoin roghchlár Uirlisí agus roghnaigh an táb Slándála, ansin brúigh an cnaipe Leibhéal Saincheaptha. Seiceáil go bhfuil na socruithe do 'Rith Rialuithe ActiveX', agus 'Iompraíochtaí Dénártha agus scripte' cumasaithe.\n\nFaoi láthair feicfidh tú teachtaireachtaí earráide seachas matamaitic chlóscríofa.",
+	"CantCreateXMLParser": "Ní féidir le MathJax parsálaí XML a chruthú do MathML. Seiceáil go bhfuil an socrú slándála 'Script ActiveX controls marked safe for scripting' cumasaithe (bain úsáid as an mír Internet Options sa roghchlár Tools, agus roghnaigh an painéal Security, ansin brúigh an cnaipe Custom Level chun seo a sheiceáil).\n\nNí bheidh MathJax in ann cothromóidí MathML a phróiseáil.",
+	"UnknownNodeType": "Cineál nóid anaithnid: $1",
+	"UnexpectedTextNode": "Nód téacs gan choinne: $1",
+	"ErrorParsingMathML": "Earráid ag parsáil MathML",
+	"ParsingError": "Earráid ag parsáil MathML: $1",
+	"MathMLSingleElement": "Ní mór MathML a bheith déanta as eilimint amháin",
+	"MathMLRootElement": "Ní mór MathML a bheith déanta le heilimint <math>, ní le $1"
+}

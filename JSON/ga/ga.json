@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"MathProcessingError": "Earráid próiseála matamaitice",
+	"MathError": "Earráid mhatamaitice",
+	"LoadFile": "Ag lódáil $1",
+	"Loading": "Ag luchtú",
+	"LoadFailed": "Theip ar an gcomhad a lódáil: $1",
+	"ProcessMath": "Matamaitic a phróiseáil: $1%",
+	"Processing": "Próiseáil",
+	"TypesetMath": "Matamaitic chlóscríofa: $1%",
+	"Typesetting": "Clóchuradóireacht",
+	"MathJaxNotSupported": "Ní thacaíonn do bhrabhsálaí le MathJax",
+	"ErrorTips": "Leideanna dífhabhtaithe: bain úsáid as %1, déan iniúchadh ar %2 i gconsól an bhrabhsálaí"
+}

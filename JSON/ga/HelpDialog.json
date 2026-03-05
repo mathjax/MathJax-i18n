@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"Help": "Cabhair MathJax",
+	"MathJax": "Is leabharlann JavaScript í *MathJax* a ligeann d’údair leathanach matamaitic a áireamh ina leathanaigh ghréasáin. Mar léitheoir, ní gá duit aon rud a dhéanamh chun é sin a chur i gcrích.",
+	"Browsers": "*Brabhsálaithe*: Oibríonn MathJax le gach brabhsálaí nua-aimseartha lena n-áirítear IE6+, Firefox 3+, Chrome 0.2+, Safari 2+, Opera 9.6+ agus formhór na mbrabhsálaithe soghluaiste.",
+	"Menu": "*Roghchlár Matamaitice*: Cuireann MathJax roghchlár comhthéacsúil le cothromóidí. Cliceáil ar dheis nó cliceáil Ctrl ar aon mhatamaitic chun an roghchlár a rochtain.",
+	"ShowMath": "Le *Taispeáin matamaitic mar*, is féidir leat marcáil foinse na foirmle a fheiceáil le haghaidh cóipeála agus greamaithe (mar MathML nó ina fhormáid bhunaidh).",
+	"Settings": "Tugann *Socruithe* smacht duit ar ghnéithe MathJax, amhail méid na matamaitice, agus an mheicníocht a úsáidtear chun cothromóidí a thaispeáint.",
+	"Language": "Le *Teanga* is féidir leat an teanga a úsáideann MathJax a roghnú dá bhiachláir agus dá theachtaireachtaí rabhaidh.",
+	"Zoom": "*Zúmáil matamaitice*: Má bhíonn deacracht agat cothromóid a léamh, is féidir le MathJax í a mhéadú chun cabhrú leat í a fheiceáil níos fearr.",
+	"Accessibilty": "*Inrochtaineacht*: Oibreoidh MathJax go huathoibríoch le léitheoirí scáileáin chun matamaitic a dhéanamh inrochtana do dhaoine lagamhairc.",
+	"Fonts": "*Clónna*: Úsáidfidh MathJax clónna matamaitice áirithe má tá siad suiteáilte ar do ríomhaire; ar shlí eile, úsáidfidh sé clónna gréasánbhunaithe. Cé nach bhfuil siad riachtanach, luasóidh clónna atá suiteáilte go háitiúil an clóchuradóireacht. Molaimid duit na [STIX fonts]($1) a shuiteáil.",
+	"CloseDialog": "Dún an dialóg chabhrach"
+}

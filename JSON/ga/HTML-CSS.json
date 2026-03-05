@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"LoadWebFont": "Ag lódáil cló gréasáin $1",
+	"CantLoadWebFont": "Ní féidir cló gréasáin $1 a luchtú",
+	"FirefoxCantLoadWebFont": "Ní féidir le Firefox clónna gréasáin a luchtú ó óstach iargúlta",
+	"CantFindFontUsing": "Ní féidir cló bailí a aimsiú ag baint úsáide as $1",
+	"WebFontsNotAvailable": "Níl clónna gréasáin ar fáil. Úsáidtear clónna íomhá ina ionad."
+}
