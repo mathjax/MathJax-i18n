@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
 	"MathError": "Math Feeler",
@@ -9,5 +10,5 @@
 	"Loading": "Lueden",
 	"LoadFailed": "De Fichier konnt net geluede ginn: $1",
 	"Processing": "Verschaffen",
-	"MathJaxNotSupported": "Äre browser ënnerstëtzt MathJax net"
+	"MathJaxNotSupported": "Äre Browser ënnerstëtzt MathJax net"
 }
