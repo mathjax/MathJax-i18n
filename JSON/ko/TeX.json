@@ -49,6 +49,7 @@
 	"UnknownEnv": "알 수 없는 환경 '$1'",
 	"ExtraCloseLooking": "$1을 찾는 도중에 여분의 닫는 중괄호가 발견되었습니다.",
 	"MissingCloseBracket": "$1의 인자에 대해 닫는 ']' 기호를 찾을 수 없습니다.",
+	"TokenNotFoundForCommand": "$2에 대한 $1을(를) 찾을 수 없음",
 	"MathNotTerminated": "텍스트 상자에서 수식이 완성되지 않았습니다",
 	"IllegalMacroParam": "잘못된 매크로 매개변수 참조",
 	"MaxBufferSize": "MathJax 내부 버퍼 크기를 초과했습니다. 매크로 재귀 호출이 있습니까?",
