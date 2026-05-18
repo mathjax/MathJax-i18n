@@ -3,6 +3,7 @@
 		"authors": [
 			"Alex00728",
 			"Hwangjy9",
+			"Tensama0415",
 			"YeBoy371",
 			"Ykhwong",
 			"그냥기여자",
@@ -87,5 +88,6 @@
 	"EqSource": "MathJax 수식 자료",
 	"CloseAboutDialog": "MathJax 정보 대화 상자 닫기",
 	"FastPreview": "고속 미리 보기",
-	"AssistiveMML": "MathML 보조"
+	"AssistiveMML": "MathML 보조",
+	"InTabOrder": "탭 순서에 포함"
 }
