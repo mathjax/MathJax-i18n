@@ -2,11 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Hwangjy9",
+			"Tensama0415",
 			"그냥기여자"
 		]
 	},
 	"BadMglyph": "mglyph 오류: $1",
 	"BadMglyphFont": "글꼴 오류: $1",
+	"MathPlayer": "MathJax에서 MathPlayer를 설정할 수 없습니다.\n\nMathPlayer가 설치되어 있지 않으면 먼저 설치해야 합니다.\n그렇지 않으면 보안 설정으로 인해 ActiveX 컨트롤이 실행되지\n않을 수 있습니다. 도구 메뉴에서 인터넷 옵션을 선택하고\n보안 탭을 클릭한 다음 사용자 지정 수준 버튼을 누르세요.\n'ActiveX 컨트롤 실행' 및 '바이너리 및 스크립트 동작'\n설정이 활성화되어 있는지 확인하세요.\n\n현재는 수식 대신 오류 메시지가 표시됩니다",
+	"CantCreateXMLParser": "MathJax는 MathML용 XML 파서를 생성할 수 없습니다.\n\n'스크립팅하기 안전하다고 표시된 ActiveX 컨트롤 스크립팅'\n보안 설정이 활성화되어 있는지 확인하세요\n(도구 메뉴에서 인터넷 옵션을 선택하고 보안 패널을\n선택한 다음 사용자 지정 수준 버튼을 눌러 확인하세요).\n\nMathJax는 MathML 수식을 처리할 수 없습니다",
 	"UnknownNodeType": "알 수 없는 노드 유형: $1",
 	"UnexpectedTextNode": "예기치 못한 텍스트 노드: $1",
 	"ErrorParsingMathML": "MathML 분석 오류",
