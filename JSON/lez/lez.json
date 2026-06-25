@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lezgia"
+			"Lezgia",
+			"Soul Train"
 		]
 	},
 	"MathError": "Математекадин гъалатl",
-	"LoadFile": "Пъарун",
+	"LoadFile": "$1 пъарун",
 	"Loading": "Пъарун",
-	"LoadFailed": "Хьанач пъариз",
-	"ProcessMath": "Математика гъилгун",
+	"LoadFailed": "Хьанач пъариз: $1",
+	"ProcessMath": "Математика гъилгун: $1%",
 	"Processing": "Гъилгун",
-	"TypesetMath": "Журесетматематикадин",
+	"TypesetMath": "Математикадин журесет: $1%",
 	"Typesetting": "Журесет"
 }
