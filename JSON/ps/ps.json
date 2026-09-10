@@ -4,7 +4,14 @@
 			"شاه زمان پټان"
 		]
 	},
+	"MathProcessingError": "د شمېرپوهنيزه بهير تېروتنه",
+	"MathError": "د شمېرپوهنيزه تېروتنه",
+	"LoadFile": "$1 بارېږي",
+	"Loading": "بارېږي",
+	"LoadFailed": "دوتنه بار نشوه: $1",
+	"ProcessMath": "د شمېرپوهنې پروسس: $1",
 	"Processing": "بهير",
+	"TypesetMath": "شمېرپوهنيزه توري‌ليکل: $1%",
 	"Typesetting": "ټايپ‌اوڼنه",
 	"MathJaxNotSupported": "ستاسو ښوونگر د MathJax ملاتړ نه کوي"
 }
