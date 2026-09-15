@@ -726,7 +726,16 @@ exports.languages = {
     }
   },
   "zh-hans": {
-    menuTitle: "中文（简体）", // Simplified Chinese
+    menuTitle: "简体中文", // Simplified Chinese
+    plural: function(n) {
+      return 1; // other
+    },
+    number: function(n) {
+      return n;
+    }
+  },
+  "zh-hant": {
+    menuTitle: "正體中文", // Traditional Chinese
     plural: function(n) {
       return 1; // other
     },
@@ -735,16 +744,7 @@ exports.languages = {
     }
   }
 };
-//   "zh-hant": {
-//     menuTitle: "汉语", // Traditional Chinese
-//     plural: function(n) {
-//       return 1; // other
-//     },
-//     number: function(n) {
-//       return n;
-//     }
-//   }
-// };
+
 
 // ********** List of localization domains **********
 exports.domains = [
