@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tauqeerkhansurani"
+		]
+	},
+	"BadMglyph": "خراب mglyph: $1",
+	"BadMglyphFont": "خراب فونٹ: $1",
+	"MathPlayer": "MathJax، MathPlayer کوں سیٹ اپ کرݨ دے قابل نئیں تھیا۔ جے MathPlayer انسٹال نئیں ہے، تاں تہاکوں پہلے اینکوں انسٹال کرݨ دی لوڑ ہے۔ ٻئی صورت وچ، تہاݙیاں سیکیورٹی سیٹنگز ActiveX کنٹرولز کوں چلݨ توں روک ریہیاں ہوسن۔ Tools مینیو دے تلے Internet Options آئٹم ورتو اتے Security ٹیب چݨو، ول Custom Level بٹݨ دباؤ۔ ݙیکھو جو 'Run ActiveX Controls' اتے 'Binary and script behaviors' کیتے سیٹنگز فعال ہن۔ ایں ویلے تساں ٹائپ سیٹ ریاضی دی بجائے خرابی دے پیغام ݙیکھسو۔",
+	"CantCreateXMLParser": "MathJax، MathML کیتے XML پارسر نئیں بݨا سڳیا۔ ݙیکھو جو 'Script ActiveX controls marked safe for scripting' سیکیورٹی سیٹنگ فعال ہے (Tools مینیو وچ Internet Options آئٹم ورتو اتے Security پینل چݨو، ول ایندے ݙیکھݨ کیتے Custom Level بٹݨ دباؤ)۔ MathML مساواتاں MathJax دے ذریعے پروسیس نئیں تھی سڳسن۔",
+	"UnknownNodeType": "نامعلوم نوڈ دی قسم: $1",
+	"UnexpectedTextNode": "غیر متوقع متن نوڈ: $1",
+	"ErrorParsingMathML": "MathML پارسیݨ وچ خرابی",
+	"ParsingError": "MathML پارسیݨ وچ خرابی: $1",
+	"MathMLSingleElement": "MathML کوں ہک واحد عنصر توں بݨیا ہویا ہووݨا چاہیدا ہے",
+	"MathMLRootElement": "MathML کوں <math> عنصر توں بݨیا ہویا ہووݨا چاہیدا ہے، $1 نئیں"
+}

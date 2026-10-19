@@ -1,9 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
 	"LoadWebFont": "ویب فونٹ $1 لوڈ تھیندا پئے",
-	"CantLoadWebFont": "ویب فونٹ $1 لوڈ نی تھی سڳا"
+	"CantLoadWebFont": "ویب فونٹ $1 لوڈ نی تھی سڳا",
+	"FirefoxCantLoadWebFont": "Firefox ریموٹ میزبان توں ویب فونٹس لوڈ نئیں کر سڳدا",
+	"CantFindFontUsing": "$1 ورت تے کوئی درست فونٹ نئیں لبھیا",
+	"WebFontsNotAvailable": "ویب فونٹس دستیاب نئیں۔ ایندے دی جاہ تے تصویر فونٹس ورتے ویندے ہن"
 }

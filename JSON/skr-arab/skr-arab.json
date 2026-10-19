@@ -1,11 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
+	"MathProcessingError": "ریاضی پروسیسنگ خرابی",
 	"MathError": "ریاضی دی غلطی",
 	"LoadFile": "لوڈ تھیندا پئے $1",
 	"Loading": "لوڈ تھین٘دا پئے",
-	"Processing": "عمل تھیندا پئے"
+	"LoadFailed": "فائل لوڈ نہ تھی سڳی: $1",
+	"ProcessMath": "ریاضی پروسیس تھیندی پئی ہے: $1%",
+	"Processing": "عمل تھیندا پئے",
+	"TypesetMath": "ریاضی ٹائپ سیٹ تھیندی پئی ہے: $1%",
+	"Typesetting": "ٹائپ سیٹنگ",
+	"MathJaxNotSupported": "تساݙا براؤزر MathJax دی سپورٹ نئیں کریندا",
+	"ErrorTips": "ڈی بگنگ ٹوٹکے: %1 استعمال کرو، براؤزر کنسول وچ %2 چیک کرو"
 }
